@@ -330,31 +330,31 @@ def json_to_md(filename, md_filename, task="", to_web=False, use_title=True, use
             f.write(
                 (
                     "[contributors-shield]: https://img.shields.io/github/"
-                    "contributors/monologg/nlp-arxiv-daily.svg?style=for-the-badge\n"
+                    "contributors/jaealways/nlp-arxiv-daily.svg?style=for-the-badge\n"
                 )
             )
-            f.write(("[contributors-url]: https://github.com/monologg/" "nlp-arxiv-daily/graphs/contributors\n"))
+            f.write(("[contributors-url]: https://github.com/jaealways/" "nlp-arxiv-daily/graphs/contributors\n"))
             f.write(
                 (
-                    "[forks-shield]: https://img.shields.io/github/forks/monologg/"
+                    "[forks-shield]: https://img.shields.io/github/forks/jaealways/"
                     "nlp-arxiv-daily.svg?style=for-the-badge\n"
                 )
             )
-            f.write(("[forks-url]: https://github.com/monologg/" "nlp-arxiv-daily/network/members\n"))
+            f.write(("[forks-url]: https://github.com/jaealways/" "nlp-arxiv-daily/network/members\n"))
             f.write(
                 (
-                    "[stars-shield]: https://img.shields.io/github/stars/monologg/"
+                    "[stars-shield]: https://img.shields.io/github/stars/jaealways/"
                     "nlp-arxiv-daily.svg?style=for-the-badge\n"
                 )
             )
-            f.write(("[stars-url]: https://github.com/monologg/" "nlp-arxiv-daily/stargazers\n"))
+            f.write(("[stars-url]: https://github.com/jaealways/" "nlp-arxiv-daily/stargazers\n"))
             f.write(
                 (
-                    "[issues-shield]: https://img.shields.io/github/issues/monologg/"
+                    "[issues-shield]: https://img.shields.io/github/issues/jaealways/"
                     "nlp-arxiv-daily.svg?style=for-the-badge\n"
                 )
             )
-            f.write(("[issues-url]: https://github.com/monologg/" "nlp-arxiv-daily/issues\n\n"))
+            f.write(("[issues-url]: https://github.com/jaealways/" "nlp-arxiv-daily/issues\n\n"))
 
     logging.info(f"{task} finished")
 
