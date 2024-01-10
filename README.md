@@ -1,4 +1,4 @@
-## Updated on 2024.01.09
+## Updated on 2024.01.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -25,7 +25,7 @@
 |**2024-01-08**|**Anatomy of Neural Language Models**|Majd Saleh et.al.|[2401.03797v1](http://arxiv.org/abs/2401.03797v1)|**[link](https://github.com/b-com/anatomynlm)**|
 |**2024-01-08**|**Overview of the 2023 ICON Shared Task on Gendered Abuse Detection in Indic Languages**|Aatman Vaidya et.al.|[2401.03677v1](http://arxiv.org/abs/2401.03677v1)|null|
 |**2024-01-07**|**Is there really a Citation Age Bias in NLP?**|Hoa Nguyen et.al.|[2401.03545v1](http://arxiv.org/abs/2401.03545v1)|null|
-|**2024-01-07**|**Segment Anything Model for Medical Image Segmentation: Current Applications and Future Directions**|Yichi Zhang et.al.|[2401.03495v1](http://arxiv.org/abs/2401.03495v1)|null|
+|**2024-01-07**|**Segment Anything Model for Medical Image Segmentation: Current Applications and Future Directions**|Yichi Zhang et.al.|[2401.03495v1](http://arxiv.org/abs/2401.03495v1)|**[link](https://github.com/yichizhang98/sam4mis)**|
 |**2024-01-07**|**Maintaining Journalistic Integrity in the Digital Age: A Comprehensive NLP Framework for Evaluating Online News Content**|Ljubisa Bojic et.al.|[2401.03467v1](http://arxiv.org/abs/2401.03467v1)|null|
 |**2024-01-07**|**Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects**|Yuheng Cheng et.al.|[2401.03428v1](http://arxiv.org/abs/2401.03428v1)|null|
 |**2024-01-05**|**Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task**|Gabriel Lino Garcia et.al.|[2401.02909v1](http://arxiv.org/abs/2401.02909v1)|null|
@@ -66,7 +66,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240110'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -83,7 +83,7 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240110'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -111,7 +111,7 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240110'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -157,14 +157,14 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|null|
 
-<p align=right>(<a href='#updated-on-20240109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240110'>back to top</a>)</p>
 
 ## Information Extraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-07**|**CAPTAIN at COLIEE 2023: Efficient Methods for Legal Information Retrieval and Entailment Tasks**|Chau Nguyen et.al.|[2401.03551v1](http://arxiv.org/abs/2401.03551v1)|**[link](https://github.com/nguyen2015/captain-coliee2023)**|
-|**2024-01-05**|**UMIE: Unified Multimodal Information Extraction with Instruction Tuning**|Lin Sun et.al.|[2401.03082v1](http://arxiv.org/abs/2401.03082v1)|null|
+|**2024-01-05**|**UMIE: Unified Multimodal Information Extraction with Instruction Tuning**|Lin Sun et.al.|[2401.03082v1](http://arxiv.org/abs/2401.03082v1)|**[link](https://github.com/ZUCC-AI/UMIE)**|
 |**2024-01-01**|**Fine-tuning and Utilization Methods of Domain-specific LLMs**|Cheonsu Jeong et.al.|[2401.02981v1](http://arxiv.org/abs/2401.02981v1)|null|
 |**2024-01-05**|**DocGraphLM: Documental Graph Language Model for Information Extraction**|Dongsheng Wang et.al.|[2401.02823v1](http://arxiv.org/abs/2401.02823v1)|null|
 |**2024-01-03**|**Concurrent Brainstorming & Hypothesis Satisfying: An Iterative Framework for Enhanced Retrieval-Augmented Generation (R2CBR3H-SR)**|Arash Shahmansoori et.al.|[2401.01835v1](http://arxiv.org/abs/2401.01835v1)|**[link](https://github.com/arash-shahmansoori/r2cbr3h-sr)**|
@@ -181,7 +181,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240110'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -214,7 +214,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|null|
 
-<p align=right>(<a href='#updated-on-20240109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240110'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -243,7 +243,7 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240110'>back to top</a>)</p>
 
 ## GNN
 
@@ -255,7 +255,7 @@
 |**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692v1](http://arxiv.org/abs/2401.03692v1)|null|
 |**2024-01-08**|**GrainGNN: A dynamic graph neural network for predicting 3D grain microstructure**|Yigong Qin et.al.|[2401.03661v1](http://arxiv.org/abs/2401.03661v1)|null|
 |**2024-01-07**|**Few-Shot Causal Representation Learning for Out-of-Distribution Generalization on Heterogeneous Graphs**|Pengfei Ding et.al.|[2401.03597v1](http://arxiv.org/abs/2401.03597v1)|null|
-|**2024-01-07**|**Global Prediction of COVID-19 Variant Emergence Using Dynamics-Informed Graph Neural Networks**|Majd Al Aawar et.al.|[2401.03390v1](http://arxiv.org/abs/2401.03390v1)|null|
+|**2024-01-07**|**Global Prediction of COVID-19 Variant Emergence Using Dynamics-Informed Graph Neural Networks**|Majd Al Aawar et.al.|[2401.03390v1](http://arxiv.org/abs/2401.03390v1)|**[link](https://github.com/itssmutnuri/gnnvariants)**|
 |**2024-01-07**|**Accurate and Scalable Estimation of Epistemic Uncertainty for Graph Neural Networks**|Puja Trivedi et.al.|[2401.03350v1](http://arxiv.org/abs/2401.03350v1)|null|
 |**2024-01-06**|**TelTrans: Applying Multi-Type Telecom Data to Transportation Evaluation and Prediction via Multifaceted Graph Modeling**|ChungYi Lin et.al.|[2401.03138v1](http://arxiv.org/abs/2401.03138v1)|null|
 |**2024-01-06**|**GLISP: A Scalable GNN Learning System by Exploiting Inherent Structural Properties of Graphs**|Zhongshu Zhu et.al.|[2401.03114v1](http://arxiv.org/abs/2401.03114v1)|null|
@@ -302,5 +302,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240110'>back to top</a>)</p>
 
