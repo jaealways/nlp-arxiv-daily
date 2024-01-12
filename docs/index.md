@@ -22,6 +22,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Axis Tour: Word Tour Determines the Order of Axes in ICA-transformed Embeddings**|Hiroaki Yamagiwa et.al.|[2401.06112v1](http://arxiv.org/abs/2401.06112v1)|null|
+|**2024-01-11**|**How Teachers Can Use Large Language Models and Bloom's Taxonomy to Create Educational Quizzes**|Sabina Elkins et.al.|[2401.05914v1](http://arxiv.org/abs/2401.05914v1)|null|
+|**2024-01-11**|**Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems**|Tianyu Cui et.al.|[2401.05778v1](http://arxiv.org/abs/2401.05778v1)|null|
+|**2024-01-11**|**ConcEPT: Concept-Enhanced Pre-Training for Language Models**|Xintao Wang et.al.|[2401.05669v1](http://arxiv.org/abs/2401.05669v1)|null|
+|**2024-01-11**|**Natural Language Processing for Dialects of a Language: A Survey**|Aditya Joshi et.al.|[2401.05632v1](http://arxiv.org/abs/2401.05632v1)|null|
+|**2024-01-10**|**TrustLLM: Trustworthiness in Large Language Models**|Lichao Sun et.al.|[2401.05561v1](http://arxiv.org/abs/2401.05561v1)|**[link](https://github.com/HowieHwong/TrustLLM)**|
+|**2024-01-10**|**CADgpt: Harnessing Natural Language Processing for 3D Modelling to Enhance Computer-Aided Design Workflows**|Timo Kapsalis et.al.|[2401.05476v1](http://arxiv.org/abs/2401.05476v1)|null|
 |**2024-01-10**|**MuTox: Universal MUltilingual Audio-based TOXicity Dataset and Zero-shot Detector**|Marta R. Costa-jussà et.al.|[2401.05060v1](http://arxiv.org/abs/2401.05060v1)|null|
 |**2024-01-09**|**Entity Recognition from Colloquial Text**|Tamara Babaian et.al.|[2401.04853v1](http://arxiv.org/abs/2401.04853v1)|null|
 |**2024-01-09**|**MoSECroT: Model Stitching with Static Word Embeddings for Crosslingual Zero-shot Transfer**|Haotian Ye et.al.|[2401.04821v1](http://arxiv.org/abs/2401.04821v1)|null|
@@ -103,6 +110,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**MatSAM: Efficient Materials Microstructure Extraction via Visual Large Model**|Changtai Li et.al.|[2401.05638v1](http://arxiv.org/abs/2401.05638v1)|null|
+|**2024-01-11**|**The Benefits of a Concise Chain of Thought on Problem-Solving in Large Language Models**|Matthew Renze et.al.|[2401.05618v1](http://arxiv.org/abs/2401.05618v1)|**[link](https://github.com/matthewrenze/jhu-concise-cot)**|
+|**2024-01-08**|**LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems**|Mohamad Fakih et.al.|[2401.05443v1](http://arxiv.org/abs/2401.05443v1)|null|
 |**2024-01-10**|**Can ChatGPT Rival Neural Machine Translation? A Comparative Study**|Zhaokun Jiang et.al.|[2401.05176v1](http://arxiv.org/abs/2401.05176v1)|null|
 |**2024-01-10**|**Prompting Large Language Models for Recommender Systems: A Comprehensive Framework and Empirical Analysis**|Lanling Xu et.al.|[2401.04997v1](http://arxiv.org/abs/2401.04997v1)|null|
 |**2024-01-01**|**From Prompt Engineering to Prompt Science With Human in the Loop**|Chirag Shah et.al.|[2401.04122v1](http://arxiv.org/abs/2401.04122v1)|null|
@@ -134,6 +144,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**TOFU: A Task of Fictitious Unlearning for LLMs**|Pratyush Maini et.al.|[2401.06121v1](http://arxiv.org/abs/2401.06121v1)|null|
+|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081v1](http://arxiv.org/abs/2401.06081v1)|null|
+|**2024-01-11**|**Hallucination Benchmark in Medical Visual Question Answering**|Jinge Wu et.al.|[2401.05827v1](http://arxiv.org/abs/2401.05827v1)|null|
+|**2024-01-11**|**Probing Structured Semantics Understanding and Generation of Language Models via Question Answering**|Jinxin Liu et.al.|[2401.05777v1](http://arxiv.org/abs/2401.05777v1)|null|
+|**2024-01-11**|**Cross-modal Retrieval for Knowledge-based Visual Question Answering**|Paul Lerner et.al.|[2401.05736v1](http://arxiv.org/abs/2401.05736v1)|null|
 |**2024-01-10**|**MISS: A Generative Pretraining and Finetuning Approach for Med-VQA**|Jiawei Chen et.al.|[2401.05163v1](http://arxiv.org/abs/2401.05163v1)|null|
 |**2024-01-09**|**Answer Retrieval in Legal Community Question Answering**|Arian Askari et.al.|[2401.04852v1](http://arxiv.org/abs/2401.04852v1)|**[link](https://github.com/arian-askari/answerretrieval-legal)**|
 |**2024-01-09**|**Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers**|Gal Yona et.al.|[2401.04695v1](http://arxiv.org/abs/2401.04695v1)|null|
@@ -186,6 +201,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**YOIO: You Only Iterate Once by mining and fusing multiple necessary global information in the optical flow estimation**|Yu Jing et.al.|[2401.05879v1](http://arxiv.org/abs/2401.05879v1)|null|
 |**2024-01-10**|**INACIA: Integrating Large Language Models in Brazilian Audit Courts: Opportunities and Challenges**|Jayr Pereira et.al.|[2401.05273v1](http://arxiv.org/abs/2401.05273v1)|null|
 |**2024-01-10**|**From low resource information extraction to identifying influential nodes in knowledge graphs**|Erica Cai et.al.|[2401.04915v1](http://arxiv.org/abs/2401.04915v1)|null|
 |**2024-01-09**|**Non-Deterministic Extension of Plasma Wind Tunnel Data Calibrated Model Predictions to Flight Conditions**|Przemyslaw Rostkowski et.al.|[2401.04352v1](http://arxiv.org/abs/2401.04352v1)|null|
@@ -213,6 +229,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Seven Failure Points When Engineering a Retrieval Augmented Generation System**|Scott Barnett et.al.|[2401.05856v1](http://arxiv.org/abs/2401.05856v1)|null|
+|**2024-01-11**|**What Else Would I Like? A User Simulator using Alternatives for Improved Evaluation of Fashion Conversational Recommendation Systems**|Maria Vlachou et.al.|[2401.05783v1](http://arxiv.org/abs/2401.05783v1)|null|
+|**2024-01-10**|**FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields**|GeonU Kim et.al.|[2401.05516v1](http://arxiv.org/abs/2401.05516v1)|null|
 |**2024-01-10**|**Can Probabilistic Feedback Drive User Impacts in Online Platforms?**|Jessica Dai et.al.|[2401.05304v1](http://arxiv.org/abs/2401.05304v1)|null|
 |**2024-01-10**|**Accelerating Maximal Biclique Enumeration on GPUs**|Chou-Ying Hsieh et.al.|[2401.05039v1](http://arxiv.org/abs/2401.05039v1)|null|
 |**2024-01-10**|**Prompting Large Language Models for Recommender Systems: A Comprehensive Framework and Empirical Analysis**|Lanling Xu et.al.|[2401.04997v1](http://arxiv.org/abs/2401.04997v1)|null|
@@ -254,6 +273,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion**|Ruilin Luo et.al.|[2401.06072v1](http://arxiv.org/abs/2401.06072v1)|null|
+|**2024-01-11**|**Block-Diagonal Orthogonal Relation and Matrix Entity for Knowledge Graph Embedding**|Yihua Zhu et.al.|[2401.05967v1](http://arxiv.org/abs/2401.05967v1)|null|
 |**2024-01-10**|**From low resource information extraction to identifying influential nodes in knowledge graphs**|Erica Cai et.al.|[2401.04915v1](http://arxiv.org/abs/2401.04915v1)|null|
 |**2024-01-09**|**TechGPT-2.0: A large language model project to solve the task of knowledge graph construction**|Jiaqi Wang et.al.|[2401.04507v1](http://arxiv.org/abs/2401.04507v1)|**[link](https://github.com/neukg/techgpt-2.0)**|
 |**2024-01-09**|**Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems**|Ngoc Luyen Le et.al.|[2401.04474v1](http://arxiv.org/abs/2401.04474v1)|null|
@@ -287,6 +308,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**On the Power of Graph Neural Networks and Feature Augmentation Strategies to Classify Social Networks**|Walid Guettala et.al.|[2401.06048v1](http://arxiv.org/abs/2401.06048v1)|null|
+|**2024-01-11**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040v1](http://arxiv.org/abs/2401.06040v1)|**[link](https://github.com/qqian99/wavgcrn)**|
+|**2024-01-11**|**Use of Graph Neural Networks in Aiding Defensive Cyber Operations**|Shaswata Mitra et.al.|[2401.05680v1](http://arxiv.org/abs/2401.05680v1)|null|
+|**2024-01-11**|**Graph Q-Learning for Combinatorial Optimization**|Victoria M. Dax et.al.|[2401.05610v1](http://arxiv.org/abs/2401.05610v1)|null|
+|**2024-01-10**|**Population Graph Cross-Network Node Classification for Autism Detection Across Sample Groups**|Anna Stephens et.al.|[2401.05478v1](http://arxiv.org/abs/2401.05478v1)|**[link](https://github.com/ajoystephens/otgcn)**|
+|**2024-01-10**|**Introducing New Node Prediction in Graph Mining: Predicting All Links from Isolated Nodes with Graph Neural Networks**|Damiano Zanardini et.al.|[2401.05468v1](http://arxiv.org/abs/2401.05468v1)|null|
 |**2024-01-10**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
 |**2024-01-10**|**Physics guided dual Self-supervised learning for structure-based materials property prediction**|Nihang Fu et.al.|[2401.05223v1](http://arxiv.org/abs/2401.05223v1)|null|
 |**2024-01-10**|**MGNet: Learning Correspondences via Multiple Graphs**|Luanyuan Dai et.al.|[2401.04984v1](http://arxiv.org/abs/2401.04984v1)|null|
