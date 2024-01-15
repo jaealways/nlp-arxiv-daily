@@ -51,7 +51,7 @@ layout: default
 |**2024-01-07**|**Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects**|Yuheng Cheng et.al.|[2401.03428v1](http://arxiv.org/abs/2401.03428v1)|null|
 |**2024-01-05**|**Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task**|Gabriel Lino Garcia et.al.|[2401.02909v1](http://arxiv.org/abs/2401.02909v1)|null|
 |**2024-01-05**|**Nonlinear functional regression by functional deep neural network with kernel embedding**|Zhongjie Shi et.al.|[2401.02890v1](http://arxiv.org/abs/2401.02890v1)|null|
-|**2024-01-05**|**Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks**|Haoyuan Wu et.al.|[2401.02731v1](http://arxiv.org/abs/2401.02731v1)|null|
+|**2024-01-05**|**Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks**|Haoyuan Wu et.al.|[2401.02731v1](http://arxiv.org/abs/2401.02731v1)|**[link](https://github.com/wuhy68/parameter-efficient-moe)**|
 |**2024-01-05**|**Beyond Fidelity: Explaining Vulnerability Localization of Learning-based Detectors**|Baijun Cheng et.al.|[2401.02686v1](http://arxiv.org/abs/2401.02686v1)|null|
 |**2024-01-05**|**Training and Serving System of Foundation Models: A Comprehensive Survey**|Jiahang Zhou et.al.|[2401.02643v1](http://arxiv.org/abs/2401.02643v1)|null|
 |**2024-01-04**|**L3Cube-IndicNews: News-based Short Text and Long Document Classification Datasets in Indic Languages**|Aishwarya Mirashi et.al.|[2401.02254v1](http://arxiv.org/abs/2401.02254v1)|null|
@@ -176,7 +176,7 @@ layout: default
 |**2024-01-03**|**GPT-4V(ision) is a Generalist Web Agent, if Grounded**|Boyuan Zheng et.al.|[2401.01614v1](http://arxiv.org/abs/2401.01614v1)|**[link](https://github.com/osu-nlp-group/seeact)**|
 |**2024-01-03**|**Glance and Focus: Memory Prompting for Multi-Event Video Question Answering**|Ziyi Bai et.al.|[2401.01529v1](http://arxiv.org/abs/2401.01529v1)|**[link](https://github.com/byz0e/glance-focus)**|
 |**2024-01-03**|**Answering from Sure to Uncertain: Uncertainty-Aware Curriculum Learning for Video Question Answering**|Haopeng Li et.al.|[2401.01510v1](http://arxiv.org/abs/2401.01510v1)|null|
-|**2024-01-03**|**Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports**|Haopeng Li et.al.|[2401.01505v1](http://arxiv.org/abs/2401.01505v1)|null|
+|**2024-01-03**|**Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports**|Haopeng Li et.al.|[2401.01505v1](http://arxiv.org/abs/2401.01505v1)|**[link](https://github.com/hoplee6/sports-qa)**|
 |**2024-01-03**|**Question-Answering Based Summarization of Electronic Health Records using Retrieval Augmented Generation**|Walid Saba et.al.|[2401.01469v1](http://arxiv.org/abs/2401.01469v1)|null|
 |**2023-12-31**|**LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models**|Qianxi Li et.al.|[2401.00907v1](http://arxiv.org/abs/2401.00907v1)|null|
 |**2023-12-31**|**GeoGalactica: A Scientific Large Language Model in Geoscience**|Zhouhan Lin et.al.|[2401.00434v1](http://arxiv.org/abs/2401.00434v1)|**[link](https://github.com/geobrain-ai/geogalactica)**|
