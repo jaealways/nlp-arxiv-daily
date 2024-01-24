@@ -22,6 +22,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**From Understanding to Utilization: A Survey on Explainability for Large Language Models**|Haoyan Luo et.al.|[2401.12874v1](http://arxiv.org/abs/2401.12874v1)|null|
+|**2024-01-23**|**KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**|Debjyoti Mondal et.al.|[2401.12863v1](http://arxiv.org/abs/2401.12863v1)|null|
+|**2024-01-23**|**Benchmarking LLMs via Uncertainty Quantification**|Fanghua Ye et.al.|[2401.12794v1](http://arxiv.org/abs/2401.12794v1)|null|
+|**2024-01-23**|**A Comprehensive View of the Biases of Toxicity and Sentiment Analysis Methods Towards Utterances with African American English Expressions**|Guilherme H. Resende et.al.|[2401.12720v1](http://arxiv.org/abs/2401.12720v1)|null|
+|**2024-01-23**|**From Numbers to Words: Multi-Modal Bankruptcy Prediction Using the ECL Dataset**|Henri Arno et.al.|[2401.12652v1](http://arxiv.org/abs/2401.12652v1)|**[link](https://github.com/henriarnoug/ECL)**|
+|**2024-01-23**|**Key Information Retrieval to Classify the Unstructured Data Content of Preferential Trade Agreements**|Jiahui Zhao et.al.|[2401.12520v1](http://arxiv.org/abs/2401.12520v1)|null|
+|**2024-01-23**|**Digital cloning of online social networks for language-sensitive agent-based modeling of misinformation spread**|Prateek Puri et.al.|[2401.12509v1](http://arxiv.org/abs/2401.12509v1)|null|
+|**2024-01-23**|**Comparing Human-Centered Language Modeling: Is it Better to Model Groups, Individual Traits, or Both?**|Nikita Soni et.al.|[2401.12492v1](http://arxiv.org/abs/2401.12492v1)|null|
+|**2024-01-23**|**Assessing and Understanding Creativity in Large Language Models**|Yunpu Zhao et.al.|[2401.12491v1](http://arxiv.org/abs/2401.12491v1)|null|
+|**2024-01-23**|**Contrastive Learning in Distilled Models**|Valerie Lim et.al.|[2401.12472v1](http://arxiv.org/abs/2401.12472v1)|null|
 |**2024-01-22**|**Temporal Blind Spots in Large Language Models**|Jonas Wallat et.al.|[2401.12078v1](http://arxiv.org/abs/2401.12078v1)|**[link](https://github.com/jwallat/temporalblindspots)**|
 |**2024-01-22**|**NLP-based Relation Extraction Methods in RE**|Quim Motger et.al.|[2401.12075v1](http://arxiv.org/abs/2401.12075v1)|null|
 |**2024-01-22**|**Cross-lingual Transfer Learning for Javanese Dependency Parsing**|Fadli Aulawi Al Ghiffari et.al.|[2401.12072v1](http://arxiv.org/abs/2401.12072v1)|null|
@@ -159,6 +169,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Program Decomposition and Translation with Static Analysis**|Ali Reza Ibrahimzada et.al.|[2401.12412v1](http://arxiv.org/abs/2401.12412v1)|null|
+|**2024-01-22**|**Cheap Learning: Maximising Performance of Language Models for Social Data Science Using Minimal Data**|Leonardo Castro-Gonzalez et.al.|[2401.12295v1](http://arxiv.org/abs/2401.12295v1)|**[link](https://github.com/turing-online-safety-codebase/cheap_learning)**|
 |**2024-01-22**|**In-Context Learning for Extreme Multi-Label Classification**|Karel D'Oosterlinck et.al.|[2401.12178v1](http://arxiv.org/abs/2401.12178v1)|null|
 |**2024-01-19**|**ICBeLLM: High Quality International Events Data with Open Source Large Language Models on Consumer Hardware**|Rex W. Douglass et.al.|[2401.10558v1](http://arxiv.org/abs/2401.10558v1)|null|
 |**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883v1](http://arxiv.org/abs/2401.09883v1)|**[link](https://github.com/cvi-szu/qa-clims)**|
@@ -204,6 +216,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks**|Zhiruo Wang et.al.|[2401.12869v1](http://arxiv.org/abs/2401.12869v1)|**[link](https://github.com/zorazrw/trove)**|
+|**2024-01-23**|**Context Matters: Pushing the Boundaries of Open-Ended Answer Generation with Graph-Structured Knowledge Context**|Somnath Banerjee et.al.|[2401.12671v1](http://arxiv.org/abs/2401.12671v1)|null|
+|**2024-01-23**|**Revolutionizing Retrieval-Augmented Generation with Enhanced PDF Structure Recognition**|Demiao Lin et.al.|[2401.12599v1](http://arxiv.org/abs/2401.12599v1)|null|
+|**2024-01-23**|**LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools**|Qianli Wang et.al.|[2401.12576v1](http://arxiv.org/abs/2401.12576v1)|**[link](https://github.com/dfki-nlp/llmcheckup)**|
 |**2024-01-22**|**SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities**|Boyuan Chen et.al.|[2401.12168v1](http://arxiv.org/abs/2401.12168v1)|null|
 |**2024-01-22**|**Speak It Out: Solving Symbol-Related Problems with Symbol-to-Language Conversion for Language Models**|Yile Wang et.al.|[2401.11725v1](http://arxiv.org/abs/2401.11725v1)|null|
 |**2024-01-21**|**MedLM: Exploring Language Models for Medical Question Answering Systems**|Niraj Yagnik et.al.|[2401.11389v1](http://arxiv.org/abs/2401.11389v1)|null|
@@ -296,6 +312,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**NLP-based Relation Extraction Methods in RE**|Quim Motger et.al.|[2401.12075v1](http://arxiv.org/abs/2401.12075v1)|null|
 |**2024-01-22**|**MInD: Improving Multimodal Sentiment Analysis via Multimodal Information Disentanglement**|Weichen Dai et.al.|[2401.11818v1](http://arxiv.org/abs/2401.11818v1)|null|
 |**2024-01-21**|**SEBERTNets: Sequence Enhanced BERT Networks for Event Entity Extraction Tasks Oriented to the Finance Field**|Congqing He et.al.|[2401.11408v1](http://arxiv.org/abs/2401.11408v1)|**[link](https://github.com/hecongqing/CCKS2019_EventEntityExtraction_Rank5)**|
 |**2024-01-20**|**Exploiting Duality in Open Information Extraction with Predicate Prompt**|Zhen Chen et.al.|[2401.11107v1](http://arxiv.org/abs/2401.11107v1)|**[link](https://github.com/ccczhen/dualoie)**|
@@ -339,12 +356,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Securing Recommender System via Cooperative Training**|Qingyang Wang et.al.|[2401.12700v1](http://arxiv.org/abs/2401.12700v1)|null|
+|**2024-01-23**|**MOReGIn: Multi-Objective Recommendation at the Global and Individual Levels**|Elizabeth Gómez et.al.|[2401.12593v1](http://arxiv.org/abs/2401.12593v1)|null|
+|**2024-01-23**|**PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative Filtering**|Yifang Qin et.al.|[2401.12590v1](http://arxiv.org/abs/2401.12590v1)|null|
+|**2024-01-23**|**ToDA: Target-oriented Diffusion Attacker against Recommendation System**|Xiaohao Liu et.al.|[2401.12578v1](http://arxiv.org/abs/2401.12578v1)|null|
+|**2024-01-23**|**InfoRank: Unbiased Learning-to-Rank via Conditional Mutual Information Minimization**|Jiarui Jin et.al.|[2401.12553v1](http://arxiv.org/abs/2401.12553v1)|null|
 |**2024-01-22**|**NLP-based Relation Extraction Methods in RE**|Quim Motger et.al.|[2401.12075v1](http://arxiv.org/abs/2401.12075v1)|null|
 |**2024-01-22**|**SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation**|Ci-Siang Lin et.al.|[2401.11791v1](http://arxiv.org/abs/2401.11791v1)|null|
 |**2024-01-22**|**Domain-Aware Cross-Attention for Cross-domain Recommendation**|Yuhao Luo et.al.|[2401.11705v1](http://arxiv.org/abs/2401.11705v1)|null|
 |**2024-01-21**|**What Are We Optimizing For? A Human-centric Evaluation Of Deep Learning-based Recommender Systems**|Ruixuan Sun et.al.|[2401.11632v1](http://arxiv.org/abs/2401.11632v1)|null|
 |**2024-01-21**|**Enhancing Recommendation Diversity by Re-ranking with Large Language Models**|Diego Carraro et.al.|[2401.11506v1](http://arxiv.org/abs/2401.11506v1)|null|
-|**2024-01-21**|**D2K: Turning Historical Data into Retrievable Knowledge for Recommender Systems**|Jiarui Qin et.al.|[2401.11478v1](http://arxiv.org/abs/2401.11478v1)|null|
+|**2024-01-23**|**D2K: Turning Historical Data into Retrievable Knowledge for Recommender Systems**|Jiarui Qin et.al.|[2401.11478v2](http://arxiv.org/abs/2401.11478v2)|null|
 |**2024-01-21**|**On-Device Recommender Systems: A Comprehensive Survey**|Hongzhi Yin et.al.|[2401.11441v1](http://arxiv.org/abs/2401.11441v1)|null|
 |**2024-01-21**|**Agricultural Recommendation System based on Deep Learning: A Multivariate Weather Forecasting Approach**|Md Zubair et.al.|[2401.11410v1](http://arxiv.org/abs/2401.11410v1)|null|
 |**2024-01-21**|**SEBERTNets: Sequence Enhanced BERT Networks for Event Entity Extraction Tasks Oriented to the Finance Field**|Congqing He et.al.|[2401.11408v1](http://arxiv.org/abs/2401.11408v1)|**[link](https://github.com/hecongqing/CCKS2019_EventEntityExtraction_Rank5)**|
@@ -416,6 +438,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**|Debjyoti Mondal et.al.|[2401.12863v1](http://arxiv.org/abs/2401.12863v1)|null|
+|**2024-01-23**|**Gradient Flow of Energy: A General and Efficient Approach for Entity Alignment Decoding**|Yuanyi Wang et.al.|[2401.12798v1](http://arxiv.org/abs/2401.12798v1)|null|
+|**2024-01-23**|**Context Matters: Pushing the Boundaries of Open-Ended Answer Generation with Graph-Structured Knowledge Context**|Somnath Banerjee et.al.|[2401.12671v1](http://arxiv.org/abs/2401.12671v1)|null|
 |**2024-01-22**|**NLP-based Relation Extraction Methods in RE**|Quim Motger et.al.|[2401.12075v1](http://arxiv.org/abs/2401.12075v1)|null|
 |**2024-01-22**|**Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction**|Monika Jain et.al.|[2401.11800v1](http://arxiv.org/abs/2401.11800v1)|**[link](https://github.com/kracr/document-level-relation-extraction)**|
 |**2024-01-21**|**Graph Edits for Counterfactual Explanations: A Unified GNN Approach**|Nikolaos Chaidos et.al.|[2401.11609v1](http://arxiv.org/abs/2401.11609v1)|null|
@@ -472,6 +497,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Truck Parking Usage Prediction with Decomposed Graph Neural Networks**|Rei Tamaru et.al.|[2401.12920v1](http://arxiv.org/abs/2401.12920v1)|null|
+|**2024-01-23**|**Overlap-aware End-to-End Supervised Hierarchical Graph Clustering for Speaker Diarization**|Prachi Singh et.al.|[2401.12850v1](http://arxiv.org/abs/2401.12850v1)|null|
+|**2024-01-23**|**MAPPING: Debiasing Graph Neural Networks for Fair Node Classification with Limited Sensitive Information Leakage**|Ying Song et.al.|[2401.12824v1](http://arxiv.org/abs/2401.12824v1)|null|
+|**2024-01-23**|**DeepRicci: Self-supervised Graph Structure-Feature Co-Refinement for Alleviating Over-squashing**|Li Sun et.al.|[2401.12780v1](http://arxiv.org/abs/2401.12780v1)|null|
+|**2024-01-23**|**PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative Filtering**|Yifang Qin et.al.|[2401.12590v1](http://arxiv.org/abs/2401.12590v1)|null|
+|**2024-01-22**|**VC dimension of Graph Neural Networks with Pfaffian activation functions**|Giuseppe Alessio D'Inverno et.al.|[2401.12362v1](http://arxiv.org/abs/2401.12362v1)|null|
 |**2024-01-22**|**Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition**|Haz Sameen Shahgir et.al.|[2401.12210v1](http://arxiv.org/abs/2401.12210v1)|null|
 |**2024-01-22**|**Tensor-view Topological Graph Neural Network**|Tao Wen et.al.|[2401.12007v1](http://arxiv.org/abs/2401.12007v1)|null|
 |**2024-01-22**|**Learning to Approximate Adaptive Kernel Convolution on Graphs**|Jaeyoon Sim et.al.|[2401.11840v1](http://arxiv.org/abs/2401.11840v1)|null|
