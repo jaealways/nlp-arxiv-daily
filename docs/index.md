@@ -22,6 +22,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**CNN architecture extraction on edge GPU**|Peter Horvath et.al.|[2401.13575v1](http://arxiv.org/abs/2401.13575v1)|null|
+|**2024-01-24**|**SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation**|Zhaohu Xing et.al.|[2401.13560v1](http://arxiv.org/abs/2401.13560v1)|**[link](https://github.com/ge-xing/segmamba)**|
+|**2024-01-24**|**Research about the Ability of LLM in the Tamper-Detection Area**|Xinyu Yang et.al.|[2401.13504v1](http://arxiv.org/abs/2401.13504v1)|null|
+|**2024-01-24**|**Text Categorization Can Enhance Domain-Agnostic Stopword Extraction**|Houcemeddine Turki et.al.|[2401.13398v1](http://arxiv.org/abs/2401.13398v1)|null|
+|**2024-01-24**|**MaLA-500: Massive Language Adaptation of Large Language Models**|Peiqin Lin et.al.|[2401.13303v1](http://arxiv.org/abs/2401.13303v1)|null|
+|**2024-01-24**|**SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model**|Mengming Li et.al.|[2401.13266v1](http://arxiv.org/abs/2401.13266v1)|null|
+|**2024-01-24**|**From Random to Informed Data Selection: A Diversity-Based Approach to Optimize Human Annotation and Few-Shot Learning**|Alexandre Alcoforado et.al.|[2401.13229v1](http://arxiv.org/abs/2401.13229v1)|null|
+|**2024-01-23**|**Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains**|Yu Zhang et.al.|[2401.13129v1](http://arxiv.org/abs/2401.13129v1)|**[link](https://github.com/yuzhimanhua/setype)**|
+|**2024-01-23**|**Free Form Medical Visual Question Answering in Radiology**|Abhishek Narayanan et.al.|[2401.13081v1](http://arxiv.org/abs/2401.13081v1)|null|
 |**2024-01-23**|**From Understanding to Utilization: A Survey on Explainability for Large Language Models**|Haoyan Luo et.al.|[2401.12874v1](http://arxiv.org/abs/2401.12874v1)|null|
 |**2024-01-23**|**KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**|Debjyoti Mondal et.al.|[2401.12863v1](http://arxiv.org/abs/2401.12863v1)|null|
 |**2024-01-23**|**Benchmarking LLMs via Uncertainty Quantification**|Fanghua Ye et.al.|[2401.12794v1](http://arxiv.org/abs/2401.12794v1)|null|
@@ -169,6 +178,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Few-Shot Learning for Chronic Disease Management: Leveraging Large Language Models and Multi-Prompt Engineering with Medical Knowledge Injection**|Haoxin Liu et.al.|[2401.12988v1](http://arxiv.org/abs/2401.12988v1)|null|
 |**2024-01-22**|**Program Decomposition and Translation with Static Analysis**|Ali Reza Ibrahimzada et.al.|[2401.12412v1](http://arxiv.org/abs/2401.12412v1)|null|
 |**2024-01-22**|**Cheap Learning: Maximising Performance of Language Models for Social Data Science Using Minimal Data**|Leonardo Castro-Gonzalez et.al.|[2401.12295v1](http://arxiv.org/abs/2401.12295v1)|**[link](https://github.com/turing-online-safety-codebase/cheap_learning)**|
 |**2024-01-22**|**In-Context Learning for Extreme Multi-Label Classification**|Karel D'Oosterlinck et.al.|[2401.12178v1](http://arxiv.org/abs/2401.12178v1)|null|
@@ -216,6 +226,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Graph Guided Question Answer Generation for Procedural Question-Answering**|Hai X. Pham et.al.|[2401.13594v1](http://arxiv.org/abs/2401.13594v1)|null|
+|**2024-01-24**|**Evaluation of General Large Language Models in Contextually Assessing Semantic Concepts Extracted from Adult Critical Care Electronic Health Record Notes**|Darren Liu et.al.|[2401.13588v1](http://arxiv.org/abs/2401.13588v1)|null|
+|**2024-01-24**|**SpeechDPR: End-to-End Spoken Passage Retrieval for Open-Domain Spoken Question Answering**|Chyi-Jiunn Lin et.al.|[2401.13463v1](http://arxiv.org/abs/2401.13463v1)|null|
+|**2024-01-24**|**Clue-Guided Path Exploration: An Efficient Knowledge Base Question-Answering Framework with Low Computational Resource Consumption**|Dehao Tao et.al.|[2401.13444v1](http://arxiv.org/abs/2401.13444v1)|null|
+|**2024-01-24**|**InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions**|Ryota Tanaka et.al.|[2401.13313v1](http://arxiv.org/abs/2401.13313v1)|**[link](https://github.com/nttmdlab-nlp/instructdoc)**|
+|**2024-01-24**|**Can AI Assistants Know What They Don't Know?**|Qinyuan Cheng et.al.|[2401.13275v1](http://arxiv.org/abs/2401.13275v1)|null|
+|**2024-01-24**|**SEER: Facilitating Structured Reasoning and Explanation via Reinforcement Learning**|Guoxin Chen et.al.|[2401.13246v1](http://arxiv.org/abs/2401.13246v1)|null|
+|**2024-01-24**|**TAT-LLM: A Specialized Language Model for Discrete Reasoning over Tabular and Textual Data**|Fengbin Zhu et.al.|[2401.13223v1](http://arxiv.org/abs/2401.13223v1)|null|
+|**2024-01-24**|**It's About Time: Incorporating Temporality in Retrieval Augmented Language Models**|Anoushka Gade et.al.|[2401.13222v1](http://arxiv.org/abs/2401.13222v1)|null|
+|**2024-01-24**|**CFMatch: Aligning Automated Answer Equivalence Evaluation with Expert Judgments For Open-Domain Question Answering**|Zongxia Li et.al.|[2401.13170v1](http://arxiv.org/abs/2401.13170v1)|**[link](https://github.com/zli12321/qa_metrics)**|
 |**2024-01-23**|**TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks**|Zhiruo Wang et.al.|[2401.12869v1](http://arxiv.org/abs/2401.12869v1)|**[link](https://github.com/zorazrw/trove)**|
 |**2024-01-23**|**Context Matters: Pushing the Boundaries of Open-Ended Answer Generation with Graph-Structured Knowledge Context**|Somnath Banerjee et.al.|[2401.12671v1](http://arxiv.org/abs/2401.12671v1)|null|
 |**2024-01-23**|**Revolutionizing Retrieval-Augmented Generation with Enhanced PDF Structure Recognition**|Demiao Lin et.al.|[2401.12599v1](http://arxiv.org/abs/2401.12599v1)|null|
@@ -312,6 +332,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Fine-grained Contract NER using instruction based model**|Hiranmai Sri Adibhatla et.al.|[2401.13545v1](http://arxiv.org/abs/2401.13545v1)|null|
+|**2024-01-24**|**InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions**|Ryota Tanaka et.al.|[2401.13313v1](http://arxiv.org/abs/2401.13313v1)|**[link](https://github.com/nttmdlab-nlp/instructdoc)**|
 |**2024-01-22**|**NLP-based Relation Extraction Methods in Requirements Engineering**|Quim Motger et.al.|[2401.12075v1](http://arxiv.org/abs/2401.12075v1)|null|
 |**2024-01-22**|**MInD: Improving Multimodal Sentiment Analysis via Multimodal Information Disentanglement**|Weichen Dai et.al.|[2401.11818v1](http://arxiv.org/abs/2401.11818v1)|null|
 |**2024-01-21**|**SEBERTNets: Sequence Enhanced BERT Networks for Event Entity Extraction Tasks Oriented to the Finance Field**|Congqing He et.al.|[2401.11408v1](http://arxiv.org/abs/2401.11408v1)|**[link](https://github.com/hecongqing/CCKS2019_EventEntityExtraction_Rank5)**|
@@ -438,6 +460,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Building Contextual Knowledge Graphs for Personalized Learning Recommendations using Text Mining and Semantic Graph Completion**|Hasan Abu-Rasheed et.al.|[2401.13609v1](http://arxiv.org/abs/2401.13609v1)|null|
+|**2024-01-24**|**Clue-Guided Path Exploration: An Efficient Knowledge Base Question-Answering Framework with Low Computational Resource Consumption**|Dehao Tao et.al.|[2401.13444v1](http://arxiv.org/abs/2401.13444v1)|null|
+|**2024-01-24**|**Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph**|Oliver Karras et.al.|[2401.13365v1](http://arxiv.org/abs/2401.13365v1)|null|
 |**2024-01-23**|**KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**|Debjyoti Mondal et.al.|[2401.12863v1](http://arxiv.org/abs/2401.12863v1)|null|
 |**2024-01-23**|**Gradient Flow of Energy: A General and Efficient Approach for Entity Alignment Decoding**|Yuanyi Wang et.al.|[2401.12798v1](http://arxiv.org/abs/2401.12798v1)|null|
 |**2024-01-23**|**Context Matters: Pushing the Boundaries of Open-Ended Answer Generation with Graph-Structured Knowledge Context**|Somnath Banerjee et.al.|[2401.12671v1](http://arxiv.org/abs/2401.12671v1)|null|
@@ -497,6 +522,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Multitask Active Learning for Graph Anomaly Detection**|Wenjing Chang et.al.|[2401.13210v1](http://arxiv.org/abs/2401.13210v1)|**[link](https://github.com/ahachang/mitigate)**|
+|**2024-01-24**|**Topology-aware Embedding Memory for Learning on Expanding Graphs**|Xikun Zhang et.al.|[2401.13200v1](http://arxiv.org/abs/2401.13200v1)|null|
+|**2024-01-23**|**Probabilistic Demand Forecasting with Graph Neural Networks**|Nikita Kozodoi et.al.|[2401.13096v1](http://arxiv.org/abs/2401.13096v1)|null|
 |**2024-01-23**|**Truck Parking Usage Prediction with Decomposed Graph Neural Networks**|Rei Tamaru et.al.|[2401.12920v1](http://arxiv.org/abs/2401.12920v1)|null|
 |**2024-01-23**|**Overlap-aware End-to-End Supervised Hierarchical Graph Clustering for Speaker Diarization**|Prachi Singh et.al.|[2401.12850v1](http://arxiv.org/abs/2401.12850v1)|null|
 |**2024-01-23**|**MAPPING: Debiasing Graph Neural Networks for Fair Node Classification with Limited Sensitive Information Leakage**|Ying Song et.al.|[2401.12824v1](http://arxiv.org/abs/2401.12824v1)|null|
