@@ -22,6 +22,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Gazetteer-Enhanced Bangla Named Entity Recognition with BanglaBERT Semantic Embeddings K-Means-Infused CRF Model**|Niloy Farhan et.al.|[2401.17206v1](http://arxiv.org/abs/2401.17206v1)|**[link](https://github.com/samanjoy2/gazz-ban-ner)**|
+|**2024-01-30**|**Large Language Model Evaluation via Matrix Entropy**|Lai Wei et.al.|[2401.17139v1](http://arxiv.org/abs/2401.17139v1)|null|
+|**2024-01-30**|**SAL-PIM: A Subarray-level Processing-in-Memory Architecture with LUT-based Linear Interpolation for Transformer-based Text Generation**|Wontak Han et.al.|[2401.17005v1](http://arxiv.org/abs/2401.17005v1)|null|
+|**2024-01-30**|**SpeechBERTScore: Reference-Aware Automatic Evaluation of Speech Generation Leveraging NLP Evaluation Metrics**|Takaaki Saeki et.al.|[2401.16812v1](http://arxiv.org/abs/2401.16812v1)|null|
+|**2024-01-30**|**Engineering A Large Language Model From Scratch**|Abiodun Finbarrs Oketunji et.al.|[2401.16736v1](http://arxiv.org/abs/2401.16736v1)|null|
+|**2024-01-30**|**TeenyTinyLlama: open-source tiny language models trained in Brazilian Portuguese**|Nicholas Kluge Corrêa et.al.|[2401.16640v1](http://arxiv.org/abs/2401.16640v1)|**[link](https://github.com/nkluge-correa/teenytinyllama)**|
+|**2024-01-30**|**Breaking Free Transformer Models: Task-specific Context Attribution Promises Improved Generalizability Without Fine-tuning Pre-trained LLMs**|Stepan Tytarenko et.al.|[2401.16638v1](http://arxiv.org/abs/2401.16638v1)|null|
+|**2024-01-29**|**Dynamic Electro-Optic Analog Memory for Neuromorphic Photonic Computing**|Sean Lam et.al.|[2401.16515v1](http://arxiv.org/abs/2401.16515v1)|null|
 |**2024-01-29**|**ViLexNorm: A Lexical Normalization Corpus for Vietnamese Social Media Text**|Thanh-Nhi Nguyen et.al.|[2401.16403v1](http://arxiv.org/abs/2401.16403v1)|null|
 |**2024-01-29**|**CO2: Efficient Distributed Training with Full Communication-Computation Overlap**|Weigao Sun et.al.|[2401.16265v1](http://arxiv.org/abs/2401.16265v1)|null|
 |**2024-01-29**|**Towards Red Teaming in Multimodal and Multilingual Translation**|Christophe Ropers et.al.|[2401.16247v1](http://arxiv.org/abs/2401.16247v1)|null|
@@ -206,9 +214,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-28**|**ACCESS: Prompt Engineering for Automated Web Accessibility Violation Corrections**|Calista Huang et.al.|[2401.16450v1](http://arxiv.org/abs/2401.16450v1)|null|
+|**2024-01-28**|**OMPGPT: A Generative Pre-trained Transformer Model for OpenMP**|Le Chen et.al.|[2401.16445v1](http://arxiv.org/abs/2401.16445v1)|null|
 |**2024-01-29**|**Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You**|Felix Friedrich et.al.|[2401.16092v1](http://arxiv.org/abs/2401.16092v1)|null|
 |**2024-01-29**|**Trapped-atom Otto engine with light-induced dipole-dipole interactions**|Chimdessa Gashu Feyisa et.al.|[2401.15928v1](http://arxiv.org/abs/2401.15928v1)|null|
 |**2024-01-25**|**Wordflow: Social Prompt Engineering for Large Language Models**|Zijie J. Wang et.al.|[2401.14447v1](http://arxiv.org/abs/2401.14447v1)|**[link](https://github.com/poloclub/wordflow)**|
+|**2024-01-30**|**Prompt Design and Engineering: Introduction and Advanced Methods**|Xavier Amatriain et.al.|[2401.14423v2](http://arxiv.org/abs/2401.14423v2)|null|
 |**2024-01-25**|**Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts**|Maciej Besta et.al.|[2401.14295v1](http://arxiv.org/abs/2401.14295v1)|null|
 |**2024-01-25**|**GPTVoiceTasker: LLM-Powered Virtual Assistant for Smartphone**|Minh Duc Vu et.al.|[2401.14268v1](http://arxiv.org/abs/2401.14268v1)|null|
 |**2024-01-25**|**Towards Goal-oriented Large Language Model Prompting: A Survey**|Haochen Li et.al.|[2401.14043v1](http://arxiv.org/abs/2401.14043v1)|null|
@@ -261,14 +272,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models**|Yuanjie Lyu et.al.|[2401.17043v1](http://arxiv.org/abs/2401.17043v1)|null|
+|**2024-01-30**|**Taxonomy of Mathematical Plagiarism**|Ankit Satpute et.al.|[2401.16969v1](http://arxiv.org/abs/2401.16969v1)|**[link](https://github.com/gipplab/taxonomy-of-mathematical-plagiarism)**|
 |**2024-01-29**|**Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling**|Pratyush Maini et.al.|[2401.16380v1](http://arxiv.org/abs/2401.16380v1)|null|
 |**2024-01-29**|**Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA**|Yue Fan et.al.|[2401.15847v1](http://arxiv.org/abs/2401.15847v1)|null|
 |**2024-01-29**|**LCVO: An Efficient Pretraining-Free Framework for Visual Question Answering Grounding**|Yuhan Chen et.al.|[2401.15842v1](http://arxiv.org/abs/2401.15842v1)|null|
 |**2024-01-28**|**Improving Data Augmentation for Robust Visual Question Answering with Effective Curriculum Learning**|Yuhang Zheng et.al.|[2401.15646v1](http://arxiv.org/abs/2401.15646v1)|null|
 |**2024-01-28**|**Augment before You Try: Knowledge-Enhanced Table Question Answering via Table Expansion**|Yujian Liu et.al.|[2401.15555v1](http://arxiv.org/abs/2401.15555v1)|null|
 |**2024-01-27**|**DataFrame QA: A Universal LLM Framework on DataFrame Question Answering Without Data Exposure**|Junyi Ye et.al.|[2401.15463v1](http://arxiv.org/abs/2401.15463v1)|null|
-|**2024-01-27**|**A RAG-based Question Answering System Proposal for Understanding Islam: MufassirQAS LLM**|Ahmet Yusuf Alan et.al.|[2401.15378v1](http://arxiv.org/abs/2401.15378v1)|null|
-|**2024-01-27**|**Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance**|Adrian Theuma et.al.|[2401.15328v1](http://arxiv.org/abs/2401.15328v1)|null|
+|**2024-01-30**|**A RAG-based Question Answering System Proposal for Understanding Islam: MufassirQAS LLM**|Ahmet Yusuf Alan et.al.|[2401.15378v2](http://arxiv.org/abs/2401.15378v2)|null|
+|**2024-01-30**|**Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance**|Adrian Theuma et.al.|[2401.15328v2](http://arxiv.org/abs/2401.15328v2)|null|
 |**2024-01-27**|**Improving Medical Reasoning through Retrieval and Self-Reflection with Retrieval-Augmented Large Language Models**|Minbyul Jeong et.al.|[2401.15269v1](http://arxiv.org/abs/2401.15269v1)|null|
 |**2024-01-26**|**On the generalization capacity of neural networks during generic multimodal reasoning**|Takuya Ito et.al.|[2401.15030v1](http://arxiv.org/abs/2401.15030v1)|null|
 |**2024-01-26**|**Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs**|Nan Hu et.al.|[2401.14640v1](http://arxiv.org/abs/2401.14640v1)|null|
@@ -381,6 +394,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**LF Tracy: A Unified Single-Pipeline Approach for Salient Object Detection in Light Field Cameras**|Fei Teng et.al.|[2401.16712v1](http://arxiv.org/abs/2401.16712v1)|null|
+|**2024-01-30**|**AutoIE: An Automated Framework for Information Extraction from Scientific Literature**|Yangyang Liu et.al.|[2401.16672v1](http://arxiv.org/abs/2401.16672v1)|null|
 |**2024-01-28**|**Fine-Tuned Large Language Models for Symptom Recognition from Spanish Clinical Text**|Mai A. Shaaban et.al.|[2401.15780v1](http://arxiv.org/abs/2401.15780v1)|null|
 |**2024-01-27**|**Towards Event Extraction from Speech with Contextual Clues**|Jingqi Kang et.al.|[2401.15385v1](http://arxiv.org/abs/2401.15385v1)|null|
 |**2024-01-26**|**Cross-Space Adaptive Filter: Integrating Graph Topology and Node Attributes for Alleviating the Over-smoothing Problem**|Chen Huang et.al.|[2401.14876v1](http://arxiv.org/abs/2401.14876v1)|**[link](https://github.com/huangzichun/cross-space-adaptive-filter)**|
@@ -434,6 +449,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Taxonomy of Mathematical Plagiarism**|Ankit Satpute et.al.|[2401.16969v1](http://arxiv.org/abs/2401.16969v1)|**[link](https://github.com/gipplab/taxonomy-of-mathematical-plagiarism)**|
+|**2024-01-30**|**Fast Dual-Regularized Autoencoder for Sparse Biological Data**|Aleksandar Poleksic et.al.|[2401.16664v1](http://arxiv.org/abs/2401.16664v1)|null|
+|**2024-01-30**|**Producers Equilibria and Dynamics in Engagement-Driven Recommender Systems**|Krishna Acharya et.al.|[2401.16641v1](http://arxiv.org/abs/2401.16641v1)|null|
+|**2024-01-29**|**Effect of recommending users and opinions on the network connectivity and idea generation process**|Sriniwas Pandey et.al.|[2401.16504v1](http://arxiv.org/abs/2401.16504v1)|null|
 |**2024-01-29**|**Future Impact Decomposition in Request-level Recommendations**|Xiaobei Wang et.al.|[2401.16108v1](http://arxiv.org/abs/2401.16108v1)|null|
 |**2024-01-27**|**Privacy-Preserving Cross-Domain Sequential Recommendation**|Zhaohao Lin et.al.|[2401.15369v1](http://arxiv.org/abs/2401.15369v1)|null|
 |**2024-01-27**|**Fair and Efficient Ridesharing: A Dynamic Programming-based Relocation Approach**|Aqsa Ashraf Makhdomi et.al.|[2401.15363v1](http://arxiv.org/abs/2401.15363v1)|null|
@@ -525,6 +544,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Two Heads Are Better Than One: Integrating Knowledge from Knowledge Graphs and Large Language Models for Entity Alignment**|Linyao Yang et.al.|[2401.16960v1](http://arxiv.org/abs/2401.16960v1)|null|
 |**2024-01-29**|**Textual Entailment for Effective Triple Validation in Object Prediction**|Andrés García-Silva et.al.|[2401.16293v1](http://arxiv.org/abs/2401.16293v1)|null|
 |**2024-01-29**|**Capturing Knowledge Graphs and Rules with Octagon Embeddings**|Victor Charpenay et.al.|[2401.16270v1](http://arxiv.org/abs/2401.16270v1)|null|
 |**2024-01-29**|**Type-based Neural Link Prediction Adapter for Complex Query Answering**|Lingning Song et.al.|[2401.16045v1](http://arxiv.org/abs/2401.16045v1)|null|
@@ -598,6 +618,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Energy-conserving equivariant GNN for elasticity of lattice architected metamaterials**|Ivan Grega et.al.|[2401.16914v1](http://arxiv.org/abs/2401.16914v1)|null|
+|**2024-01-30**|**Online Algorithm for Node Feature Forecasting in Temporal Graphs**|Aniq Ur Rahman et.al.|[2401.16800v1](http://arxiv.org/abs/2401.16800v1)|null|
+|**2024-01-30**|**Graph Fairness Learning under Distribution Shifts**|Yibo Li et.al.|[2401.16784v1](http://arxiv.org/abs/2401.16784v1)|null|
+|**2024-01-29**|**Accelerating superconductor discovery through tempered deep learning of the electron-phonon spectral function**|Jason B. Gibson et.al.|[2401.16611v1](http://arxiv.org/abs/2401.16611v1)|null|
+|**2024-01-29**|**Towards Accurate Prediction of Configurational Disorder Properties in Materials using Graph Neural Networks**|Zhenyao Fang et.al.|[2401.16565v1](http://arxiv.org/abs/2401.16565v1)|null|
 |**2024-01-29**|**Enhancing Molecular Property Prediction with Auxiliary Learning and Task-Specific Adaptation**|Vishal Dey et.al.|[2401.16299v1](http://arxiv.org/abs/2401.16299v1)|null|
 |**2024-01-29**|**Graph Neural Networks: Theory for Estimation with Application on Network Heterogeneity**|Yike Wang et.al.|[2401.16275v1](http://arxiv.org/abs/2401.16275v1)|null|
 |**2024-01-29**|**AnisoGNN: graph neural networks generalizing to anisotropic properties of polycrystals**|Guangyu Hu et.al.|[2401.16271v1](http://arxiv.org/abs/2401.16271v1)|null|
