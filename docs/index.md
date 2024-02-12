@@ -208,7 +208,7 @@ layout: default
 |**2024-01-07**|**Is there really a Citation Age Bias in NLP?**|Hoa Nguyen et.al.|[2401.03545v1](http://arxiv.org/abs/2401.03545v1)|null|
 |**2024-01-07**|**Segment Anything Model for Medical Image Segmentation: Current Applications and Future Directions**|Yichi Zhang et.al.|[2401.03495v1](http://arxiv.org/abs/2401.03495v1)|**[link](https://github.com/yichizhang98/sam4mis)**|
 |**2024-01-07**|**Maintaining Journalistic Integrity in the Digital Age: A Comprehensive NLP Framework for Evaluating Online News Content**|Ljubisa Bojic et.al.|[2401.03467v1](http://arxiv.org/abs/2401.03467v1)|null|
-|**2024-01-07**|**Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects**|Yuheng Cheng et.al.|[2401.03428v1](http://arxiv.org/abs/2401.03428v1)|null|
+|**2024-01-07**|**Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects**|Yuheng Cheng et.al.|[2401.03428v1](http://arxiv.org/abs/2401.03428v1)|**[link](https://github.com/melih-unsal/demogpt)**|
 |**2024-01-05**|**Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task**|Gabriel Lino Garcia et.al.|[2401.02909v1](http://arxiv.org/abs/2401.02909v1)|null|
 |**2024-01-05**|**Nonlinear functional regression by functional deep neural network with kernel embedding**|Zhongjie Shi et.al.|[2401.02890v1](http://arxiv.org/abs/2401.02890v1)|null|
 |**2024-01-05**|**Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks**|Haoyuan Wu et.al.|[2401.02731v1](http://arxiv.org/abs/2401.02731v1)|**[link](https://github.com/wuhy68/parameter-efficient-moe)**|
@@ -316,7 +316,7 @@ layout: default
 |**2024-01-12**|**Seek for Incantations: Towards Accurate Text-to-Image Diffusion Synthesis through Prompt Engineering**|Chang Yu et.al.|[2401.06345v1](http://arxiv.org/abs/2401.06345v1)|null|
 |**2024-01-11**|**MatSAM: Efficient Materials Microstructure Extraction via Visual Large Model**|Changtai Li et.al.|[2401.05638v1](http://arxiv.org/abs/2401.05638v1)|null|
 |**2024-01-11**|**The Benefits of a Concise Chain of Thought on Problem-Solving in Large Language Models**|Matthew Renze et.al.|[2401.05618v1](http://arxiv.org/abs/2401.05618v1)|**[link](https://github.com/matthewrenze/jhu-concise-cot)**|
-|**2024-01-08**|**LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems**|Mohamad Fakih et.al.|[2401.05443v1](http://arxiv.org/abs/2401.05443v1)|null|
+|**2024-01-08**|**LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems**|Mohamad Fakih et.al.|[2401.05443v1](http://arxiv.org/abs/2401.05443v1)|**[link](https://github.com/AICPS/LLM_4_PLC)**|
 |**2024-01-10**|**Can ChatGPT Rival Neural Machine Translation? A Comparative Study**|Zhaokun Jiang et.al.|[2401.05176v1](http://arxiv.org/abs/2401.05176v1)|null|
 |**2024-01-10**|**Prompting Large Language Models for Recommender Systems: A Comprehensive Framework and Empirical Analysis**|Lanling Xu et.al.|[2401.04997v1](http://arxiv.org/abs/2401.04997v1)|null|
 |**2024-01-01**|**From Prompt Engineering to Prompt Science With Human in the Loop**|Chirag Shah et.al.|[2401.04122v1](http://arxiv.org/abs/2401.04122v1)|null|
@@ -364,7 +364,7 @@ layout: default
 |**2024-02-06**|**INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection**|Chao Chen et.al.|[2402.03744v1](http://arxiv.org/abs/2402.03744v1)|null|
 |**2024-02-06**|**Empowering Language Models with Active Inquiry for Deeper Understanding**|Jing-Cheng Pang et.al.|[2402.03719v1](http://arxiv.org/abs/2402.03719v1)|null|
 |**2024-02-06**|**Minds versus Machines: Rethinking Entailment Verification with Language Models**|Soumya Sanyal et.al.|[2402.03686v1](http://arxiv.org/abs/2402.03686v1)|null|
-|**2024-02-05**|**Text-Guided Image Clustering**|Andreas Stephan et.al.|[2402.02996v1](http://arxiv.org/abs/2402.02996v1)|null|
+|**2024-02-05**|**Text-Guided Image Clustering**|Andreas Stephan et.al.|[2402.02996v1](http://arxiv.org/abs/2402.02996v1)|**[link](https://github.com/andst/text_guided_cl)**|
 |**2024-02-05**|**Position Paper: What Can Large Language Models Tell Us about Time Series Analysis**|Ming Jin et.al.|[2402.02713v1](http://arxiv.org/abs/2402.02713v1)|null|
 |**2024-02-05**|**VlogQA: Task, Dataset, and Baseline Models for Vietnamese Spoken-Based Machine Reading Comprehension**|Thinh Phuoc Ngo et.al.|[2402.02655v1](http://arxiv.org/abs/2402.02655v1)|**[link](https://github.com/sonlam1102/vlogqa)**|
 |**2024-02-04**|**PuzzleBench: Can LLMs Solve Challenging First-Order Combinatorial Reasoning Problems?**|Chinmay Mittal et.al.|[2402.02611v1](http://arxiv.org/abs/2402.02611v1)|null|
@@ -390,7 +390,7 @@ layout: default
 |**2024-01-31**|**Instruction-Guided Scene Text Recognition**|Yongkun Du et.al.|[2401.17851v1](http://arxiv.org/abs/2401.17851v1)|null|
 |**2024-01-31**|**PipeNet: Question Answering with Semantic Pruning over Knowledge Graphs**|Ying Su et.al.|[2401.17536v1](http://arxiv.org/abs/2401.17536v1)|null|
 |**2024-01-30**|**Fine-tuning Transformer-based Encoder for Turkish Language Understanding Tasks**|Savas Yildirim et.al.|[2401.17396v1](http://arxiv.org/abs/2401.17396v1)|null|
-|**2024-01-30**|**YTCommentQA: Video Question Answerability in Instructional Videos**|Saelyne Yang et.al.|[2401.17343v1](http://arxiv.org/abs/2401.17343v1)|null|
+|**2024-01-30**|**YTCommentQA: Video Question Answerability in Instructional Videos**|Saelyne Yang et.al.|[2401.17343v1](http://arxiv.org/abs/2401.17343v1)|**[link](https://github.com/lgresearch/ytcommentqa)**|
 |**2024-01-30**|**CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models**|Yuanjie Lyu et.al.|[2401.17043v1](http://arxiv.org/abs/2401.17043v1)|**[link](https://github.com/iaar-shanghai/crud_rag)**|
 |**2024-01-30**|**Taxonomy of Mathematical Plagiarism**|Ankit Satpute et.al.|[2401.16969v1](http://arxiv.org/abs/2401.16969v1)|**[link](https://github.com/gipplab/taxonomy-of-mathematical-plagiarism)**|
 |**2024-01-29**|**Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling**|Pratyush Maini et.al.|[2401.16380v1](http://arxiv.org/abs/2401.16380v1)|null|
@@ -467,7 +467,7 @@ layout: default
 |**2024-01-09**|**The Critique of Critique**|Shichao Sun et.al.|[2401.04518v1](http://arxiv.org/abs/2401.04518v1)|**[link](https://github.com/gair-nlp/metacritique)**|
 |**2024-01-09**|**Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding**|Zilong Wang et.al.|[2401.04398v1](http://arxiv.org/abs/2401.04398v1)|null|
 |**2024-01-08**|**RePLan: Robotic Replanning with Perception and Language Models**|Marta Skreta et.al.|[2401.04157v1](http://arxiv.org/abs/2401.04157v1)|null|
-|**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901v1](http://arxiv.org/abs/2401.03901v1)|null|
+|**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901v1](http://arxiv.org/abs/2401.03901v1)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 |**2024-01-08**|**We Need to Talk About Classification Evaluation Metrics in NLP**|Peter Vickers et.al.|[2401.03831v1](http://arxiv.org/abs/2401.03831v1)|null|
 |**2024-01-08**|**TeleChat Technical Report**|Zihan Wang et.al.|[2401.03804v1](http://arxiv.org/abs/2401.03804v1)|null|
 |**2024-01-07**|**Building Efficient and Effective OpenQA Systems for Low-Resource Languages**|Emrah Budur et.al.|[2401.03590v1](http://arxiv.org/abs/2401.03590v1)|**[link](https://github.com/boun-tabi/squad-tr)**|
@@ -782,7 +782,7 @@ layout: default
 |**2024-01-12**|**The SemIoE Ontology: A Semantic Model Solution for an IoE-based Industry**|Marco Arazzi et.al.|[2401.06667v1](http://arxiv.org/abs/2401.06667v1)|null|
 |**2024-01-11**|**A Universal Knowledge Model and Cognitive Architecture for Prototyping AGI**|Artem Sukhobokov et.al.|[2401.06256v1](http://arxiv.org/abs/2401.06256v1)|null|
 |**2024-01-11**|**Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion**|Ruilin Luo et.al.|[2401.06072v1](http://arxiv.org/abs/2401.06072v1)|null|
-|**2024-01-11**|**Block-Diagonal Orthogonal Relation and Matrix Entity for Knowledge Graph Embedding**|Yihua Zhu et.al.|[2401.05967v1](http://arxiv.org/abs/2401.05967v1)|null|
+|**2024-01-11**|**Block-Diagonal Orthogonal Relation and Matrix Entity for Knowledge Graph Embedding**|Yihua Zhu et.al.|[2401.05967v1](http://arxiv.org/abs/2401.05967v1)|**[link](https://github.com/yihuazhu111/orthogonale)**|
 |**2024-01-10**|**From low resource information extraction to identifying influential nodes in knowledge graphs**|Erica Cai et.al.|[2401.04915v1](http://arxiv.org/abs/2401.04915v1)|null|
 |**2024-01-09**|**TechGPT-2.0: A large language model project to solve the task of knowledge graph construction**|Jiaqi Wang et.al.|[2401.04507v1](http://arxiv.org/abs/2401.04507v1)|**[link](https://github.com/neukg/techgpt-2.0)**|
 |**2024-01-09**|**Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems**|Ngoc Luyen Le et.al.|[2401.04474v1](http://arxiv.org/abs/2401.04474v1)|null|
@@ -835,8 +835,8 @@ layout: default
 |**2024-02-06**|**PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural Network**|Tan Sun et.al.|[2402.04038v1](http://arxiv.org/abs/2402.04038v1)|null|
 |**2024-02-06**|**On dimensionality of feature vectors in MPNNs**|César Bravo et.al.|[2402.03966v1](http://arxiv.org/abs/2402.03966v1)|null|
 |**2024-02-06**|**Masked Graph Autoencoder with Non-discrete Bandwidths**|Ziwen Zhao et.al.|[2402.03814v1](http://arxiv.org/abs/2402.03814v1)|**[link](https://github.com/newiz430/bandana)**|
-|**2024-02-06**|**Scalable Parallel Algorithm for Graph Neural Network Interatomic Potentials in Molecular Dynamics Simulations**|Yutack Park et.al.|[2402.03789v1](http://arxiv.org/abs/2402.03789v1)|null|
-|**2024-02-06**|**ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on Multi-Core Processor**|Yi-Chien Lin et.al.|[2402.03671v1](http://arxiv.org/abs/2402.03671v1)|null|
+|**2024-02-06**|**Scalable Parallel Algorithm for Graph Neural Network Interatomic Potentials in Molecular Dynamics Simulations**|Yutack Park et.al.|[2402.03789v1](http://arxiv.org/abs/2402.03789v1)|**[link](https://github.com/mdil-snu/sevennet)**|
+|**2024-02-06**|**ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on Multi-Core Processor**|Yi-Chien Lin et.al.|[2402.03671v1](http://arxiv.org/abs/2402.03671v1)|**[link](https://github.com/jasonlin316/argo)**|
 |**2024-02-05**|**Path Signatures and Graph Neural Networks for Slow Earthquake Analysis: Better Together?**|Hans Riess et.al.|[2402.03558v1](http://arxiv.org/abs/2402.03558v1)|null|
 |**2024-02-05**|**Single-GPU GNN Systems: Traps and Pitfalls**|Yidong Gong et.al.|[2402.03548v1](http://arxiv.org/abs/2402.03548v1)|null|
 |**2024-02-05**|**Physics-Encoded Graph Neural Networks for Deformation Prediction under Contact**|Mahdi Saleh et.al.|[2402.03466v1](http://arxiv.org/abs/2402.03466v1)|null|
@@ -867,7 +867,7 @@ layout: default
 |**2024-01-31**|**PF-GNN: Differentiable particle filtering based approximation of universal graph representations**|Mohammed Haroon Dupty et.al.|[2401.17752v1](http://arxiv.org/abs/2401.17752v1)|**[link](https://github.com/pfgnn/pf-gnn)**|
 |**2024-01-31**|**Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation**|Liang Qu et.al.|[2401.17630v1](http://arxiv.org/abs/2401.17630v1)|null|
 |**2024-01-31**|**IGCN: Integrative Graph Convolutional Networks for Multi-modal Data**|Cagri Ozdemir et.al.|[2401.17612v1](http://arxiv.org/abs/2401.17612v1)|**[link](https://github.com/bozdaglab/igcn)**|
-|**2024-01-30**|**Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**|Jiayuan Luo et.al.|[2401.17350v1](http://arxiv.org/abs/2401.17350v1)|null|
+|**2024-01-30**|**Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**|Jiayuan Luo et.al.|[2401.17350v1](http://arxiv.org/abs/2401.17350v1)|**[link](https://github.com/wentaozhang2001/dblm)**|
 |**2024-01-30**|**Energy-conserving equivariant GNN for elasticity of lattice architected metamaterials**|Ivan Grega et.al.|[2401.16914v1](http://arxiv.org/abs/2401.16914v1)|null|
 |**2024-01-30**|**Online Algorithm for Node Feature Forecasting in Temporal Graphs**|Aniq Ur Rahman et.al.|[2401.16800v1](http://arxiv.org/abs/2401.16800v1)|null|
 |**2024-01-30**|**Graph Fairness Learning under Distribution Shifts**|Yibo Li et.al.|[2401.16784v1](http://arxiv.org/abs/2401.16784v1)|null|
@@ -904,7 +904,7 @@ layout: default
 |**2024-01-23**|**MAPPING: Debiasing Graph Neural Networks for Fair Node Classification with Limited Sensitive Information Leakage**|Ying Song et.al.|[2401.12824v1](http://arxiv.org/abs/2401.12824v1)|null|
 |**2024-01-23**|**DeepRicci: Self-supervised Graph Structure-Feature Co-Refinement for Alleviating Over-squashing**|Li Sun et.al.|[2401.12780v1](http://arxiv.org/abs/2401.12780v1)|null|
 |**2024-01-23**|**PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative Filtering**|Yifang Qin et.al.|[2401.12590v1](http://arxiv.org/abs/2401.12590v1)|null|
-|**2024-01-22**|**VC dimension of Graph Neural Networks with Pfaffian activation functions**|Giuseppe Alessio D'Inverno et.al.|[2401.12362v1](http://arxiv.org/abs/2401.12362v1)|null|
+|**2024-01-22**|**VC dimension of Graph Neural Networks with Pfaffian activation functions**|Giuseppe Alessio D'Inverno et.al.|[2401.12362v1](http://arxiv.org/abs/2401.12362v1)|**[link](https://github.com/aledinve/vc-dim-gnn)**|
 |**2024-01-22**|**Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition**|Haz Sameen Shahgir et.al.|[2401.12210v1](http://arxiv.org/abs/2401.12210v1)|null|
 |**2024-01-22**|**Tensor-view Topological Graph Neural Network**|Tao Wen et.al.|[2401.12007v1](http://arxiv.org/abs/2401.12007v1)|**[link](https://github.com/taowen0309/ttg-nn)**|
 |**2024-01-22**|**Learning to Approximate Adaptive Kernel Convolution on Graphs**|Jaeyoon Sim et.al.|[2401.11840v1](http://arxiv.org/abs/2401.11840v1)|null|
