@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.21
+## Updated on 2024.02.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -26,7 +26,7 @@ layout: default
 |**2024-02-20**|**Few shot clinical entity recognition in three languages: Masked language models outperform LLM prompting**|Marco Naguib et.al.|[2402.12801v1](http://arxiv.org/abs/2402.12801v1)|null|
 |**2024-02-19**|**Predicting trucking accidents with truck drivers 'safety climate perception across companies: A transfer learning approach**|Kailai Sun et.al.|[2402.12417v1](http://arxiv.org/abs/2402.12417v1)|null|
 |**2024-02-19**|**Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach**|Mohammad Heydari et.al.|[2402.12272v1](http://arxiv.org/abs/2402.12272v1)|null|
-|**2024-02-19**|**Synthetic location trajectory generation using categorical diffusion models**|Simon Dirmeier et.al.|[2402.12242v1](http://arxiv.org/abs/2402.12242v1)|null|
+|**2024-02-19**|**Synthetic location trajectory generation using categorical diffusion models**|Simon Dirmeier et.al.|[2402.12242v1](http://arxiv.org/abs/2402.12242v1)|**[link](https://github.com/irmlma/mobility-simulation-cdpm)**|
 |**2024-02-19**|**Language Model Adaptation to Specialized Domains through Selective Masking based on Genre and Topical Characteristics**|Anas Belfathi et.al.|[2402.12036v1](http://arxiv.org/abs/2402.12036v1)|null|
 |**2024-02-19**|**Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space**|Zongru Wu et.al.|[2402.12026v1](http://arxiv.org/abs/2402.12026v1)|null|
 |**2024-02-19**|**Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?**|Marco Gaido et.al.|[2402.12025v1](http://arxiv.org/abs/2402.12025v1)|null|
@@ -309,7 +309,7 @@ layout: default
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240221'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240222'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -327,7 +327,7 @@ layout: default
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240221'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240222'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -421,13 +421,13 @@ layout: default
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240221'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240222'>back to top</a>)</p>
 
 ## Question Answering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-20**|**BiMediX: Bilingual Medical Mixture of Experts LLM**|Sara Pieri et.al.|[2402.13253v1](http://arxiv.org/abs/2402.13253v1)|**[link](https://github.com/mbzuai-oryx/bimedix)**|
+|**2024-02-20**|**BiMediX: Bilingual Medical Mixture of Experts LLM**|Sara Pieri et.al.|[2402.13253v1](http://arxiv.org/abs/2402.13253v1)|null|
 |**2024-02-20**|**VideoPrism: A Foundational Visual Encoder for Video Understanding**|Long Zhao et.al.|[2402.13217v1](http://arxiv.org/abs/2402.13217v1)|null|
 |**2024-02-20**|**Question Calibration and Multi-Hop Modeling for Temporal Question Answering**|Chao Xue et.al.|[2402.13188v1](http://arxiv.org/abs/2402.13188v1)|null|
 |**2024-02-20**|**Benchmarking Retrieval-Augmented Generation for Medicine**|Guangzhi Xiong et.al.|[2402.13178v1](http://arxiv.org/abs/2402.13178v1)|null|
@@ -646,7 +646,7 @@ layout: default
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|null|
 
-<p align=right>(<a href='#updated-on-20240221'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240222'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -660,7 +660,7 @@ layout: default
 |**2024-02-16**|**Construction of a Syntactic Analysis Map for Yi Shui School through Text Mining and Natural Language Processing Research**|Hanqing Zhao et.al.|[2402.10743v1](http://arxiv.org/abs/2402.10743v1)|null|
 |**2024-02-16**|**Fine Tuning Named Entity Extraction Models for the Fantasy Domain**|Aravinth Sivaganeshan et.al.|[2402.10662v1](http://arxiv.org/abs/2402.10662v1)|null|
 |**2024-02-15**|**Modeling the Impact of Timeline Algorithms on Opinion Dynamics Using Low-rank Updates**|Tianyi Zhou et.al.|[2402.10053v1](http://arxiv.org/abs/2402.10053v1)|**[link](https://github.com/tianyichow-tcs/gdpm)**|
-|**2024-02-14**|**Massively Multi-Cultural Knowledge Acquisition & LM Benchmarking**|Yi Fung et.al.|[2402.09369v1](http://arxiv.org/abs/2402.09369v1)|null|
+|**2024-02-14**|**Massively Multi-Cultural Knowledge Acquisition & LM Benchmarking**|Yi Fung et.al.|[2402.09369v1](http://arxiv.org/abs/2402.09369v1)|**[link](https://github.com/yrf1/llm-massivemulticulturenormsknowledge-nclb)**|
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368v1](http://arxiv.org/abs/2402.09368v1)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-19**|**Structured Language Generation Model for Robust Structure Prediction**|Minho Lee et.al.|[2402.08971v2](http://arxiv.org/abs/2402.08971v2)|null|
 |**2024-02-13**|**BEFUnet: A Hybrid CNN-Transformer Architecture for Precise Medical Image Segmentation**|Omid Nejati Manzari et.al.|[2402.08793v1](http://arxiv.org/abs/2402.08793v1)|**[link](https://github.com/omid-nejati/befunet)**|
@@ -731,7 +731,7 @@ layout: default
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240221'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240222'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -901,7 +901,7 @@ layout: default
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|null|
 
-<p align=right>(<a href='#updated-on-20240221'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240222'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -1040,7 +1040,7 @@ layout: default
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240221'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240222'>back to top</a>)</p>
 
 ## GNN
 
@@ -1311,5 +1311,5 @@ layout: default
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240221'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240222'>back to top</a>)</p>
 
