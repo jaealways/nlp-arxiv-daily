@@ -36,7 +36,7 @@ layout: default
 |**2024-02-28**|**Challenges in Pre-Training Graph Neural Networks for Context-Based Fake News Detection: An Evaluation of Current Strategies and Resource Limitations**|Gregor Donabauer et.al.|[2402.18179v1](http://arxiv.org/abs/2402.18179v1)|null|
 |**2024-02-28**|**Learning Intrinsic Dimension via Information Bottleneck for Explainable Aspect-based Sentiment Analysis**|Zhenxiao Cheng et.al.|[2402.18145v1](http://arxiv.org/abs/2402.18145v1)|null|
 |**2024-02-28**|**Saving the legacy of Hero Ibash: Evaluating Four Language Models for Aminoacian**|Yunze Xiao et.al.|[2402.18121v1](http://arxiv.org/abs/2402.18121v1)|null|
-|**2024-02-28**|**Using Text Embeddings for Deductive Qualitative Research at Scale in Physics Education**|Tor Ole B. Odden et.al.|[2402.18087v1](http://arxiv.org/abs/2402.18087v1)|null|
+|**2024-02-28**|**Using Text Embeddings for Deductive Qualitative Research at Scale in Physics Education**|Tor Ole B. Odden et.al.|[2402.18087v1](http://arxiv.org/abs/2402.18087v1)|**[link](https://github.com/markusuio/g.e.v.i.r)**|
 |**2024-02-28**|**Data augmentation method for modeling health records with applications to clopidogrel treatment failure detection**|Sunwoong Choi et.al.|[2402.18046v1](http://arxiv.org/abs/2402.18046v1)|null|
 |**2024-02-28**|**Crisis talk: analysis of the public debate around the energy crisis and cost of living**|Rrubaa Panchendrarajan et.al.|[2402.18043v1](http://arxiv.org/abs/2402.18043v1)|null|
 |**2024-02-28**|**Datasets for Large Language Models: A Comprehensive Survey**|Yang Liu et.al.|[2402.18041v1](http://arxiv.org/abs/2402.18041v1)|**[link](https://github.com/lmmlzn/awesome-llms-datasets)**|
@@ -51,7 +51,7 @@ layout: default
 |**2024-02-27**|**Curriculum Learning Meets Directed Acyclic Graph for Multimodal Emotion Recognition**|Cam-Van Thi Nguyen et.al.|[2402.17269v1](http://arxiv.org/abs/2402.17269v1)|null|
 |**2024-02-27**|**Deep Learning-Based Speech and Vision Synthesis to Improve Phishing Attack Detection through a Multi-layer Adaptive Framework**|Tosin Ige et.al.|[2402.17249v1](http://arxiv.org/abs/2402.17249v1)|null|
 |**2024-02-27**|**Does Negative Sampling Matter? A Review with Insights into its Theory and Applications**|Zhen Yang et.al.|[2402.17238v1](http://arxiv.org/abs/2402.17238v1)|null|
-|**2024-02-26**|**ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**|Liuzhenghao Lv et.al.|[2402.16445v1](http://arxiv.org/abs/2402.16445v1)|null|
+|**2024-02-26**|**ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**|Liuzhenghao Lv et.al.|[2402.16445v1](http://arxiv.org/abs/2402.16445v1)|**[link](https://github.com/lyu6poshao/prollama)**|
 |**2024-02-26**|**MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property**|Shiwen Ni et.al.|[2402.16389v1](http://arxiv.org/abs/2402.16389v1)|**[link](https://github.com/ai-for-science/mozi)**|
 |**2024-02-25**|**From Text to Transformation: A Comprehensive Review of Large Language Models' Versatility**|Pravneet Kaur et.al.|[2402.16142v1](http://arxiv.org/abs/2402.16142v1)|null|
 |**2024-02-25**|**Deep Learning Approaches for Improving Question Answering Systems in Hepatocellular Carcinoma Research**|Shuning Huo et.al.|[2402.16038v1](http://arxiv.org/abs/2402.16038v1)|null|
@@ -82,7 +82,7 @@ layout: default
 |**2024-02-21**|**Beyond Hate Speech: NLP's Challenges and Opportunities in Uncovering Dehumanizing Language**|Hezhao Zhang et.al.|[2402.13818v1](http://arxiv.org/abs/2402.13818v1)|null|
 |**2024-02-21**|**From Text to CQL: Bridging Natural Language and Corpus Search Engine**|Luming Lu et.al.|[2402.13740v1](http://arxiv.org/abs/2402.13740v1)|null|
 |**2024-02-21**|**RESTRuler: Towards Automatically Identifying Violations of RESTful Design Rules in Web APIs**|Justus Bogner et.al.|[2402.13710v1](http://arxiv.org/abs/2402.13710v1)|null|
-|**2024-02-21**|**CMNER: A Chinese Multimodal NER Dataset based on Social Media**|Yuanze Ji et.al.|[2402.13693v1](http://arxiv.org/abs/2402.13693v1)|null|
+|**2024-02-21**|**CMNER: A Chinese Multimodal NER Dataset based on Social Media**|Yuanze Ji et.al.|[2402.13693v1](http://arxiv.org/abs/2402.13693v1)|**[link](https://github.com/jyz99/cmner)**|
 |**2024-02-21**|**An Augmented Lagrangian Method for Training Recurrent Neural Networks**|Yue Wang et.al.|[2402.13687v1](http://arxiv.org/abs/2402.13687v1)|null|
 |**2024-02-21**|**Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning**|Zhaorui Yang et.al.|[2402.13669v1](http://arxiv.org/abs/2402.13669v1)|**[link](https://github.com/sail-sg/sdft)**|
 |**2024-02-21**|**Unsupervised Text Style Transfer via LLMs and Attention Masking with Multi-way Interactions**|Lei Pan et.al.|[2402.13647v1](http://arxiv.org/abs/2402.13647v1)|null|
@@ -92,7 +92,7 @@ layout: default
 |**2024-02-19**|**Predicting trucking accidents with truck drivers 'safety climate perception across companies: A transfer learning approach**|Kailai Sun et.al.|[2402.12417v1](http://arxiv.org/abs/2402.12417v1)|null|
 |**2024-02-19**|**Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach**|Mohammad Heydari et.al.|[2402.12272v1](http://arxiv.org/abs/2402.12272v1)|null|
 |**2024-02-19**|**Synthetic location trajectory generation using categorical diffusion models**|Simon Dirmeier et.al.|[2402.12242v1](http://arxiv.org/abs/2402.12242v1)|**[link](https://github.com/irmlma/mobility-simulation-cdpm)**|
-|**2024-02-19**|**Language Model Adaptation to Specialized Domains through Selective Masking based on Genre and Topical Characteristics**|Anas Belfathi et.al.|[2402.12036v1](http://arxiv.org/abs/2402.12036v1)|null|
+|**2024-02-19**|**Language Model Adaptation to Specialized Domains through Selective Masking based on Genre and Topical Characteristics**|Anas Belfathi et.al.|[2402.12036v1](http://arxiv.org/abs/2402.12036v1)|**[link](https://github.com/ygorg/legal-masking)**|
 |**2024-02-19**|**Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space**|Zongru Wu et.al.|[2402.12026v1](http://arxiv.org/abs/2402.12026v1)|null|
 |**2024-02-19**|**Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?**|Marco Gaido et.al.|[2402.12025v1](http://arxiv.org/abs/2402.12025v1)|null|
 |**2024-02-19**|**What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology for German Dialects**|Verena Blaschke et.al.|[2402.11968v1](http://arxiv.org/abs/2402.11968v1)|null|
@@ -106,7 +106,7 @@ layout: default
 |**2024-02-16**|**Linear Transformers with Learnable Kernel Functions are Better In-Context Models**|Yaroslav Aksenov et.al.|[2402.10644v1](http://arxiv.org/abs/2402.10644v1)|**[link](https://github.com/corl-team/rebased)**|
 |**2024-02-16**|**BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation**|Dayou Du et.al.|[2402.10631v1](http://arxiv.org/abs/2402.10631v1)|**[link](https://github.com/dd-duda/bitdistiller)**|
 |**2024-02-16**|**Zero-shot sampling of adversarial entities in biomedical question answering**|R. Patrick Xian et.al.|[2402.10527v1](http://arxiv.org/abs/2402.10527v1)|null|
-|**2024-02-16**|**Parametric Augmentation for Time Series Contrastive Learning**|Xu Zheng et.al.|[2402.10434v1](http://arxiv.org/abs/2402.10434v1)|null|
+|**2024-02-16**|**Parametric Augmentation for Time Series Contrastive Learning**|Xu Zheng et.al.|[2402.10434v1](http://arxiv.org/abs/2402.10434v1)|**[link](https://github.com/AslanDing/AutoTCL)**|
 |**2024-02-16**|**Understanding In-Context Learning with a Pelican Soup Framework**|Ting-Rui Chiang et.al.|[2402.10424v1](http://arxiv.org/abs/2402.10424v1)|null|
 |**2024-02-16**|**LogELECTRA: Self-supervised Anomaly Detection for Unstructured Logs**|Yuuki Yamanaka et.al.|[2402.10397v1](http://arxiv.org/abs/2402.10397v1)|null|
 |**2024-02-15**|**Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention**|Romain Ilbert et.al.|[2402.10198v1](http://arxiv.org/abs/2402.10198v1)|**[link](https://github.com/romilbert/samformer)**|
@@ -520,22 +520,22 @@ layout: default
 |**2024-02-28**|**Characterizing Truthfulness in Large Language Model Generations with Local Intrinsic Dimension**|Fan Yin et.al.|[2402.18048v1](http://arxiv.org/abs/2402.18048v1)|null|
 |**2024-02-27**|**Large Language Models on Tabular Data -- A Survey**|Xi Fang et.al.|[2402.17944v1](http://arxiv.org/abs/2402.17944v1)|null|
 |**2024-02-27**|**Evaluating Very Long-Term Conversational Memory of LLM Agents**|Adyasha Maharana et.al.|[2402.17753v1](http://arxiv.org/abs/2402.17753v1)|null|
-|**2024-02-27**|**NextLevelBERT: Investigating Masked Language Modeling with Higher-Level Representations for Long Documents**|Tamara Czinczoll et.al.|[2402.17682v1](http://arxiv.org/abs/2402.17682v1)|null|
-|**2024-02-27**|**REAR: A Relevance-Aware Retrieval-Augmented Framework for Open-Domain Question Answering**|Yuhao Wang et.al.|[2402.17497v1](http://arxiv.org/abs/2402.17497v1)|null|
+|**2024-02-27**|**NextLevelBERT: Investigating Masked Language Modeling with Higher-Level Representations for Long Documents**|Tamara Czinczoll et.al.|[2402.17682v1](http://arxiv.org/abs/2402.17682v1)|**[link](https://github.com/aiintelligentsystems/next-level-bert)**|
+|**2024-02-27**|**REAR: A Relevance-Aware Retrieval-Augmented Framework for Open-Domain Question Answering**|Yuhao Wang et.al.|[2402.17497v1](http://arxiv.org/abs/2402.17497v1)|**[link](https://github.com/rucaibox/rear)**|
 |**2024-02-27**|**Unsupervised multiple choices question answering via universal corpus**|Qin Zhang et.al.|[2402.17333v1](http://arxiv.org/abs/2402.17333v1)|null|
-|**2024-02-27**|**Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese**|Rifki Afina Putri et.al.|[2402.17302v1](http://arxiv.org/abs/2402.17302v1)|null|
+|**2024-02-27**|**Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese**|Rifki Afina Putri et.al.|[2402.17302v1](http://arxiv.org/abs/2402.17302v1)|**[link](https://github.com/rifkiaputri/id-csqa)**|
 |**2024-02-27**|**ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks**|Yang Liu et.al.|[2402.17298v1](http://arxiv.org/abs/2402.17298v1)|null|
-|**2024-02-27**|**MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning**|Debrup Das et.al.|[2402.17231v1](http://arxiv.org/abs/2402.17231v1)|null|
+|**2024-02-27**|**MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning**|Debrup Das et.al.|[2402.17231v1](http://arxiv.org/abs/2402.17231v1)|**[link](https://github.com/debrup-61/mathsensei)**|
 |**2024-02-27**|**Reasoning in Conversation: Solving Subjective Tasks through Dialogue Simulation for Large Language Models**|Xiaolong Wang et.al.|[2402.17226v1](http://arxiv.org/abs/2402.17226v1)|null|
 |**2024-02-27**|**VCD: Knowledge Base Guided Visual Commonsense Discovery in Images**|Xiangqing Shen et.al.|[2402.17213v1](http://arxiv.org/abs/2402.17213v1)|null|
 |**2024-02-27**|**Fact-and-Reflection (FaR) Improves Confidence Calibration of Large Language Models**|Xinran Zhao et.al.|[2402.17124v1](http://arxiv.org/abs/2402.17124v1)|null|
 |**2024-02-26**|**Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision**|Fan Jiang et.al.|[2402.16508v1](http://arxiv.org/abs/2402.16508v1)|**[link](https://github.com/fantabulous-j/class)**|
-|**2024-02-26**|**RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answering**|Zihan Zhang et.al.|[2402.16457v1](http://arxiv.org/abs/2402.16457v1)|null|
+|**2024-02-26**|**RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answering**|Zihan Zhang et.al.|[2402.16457v1](http://arxiv.org/abs/2402.16457v1)|**[link](https://github.com/hyintell/retrievalqa)**|
 |**2024-02-26**|**MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property**|Shiwen Ni et.al.|[2402.16389v1](http://arxiv.org/abs/2402.16389v1)|**[link](https://github.com/ai-for-science/mozi)**|
 |**2024-02-26**|**Chain-of-Discussion: A Multi-Model Framework for Complex Evidence-Based Question Answering**|Mingxu Tao et.al.|[2402.16313v1](http://arxiv.org/abs/2402.16313v1)|null|
 |**2024-02-26**|**PerLTQA: A Personal Long-Term Memory Dataset for Memory Classification, Retrieval, and Synthesis in Question Answering**|Yiming Du et.al.|[2402.16288v1](http://arxiv.org/abs/2402.16288v1)|null|
 |**2024-02-25**|**LSTP: Language-guided Spatial-Temporal Prompt Learning for Long-form Video-Text Understanding**|Yuxuan Wang et.al.|[2402.16050v1](http://arxiv.org/abs/2402.16050v1)|**[link](https://github.com/bigai-nlco/lstp-chat)**|
-|**2024-02-25**|**EHRNoteQA: A Patient-Specific Question Answering Benchmark for Evaluating Large Language Models in Clinical Settings**|Sunjun Kweon et.al.|[2402.16040v1](http://arxiv.org/abs/2402.16040v1)|null|
+|**2024-02-25**|**EHRNoteQA: A Patient-Specific Question Answering Benchmark for Evaluating Large Language Models in Clinical Settings**|Sunjun Kweon et.al.|[2402.16040v1](http://arxiv.org/abs/2402.16040v1)|**[link](https://github.com/ji-youn-kim/ehrnoteqa)**|
 |**2024-02-25**|**Deep Learning Approaches for Improving Question Answering Systems in Hepatocellular Carcinoma Research**|Shuning Huo et.al.|[2402.16038v1](http://arxiv.org/abs/2402.16038v1)|null|
 |**2024-02-24**|**Bridging the Gap between 2D and 3D Visual Question Answering: A Fusion Approach for 3D VQA**|Wentao Mo et.al.|[2402.15933v1](http://arxiv.org/abs/2402.15933v1)|**[link](https://github.com/matthewdm0816/bridgeqa)**|
 |**2024-02-24**|**Prompt Perturbation Consistency Learning for Robust Language Models**|Yao Qiang et.al.|[2402.15833v1](http://arxiv.org/abs/2402.15833v1)|null|
@@ -659,7 +659,7 @@ layout: default
 |**2024-02-01**|**An Exam-based Evaluation Approach Beyond Traditional Relevance Judgments**|Naghmeh Farzi et.al.|[2402.00309v1](http://arxiv.org/abs/2402.00309v1)|null|
 |**2024-01-31**|**Are Generative AI systems Capable of Supporting Information Needs of Patients?**|Shreya Rajagopal et.al.|[2402.00234v1](http://arxiv.org/abs/2402.00234v1)|null|
 |**2024-01-31**|**Binding Touch to Everything: Learning Unified Multimodal Tactile Representations**|Fengyu Yang et.al.|[2401.18084v1](http://arxiv.org/abs/2401.18084v1)|null|
-|**2024-01-31**|**RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**|Parth Sarthi et.al.|[2401.18059v1](http://arxiv.org/abs/2401.18059v1)|null|
+|**2024-01-31**|**RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**|Parth Sarthi et.al.|[2401.18059v1](http://arxiv.org/abs/2401.18059v1)|**[link](https://github.com/parthsarthi03/RAPTOR)**|
 |**2024-01-31**|**Desiderata for the Context Use of Question Answering Systems**|Sagi Shaier et.al.|[2401.18001v1](http://arxiv.org/abs/2401.18001v1)|null|
 |**2024-01-31**|**Proximity QA: Unleashing the Power of Multi-Modal Large Language Models for Spatial Proximity Analysis**|Jianing Li et.al.|[2401.17862v1](http://arxiv.org/abs/2401.17862v1)|null|
 |**2024-01-31**|**Instruction-Guided Scene Text Recognition**|Yongkun Du et.al.|[2401.17851v1](http://arxiv.org/abs/2401.17851v1)|null|
@@ -1171,7 +1171,7 @@ layout: default
 |**2024-02-07**|**MQuinE: a cure for "Z-paradox" in knowledge graph embedding models**|Yang Liu et.al.|[2402.03583v2](http://arxiv.org/abs/2402.03583v2)|null|
 |**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299v1](http://arxiv.org/abs/2402.03299v1)|null|
 |**2024-02-05**|**Knowledge Acquisition and Integration with Expert-in-the-loop**|Sajjadur Rahman et.al.|[2402.03291v1](http://arxiv.org/abs/2402.03291v1)|null|
-|**2024-02-05**|**Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**|Xinyi Wang et.al.|[2402.03268v1](http://arxiv.org/abs/2402.03268v1)|null|
+|**2024-02-05**|**Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**|Xinyi Wang et.al.|[2402.03268v1](http://arxiv.org/abs/2402.03268v1)|**[link](https://github.com/wangxinyilinda/lm_random_walk)**|
 |**2024-02-05**|**Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation**|Yuanyi Wang et.al.|[2402.03025v1](http://arxiv.org/abs/2402.03025v1)|**[link](https://github.com/wyy-code/pipea)**|
 |**2024-02-04**|**KICGPT: Large Language Model with Knowledge in Context for Knowledge Graph Completion**|Yanbin Wei et.al.|[2402.02389v1](http://arxiv.org/abs/2402.02389v1)|**[link](https://github.com/weiyanbin1999/kicgpt)**|
 |**2024-02-03**|**SemPool: Simple, robust, and interpretable KG pooling for enhancing language models**|Costas Mavromatis et.al.|[2402.02289v1](http://arxiv.org/abs/2402.02289v1)|null|
@@ -1518,7 +1518,7 @@ layout: default
 |**2024-01-10**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
 |**2024-01-10**|**Physics guided dual Self-supervised learning for structure-based materials property prediction**|Nihang Fu et.al.|[2401.05223v1](http://arxiv.org/abs/2401.05223v1)|**[link](https://github.com/usccolumbia/dssl)**|
 |**2024-01-10**|**MGNet: Learning Correspondences via Multiple Graphs**|Luanyuan Dai et.al.|[2401.04984v1](http://arxiv.org/abs/2401.04984v1)|null|
-|**2024-01-10**|**LPAC: Learnable Perception-Action-Communication Loops with Applications to Coverage Control**|Saurav Agarwal et.al.|[2401.04855v1](http://arxiv.org/abs/2401.04855v1)|null|
+|**2024-01-10**|**LPAC: Learnable Perception-Action-Communication Loops with Applications to Coverage Control**|Saurav Agarwal et.al.|[2401.04855v1](http://arxiv.org/abs/2401.04855v1)|**[link](https://github.com/kumarrobotics/coveragecontrol)**|
 |**2024-01-09**|**GNNShap: Fast and Accurate GNN Explanations using Shapley Values**|Selahattin Akkas et.al.|[2401.04829v1](http://arxiv.org/abs/2401.04829v1)|**[link](https://github.com/HipGraph/GNNShap)**|
 |**2024-01-09**|**Coupling Graph Neural Networks with Fractional Order Continuous Dynamics: A Robustness Study**|Qiyu Kang et.al.|[2401.04331v1](http://arxiv.org/abs/2401.04331v1)|null|
 |**2024-01-08**|**Explaining the Power of Topological Data Analysis in Graph Machine Learning**|Funmilola Mary Taiwo et.al.|[2401.04250v1](http://arxiv.org/abs/2401.04250v1)|**[link](https://github.com/phunmey/xtda-paper)**|
