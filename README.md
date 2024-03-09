@@ -854,7 +854,7 @@
 |**2024-03-07**|**Quantum-enhanced joint estimation of phase and phase diffusion**|Jayanth Jayakumar et.al.|[2403.04722v1](http://arxiv.org/abs/2403.04722v1)|null|
 |**2024-03-07**|**Sentiment-driven prediction of financial returns: a Bayesian-enhanced FinBERT approach**|Raffaele Giuseppe Cestari et.al.|[2403.04427v1](http://arxiv.org/abs/2403.04427v1)|null|
 |**2024-03-07**|**Advancing Biomedical Text Mining with Community Challenges**|Hui Zong et.al.|[2403.04261v1](http://arxiv.org/abs/2403.04261v1)|null|
-|**2024-03-06**|**Automatic Bi-modal Question Title Generation for Stack Overflow with Prompt Learning**|Shaoyu Yang et.al.|[2403.03677v1](http://arxiv.org/abs/2403.03677v1)|null|
+|**2024-03-06**|**Automatic Bi-modal Question Title Generation for Stack Overflow with Prompt Learning**|Shaoyu Yang et.al.|[2403.03677v1](http://arxiv.org/abs/2403.03677v1)|**[link](https://github.com/shaoyuyoung/sotitleplus)**|
 |**2024-03-06**|**Kernel Correlation-Dissimilarity for Multiple Kernel k-Means Clustering**|Rina Su et.al.|[2403.03448v1](http://arxiv.org/abs/2403.03448v1)|null|
 |**2024-03-05**|**Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data**|Joseph Gatto et.al.|[2403.03304v1](http://arxiv.org/abs/2403.03304v1)|null|
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871v1](http://arxiv.org/abs/2403.02871v1)|null|
@@ -1387,7 +1387,7 @@
 |---|---|---|---|---|
 |**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763v1](http://arxiv.org/abs/2403.04763v1)|null|
 |**2024-03-07**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural Networks**|Lisa Schneckenreiter et.al.|[2403.04747v1](http://arxiv.org/abs/2403.04747v1)|null|
-|**2024-03-07**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636v1](http://arxiv.org/abs/2403.04636v1)|**[link](https://github.com/oliver-lemke/entropy_aware_message_passing)**|
+|**2024-03-07**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636v1](http://arxiv.org/abs/2403.04636v1)|null|
 |**2024-03-07**|**In-n-Out: Calibrating Graph Neural Networks for Link Prediction**|Erik Nascimento et.al.|[2403.04605v1](http://arxiv.org/abs/2403.04605v1)|null|
 |**2024-03-07**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion**|Qian Li et.al.|[2403.04521v1](http://arxiv.org/abs/2403.04521v1)|null|
 |**2024-03-07**|**Improving Matrix Completion by Exploiting Rating Ordinality in Graph Neural Networks**|Jaehyun Lee et.al.|[2403.04504v1](http://arxiv.org/abs/2403.04504v1)|null|
