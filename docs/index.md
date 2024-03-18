@@ -22,6 +22,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**ATOM: Asynchronous Training of Massive Models for Deep Learning in a Decentralized Environment**|Xiaofeng Wu et.al.|[2403.10504v1](http://arxiv.org/abs/2403.10504v1)|null|
+|**2024-03-15**|**TriSum: Learning Summarization Ability from Large Language Models with Structured Rationale**|Pengcheng Jiang et.al.|[2403.10351v1](http://arxiv.org/abs/2403.10351v1)|null|
+|**2024-03-15**|**NLP Verification: Towards a General Methodology for Certifying Robustness**|Marco Casadio et.al.|[2403.10144v1](http://arxiv.org/abs/2403.10144v1)|null|
+|**2024-03-15**|**Identifying Health Risks from Family History: A Survey of Natural Language Processing Techniques**|Xiang Dai et.al.|[2403.09997v1](http://arxiv.org/abs/2403.09997v1)|null|
+|**2024-03-15**|**ViTCN: Vision Transformer Contrastive Network For Reasoning**|Bo Song et.al.|[2403.09962v1](http://arxiv.org/abs/2403.09962v1)|null|
+|**2024-03-14**|**Fisher Mask Nodes for Language Model Merging**|Thennal D K et.al.|[2403.09891v1](http://arxiv.org/abs/2403.09891v1)|null|
+|**2024-03-14**|**Scaling Behavior of Machine Translation with Large Language Models under Prompt Injection Attacks**|Zhifan Sun et.al.|[2403.09832v1](http://arxiv.org/abs/2403.09832v1)|**[link](https://github.com/avmb/mt_scaling_prompt_injection)**|
+|**2024-03-14**|**Emotional Intelligence Through Artificial Intelligence : NLP and Deep Learning in the Analysis of Healthcare Texts**|Prashant Kumar Nag et.al.|[2403.09762v1](http://arxiv.org/abs/2403.09762v1)|null|
 |**2024-03-14**|**Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey**|Xiaoyu Liu et.al.|[2403.09606v1](http://arxiv.org/abs/2403.09606v1)|null|
 |**2024-03-14**|**PreConfig: A Pretrained Model for Automating Network Configuration**|Fuliang Li et.al.|[2403.09369v1](http://arxiv.org/abs/2403.09369v1)|null|
 |**2024-03-14**|**Exploring the Capabilities and Limitations of Large Language Models in the Electric Energy Sector**|Lin Dong et.al.|[2403.09125v1](http://arxiv.org/abs/2403.09125v1)|null|
@@ -459,6 +467,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Can a GPT4-Powered AI Agent Be a Good Enough Performance Attribution Analyst?**|Bruno de Melo et.al.|[2403.10482v1](http://arxiv.org/abs/2403.10482v1)|null|
 |**2024-03-14**|**AI on AI: Exploring the Utility of GPT as an Expert Annotator of AI Publications**|Autumn Toney-Wails et.al.|[2403.09097v1](http://arxiv.org/abs/2403.09097v1)|null|
 |**2024-03-13**|**Exploring Prompt Engineering Practices in the Enterprise**|Michael Desmond et.al.|[2403.08950v1](http://arxiv.org/abs/2403.08950v1)|null|
 |**2024-03-13**|**DialogGen: Multi-modal Interactive Dialogue System for Multi-turn Text-to-Image Generation**|Minbin Huang et.al.|[2403.08857v1](http://arxiv.org/abs/2403.08857v1)|null|
@@ -589,6 +598,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Can a GPT4-Powered AI Agent Be a Good Enough Performance Attribution Analyst?**|Bruno de Melo et.al.|[2403.10482v1](http://arxiv.org/abs/2403.10482v1)|null|
+|**2024-03-15**|**Few-Shot Image Classification and Segmentation as Visual Question Answering Using Vision-Language Models**|Tian Meng et.al.|[2403.10287v1](http://arxiv.org/abs/2403.10287v1)|null|
+|**2024-03-15**|**Team Trifecta at Factify5WQA: Setting the Standard in Fact Verification with Fine-Tuning**|Shang-Hsuan Chiang et.al.|[2403.10281v1](http://arxiv.org/abs/2403.10281v1)|**[link](https://github.com/andychiangsh/pre-cofactv3)**|
+|**2024-03-15**|**Knowledge Condensation and Reasoning for Knowledge-based VQA**|Dongze Hao et.al.|[2403.10037v1](http://arxiv.org/abs/2403.10037v1)|null|
+|**2024-03-15**|**Lost in Overlap: Exploring Watermark Collision in LLMs**|Yiyang Luo et.al.|[2403.10020v1](http://arxiv.org/abs/2403.10020v1)|null|
+|**2024-03-14**|**Helpful or Harmful? Exploring the Efficacy of Large Language Models for Online Grooming Prevention**|Ellie Prosser et.al.|[2403.09795v1](http://arxiv.org/abs/2403.09795v1)|null|
 |**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635v1](http://arxiv.org/abs/2403.09635v1)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
 |**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629v1](http://arxiv.org/abs/2403.09629v1)|null|
 |**2024-03-14**|**Adversarial Training with OCR Modality Perturbation for Scene-Text Visual Question Answering**|Zhixuan Shen et.al.|[2403.09288v1](http://arxiv.org/abs/2403.09288v1)|null|
@@ -932,6 +947,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**High-speed Readout System of X-ray CMOS Image Sensor for Time Domain Astronomy**|Naoki Ogino et.al.|[2403.10409v1](http://arxiv.org/abs/2403.10409v1)|null|
+|**2024-03-15**|**EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba**|Xiaohuan Pei et.al.|[2403.09977v1](http://arxiv.org/abs/2403.09977v1)|null|
 |**2024-03-14**|**GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding**|Chengyao Wang et.al.|[2403.09639v1](http://arxiv.org/abs/2403.09639v1)|**[link](https://github.com/dvlab-research/groupcontrast)**|
 |**2024-03-14**|**Information Extraction: An application to the domain of hyper-local financial data on developing countries**|Abuzar Royesh et.al.|[2403.09077v1](http://arxiv.org/abs/2403.09077v1)|null|
 |**2024-03-13**|**Embedded Translations for Low-resource Automated Glossing**|Changbing Yang et.al.|[2403.08189v1](http://arxiv.org/abs/2403.08189v1)|null|
@@ -1055,6 +1072,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**PPM : A Pre-trained Plug-in Model for Click-through Rate Prediction**|Yuanbo Gao et.al.|[2403.10049v1](http://arxiv.org/abs/2403.10049v1)|null|
+|**2024-03-13**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738v1](http://arxiv.org/abs/2403.09738v1)|null|
 |**2024-03-12**|**Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness**|Mingyue Cheng et.al.|[2403.07623v1](http://arxiv.org/abs/2403.07623v1)|null|
 |**2024-03-12**|**Proactive Recommendation with Iterative Preference Guidance**|Shuxian Bi et.al.|[2403.07571v1](http://arxiv.org/abs/2403.07571v1)|null|
 |**2024-03-12**|**Self-supervised Contrastive Learning for Implicit Collaborative Filtering**|Shipeng Song et.al.|[2403.07265v1](http://arxiv.org/abs/2403.07265v1)|null|
@@ -1315,6 +1334,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs**|Zhanke Zhou et.al.|[2403.10231v1](http://arxiv.org/abs/2403.10231v1)|**[link](https://github.com/tmlr-group/one-shot-subgraph)**|
+|**2024-03-15**|**AUTONODE: A Neuro-Graphic Self-Learnable Engine for Cognitive GUI Automation**|Arkajit Datta et.al.|[2403.10171v1](http://arxiv.org/abs/2403.10171v1)|null|
+|**2024-03-15**|**Functional Graph Convolutional Networks: A unified multi-task and multi-modal learning framework to facilitate health and social-care insights**|Tobia Boschi et.al.|[2403.10158v1](http://arxiv.org/abs/2403.10158v1)|null|
+|**2024-03-15**|**Meta Operator for Complex Query Answering on Knowledge Graphs**|Hang Yin et.al.|[2403.10110v1](http://arxiv.org/abs/2403.10110v1)|null|
+|**2024-03-12**|**ClaimVer: Explainable Claim-Level Verification and Evidence Attribution of Text Through Knowledge Graphs**|Preetam Prabhu Srikar Dammu et.al.|[2403.09724v1](http://arxiv.org/abs/2403.09724v1)|null|
 |**2024-03-14**|**Hyper-CL: Conditioning Sentence Representations with Hypernetworks**|Young Hyun Yoo et.al.|[2403.09490v1](http://arxiv.org/abs/2403.09490v1)|null|
 |**2024-03-13**|**Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments**|Sitao Cheng et.al.|[2403.08593v1](http://arxiv.org/abs/2403.08593v1)|null|
 |**2024-03-13**|**Federated Knowledge Graph Unlearning via Diffusion Model**|Bingchen Liu et.al.|[2403.08554v1](http://arxiv.org/abs/2403.08554v1)|null|
@@ -1514,6 +1538,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Generation is better than Modification: Combating High Class Homophily Variance in Graph Anomaly Detection**|Rui Zhang et.al.|[2403.10339v1](http://arxiv.org/abs/2403.10339v1)|null|
+|**2024-03-15**|**From Chaos to Clarity: Time Series Anomaly Detection in Astronomical Observations**|Xinli Hao et.al.|[2403.10220v1](http://arxiv.org/abs/2403.10220v1)|**[link](https://github.com/xinlihao/aero)**|
+|**2024-03-15**|**HeR-DRL:Heterogeneous Relational Deep Reinforcement Learning for Decentralized Multi-Robot Crowd Navigation**|Xinyu Zhou et.al.|[2403.10083v1](http://arxiv.org/abs/2403.10083v1)|null|
+|**2024-03-15**|**Thermal Earth Model for the Conterminous United States Using an Interpolative Physics-Informed Graph Neural Network (InterPIGNN)**|Mohammad J. Aljubran et.al.|[2403.09961v1](http://arxiv.org/abs/2403.09961v1)|null|
+|**2024-03-14**|**Robust Subgraph Learning by Monitoring Early Training Representations**|Sepideh Neshatfar et.al.|[2403.09901v1](http://arxiv.org/abs/2403.09901v1)|null|
 |**2024-03-14**|**Code Revert Prediction with Graph Neural Networks: A Case Study at J.P. Morgan Chase**|Yulong Pei et.al.|[2403.09507v1](http://arxiv.org/abs/2403.09507v1)|null|
 |**2024-03-14**|**Rumor Mitigation in Social Media Platforms with Deep Reinforcement Learning**|Hongyuan Su et.al.|[2403.09217v1](http://arxiv.org/abs/2403.09217v1)|null|
 |**2024-03-14**|**MetroGNN: Metro Network Expansion with Reinforcement Learning**|Hongyuan Su et.al.|[2403.09197v1](http://arxiv.org/abs/2403.09197v1)|null|
