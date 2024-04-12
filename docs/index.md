@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-10**|**Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability**|Jinwei Lu et.al.|[2404.07135v1](http://arxiv.org/abs/2404.07135v1)|null|
+|**2024-04-11**|**Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability**|Jinwei Lu et.al.|[2404.07135v2](http://arxiv.org/abs/2404.07135v2)|null|
 |**2024-04-10**|**DiffusionDialog: A Diffusion Model for Diverse Dialog Generation with Latent Space**|Jianxiang Xiang et.al.|[2404.06760v1](http://arxiv.org/abs/2404.06760v1)|null|
 |**2024-04-10**|**Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness**|Xincan Feng et.al.|[2404.06714v1](http://arxiv.org/abs/2404.06714v1)|null|
 |**2024-04-10**|**CQIL: Inference Latency Optimization with Concurrent Computation of Quasi-Independent Layers**|Longwei Zou et.al.|[2404.06709v1](http://arxiv.org/abs/2404.06709v1)|null|
@@ -583,7 +583,7 @@ layout: default
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240411'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240412'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -602,7 +602,7 @@ layout: default
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240411'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240412'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -611,7 +611,7 @@ layout: default
 |**2024-04-09**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot Systems**|Kunal Garg et.al.|[2404.06413v1](http://arxiv.org/abs/2404.06413v1)|null|
 |**2024-04-09**|**Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**|Sidra Aleem et.al.|[2404.06362v1](http://arxiv.org/abs/2404.06362v1)|null|
 |**2024-04-09**|**Characterizing Multimodal Long-form Summarization: A Case Study on Financial Reports**|Tianyu Cao et.al.|[2404.06162v1](http://arxiv.org/abs/2404.06162v1)|null|
-|**2024-04-09**|**Privacy Preserving Prompt Engineering: A Survey**|Kennedy Edemacu et.al.|[2404.06001v1](http://arxiv.org/abs/2404.06001v1)|null|
+|**2024-04-11**|**Privacy Preserving Prompt Engineering: A Survey**|Kennedy Edemacu et.al.|[2404.06001v2](http://arxiv.org/abs/2404.06001v2)|null|
 |**2024-04-08**|**PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection**|Xiaofan Li et.al.|[2404.05231v1](http://arxiv.org/abs/2404.05231v1)|**[link](https://github.com/funz-0/promptad)**|
 |**2024-04-07**|**Clinical Trials Protocol Authoring using LLMs**|Morteza Maleki et.al.|[2404.05044v1](http://arxiv.org/abs/2404.05044v1)|null|
 |**2024-04-05**|**Simple Techniques for Enhancing Sentence Embeddings in Generative Language Models**|Bowen Zhang et.al.|[2404.03921v1](http://arxiv.org/abs/2404.03921v1)|**[link](https://github.com/zbwpro/pretcotandke)**|
@@ -777,7 +777,7 @@ layout: default
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240411'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240412'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -1246,7 +1246,7 @@ layout: default
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|null|
 
-<p align=right>(<a href='#updated-on-20240411'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240412'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -1424,7 +1424,7 @@ layout: default
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240411'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240412'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -1764,7 +1764,7 @@ layout: default
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240411'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240412'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -2026,7 +2026,7 @@ layout: default
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240411'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240412'>back to top</a>)</p>
 
 ## GNN
 
@@ -2548,5 +2548,5 @@ layout: default
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240411'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240412'>back to top</a>)</p>
 
