@@ -1,4 +1,4 @@
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -594,7 +594,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240416'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240417'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -613,7 +613,7 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240416'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240417'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -793,7 +793,7 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240416'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240417'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -808,7 +808,7 @@
 |**2024-04-12**|**Enhancing Visual Question Answering through Question-Driven Image Captions as Prompts**|Övgü Özdemir et.al.|[2404.08589v1](http://arxiv.org/abs/2404.08589v1)|**[link](https://github.com/ovguyo/captions-in-vqa)**|
 |**2024-04-12**|**Small Models Are (Still) Effective Cross-Domain Argument Extractors**|William Gantt et.al.|[2404.08579v1](http://arxiv.org/abs/2404.08579v1)|null|
 |**2024-04-12**|**Improving Health Question Answering with Reliable and Time-Aware Evidence Retrieval**|Juraj Vladika et.al.|[2404.08359v1](http://arxiv.org/abs/2404.08359v1)|null|
-|**2024-04-12**|**Pretraining and Updating Language- and Domain-specific Large Language Model: A Case Study in Japanese Business Domain**|Kosuke Takahashi et.al.|[2404.08262v1](http://arxiv.org/abs/2404.08262v1)|null|
+|**2024-04-16**|**Pretraining and Updating Language- and Domain-specific Large Language Model: A Case Study in Japanese Business Domain**|Kosuke Takahashi et.al.|[2404.08262v2](http://arxiv.org/abs/2404.08262v2)|null|
 |**2024-04-11**|**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2404.07990v1](http://arxiv.org/abs/2404.07990v1)|null|
 |**2024-04-11**|**View Selection for 3D Captioning via Diffusion Ranking**|Tiange Luo et.al.|[2404.07984v1](http://arxiv.org/abs/2404.07984v1)|null|
 |**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979v1](http://arxiv.org/abs/2404.07979v1)|**[link](https://github.com/jeffreysijuntan/lloco)**|
@@ -1281,7 +1281,7 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20240416'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240417'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -1291,7 +1291,7 @@
 |**2024-04-08**|**EFSA: Towards Event-Level Financial Sentiment Analysis**|Tianyu Chen et.al.|[2404.08681v1](http://arxiv.org/abs/2404.08681v1)|null|
 |**2024-04-12**|**Toward FAIR Semantic Publishing of Research Dataset Metadata in the Open Research Knowledge Graph**|Raia Abu Ahmad et.al.|[2404.08443v1](http://arxiv.org/abs/2404.08443v1)|null|
 |**2024-04-11**|**Leveraging Data Augmentation for Process Information Extraction**|Julian Neuberger et.al.|[2404.07501v1](http://arxiv.org/abs/2404.07501v1)|**[link](https://github.com/julianneuberger/pet-data-augmentation)**|
-|**2024-04-13**|**Event Grounded Criminal Court View Generation with Cooperative (Large) Language Models**|Linan Yue et.al.|[2404.07001v2](http://arxiv.org/abs/2404.07001v2)|**[link](https://github.com/yuelinan/codes-of-egg)**|
+|**2024-04-16**|**Event Grounded Criminal Court View Generation with Cooperative (Large) Language Models**|Linan Yue et.al.|[2404.07001v3](http://arxiv.org/abs/2404.07001v3)|**[link](https://github.com/yuelinan/codes-of-egg)**|
 |**2024-04-09**|**Event Extraction in Basque: Typologically motivated Cross-Lingual Transfer-Learning Analysis**|Mikel Zubillaga et.al.|[2404.06392v1](http://arxiv.org/abs/2404.06392v1)|null|
 |**2024-04-08**|**Enhancing Software Related Information Extraction with Generative Language Models through Single-Choice Question Answering**|Wolfgang Otto et.al.|[2404.05587v1](http://arxiv.org/abs/2404.05587v1)|null|
 |**2024-04-08**|**Multi-Task Learning for Features Extraction in Financial Annual Reports**|Syrielle Montariol et.al.|[2404.05281v1](http://arxiv.org/abs/2404.05281v1)|**[link](https://gitlab.com/smontariol/multi-task-esg)**|
@@ -1463,7 +1463,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240416'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240417'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -1809,7 +1809,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240416'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240417'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -2085,7 +2085,7 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240416'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240417'>back to top</a>)</p>
 
 ## GNN
 
@@ -2621,5 +2621,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240416'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240417'>back to top</a>)</p>
 
