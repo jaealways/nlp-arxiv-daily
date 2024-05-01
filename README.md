@@ -1,4 +1,4 @@
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,7 +24,7 @@
 |**2024-04-29**|**From ChatGPT, DALL-E 3 to Sora: How has Generative AI Changed Digital Humanities Research and Services?**|Jiangfeng Liu et.al.|[2404.18518v1](http://arxiv.org/abs/2404.18518v1)|null|
 |**2024-04-29**|**Quantitative Tools for Time Series Analysis in Natural Language Processing: A Practitioners Guide**|W. Benedikt Schmal et.al.|[2404.18499v1](http://arxiv.org/abs/2404.18499v1)|null|
 |**2024-04-28**|**Mapping 'when'-clauses in Latin American and Caribbean languages: an experiment in subtoken-based typology**|Nilo Pedrazzini et.al.|[2404.18257v1](http://arxiv.org/abs/2404.18257v1)|null|
-|**2024-04-28**|**PatentGPT: A Large Language Model for Intellectual Property**|Zilong Bai et.al.|[2404.18255v1](http://arxiv.org/abs/2404.18255v1)|null|
+|**2024-04-30**|**PatentGPT: A Large Language Model for Intellectual Property**|Zilong Bai et.al.|[2404.18255v2](http://arxiv.org/abs/2404.18255v2)|null|
 |**2024-04-28**|**4DBInfer: A 4D Benchmarking Toolbox for Graph-Centric Predictive Modeling on Relational DBs**|Minjie Wang et.al.|[2404.18209v1](http://arxiv.org/abs/2404.18209v1)|**[link](https://github.com/awslabs/multi-table-benchmark)**|
 |**2024-04-28**|**Exploring the Robustness of In-Context Learning with Noisy Labels**|Chen Cheng et.al.|[2404.18191v1](http://arxiv.org/abs/2404.18191v1)|**[link](https://github.com/inezyu0928/in-context-learning)**|
 |**2024-04-28**|**Application and practice of AI technology in quantitative investment**|Shuochen Bi et.al.|[2404.18184v1](http://arxiv.org/abs/2404.18184v1)|null|
@@ -677,7 +677,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240430'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240501'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -696,7 +696,7 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240430'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240501'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -894,7 +894,7 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240430'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240501'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -1458,7 +1458,7 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20240430'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240501'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -1659,7 +1659,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240430'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240501'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -2054,7 +2054,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240430'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240501'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -2065,7 +2065,7 @@
 |**2024-04-26**|**Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering**|Zhentao Xu et.al.|[2404.17723v1](http://arxiv.org/abs/2404.17723v1)|null|
 |**2024-04-25**|**Evaluating Class Membership Relations in Knowledge Graphs using Large Language Models**|Bradley P. Allen et.al.|[2404.17000v1](http://arxiv.org/abs/2404.17000v1)|**[link](https://github.com/bradleypallen/evaluating-kg-class-memberships-using-llms)**|
 |**2024-04-23**|**Aligning Knowledge Graphs Provided by Humans and Generated from Neural Networks in Specific Tasks**|Tangrui Li et.al.|[2404.16884v1](http://arxiv.org/abs/2404.16884v1)|**[link](https://github.com/moonwalker1997/vsannkgalignment)**|
-|**2024-04-25**|**History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting**|Julia Gastinger et.al.|[2404.16726v1](http://arxiv.org/abs/2404.16726v1)|**[link](https://github.com/nec-research/recurrency_baseline_tkg)**|
+|**2024-04-29**|**History repeats Itself: A Baseline for Temporal Knowledge Graph Forecasting**|Julia Gastinger et.al.|[2404.16726v2](http://arxiv.org/abs/2404.16726v2)|**[link](https://github.com/nec-research/recurrency_baseline_tkg)**|
 |**2024-04-25**|**ReliK: A Reliability Measure for Knowledge Graph Embeddings**|Maximilian K. Egger et.al.|[2404.16572v1](http://arxiv.org/abs/2404.16572v1)|null|
 |**2024-04-25**|**Lost in Recursion: Mining Rich Event Semantics in Knowledge Graphs**|Florian Plötzky et.al.|[2404.16405v1](http://arxiv.org/abs/2404.16405v1)|**[link](https://github.com/fploetzky/websci2024)**|
 |**2024-04-24**|**Knowledge Graph Completion using Structural and Textual Embeddings**|Sakher Khalil Alqaaidi et.al.|[2404.16206v1](http://arxiv.org/abs/2404.16206v1)|**[link](https://github.com/sa5r/kgrp)**|
@@ -2361,7 +2361,7 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240430'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240501'>back to top</a>)</p>
 
 ## GNN
 
@@ -2959,5 +2959,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240430'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240501'>back to top</a>)</p>
 
