@@ -22,6 +22,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Natural Language Processing RELIES on Linguistics**|Juri Opitz et.al.|[2405.05966v1](http://arxiv.org/abs/2405.05966v1)|null|
+|**2024-05-09**|**Revitalising Stagecraft: NLP-Driven Sentiment Analysis for Traditional Theater Revival**|Saikat Samanta et.al.|[2405.05813v1](http://arxiv.org/abs/2405.05813v1)|null|
+|**2024-05-09**|**Enhancing Suicide Risk Detection on Social Media through Semi-Supervised Deep Label Smoothing**|Matthew Squires et.al.|[2405.05795v1](http://arxiv.org/abs/2405.05795v1)|null|
+|**2024-05-09**|**Towards a More Inclusive AI: Progress and Perspectives in Large Language Model Training for the Sámi Language**|Ronny Paul et.al.|[2405.05777v1](http://arxiv.org/abs/2405.05777v1)|null|
+|**2024-05-09**|**Computational lexical analysis of Flamenco genres**|Pablo Rosillo-Rodes et.al.|[2405.05723v1](http://arxiv.org/abs/2405.05723v1)|null|
+|**2024-05-09**|**Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM**|Xikang Yang et.al.|[2405.05610v1](http://arxiv.org/abs/2405.05610v1)|null|
+|**2024-05-09**|**A Survey on Backbones for Deep Video Action Recognition**|Zixuan Tang et.al.|[2405.05584v1](http://arxiv.org/abs/2405.05584v1)|null|
+|**2024-05-08**|**Enhancing Holonic Architecture with Natural Language Processing for System of Systems**|Muhammad Ashfaq et.al.|[2405.05365v1](http://arxiv.org/abs/2405.05365v1)|null|
 |**2024-05-08**|**CARE-SD: Classifier-based analysis for recognizing and eliminating stigmatizing and doubt marker labels in electronic health records: model development and validation**|Drew Walker et.al.|[2405.05204v1](http://arxiv.org/abs/2405.05204v1)|null|
 |**2024-05-08**|**An Artificial Intelligence Approach for Interpreting Creative Combinational Designs**|Liuqing Chen et.al.|[2405.04985v1](http://arxiv.org/abs/2405.04985v1)|null|
 |**2024-05-08**|**Improving Long Text Understanding with Knowledge Distilled from Summarization Model**|Yan Liu et.al.|[2405.04955v1](http://arxiv.org/abs/2405.04955v1)|null|
@@ -761,6 +769,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization**|Zeyi Wang et.al.|[2405.05767v1](http://arxiv.org/abs/2405.05767v1)|null|
+|**2024-05-09**|**Can We Use Large Language Models to Fill Relevance Judgment Holes?**|Zahra Abbasiantaeb et.al.|[2405.05600v1](http://arxiv.org/abs/2405.05600v1)|null|
 |**2024-05-08**|**NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair**|Ruoke Wang et.al.|[2405.04994v1](http://arxiv.org/abs/2405.04994v1)|null|
 |**2024-05-08**|**Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**|Zhengxing Lan et.al.|[2405.04909v1](http://arxiv.org/abs/2405.04909v1)|null|
 |**2024-05-06**|**FOKE: A Personalized and Explainable Education Framework Integrating Foundation Models, Knowledge Graphs, and Prompt Engineering**|Silan Hu et.al.|[2405.03734v1](http://arxiv.org/abs/2405.03734v1)|null|
@@ -977,6 +987,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616v1](http://arxiv.org/abs/2405.05616v1)|null|
+|**2024-05-09**|**Redefining Information Retrieval of Structured Database via Large Language Models**|Mingzhu Wang et.al.|[2405.05508v1](http://arxiv.org/abs/2405.05508v1)|null|
+|**2024-05-09**|**Parameter-Efficient Fine-Tuning With Adapters**|Keyu Chen et.al.|[2405.05493v1](http://arxiv.org/abs/2405.05493v1)|null|
 |**2024-05-08**|**Improving Long Text Understanding with Knowledge Distilled from Summarization Model**|Yan Liu et.al.|[2405.04955v1](http://arxiv.org/abs/2405.04955v1)|null|
 |**2024-05-08**|**Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages**|Sankalp Bahad et.al.|[2405.04829v1](http://arxiv.org/abs/2405.04829v1)|null|
 |**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819v1](http://arxiv.org/abs/2405.04819v1)|**[link](https://github.com/david-li0406/dalk)**|
@@ -1583,6 +1596,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Information Extraction from Historical Well Records Using A Large Language Model**|Zhiwei Ma et.al.|[2405.05438v1](http://arxiv.org/abs/2405.05438v1)|null|
 |**2024-05-08**|**ADELIE: Aligning Large Language Models on Information Extraction**|Yunjia Qi et.al.|[2405.05008v1](http://arxiv.org/abs/2405.05008v1)|**[link](https://github.com/THU-KEG/ADELIE)**|
 |**2024-05-08**|**NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair**|Ruoke Wang et.al.|[2405.04994v1](http://arxiv.org/abs/2405.04994v1)|null|
 |**2024-05-08**|**CleanGraph: Human-in-the-loop Knowledge Graph Refinement and Completion**|Tyler Bikaun et.al.|[2405.03932v2](http://arxiv.org/abs/2405.03932v2)|**[link](https://github.com/nlp-tlp/cleangraph)**|
@@ -1800,6 +1814,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Optimal Baseline Corrections for Off-Policy Contextual Bandits**|Shashank Gupta et.al.|[2405.05736v1](http://arxiv.org/abs/2405.05736v1)|null|
+|**2024-05-09**|**Review-based Recommender Systems: A Survey of Approaches, Challenges and Future Perspectives**|Emrul Hasan et.al.|[2405.05562v1](http://arxiv.org/abs/2405.05562v1)|null|
+|**2024-05-08**|**Learning Social Graph for Inactive User Recommendation**|Nian Liu et.al.|[2405.05288v1](http://arxiv.org/abs/2405.05288v1)|**[link](https://github.com/liun-online/lsir)**|
 |**2024-05-08**|**Impact of Tone-Aware Explanations in Recommender Systems**|Ayano Okoso et.al.|[2405.05061v1](http://arxiv.org/abs/2405.05061v1)|null|
 |**2024-05-08**|**Dual-domain Collaborative Denoising for Social Recommendation**|Wenjie Chen et.al.|[2405.04942v1](http://arxiv.org/abs/2405.04942v1)|null|
 |**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840v1](http://arxiv.org/abs/2405.04840v1)|**[link](https://github.com/Zhangcx19/IJCAI-24-FedPA)**|
@@ -2231,6 +2248,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616v1](http://arxiv.org/abs/2405.05616v1)|null|
 |**2024-05-08**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229v1](http://arxiv.org/abs/2405.05229v1)|**[link](https://github.com/cns-iu/myaura)**|
 |**2024-05-08**|**Enabling Roll-up and Drill-down Operations in News Exploration with Knowledge Graphs for Due Diligence and Risk Management**|Sha Wang et.al.|[2405.04929v1](http://arxiv.org/abs/2405.04929v1)|null|
 |**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819v1](http://arxiv.org/abs/2405.04819v1)|**[link](https://github.com/david-li0406/dalk)**|
@@ -2568,6 +2586,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Deploying Graph Neural Networks in Wireless Networks: A Link Stability Viewpoint**|Jun Li et.al.|[2405.05802v1](http://arxiv.org/abs/2405.05802v1)|null|
+|**2024-05-09**|**Link Stealing Attacks Against Inductive Graph Neural Networks**|Yixin Wu et.al.|[2405.05784v1](http://arxiv.org/abs/2405.05784v1)|**[link](https://github.com/yxoh/link_steal_pets2024)**|
+|**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616v1](http://arxiv.org/abs/2405.05616v1)|null|
 |**2024-05-08**|**DiskGNN: Bridging I/O Efficiency and Model Accuracy for Out-of-Core GNN Training**|Renjie Liu et.al.|[2405.05231v1](http://arxiv.org/abs/2405.05231v1)|null|
 |**2024-05-08**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205v1](http://arxiv.org/abs/2405.05205v1)|null|
 |**2024-05-08**|**Dual-domain Collaborative Denoising for Social Recommendation**|Wenjie Chen et.al.|[2405.04942v1](http://arxiv.org/abs/2405.04942v1)|null|
