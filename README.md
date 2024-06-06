@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review**|Sonia Bbouzidi et.al.|[2406.03478v1](http://arxiv.org/abs/2406.03478v1)|null|
+|**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470v1](http://arxiv.org/abs/2406.03470v1)|null|
+|**2024-06-05**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248v1](http://arxiv.org/abs/2406.03248v1)|**[link](https://github.com/xiaoyu-sz/llmasevaluator)**|
+|**2024-06-05**|**Error-preserving Automatic Speech Recognition of Young English Learners' Language**|Janick Michot et.al.|[2406.03235v1](http://arxiv.org/abs/2406.03235v1)|**[link](https://github.com/mict-zhaw/chall_e2e_stt)**|
+|**2024-06-05**|**GET: A Generative EEG Transformer for continuous context-based neural**|Omair Ali et.al.|[2406.03115v1](http://arxiv.org/abs/2406.03115v1)|null|
+|**2024-06-05**|**BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents**|Yifei Wang et.al.|[2406.03007v1](http://arxiv.org/abs/2406.03007v1)|**[link](https://github.com/dpamk/badagent)**|
+|**2024-06-05**|**The Task-oriented Queries Benchmark (ToQB)**|Keun Soo Yim et.al.|[2406.02943v1](http://arxiv.org/abs/2406.02943v1)|null|
 |**2024-06-04**|**Large Language Models Make Sample-Efficient Recommender Systems**|Jianghao Lin et.al.|[2406.02368v1](http://arxiv.org/abs/2406.02368v1)|null|
 |**2024-06-04**|**Technical Language Processing for Telecommunications Specifications**|Felipe A. Rodriguez Y. et.al.|[2406.02325v1](http://arxiv.org/abs/2406.02325v1)|null|
 |**2024-06-04**|**MidiCaps -- A large-scale MIDI dataset with text captions**|Jan Melechovsky et.al.|[2406.02255v1](http://arxiv.org/abs/2406.02255v1)|**[link](https://github.com/AMAAI-Lab/MidiCaps)**|
@@ -898,6 +905,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Instructing Prompt-to-Prompt Generation for Zero-Shot Learning**|Man Liu et.al.|[2406.03032v1](http://arxiv.org/abs/2406.03032v1)|null|
 |**2024-06-02**|**Applying Fine-Tuned LLMs for Reducing Data Needs in Load Profile Analysis**|Yi Hu et.al.|[2406.02479v1](http://arxiv.org/abs/2406.02479v1)|null|
 |**2024-06-04**|**HoneyGPT: Breaking the Trilemma in Terminal Honeypots with Large Language Model**|Ziyang Wang et.al.|[2406.01882v1](http://arxiv.org/abs/2406.01882v1)|null|
 |**2024-06-01**|**InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation**|Jacob Si et.al.|[2406.00426v1](http://arxiv.org/abs/2406.00426v1)|**[link](https://github.com/jacobyhsi/InterpreTabNet)**|
@@ -1146,6 +1154,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496v1](http://arxiv.org/abs/2406.03496v1)|null|
+|**2024-06-05**|**CSS: Contrastive Semantic Similarity for Uncertainty Quantification of LLMs**|Shuang Ao et.al.|[2406.03158v1](http://arxiv.org/abs/2406.03158v1)|**[link](https://github.com/aoshuang92/css_uq_llms)**|
+|**2024-06-05**|**A-Bench: Are LMMs Masters at Evaluating AI-generated Images?**|Zicheng Zhang et.al.|[2406.03070v1](http://arxiv.org/abs/2406.03070v1)|**[link](https://github.com/q-future/a-bench)**|
+|**2024-06-05**|**Balancing Performance and Efficiency in Zero-shot Robotic Navigation**|Dmytro Kuzmenko et.al.|[2406.03015v1](http://arxiv.org/abs/2406.03015v1)|null|
+|**2024-06-04**|**Chain of Agents: Large Language Models Collaborating on Long-Context Tasks**|Yusen Zhang et.al.|[2406.02818v1](http://arxiv.org/abs/2406.02818v1)|null|
+|**2024-06-04**|**Diffusion-Refined VQA Annotations for Semi-Supervised Gaze Following**|Qiaomu Miao et.al.|[2406.02774v1](http://arxiv.org/abs/2406.02774v1)|null|
+|**2024-06-04**|**Story Generation from Visual Inputs: Techniques, Related Tasks, and Challenges**|Daniel A. P. Oliveira et.al.|[2406.02748v1](http://arxiv.org/abs/2406.02748v1)|null|
 |**2024-06-04**|**Retaining Key Information under High Compression Ratios: Query-Guided Compressor for LLMs**|Zhiwei Cao et.al.|[2406.02376v1](http://arxiv.org/abs/2406.02376v1)|**[link](https://github.com/DeepLearnXMU/QGC)**|
 |**2024-06-04**|**Translation Deserves Better: Analyzing Translation Artifacts in Cross-lingual Visual Question Answering**|ChaeHun Park et.al.|[2406.02331v1](http://arxiv.org/abs/2406.02331v1)|null|
 |**2024-06-04**|**Enhancing Retrieval-Augmented LMs with a Two-stage Consistency Learning Compressor**|Chuankai Xu et.al.|[2406.02266v1](http://arxiv.org/abs/2406.02266v1)|null|
@@ -1860,6 +1875,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248v1](http://arxiv.org/abs/2406.03248v1)|**[link](https://github.com/xiaoyu-sz/llmasevaluator)**|
 |**2024-06-04**|**Synergetic Event Understanding: A Collaborative Approach to Cross-Document Event Coreference Resolution with Large Language Models**|Qingkai Min et.al.|[2406.02148v1](http://arxiv.org/abs/2406.02148v1)|**[link](https://github.com/taolusi/secure)**|
 |**2024-06-04**|**Assessing the Performance of Chinese Open Source Large Language Models in Information Extraction Tasks**|Yida Cai et.al.|[2406.02079v1](http://arxiv.org/abs/2406.02079v1)|null|
 |**2024-06-03**|**Decompose, Enrich, and Extract! Schema-aware Event Extraction using LLMs**|Fatemeh Shiri et.al.|[2406.01045v1](http://arxiv.org/abs/2406.01045v1)|null|
@@ -2112,13 +2128,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Improving Users' Passwords with DPAR: a Data-driven Password Recommendation System**|Assaf Morag et.al.|[2406.03423v1](http://arxiv.org/abs/2406.03423v1)|null|
+|**2024-06-05**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248v1](http://arxiv.org/abs/2406.03248v1)|**[link](https://github.com/xiaoyu-sz/llmasevaluator)**|
+|**2024-06-05**|**Item-Language Model for Conversational Recommendation**|Li Yang et.al.|[2406.02844v1](http://arxiv.org/abs/2406.02844v1)|null|
 |**2024-06-04**|**Uncertainty of Joint Neural Contextual Bandit**|Hongbo Guo et.al.|[2406.02515v1](http://arxiv.org/abs/2406.02515v1)|null|
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377v1](http://arxiv.org/abs/2406.02377v1)|**[link](https://github.com/hkuds/xrec)**|
 |**2024-06-04**|**Large Language Models Make Sample-Efficient Recommender Systems**|Jianghao Lin et.al.|[2406.02368v1](http://arxiv.org/abs/2406.02368v1)|null|
 |**2024-06-05**|**Pairwise Ranking Loss for Multi-Task Learning in Recommender Systems**|Furkan Durmus et.al.|[2406.02163v2](http://arxiv.org/abs/2406.02163v2)|null|
-|**2024-06-04**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934v1](http://arxiv.org/abs/2406.01934v1)|null|
+|**2024-06-05**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934v2](http://arxiv.org/abs/2406.01934v2)|null|
 |**2024-06-03**|**Large Language Models as Recommender Systems: A Study of Popularity Bias**|Jan Malte Lichtenberg et.al.|[2406.01285v1](http://arxiv.org/abs/2406.01285v1)|null|
-|**2024-06-05**|**Poisoning Attacks and Defenses in Recommender Systems: A Survey**|Zongwei Wang et.al.|[2406.01022v2](http://arxiv.org/abs/2406.01022v2)|null|
+|**2024-06-05**|**Poisoning Attacks and Defenses in Recommender Systems: A Survey**|Zongwei Wang et.al.|[2406.01022v2](http://arxiv.org/abs/2406.01022v2)|**[link](https://github.com/coderwzw/arlib)**|
 |**2024-06-03**|**Cold-start Recommendation by Personalized Embedding Region Elicitation**|Hieu Trung Nguyen et.al.|[2406.00973v1](http://arxiv.org/abs/2406.00973v1)|null|
 |**2024-06-02**|**Maximum-Entropy Regularized Decision Transformer with Reward Relabelling for Dynamic Recommendation**|Xiaocong Chen et.al.|[2406.00725v1](http://arxiv.org/abs/2406.00725v1)|null|
 |**2024-06-02**|**Making Recommender Systems More Knowledgeable: A Framework to Incorporate Side Information**|Yukun Jiang et.al.|[2406.00615v1](http://arxiv.org/abs/2406.00615v1)|**[link](https://github.com/YukunJ/11785-Final-Project-Team15)**|
@@ -2635,10 +2654,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models**|Qiang Sun et.al.|[2406.02962v1](http://arxiv.org/abs/2406.02962v1)|null|
 |**2024-06-04**|**Query-Enhanced Adaptive Semantic Path Reasoning for Inductive Knowledge Graph Completion**|Kai Sun et.al.|[2406.02205v1](http://arxiv.org/abs/2406.02205v1)|null|
 |**2024-06-04**|**UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**|Zhuoyang Li et.al.|[2406.02110v1](http://arxiv.org/abs/2406.02110v1)|null|
 |**2024-06-05**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030v2](http://arxiv.org/abs/2406.02030v2)|null|
-|**2024-06-04**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934v1](http://arxiv.org/abs/2406.01934v1)|null|
+|**2024-06-05**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934v2](http://arxiv.org/abs/2406.01934v2)|null|
 |**2024-06-03**|**From Latent to Lucid: Transforming Knowledge Graph Embeddings into Interpretable Structures**|Christoph Wehner et.al.|[2406.01759v1](http://arxiv.org/abs/2406.01759v1)|null|
 |**2024-06-03**|**How to Understand Whole Software Repository?**|Yingwei Ma et.al.|[2406.01422v1](http://arxiv.org/abs/2406.01422v1)|null|
 |**2024-06-03**|**Knowledge Graph in Astronomical Research with Large Language Models: Quantifying Driving Forces in Interdisciplinary Scientific Discovery**|Zechang Sun et.al.|[2406.01391v1](http://arxiv.org/abs/2406.01391v1)|null|
@@ -3048,6 +3068,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach**|Haoyu Han et.al.|[2406.03464v1](http://arxiv.org/abs/2406.03464v1)|null|
+|**2024-06-05**|**Learning Long Range Dependencies on Graphs via Random Walks**|Dexiong Chen et.al.|[2406.03386v1](http://arxiv.org/abs/2406.03386v1)|null|
+|**2024-06-05**|**Using GNN property predictors as molecule generators**|Félix Therrien et.al.|[2406.03278v1](http://arxiv.org/abs/2406.03278v1)|null|
+|**2024-06-05**|**Exploring Higher Order Structures in Graph Explanantions**|Akshit Sinha et.al.|[2406.03253v1](http://arxiv.org/abs/2406.03253v1)|null|
+|**2024-06-05**|**Graph Neural Network Explanations are Fragile**|Jiate Li et.al.|[2406.03193v1](http://arxiv.org/abs/2406.03193v1)|null|
+|**2024-06-05**|**Topological Neural Networks go Persistent, Equivariant, and Continuous**|Yogesh Verma et.al.|[2406.03164v1](http://arxiv.org/abs/2406.03164v1)|null|
+|**2024-06-05**|**Aligning Transformers with Weisfeiler-Leman**|Luis Müller et.al.|[2406.03148v1](http://arxiv.org/abs/2406.03148v1)|**[link](https://github.com/luis-mueller/wl-transformers)**|
+|**2024-06-05**|**E(n) Equivariant Message Passing Cellular Networks**|Veljko Kovac et.al.|[2406.03145v1](http://arxiv.org/abs/2406.03145v1)|null|
+|**2024-06-05**|**A Data and Model-Driven Deep Learning Approach to Robust Downlink Beamforming Optimization**|Kai Liang et.al.|[2406.03098v1](http://arxiv.org/abs/2406.03098v1)|null|
+|**2024-06-05**|**Enhancing the Resilience of Graph Neural Networks to Topological Perturbations in Sparse Graphs**|Shuqi He et.al.|[2406.03097v1](http://arxiv.org/abs/2406.03097v1)|null|
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377v1](http://arxiv.org/abs/2406.02377v1)|**[link](https://github.com/hkuds/xrec)**|
 |**2024-06-04**|**Temporal Graph Rewiring with Expander Graphs**|Katarina Petrović et.al.|[2406.02362v1](http://arxiv.org/abs/2406.02362v1)|**[link](https://github.com/kpetrovicc/tgr)**|
 |**2024-06-04**|**AMOSL: Adaptive Modality-wise Structure Learning in Multi-view Graph Neural Networks For Enhanced Unified Representation**|Peiyu Liang et.al.|[2406.02348v1](http://arxiv.org/abs/2406.02348v1)|null|
