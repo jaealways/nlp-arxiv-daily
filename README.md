@@ -1,4 +1,4 @@
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -890,7 +890,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240610'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -909,7 +909,7 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240610'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -921,7 +921,7 @@
 |**2024-06-05**|**Instructing Prompt-to-Prompt Generation for Zero-Shot Learning**|Man Liu et.al.|[2406.03032v1](http://arxiv.org/abs/2406.03032v1)|null|
 |**2024-06-02**|**Applying Fine-Tuned LLMs for Reducing Data Needs in Load Profile Analysis**|Yi Hu et.al.|[2406.02479v1](http://arxiv.org/abs/2406.02479v1)|null|
 |**2024-06-04**|**HoneyGPT: Breaking the Trilemma in Terminal Honeypots with Large Language Model**|Ziyang Wang et.al.|[2406.01882v1](http://arxiv.org/abs/2406.01882v1)|null|
-|**2024-06-01**|**InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation**|Jacob Si et.al.|[2406.00426v1](http://arxiv.org/abs/2406.00426v1)|**[link](https://github.com/jacobyhsi/InterpreTabNet)**|
+|**2024-06-07**|**InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation**|Jacob Si et.al.|[2406.00426v2](http://arxiv.org/abs/2406.00426v2)|**[link](https://github.com/jacobyhsi/InterpreTabNet)**|
 |**2024-06-01**|**Easy Problems That LLMs Get Wrong**|Sean Williams et.al.|[2405.19616v2](http://arxiv.org/abs/2405.19616v2)|**[link](https://github.com/autogenai/easy-problems-that-llms-get-wrong)**|
 |**2024-05-29**|**Adaptive In-conversation Team Building for Language Model Agents**|Linxin Song et.al.|[2405.19425v1](http://arxiv.org/abs/2405.19425v1)|null|
 |**2024-05-29**|**Can Graph Learning Improve Task Planning?**|Xixi Wu et.al.|[2405.19119v1](http://arxiv.org/abs/2405.19119v1)|null|
@@ -1161,7 +1161,7 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240610'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -1891,7 +1891,7 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20240609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240610'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -2146,7 +2146,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240610'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -2673,7 +2673,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240610'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -3091,14 +3091,14 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240610'>back to top</a>)</p>
 
 ## GNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336v1](http://arxiv.org/abs/2406.04336v1)|**[link](https://github.com/LingxiaoShawn/EPNN-Experiments)**|
-|**2024-06-06**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299v1](http://arxiv.org/abs/2406.04299v1)|**[link](https://github.com/eaglelab-zju/noisygl)**|
+|**2024-06-07**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299v2](http://arxiv.org/abs/2406.04299v2)|**[link](https://github.com/eaglelab-zju/noisygl)**|
 |**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267v1](http://arxiv.org/abs/2406.04267v1)|null|
 |**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052v1](http://arxiv.org/abs/2406.04052v1)|**[link](https://github.com/congliuUvA/Multivector-Neurons)**|
 |**2024-06-06**|**Energy-based Epistemic Uncertainty for Graph Neural Networks**|Dominik Fuchsgruber et.al.|[2406.04043v1](http://arxiv.org/abs/2406.04043v1)|null|
@@ -3883,5 +3883,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240610'>back to top</a>)</p>
 
