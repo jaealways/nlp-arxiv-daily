@@ -1,4 +1,4 @@
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -910,7 +910,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -929,7 +929,7 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -940,10 +940,10 @@
 |**2024-06-09**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Automated Program Repair**|Guochang Li et.al.|[2406.05639v1](http://arxiv.org/abs/2406.05639v1)|null|
 |**2024-06-09**|**Can Prompt Modifiers Control Bias? A Comparative Analysis of Text-to-Image Generative Models**|Philip Wootaek Shin et.al.|[2406.05602v1](http://arxiv.org/abs/2406.05602v1)|null|
 |**2024-06-08**|**Creativity Has Left the Chat: The Price of Debiasing Language Models**|Behnam Mohammadi et.al.|[2406.05587v1](http://arxiv.org/abs/2406.05587v1)|null|
-|**2024-06-08**|**Planning Like Human: A Dual-process Framework for Dialogue Planning**|Tao He et.al.|[2406.05374v1](http://arxiv.org/abs/2406.05374v1)|null|
+|**2024-06-08**|**Planning Like Human: A Dual-process Framework for Dialogue Planning**|Tao He et.al.|[2406.05374v1](http://arxiv.org/abs/2406.05374v1)|**[link](https://github.com/cs-holder/DPDP)**|
 |**2024-06-08**|**Is On-Device AI Broken and Exploitable? Assessing the Trust and Ethics in Small Language Models**|Kalyan Nakka et.al.|[2406.05364v1](http://arxiv.org/abs/2406.05364v1)|null|
 |**2024-06-06**|**llmNER: (Zero|Few)-Shot Named Entity Recognition, Exploiting the Power of Large Language Models**|Fabián Villena et.al.|[2406.04528v1](http://arxiv.org/abs/2406.04528v1)|null|
-|**2024-06-06**|**Online Joint Fine-tuning of Multi-Agent Flows**|Paul Mineiro et.al.|[2406.04516v1](http://arxiv.org/abs/2406.04516v1)|null|
+|**2024-06-11**|**Online Joint Fine-tuning of Multi-Agent Flows**|Paul Mineiro et.al.|[2406.04516v2](http://arxiv.org/abs/2406.04516v2)|**[link](https://github.com/pmineiro/musique-off)**|
 |**2024-06-03**|**VerilogReader: LLM-Aided Hardware Test Generation**|Ruiyang Ma et.al.|[2406.04373v1](http://arxiv.org/abs/2406.04373v1)|null|
 |**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331v1](http://arxiv.org/abs/2406.04331v1)|**[link](https://github.com/peterljq/parsimonious-concept-engineering)**|
 |**2024-06-06**|**LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model**|Yixuan Yang et.al.|[2406.03866v1](http://arxiv.org/abs/2406.03866v1)|null|
@@ -1191,7 +1191,7 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -1199,7 +1199,7 @@
 |---|---|---|---|---|
 |**2024-06-10**|**Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning**|Joongwon Kim et.al.|[2406.06469v1](http://arxiv.org/abs/2406.06469v1)|**[link](https://github.com/agent-husky/husky-v1)**|
 |**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464v1](http://arxiv.org/abs/2406.06464v1)|null|
-|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462v1](http://arxiv.org/abs/2406.06462v1)|null|
+|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462v1](http://arxiv.org/abs/2406.06462v1)|**[link](https://github.com/tianyu-z/vcr)**|
 |**2024-06-10**|**Evaluating the Retrieval Component in LLM-Based Question Answering Systems**|Ashkan Alinejad et.al.|[2406.06458v1](http://arxiv.org/abs/2406.06458v1)|null|
 |**2024-06-10**|**Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue**|Simone Alghisi et.al.|[2406.06399v1](http://arxiv.org/abs/2406.06399v1)|null|
 |**2024-06-10**|**MedExQA: Medical Question Answering Benchmark with Multiple Explanations**|Yunsoo Kim et.al.|[2406.06331v1](http://arxiv.org/abs/2406.06331v1)|null|
@@ -1938,7 +1938,7 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -2197,7 +2197,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -2205,7 +2205,7 @@
 |---|---|---|---|---|
 |**2024-06-10**|**Survey for Landing Generative AI in Social and E-commerce Recsys -- the Industry Perspectives**|Da Xu et.al.|[2406.06475v1](http://arxiv.org/abs/2406.06475v1)|null|
 |**2024-06-10**|**Greedy SLIM: A SLIM-Based Approach For Preference Elicitation**|Claudius Proissl et.al.|[2406.06061v1](http://arxiv.org/abs/2406.06061v1)|null|
-|**2024-06-10**|**Modeling User Retention through Generative Flow Networks**|Ziru Liu et.al.|[2406.06043v1](http://arxiv.org/abs/2406.06043v1)|null|
+|**2024-06-10**|**Modeling User Retention through Generative Flow Networks**|Ziru Liu et.al.|[2406.06043v1](http://arxiv.org/abs/2406.06043v1)|**[link](https://github.com/Applied-Machine-Learning-Lab/GFN4Retention)**|
 |**2024-06-09**|**Async Learned User Embeddings for Ads Delivery Optimization**|Mingwei Tang et.al.|[2406.05898v1](http://arxiv.org/abs/2406.05898v1)|null|
 |**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387v1](http://arxiv.org/abs/2406.05387v1)|null|
 |**2024-06-07**|**Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers**|Lütfi Kerem Senel et.al.|[2406.05255v1](http://arxiv.org/abs/2406.05255v1)|null|
@@ -2735,7 +2735,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -2745,7 +2745,7 @@
 |**2024-06-10**|**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**|Pranoy Panda et.al.|[2406.06027v1](http://arxiv.org/abs/2406.06027v1)|null|
 |**2024-06-09**|**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**|Corren McCoy et.al.|[2406.05933v1](http://arxiv.org/abs/2406.05933v1)|null|
 |**2024-06-10**|**Data2Neo -- A Tool for Complex Neo4j Data Integration**|Julian Minder et.al.|[2406.04995v2](http://arxiv.org/abs/2406.04995v2)|null|
-|**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989v1](http://arxiv.org/abs/2406.04989v1)|null|
+|**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989v1](http://arxiv.org/abs/2406.04989v1)|**[link](https://github.com/ltgoslo/text-graph-generalization)**|
 |**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744v1](http://arxiv.org/abs/2406.04744v1)|null|
 |**2024-06-06**|**Tox-BART: Leveraging Toxicity Attributes for Explanation Generation of Implicit Hate Speech**|Neemesh Yadav et.al.|[2406.03953v1](http://arxiv.org/abs/2406.03953v1)|null|
 |**2024-06-06**|**Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**|Eden Avnat et.al.|[2406.03855v1](http://arxiv.org/abs/2406.03855v1)|null|
@@ -3159,7 +3159,7 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## GNN
 
@@ -3168,7 +3168,7 @@
 |**2024-06-10**|**Spatiotemporal Graph Neural Network Modelling Perfusion MRI**|Ruodan Yan et.al.|[2406.06434v1](http://arxiv.org/abs/2406.06434v1)|null|
 |**2024-06-10**|**Explainable Graph Neural Networks Under Fire**|Zhong Li et.al.|[2406.06417v1](http://arxiv.org/abs/2406.06417v1)|null|
 |**2024-06-10**|**Learning Physical Simulation with Message Passing Transformer**|Zeyi Xu et.al.|[2406.06060v1](http://arxiv.org/abs/2406.06060v1)|null|
-|**2024-06-10**|**MAGNOLIA: Matching Algorithms via GNNs for Online Value-to-go Approximation**|Alexandre Hayderi et.al.|[2406.05959v1](http://arxiv.org/abs/2406.05959v1)|null|
+|**2024-06-10**|**MAGNOLIA: Matching Algorithms via GNNs for Online Value-to-go Approximation**|Alexandre Hayderi et.al.|[2406.05959v1](http://arxiv.org/abs/2406.05959v1)|**[link](https://github.com/anders-wikum/GNN-OBM)**|
 |**2024-06-09**|**Expressive Power of Graph Neural Networks for (Mixed-Integer) Quadratic Programs**|Ziang Chen et.al.|[2406.05938v1](http://arxiv.org/abs/2406.05938v1)|null|
 |**2024-06-09**|**Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models**|Aidan Z. H. Yang et.al.|[2406.05892v1](http://arxiv.org/abs/2406.05892v1)|null|
 |**2024-06-09**|**Scaling Graph Convolutions for Mobile Vision**|William Avery et.al.|[2406.05850v1](http://arxiv.org/abs/2406.05850v1)|**[link](https://github.com/sldgroup/mobilevigv2)**|
@@ -3971,5 +3971,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
