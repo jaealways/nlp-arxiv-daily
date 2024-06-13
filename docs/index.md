@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -924,7 +924,7 @@ layout: default
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240613'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -943,7 +943,7 @@ layout: default
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240613'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -1207,7 +1207,7 @@ layout: default
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240613'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -1218,7 +1218,7 @@ layout: default
 |**2024-06-11**|**Paraphrasing in Affirmative Terms Improves Negation Understanding**|MohammadHossein Rezaei et.al.|[2406.07492v1](http://arxiv.org/abs/2406.07492v1)|null|
 |**2024-06-11**|**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**|Zesen Cheng et.al.|[2406.07476v1](http://arxiv.org/abs/2406.07476v1)|**[link](https://github.com/damo-nlp-sg/videollama2)**|
 |**2024-06-11**|**Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning**|Shuvendu Roy et.al.|[2406.07450v1](http://arxiv.org/abs/2406.07450v1)|**[link](https://github.com/shuvenduroy/multimodal)**|
-|**2024-06-11**|**DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation for Question-Answering**|Zijian Hei et.al.|[2406.07348v1](http://arxiv.org/abs/2406.07348v1)|null|
+|**2024-06-12**|**DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation for Question-Answering**|Zijian Hei et.al.|[2406.07348v2](http://arxiv.org/abs/2406.07348v2)|null|
 |**2024-06-11**|**Scholarly Question Answering using Large Language Models in the NFDI4DataScience Gateway**|Hamed Babaei Giglou et.al.|[2406.07257v1](http://arxiv.org/abs/2406.07257v1)|null|
 |**2024-06-11**|**MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs**|Vera Neplenbroek et.al.|[2406.07243v1](http://arxiv.org/abs/2406.07243v1)|null|
 |**2024-06-11**|**RS-Agent: Automating Remote Sensing Tasks through Intelligent Agents**|Wenjia Xu et.al.|[2406.07089v1](http://arxiv.org/abs/2406.07089v1)|null|
@@ -1964,7 +1964,7 @@ layout: default
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240613'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -2224,7 +2224,7 @@ layout: default
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240613'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -2768,7 +2768,7 @@ layout: default
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240613'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -3198,7 +3198,7 @@ layout: default
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240613'>back to top</a>)</p>
 
 ## GNN
 
@@ -4016,5 +4016,5 @@ layout: default
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240613'>back to top</a>)</p>
 
