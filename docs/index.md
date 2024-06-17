@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -942,7 +942,7 @@ layout: default
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240617'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -961,7 +961,7 @@ layout: default
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240617'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -971,7 +971,7 @@ layout: default
 |**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402v1](http://arxiv.org/abs/2406.08402v1)|**[link](https://github.com/kuan2jiu99/audio-hallucination)**|
 |**2024-06-11**|**Anomaly Detection on Unstable Logs with GPT Models**|Fatemeh Hadadi et.al.|[2406.07467v1](http://arxiv.org/abs/2406.07467v1)|null|
 |**2024-06-11**|**A Tool for Test Case Scenarios Generation Using Large Language Models**|Abdul Malik Sami et.al.|[2406.07021v1](http://arxiv.org/abs/2406.07021v1)|null|
-|**2024-06-10**|**A Large Language Model Pipeline for Breast Cancer Oncology**|Tristen Pool et.al.|[2406.06455v1](http://arxiv.org/abs/2406.06455v1)|null|
+|**2024-06-13**|**A Large Language Model Pipeline for Breast Cancer Oncology**|Tristen Pool et.al.|[2406.06455v2](http://arxiv.org/abs/2406.06455v2)|null|
 |**2024-06-10**|**Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models**|Xi Li et.al.|[2406.05948v1](http://arxiv.org/abs/2406.05948v1)|null|
 |**2024-06-09**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Automated Program Repair**|Guochang Li et.al.|[2406.05639v1](http://arxiv.org/abs/2406.05639v1)|null|
 |**2024-06-09**|**Can Prompt Modifiers Control Bias? A Comparative Analysis of Text-to-Image Generative Models**|Philip Wootaek Shin et.al.|[2406.05602v1](http://arxiv.org/abs/2406.05602v1)|null|
@@ -1227,7 +1227,7 @@ layout: default
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240617'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -1240,7 +1240,7 @@ layout: default
 |**2024-06-13**|**Too Many Frames, not all Useful:Efficient Strategies for Long-Form Video QA**|Jongwoo Park et.al.|[2406.09396v1](http://arxiv.org/abs/2406.09396v1)|null|
 |**2024-06-13**|**Towards Vision-Language Geo-Foundation Model: A Survey**|Yue Zhou et.al.|[2406.09385v1](http://arxiv.org/abs/2406.09385v1)|**[link](https://github.com/zytx121/awesome-vlgfm)**|
 |**2024-06-13**|**DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding**|Suwon Shon et.al.|[2406.09345v1](http://arxiv.org/abs/2406.09345v1)|null|
-|**2024-06-13**|**AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models**|Yuhang Wu et.al.|[2406.09295v1](http://arxiv.org/abs/2406.09295v1)|null|
+|**2024-06-14**|**AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models**|Yuhang Wu et.al.|[2406.09295v2](http://arxiv.org/abs/2406.09295v2)|null|
 |**2024-06-13**|**Optimizing Visual Question Answering Models for Driving: Bridging the Gap Between Human and Machine Attention Patterns**|Kaavya Rekanar et.al.|[2406.09203v1](http://arxiv.org/abs/2406.09203v1)|null|
 |**2024-06-13**|**Towards Multilingual Audio-Visual Question Answering**|Orchid Chetia Phukan et.al.|[2406.09156v1](http://arxiv.org/abs/2406.09156v1)|null|
 |**2024-06-13**|**MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos**|Xuehai He et.al.|[2406.08407v2](http://arxiv.org/abs/2406.08407v2)|**[link](https://github.com/eric-ai-lab/mmworld)**|
@@ -2003,7 +2003,7 @@ layout: default
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20240616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240617'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -2268,7 +2268,7 @@ layout: default
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240617'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -2820,7 +2820,7 @@ layout: default
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240617'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -3258,7 +3258,7 @@ layout: default
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240617'>back to top</a>)</p>
 
 ## GNN
 
@@ -3272,7 +3272,7 @@ layout: default
 |**2024-06-13**|**Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification**|Yuankai Luo et.al.|[2406.08993v1](http://arxiv.org/abs/2406.08993v1)|**[link](https://github.com/LUOyk1999/tunedGNN)**|
 |**2024-06-13**|**Self-supervised Graph Neural Network for Mechanical CAD Retrieval**|Yuhan Quan et.al.|[2406.08863v1](http://arxiv.org/abs/2406.08863v1)|null|
 |**2024-06-13**|**Trajectory Planning for Autonomous Driving in Unstructured Scenarios Based on Graph Neural Network and Numerical Optimization**|Sumin Zhang et.al.|[2406.08855v1](http://arxiv.org/abs/2406.08855v1)|null|
-|**2024-06-13**|**LGB: Language Model and Graph Neural Network-Driven Social Bot Detection**|Ming Zhou et.al.|[2406.08762v1](http://arxiv.org/abs/2406.08762v1)|null|
+|**2024-06-14**|**LGB: Language Model and Graph Neural Network-Driven Social Bot Detection**|Ming Zhou et.al.|[2406.08762v2](http://arxiv.org/abs/2406.08762v2)|null|
 |**2024-06-13**|**Introducing Diminutive Causal Structure into Graph Representation Learning**|Hang Gao et.al.|[2406.08709v1](http://arxiv.org/abs/2406.08709v1)|null|
 |**2024-06-12**|**GraphFM: A Comprehensive Benchmark for Graph Foundation Model**|Yuhao Xu et.al.|[2406.08310v1](http://arxiv.org/abs/2406.08310v1)|**[link](https://github.com/nyushcs/graphfm)**|
 |**2024-06-12**|**Pre-Training Identification of Graph Winning Tickets in Adaptive Spatial-Temporal Graph Neural Networks**|Wenying Duan et.al.|[2406.08287v1](http://arxiv.org/abs/2406.08287v1)|null|
@@ -4094,5 +4094,5 @@ layout: default
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240617'>back to top</a>)</p>
 
