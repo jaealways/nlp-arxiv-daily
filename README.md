@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning**|Bingchen Zhao et.al.|[2406.12742v1](http://arxiv.org/abs/2406.12742v1)|**[link](https://github.com/dtennant/mirb_eval)**|
+|**2024-06-18**|**QueerBench: Quantifying Discrimination in Language Models Toward Queer Identities**|Mae Sosto et.al.|[2406.12399v1](http://arxiv.org/abs/2406.12399v1)|null|
+|**2024-06-18**|**Interpreting Bias in Large Language Models: A Feature-Based Approach**|Nirmalendu Prakash et.al.|[2406.12347v1](http://arxiv.org/abs/2406.12347v1)|null|
+|**2024-06-18**|**Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models**|Dongwon Jo et.al.|[2406.12311v1](http://arxiv.org/abs/2406.12311v1)|null|
+|**2024-06-18**|**Language and Multimodal Models in Sports: A Survey of Datasets and Applications**|Haotian Xia et.al.|[2406.12252v1](http://arxiv.org/abs/2406.12252v1)|null|
+|**2024-06-18**|**MCSD: An Efficient Language Model with Diverse Fusion**|Hua Yang et.al.|[2406.12230v1](http://arxiv.org/abs/2406.12230v1)|null|
+|**2024-06-18**|**Hierarchical Associative Memory, Parallelized MLP-Mixer, and Symmetry Breaking**|Ryo Karakida et.al.|[2406.12220v1](http://arxiv.org/abs/2406.12220v1)|null|
+|**2024-06-18**|**LLM-Oracle Machines**|Jie Wang et.al.|[2406.12213v1](http://arxiv.org/abs/2406.12213v1)|null|
+|**2024-06-17**|**Can LLMs Learn Macroeconomic Narratives from Social Media?**|Almog Gueta et.al.|[2406.12109v1](http://arxiv.org/abs/2406.12109v1)|null|
+|**2024-06-17**|**FinTruthQA: A Benchmark Dataset for Evaluating the Quality of Financial Information Disclosure**|Ziyue Xu et.al.|[2406.12009v1](http://arxiv.org/abs/2406.12009v1)|null|
 |**2024-06-17**|**HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing**|Jing Chen et.al.|[2406.11683v1](http://arxiv.org/abs/2406.11683v1)|null|
 |**2024-06-17**|**A Two-dimensional Zero-shot Dialogue State Tracking Evaluation Method using GPT-4**|Ming Gu et.al.|[2406.11651v1](http://arxiv.org/abs/2406.11651v1)|**[link](https://github.com/SLEEPWALKERG/LLM-DST-EVAL)**|
 |**2024-06-17**|**Long Code Arena: a Set of Benchmarks for Long-Context Code Models**|Egor Bogomolov et.al.|[2406.11612v1](http://arxiv.org/abs/2406.11612v1)|**[link](https://github.com/jetbrains-research/lca-baselines)**|
@@ -976,6 +986,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**What Did I Do Wrong? Quantifying LLMs' Sensitivity and Consistency to Prompt Engineering**|Federico Errica et.al.|[2406.12334v1](http://arxiv.org/abs/2406.12334v1)|null|
+|**2024-06-17**|**Grade Score: Quantifying LLM Performance in Option Selection**|Dmitri Iourovitski et.al.|[2406.12043v1](http://arxiv.org/abs/2406.12043v1)|**[link](https://github.com/iodmitri/gradelab)**|
+|**2024-06-17**|**GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models**|Yi Fang et.al.|[2406.11945v1](http://arxiv.org/abs/2406.11945v1)|null|
 |**2024-06-17**|**Performance Improvement of Language-Queried Audio Source Separation Based on Caption Augmentation From Large Language Models for DCASE Challenge 2024 Task 9**|Do Hyun Lee et.al.|[2406.11248v1](http://arxiv.org/abs/2406.11248v1)|null|
 |**2024-06-17**|**RePrompt: Planning by Automatic Prompt Engineering for Large Language Models Agents**|Weizhe Chen et.al.|[2406.11132v1](http://arxiv.org/abs/2406.11132v1)|null|
 |**2024-06-16**|**Demonstration Notebook: Finding the Most Suited In-Context Learning Example from Interactions**|Yiming Tang et.al.|[2406.10878v1](http://arxiv.org/abs/2406.10878v1)|null|
@@ -1248,6 +1261,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**What Are the Odds? Language Models Are Capable of Probabilistic Reasoning**|Akshay Paruchuri et.al.|[2406.12830v1](http://arxiv.org/abs/2406.12830v1)|null|
+|**2024-06-18**|**From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries**|Hitesh Wadhwa et.al.|[2406.12824v1](http://arxiv.org/abs/2406.12824v1)|null|
+|**2024-06-18**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746v1](http://arxiv.org/abs/2406.12746v1)|null|
+|**2024-06-18**|**On the Robustness of Language Models for Tabular Question Answering**|Kushal Raj Bhandari et.al.|[2406.12719v1](http://arxiv.org/abs/2406.12719v1)|null|
+|**2024-06-18**|**LightPAL: Lightweight Passage Retrieval for Open Domain Multi-Document Summarization**|Masafumi Enomoto et.al.|[2406.12494v1](http://arxiv.org/abs/2406.12494v1)|null|
+|**2024-06-18**|**RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding**|Linrui Xu et.al.|[2406.12479v1](http://arxiv.org/abs/2406.12479v1)|**[link](https://github.com/geox-lab/rs-gpt4v)**|
+|**2024-06-18**|**PSLM: Parallel Generation of Text and Speech with LLMs for Low-Latency Spoken Dialogue Systems**|Kentaro Mitsui et.al.|[2406.12428v1](http://arxiv.org/abs/2406.12428v1)|null|
+|**2024-06-18**|**Unveiling the Flaws: Exploring Imperfections in Synthetic Data and Mitigation Strategies for Large Language Models**|Jie Chen et.al.|[2406.12397v1](http://arxiv.org/abs/2406.12397v1)|null|
+|**2024-06-18**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|Xiang Li et.al.|[2406.12384v1](http://arxiv.org/abs/2406.12384v1)|**[link](https://github.com/lx709/vrsbench)**|
+|**2024-06-18**|**GW-MoE: Resolving Uncertainty in MoE Router with Global Workspace Theory**|Haoze Wu et.al.|[2406.12375v1](http://arxiv.org/abs/2406.12375v1)|null|
 |**2024-06-17**|**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs**|Ziyu Liu et.al.|[2406.11833v1](http://arxiv.org/abs/2406.11833v1)|**[link](https://github.com/liuziyu77/mmdu)**|
 |**2024-06-17**|**LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning**|Dantong Niu et.al.|[2406.11815v1](http://arxiv.org/abs/2406.11815v1)|null|
 |**2024-06-17**|**RepLiQA: A Question-Answering Dataset for Benchmarking LLMs on Unseen Reference Content**|Joao Monteiro et.al.|[2406.11811v1](http://arxiv.org/abs/2406.11811v1)|null|
@@ -2044,6 +2067,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries**|Eden Biran et.al.|[2406.12775v1](http://arxiv.org/abs/2406.12775v1)|null|
+|**2024-06-18**|**MMUTF: Multimodal Multimedia Event Argument Extraction with Unified Template Filling**|Philipp Seeberger et.al.|[2406.12420v1](http://arxiv.org/abs/2406.12420v1)|null|
+|**2024-06-18**|**Debate as Optimization: Adaptive Conformal Prediction and Diverse Retrieval for Event Extraction**|Sijia Wang et.al.|[2406.12197v1](http://arxiv.org/abs/2406.12197v1)|null|
+|**2024-06-17**|**Constraining modified gravity with weak lensing peaks**|Christopher T. Davies et.al.|[2406.11958v1](http://arxiv.org/abs/2406.11958v1)|null|
+|**2024-06-17**|**FlexCare: Leveraging Cross-Task Synergy for Flexible Multimodal Healthcare Prediction**|Muhao Xu et.al.|[2406.11928v1](http://arxiv.org/abs/2406.11928v1)|**[link](https://github.com/mhxu1998/flexcare)**|
 |**2024-06-17**|**Wide Area VISTA Extra-galactic Survey (WAVES): Unsupervised star-galaxy separation on the WAVES-Wide photometric input catalogue using UMAP and ${\rm{\scriptsize HDBSCAN}}$**|Todd L. Cook et.al.|[2406.11611v1](http://arxiv.org/abs/2406.11611v1)|null|
 |**2024-06-17**|**AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation**|Chuyan Xiong et.al.|[2406.11548v1](http://arxiv.org/abs/2406.11548v1)|null|
 |**2024-06-17**|**Adaptive Reinforcement Learning Planning: Harnessing Large Language Models for Complex Information Extraction**|Zepeng Ding et.al.|[2406.11455v1](http://arxiv.org/abs/2406.11455v1)|null|
@@ -2319,6 +2347,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2406.12634v1](http://arxiv.org/abs/2406.12634v1)|**[link](https://github.com/andreeaiana/nase)**|
+|**2024-06-18**|**Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation**|Chengkai Liu et.al.|[2406.12580v1](http://arxiv.org/abs/2406.12580v1)|null|
+|**2024-06-18**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529v1](http://arxiv.org/abs/2406.12529v1)|null|
+|**2024-06-18**|**Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback**|Guipeng Xv et.al.|[2406.12501v1](http://arxiv.org/abs/2406.12501v1)|null|
+|**2024-06-18**|**LLM-enhanced Reranking in Recommender Systems**|Jingtong Gao et.al.|[2406.12433v1](http://arxiv.org/abs/2406.12433v1)|null|
+|**2024-06-18**|**Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal**|Wenqi Jiang et.al.|[2406.12385v1](http://arxiv.org/abs/2406.12385v1)|null|
+|**2024-06-18**|**CherryRec: Enhancing News Recommendation Quality via LLM-driven Framework**|Shaohuang Wang et.al.|[2406.12243v1](http://arxiv.org/abs/2406.12243v1)|null|
+|**2024-06-17**|**UniGLM: Training One Unified Language Model for Text-Attributed Graphs**|Yi Fang et.al.|[2406.12052v1](http://arxiv.org/abs/2406.12052v1)|null|
+|**2024-06-17**|**Balancing Embedding Spectrum for Recommendation**|Shaowen Peng et.al.|[2406.12032v1](http://arxiv.org/abs/2406.12032v1)|null|
+|**2024-06-17**|**When Box Meets Graph Neural Network in Tag-aware Recommendation**|Fake Lin et.al.|[2406.12020v1](http://arxiv.org/abs/2406.12020v1)|**[link](https://github.com/critical88/boxgnn)**|
 |**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781v1](http://arxiv.org/abs/2406.11781v1)|null|
 |**2024-06-17**|**Multi-Layer Ranking with Large Language Models for News Source Recommendation**|Wenjia Zhang et.al.|[2406.11745v1](http://arxiv.org/abs/2406.11745v1)|null|
 |**2024-06-17**|**Making Alice Appear Like Bob: A Probabilistic Preference Obfuscation Method For Implicit Feedback Recommendation Models**|Gustavo Escobedo et.al.|[2406.11505v1](http://arxiv.org/abs/2406.11505v1)|null|
@@ -2881,6 +2919,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**EMO-KNOW: A Large Scale Dataset on Emotion and Emotion-cause**|Mia Huong Nguyen et.al.|[2406.12389v1](http://arxiv.org/abs/2406.12389v1)|null|
+|**2024-06-17**|**Personalized Federated Knowledge Graph Embedding with Client-Wise Relation Graph**|Xiaoxiong Zhang et.al.|[2406.11943v1](http://arxiv.org/abs/2406.11943v1)|null|
 |**2024-06-17**|**TRACE the Evidence: Constructing Knowledge-Grounded Reasoning Chains for Retrieval-Augmented Generation**|Jinyuan Fang et.al.|[2406.11460v1](http://arxiv.org/abs/2406.11460v1)|**[link](https://github.com/jyfang6/trace)**|
 |**2024-06-17**|**Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**|Golnaz Shapurian et.al.|[2406.11400v1](http://arxiv.org/abs/2406.11400v1)|null|
 |**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162v1](http://arxiv.org/abs/2406.11162v1)|**[link](https://github.com/victor812-hub/entity_datasets)**|
@@ -3335,6 +3375,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Demystifying Higher-Order Graph Neural Networks**|Maciej Besta et.al.|[2406.12841v1](http://arxiv.org/abs/2406.12841v1)|null|
+|**2024-06-18**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808v1](http://arxiv.org/abs/2406.12808v1)|null|
+|**2024-06-18**|**Research and Implementation of Data Enhancement Techniques for Graph Neural Networks**|Jingzhao Gu et.al.|[2406.12640v1](http://arxiv.org/abs/2406.12640v1)|null|
+|**2024-06-18**|**Bridging Local Details and Global Context in Text-Attributed Graphs**|Yaoke Wang et.al.|[2406.12608v1](http://arxiv.org/abs/2406.12608v1)|null|
+|**2024-06-18**|**The Heterophilic Snowflake Hypothesis: Training and Empowering GNNs for Heterophilic Graphs**|Kun Wang et.al.|[2406.12539v1](http://arxiv.org/abs/2406.12539v1)|**[link](https://github.com/bingreeky/heterosnoh)**|
+|**2024-06-18**|**A data-centric approach for assessing progress of Graph Neural Networks**|Tianqi Zhao et.al.|[2406.12439v1](http://arxiv.org/abs/2406.12439v1)|**[link](https://github.com/tianqi-py/mlgnc)**|
+|**2024-06-18**|**Federated Learning with Limited Node Labels**|Bisheng Tang et.al.|[2406.12435v1](http://arxiv.org/abs/2406.12435v1)|null|
+|**2024-06-18**|**SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting**|Yue Jiang et.al.|[2406.12282v1](http://arxiv.org/abs/2406.12282v1)|null|
+|**2024-06-17**|**Thermodynamic Transferability in Coarse-Grained Force Fields using Graph Neural Networks**|Emily Shinkle et.al.|[2406.12112v1](http://arxiv.org/abs/2406.12112v1)|null|
+|**2024-06-17**|**STNAGNN: Spatiotemporal Node Attention Graph Neural Network for Task-based fMRI Analysis**|Jiyao Wang et.al.|[2406.12065v1](http://arxiv.org/abs/2406.12065v1)|null|
 |**2024-06-17**|**Composing Object Relations and Attributes for Image-Text Matching**|Khoi Pham et.al.|[2406.11820v1](http://arxiv.org/abs/2406.11820v1)|null|
 |**2024-06-17**|**Graph Neural Re-Ranking via Corpus Graph**|Andrea Giuseppe Di Francesco et.al.|[2406.11720v1](http://arxiv.org/abs/2406.11720v1)|null|
 |**2024-06-17**|**Scalable Expressiveness through Preprocessed Graph Perturbations**|Danial Saber et.al.|[2406.11714v1](http://arxiv.org/abs/2406.11714v1)|null|
