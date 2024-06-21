@@ -1,4 +1,4 @@
-## Updated on 2024.06.20
+## Updated on 2024.06.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -961,7 +961,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240620'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240621'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -980,7 +980,7 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240620'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240621'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -1255,7 +1255,7 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240620'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240621'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -1263,7 +1263,7 @@
 |---|---|---|---|---|
 |**2024-06-18**|**What Are the Odds? Language Models Are Capable of Probabilistic Reasoning**|Akshay Paruchuri et.al.|[2406.12830v1](http://arxiv.org/abs/2406.12830v1)|null|
 |**2024-06-18**|**From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries**|Hitesh Wadhwa et.al.|[2406.12824v1](http://arxiv.org/abs/2406.12824v1)|null|
-|**2024-06-18**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746v1](http://arxiv.org/abs/2406.12746v1)|null|
+|**2024-06-19**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746v2](http://arxiv.org/abs/2406.12746v2)|null|
 |**2024-06-18**|**On the Robustness of Language Models for Tabular Question Answering**|Kushal Raj Bhandari et.al.|[2406.12719v1](http://arxiv.org/abs/2406.12719v1)|null|
 |**2024-06-18**|**LightPAL: Lightweight Passage Retrieval for Open Domain Multi-Document Summarization**|Masafumi Enomoto et.al.|[2406.12494v1](http://arxiv.org/abs/2406.12494v1)|null|
 |**2024-06-18**|**RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding**|Linrui Xu et.al.|[2406.12479v1](http://arxiv.org/abs/2406.12479v1)|**[link](https://github.com/geox-lab/rs-gpt4v)**|
@@ -2061,7 +2061,7 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20240620'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240621'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -2341,7 +2341,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240620'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240621'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -2913,7 +2913,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240620'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240621'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -3369,7 +3369,7 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240620'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240621'>back to top</a>)</p>
 
 ## GNN
 
@@ -4231,5 +4231,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240620'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240621'>back to top</a>)</p>
 
