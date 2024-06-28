@@ -1,4 +1,4 @@
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -1004,7 +1004,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240627'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240628'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -1023,14 +1023,14 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240627'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240628'>back to top</a>)</p>
 
 ## Prompt Engineering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-26**|**FactFinders at CheckThat! 2024: Refining Check-worthy Statement Detection with LLMs through Data Pruning**|Yufeng Li et.al.|[2406.18297v1](http://arxiv.org/abs/2406.18297v1)|null|
-|**2024-06-25**|**CTBench: A Comprehensive Benchmark for Evaluating Language Model Capabilities in Clinical Trial Design**|Nafis Neehal et.al.|[2406.17888v1](http://arxiv.org/abs/2406.17888v1)|null|
+|**2024-06-25**|**CTBench: A Comprehensive Benchmark for Evaluating Language Model Capabilities in Clinical Trial Design**|Nafis Neehal et.al.|[2406.17888v1](http://arxiv.org/abs/2406.17888v1)|**[link](https://github.com/nafis-neehal/CTBench_LLM)**|
 |**2024-06-24**|**Large Language Models in Student Assessment: Comparing ChatGPT and Human Graders**|Magnus Lundgren et.al.|[2406.16510v1](http://arxiv.org/abs/2406.16510v1)|null|
 |**2024-06-24**|**AnnotatedTables: A Large Tabular Dataset with Language Model Annotations**|Yaojie Hu et.al.|[2406.16349v1](http://arxiv.org/abs/2406.16349v1)|null|
 |**2024-06-24**|**Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation**|Xueyu Liu et.al.|[2406.16271v1](http://arxiv.org/abs/2406.16271v1)|null|
@@ -1309,16 +1309,16 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240627'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240628'>back to top</a>)</p>
 
 ## Question Answering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-26**|**Sanskrit Knowledge-based Systems: Annotation and Computational Tools**|Hrishikesh Terdalkar et.al.|[2406.18276v1](http://arxiv.org/abs/2406.18276v1)|null|
-|**2024-06-26**|**Knowledge Graph Enhanced Retrieval-Augmented Generation for Failure Mode and Effects Analysis**|Lukas Bahr et.al.|[2406.18114v1](http://arxiv.org/abs/2406.18114v1)|null|
+|**2024-06-26**|**Knowledge Graph Enhanced Retrieval-Augmented Generation for Failure Mode and Effects Analysis**|Lukas Bahr et.al.|[2406.18114v1](http://arxiv.org/abs/2406.18114v1)|**[link](https://github.com/lukasbahr/kg-rag-fmea)**|
 |**2024-06-26**|**Explicit Diversity Conditions for Effective Question Answer Generation with Large Language Models**|Vikas Yadav et.al.|[2406.17990v1](http://arxiv.org/abs/2406.17990v1)|null|
-|**2024-06-25**|**Evaluating Fairness in Large Vision-Language Models Across Diverse Demographic Attributes and Prompts**|Xuyang Wu et.al.|[2406.17974v1](http://arxiv.org/abs/2406.17974v1)|null|
+|**2024-06-25**|**Evaluating Fairness in Large Vision-Language Models Across Diverse Demographic Attributes and Prompts**|Xuyang Wu et.al.|[2406.17974v1](http://arxiv.org/abs/2406.17974v1)|**[link](https://github.com/elviswxy/LVLM_fairness)**|
 |**2024-06-25**|**CaLMQA: Exploring culturally specific long-form question answering across 23 languages**|Shane Arora et.al.|[2406.17761v1](http://arxiv.org/abs/2406.17761v1)|**[link](https://github.com/2015aroras/calmqa)**|
 |**2024-06-25**|**LumberChunker: Long-Form Narrative Document Segmentation**|André V. Duarte et.al.|[2406.17526v1](http://arxiv.org/abs/2406.17526v1)|**[link](https://github.com/joaodsmarques/lumberchunker)**|
 |**2024-06-25**|**Entropy-Based Decoding for Retrieval-Augmented Large Language Models**|Zexuan Qiu et.al.|[2406.17519v1](http://arxiv.org/abs/2406.17519v1)|null|
@@ -2159,7 +2159,7 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20240627'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240628'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -2171,9 +2171,9 @@
 |**2024-06-26**|**Improving Entity Recognition Using Ensembles of Deep Learning and Fine-tuned Large Language Models: A Case Study on Adverse Event Extraction from Multiple Sources**|Yiming Li et.al.|[2406.18049v1](http://arxiv.org/abs/2406.18049v1)|null|
 |**2024-06-26**|**Diagnosis Assistant for Liver Cancer Utilizing a Large Language Model with Three Types of Knowledge**|Xuzhou Wu et.al.|[2406.18039v1](http://arxiv.org/abs/2406.18039v1)|null|
 |**2024-06-25**|**Retrieval Augmented Instruction Tuning for Open NER with Large Language Models**|Tingyu Xie et.al.|[2406.17305v1](http://arxiv.org/abs/2406.17305v1)|**[link](https://github.com/emma1066/retrieval-augmented-it-openner)**|
-|**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231v1](http://arxiv.org/abs/2406.17231v1)|null|
+|**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231v1](http://arxiv.org/abs/2406.17231v1)|**[link](https://github.com/tongzhou21/CogMG)**|
 |**2024-06-24**|**Enhancing Scientific Figure Captioning Through Cross-modal Learning**|Mateo Alejandro Rojas et.al.|[2406.17047v1](http://arxiv.org/abs/2406.17047v1)|null|
-|**2024-06-24**|**UniPSDA: Unsupervised Pseudo Semantic Data Augmentation for Zero-Shot Cross-Lingual Natural Language Understanding**|Dongyang Li et.al.|[2406.16372v1](http://arxiv.org/abs/2406.16372v1)|null|
+|**2024-06-24**|**UniPSDA: Unsupervised Pseudo Semantic Data Augmentation for Zero-Shot Cross-Lingual Natural Language Understanding**|Dongyang Li et.al.|[2406.16372v1](http://arxiv.org/abs/2406.16372v1)|**[link](https://github.com/MatNLP/UniPSDA)**|
 |**2024-06-23**|**Harvesting Events from Multiple Sources: Towards a Cross-Document Event Extraction Paradigm**|Qiang Gao et.al.|[2406.16021v1](http://arxiv.org/abs/2406.16021v1)|**[link](https://github.com/cooper12121/cles)**|
 |**2024-06-22**|**Feedback-driven quantum reservoir computing for time-series analysis**|Kaito Kobayashi et.al.|[2406.15783v1](http://arxiv.org/abs/2406.15783v1)|null|
 |**2024-06-20**|**SciDMT: A Large-Scale Corpus for Detecting Scientific Mentions**|Huitong Pan et.al.|[2406.14756v1](http://arxiv.org/abs/2406.14756v1)|null|
@@ -2455,7 +2455,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240627'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240628'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -3052,7 +3052,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240627'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240628'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -3060,12 +3060,12 @@
 |---|---|---|---|---|
 |**2024-06-26**|**Sanskrit Knowledge-based Systems: Annotation and Computational Tools**|Hrishikesh Terdalkar et.al.|[2406.18276v1](http://arxiv.org/abs/2406.18276v1)|null|
 |**2024-06-26**|**Start from Zero: Triple Set Prediction for Automatic Knowledge Graph Completion**|Wen Zhang et.al.|[2406.18166v1](http://arxiv.org/abs/2406.18166v1)|**[link](https://github.com/zjukg/gpht-for-tsp)**|
-|**2024-06-26**|**Knowledge Graph Enhanced Retrieval-Augmented Generation for Failure Mode and Effects Analysis**|Lukas Bahr et.al.|[2406.18114v1](http://arxiv.org/abs/2406.18114v1)|null|
-|**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085v1](http://arxiv.org/abs/2406.18085v1)|null|
-|**2024-06-25**|**Tree-based variational inference for Poisson log-normal models**|Alexandre Chaussard et.al.|[2406.17361v1](http://arxiv.org/abs/2406.17361v1)|null|
-|**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231v1](http://arxiv.org/abs/2406.17231v1)|null|
+|**2024-06-26**|**Knowledge Graph Enhanced Retrieval-Augmented Generation for Failure Mode and Effects Analysis**|Lukas Bahr et.al.|[2406.18114v1](http://arxiv.org/abs/2406.18114v1)|**[link](https://github.com/lukasbahr/kg-rag-fmea)**|
+|**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085v1](http://arxiv.org/abs/2406.18085v1)|**[link](https://github.com/Maxpa1n/gcplm-kgc)**|
+|**2024-06-25**|**Tree-based variational inference for Poisson log-normal models**|Alexandre Chaussard et.al.|[2406.17361v1](http://arxiv.org/abs/2406.17361v1)|**[link](https://github.com/AlexandreChaussard/PLN-Tree)**|
+|**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231v1](http://arxiv.org/abs/2406.17231v1)|**[link](https://github.com/tongzhou21/CogMG)**|
 |**2024-06-24**|**PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs**|Xinchi Qiu et.al.|[2406.16810v1](http://arxiv.org/abs/2406.16810v1)|null|
-|**2024-06-24**|**KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning**|Dongyang Li et.al.|[2406.16374v1](http://arxiv.org/abs/2406.16374v1)|null|
+|**2024-06-24**|**KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning**|Dongyang Li et.al.|[2406.16374v1](http://arxiv.org/abs/2406.16374v1)|**[link](https://github.com/MatNLP/KEHRL)**|
 |**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333v1](http://arxiv.org/abs/2406.16333v1)|null|
 |**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859v1](http://arxiv.org/abs/2406.15859v1)|null|
 |**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294v1](http://arxiv.org/abs/2406.15294v1)|**[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)**|
@@ -3532,14 +3532,14 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240627'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240628'>back to top</a>)</p>
 
 ## GNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-26**|**Graph Neural Networks for Emulation of Finite-Element Ice Dynamics in Greenland and Antarctic Ice Sheets**|Younghyun Koo et.al.|[2406.18423v1](http://arxiv.org/abs/2406.18423v1)|null|
-|**2024-06-26**|**KAGNNs: Kolmogorov-Arnold Networks meet Graph Learning**|Roman Bresson et.al.|[2406.18380v1](http://arxiv.org/abs/2406.18380v1)|null|
+|**2024-06-26**|**KAGNNs: Kolmogorov-Arnold Networks meet Graph Learning**|Roman Bresson et.al.|[2406.18380v1](http://arxiv.org/abs/2406.18380v1)|**[link](https://github.com/RomanBresson/KAGNN)**|
 |**2024-06-26**|**Kolmogorov-Arnold Graph Neural Networks**|Gianluca De Carlo et.al.|[2406.18354v1](http://arxiv.org/abs/2406.18354v1)|null|
 |**2024-06-26**|**ContactNet: Geometric-Based Deep Learning Model for Predicting Protein-Protein Interactions**|Matan Halfon et.al.|[2406.18314v1](http://arxiv.org/abs/2406.18314v1)|null|
 |**2024-06-25**|**Efficient and Effective Implicit Dynamic Graph Neural Network**|Yongjian Zhong et.al.|[2406.17894v1](http://arxiv.org/abs/2406.17894v1)|null|
@@ -4431,5 +4431,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240627'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240628'>back to top</a>)</p>
 
