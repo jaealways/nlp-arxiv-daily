@@ -1,4 +1,4 @@
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@
 |**2024-07-08**|**On Speeding Up Language Model Evaluation**|Jin Peng Zhou et.al.|[2407.06172v1](http://arxiv.org/abs/2407.06172v1)|null|
 |**2024-07-08**|**Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models**|Jinliang Lu et.al.|[2407.06089v1](http://arxiv.org/abs/2407.06089v1)|null|
 |**2024-07-08**|**Igea: a Decoder-Only Language Model for Biomedical Text Generation in Italian**|Tommaso Mario Buonocore et.al.|[2407.06011v1](http://arxiv.org/abs/2407.06011v1)|null|
-|**2024-07-08**|**An Empirical Comparison of Vocabulary Expansion and Initialization Approaches for Language Models**|Nandini Mundra et.al.|[2407.05841v1](http://arxiv.org/abs/2407.05841v1)|null|
+|**2024-07-08**|**An Empirical Comparison of Vocabulary Expansion and Initialization Approaches for Language Models**|Nandini Mundra et.al.|[2407.05841v1](http://arxiv.org/abs/2407.05841v1)|**[link](https://github.com/AI4Bharat/VocabAdaptation_LLM)**|
 |**2024-07-08**|**Large Language Models for Judicial Entity Extraction: A Comparative Study**|Atin Sakkeer Hussain et.al.|[2407.05786v1](http://arxiv.org/abs/2407.05786v1)|null|
 |**2024-07-08**|**Large Language Models Understand Layouts**|Weiming Li et.al.|[2407.05750v1](http://arxiv.org/abs/2407.05750v1)|null|
 |**2024-07-07**|**A Theory of Machine Learning**|Jinsook Kim et.al.|[2407.05520v1](http://arxiv.org/abs/2407.05520v1)|null|
@@ -1049,7 +1049,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240709'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240710'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -1068,19 +1068,19 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240709'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240710'>back to top</a>)</p>
 
 ## Prompt Engineering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-08**|**Using Grammar Masking to Ensure Syntactic Validity in LLM-based Modeling Tasks**|Lukas Netz et.al.|[2407.06146v1](http://arxiv.org/abs/2407.06146v1)|null|
+|**2024-07-09**|**Using Grammar Masking to Ensure Syntactic Validity in LLM-based Modeling Tasks**|Lukas Netz et.al.|[2407.06146v2](http://arxiv.org/abs/2407.06146v2)|null|
 |**2024-07-08**|**PAS: Data-Efficient Plug-and-Play Prompt Augmentation System**|Miao Zheng et.al.|[2407.06027v1](http://arxiv.org/abs/2407.06027v1)|null|
 |**2024-07-07**|**Addressing single object tracking in satellite imagery through prompt-engineered solutions**|Athena Psalta et.al.|[2407.05518v1](http://arxiv.org/abs/2407.05518v1)|null|
 |**2024-07-07**|**Enhancing Computer Programming Education with LLMs: A Study on Effective Prompt Engineering for Python Code Generation**|Tianyu Wang et.al.|[2407.05437v1](http://arxiv.org/abs/2407.05437v1)|null|
 |**2024-07-07**|**VideoCoT: A Video Chain-of-Thought Dataset with Active Annotation Tool**|Yan Wang et.al.|[2407.05355v1](http://arxiv.org/abs/2407.05355v1)|null|
 |**2024-07-06**|**Achieving Tool Calling Functionality in LLMs Using Only Prompt Engineering Without Fine-Tuning**|Shengtao He et.al.|[2407.04997v1](http://arxiv.org/abs/2407.04997v1)|null|
-|**2024-07-05**|**Using LLMs to label medical papers according to the CIViC evidence model**|Markus Hisch et.al.|[2407.04466v1](http://arxiv.org/abs/2407.04466v1)|null|
+|**2024-07-05**|**Using LLMs to label medical papers according to the CIViC evidence model**|Markus Hisch et.al.|[2407.04466v1](http://arxiv.org/abs/2407.04466v1)|**[link](https://github.com/GMahlerTheTragic/civic)**|
 |**2024-07-05**|**Enabling On-Device LLMs Personalization with Smartphone Sensing**|Shiquan Zhang et.al.|[2407.04418v1](http://arxiv.org/abs/2407.04418v1)|null|
 |**2024-07-04**|**MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization**|Yuyan Chen et.al.|[2407.04118v1](http://arxiv.org/abs/2407.04118v1)|null|
 |**2024-07-03**|**SemioLLM: Assessing Large Language Models for Semiological Analysis in Epilepsy Research**|Meghal Dani et.al.|[2407.03004v1](http://arxiv.org/abs/2407.03004v1)|null|
@@ -1375,20 +1375,20 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240709'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240710'>back to top</a>)</p>
 
 ## Question Answering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189v1](http://arxiv.org/abs/2407.06189v1)|null|
-|**2024-07-08**|**3D Vision and Language Pretraining with Large-Scale Synthetic Data**|Dejie Yang et.al.|[2407.06084v1](http://arxiv.org/abs/2407.06084v1)|null|
-|**2024-07-08**|**MST5 -- Multilingual Question Answering over Knowledge Graphs**|Nikit Srivastava et.al.|[2407.06041v1](http://arxiv.org/abs/2407.06041v1)|null|
+|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189v1](http://arxiv.org/abs/2407.06189v1)|**[link](https://github.com/orrzohar/Video-STaR)**|
+|**2024-07-08**|**3D Vision and Language Pretraining with Large-Scale Synthetic Data**|Dejie Yang et.al.|[2407.06084v1](http://arxiv.org/abs/2407.06084v1)|**[link](https://github.com/idejie/3DSyn)**|
+|**2024-07-08**|**MST5 -- Multilingual Question Answering over Knowledge Graphs**|Nikit Srivastava et.al.|[2407.06041v1](http://arxiv.org/abs/2407.06041v1)|**[link](https://github.com/dice-group/MST5)**|
 |**2024-07-08**|**Large Language Models for Judicial Entity Extraction: A Comparative Study**|Atin Sakkeer Hussain et.al.|[2407.05786v1](http://arxiv.org/abs/2407.05786v1)|null|
 |**2024-07-08**|**Large Language Models Understand Layouts**|Weiming Li et.al.|[2407.05750v1](http://arxiv.org/abs/2407.05750v1)|null|
 |**2024-07-08**|**WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering**|Pingyi Chen et.al.|[2407.05603v1](http://arxiv.org/abs/2407.05603v1)|**[link](https://github.com/cpystan/wsi-vqa)**|
 |**2024-07-06**|**FlowLearn: Evaluating Large Vision-Language Models on Flowchart Understanding**|Huitong Pan et.al.|[2407.05183v1](http://arxiv.org/abs/2407.05183v1)|**[link](https://github.com/jo-pan/flowlearn)**|
-|**2024-07-06**|**MFE-ETP: A Comprehensive Evaluation Benchmark for Multi-modal Foundation Models on Embodied Task Planning**|Min Zhang et.al.|[2407.05047v1](http://arxiv.org/abs/2407.05047v1)|null|
+|**2024-07-06**|**MFE-ETP: A Comprehensive Evaluation Benchmark for Multi-modal Foundation Models on Embodied Task Planning**|Min Zhang et.al.|[2407.05047v1](http://arxiv.org/abs/2407.05047v1)|**[link](https://github.com/TJURLLAB-EAI/MFE-ETP)**|
 |**2024-07-06**|**How do you know that? Teaching Generative Language Models to Reference Answers to Biomedical Questions**|Bojana Bašaragin et.al.|[2407.05015v1](http://arxiv.org/abs/2407.05015v1)|null|
 |**2024-07-05**|**Question Answering with Texts and Tables through Deep Reinforcement Learning**|Marcos M. José et.al.|[2407.04858v1](http://arxiv.org/abs/2407.04858v1)|null|
 |**2024-07-05**|**Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**|Rudolf Laine et.al.|[2407.04694v1](http://arxiv.org/abs/2407.04694v1)|null|
@@ -2282,7 +2282,7 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20240709'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240710'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -2589,17 +2589,17 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240709'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240710'>back to top</a>)</p>
 
 ## Recommendation System
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-07**|**Towards Bridging the Cross-modal Semantic Gap for Multi-modal Recommendation**|Xinglong Wu et.al.|[2407.05420v1](http://arxiv.org/abs/2407.05420v1)|null|
-|**2024-07-07**|**Ensemble Boost: Greedy Selection for Superior Recommender Systems**|Zainil Mehta et.al.|[2407.05221v1](http://arxiv.org/abs/2407.05221v1)|null|
-|**2024-07-06**|**Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations**|Linxin Guo et.al.|[2407.05126v1](http://arxiv.org/abs/2407.05126v1)|null|
-|**2024-07-06**|**Preference Distillation for Personalized Generative Recommendation**|Jerome Ramos et.al.|[2407.05033v1](http://arxiv.org/abs/2407.05033v1)|null|
-|**2024-07-06**|**MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems with Large Language Models**|Yunjia Xi et.al.|[2407.04960v1](http://arxiv.org/abs/2407.04960v1)|null|
+|**2024-07-07**|**Towards Bridging the Cross-modal Semantic Gap for Multi-modal Recommendation**|Xinglong Wu et.al.|[2407.05420v1](http://arxiv.org/abs/2407.05420v1)|**[link](https://github.com/WuXinglong-HIT/CLIPER)**|
+|**2024-07-07**|**Ensemble Boost: Greedy Selection for Superior Recommender Systems**|Zainil Mehta et.al.|[2407.05221v1](http://arxiv.org/abs/2407.05221v1)|**[link](https://github.com/ZainilMehta/Ensembling_of_RecSys)**|
+|**2024-07-06**|**Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations**|Linxin Guo et.al.|[2407.05126v1](http://arxiv.org/abs/2407.05126v1)|**[link](https://github.com/foodfaust/CDR)**|
+|**2024-07-06**|**Preference Distillation for Personalized Generative Recommendation**|Jerome Ramos et.al.|[2407.05033v1](http://arxiv.org/abs/2407.05033v1)|**[link](https://github.com/jeromeramos70/peapod)**|
+|**2024-07-06**|**MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems with Large Language Models**|Yunjia Xi et.al.|[2407.04960v1](http://arxiv.org/abs/2407.04960v1)|**[link](https://github.com/mindspore-lab/models)**|
 |**2024-07-06**|**RAMO: Retrieval-Augmented Generation for Enhancing MOOCs Recommendations**|Jiarui Rao et.al.|[2407.04925v1](http://arxiv.org/abs/2407.04925v1)|null|
 |**2024-07-08**|**EventChat: Implementation and user-centric evaluation of a large language model-driven conversational recommender system for exploring leisure events in an SME context**|Hannes Kunstmann et.al.|[2407.04472v2](http://arxiv.org/abs/2407.04472v2)|null|
 |**2024-07-08**|**Accelerating Communication in Deep Learning Recommendation Model Training with Dual-Level Adaptive Lossy Compression**|Hao Feng et.al.|[2407.04272v2](http://arxiv.org/abs/2407.04272v2)|null|
@@ -3215,20 +3215,20 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240709'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240710'>back to top</a>)</p>
 
 ## Knowledge Graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-08**|**MST5 -- Multilingual Question Answering over Knowledge Graphs**|Nikit Srivastava et.al.|[2407.06041v1](http://arxiv.org/abs/2407.06041v1)|null|
+|**2024-07-08**|**MST5 -- Multilingual Question Answering over Knowledge Graphs**|Nikit Srivastava et.al.|[2407.06041v1](http://arxiv.org/abs/2407.06041v1)|**[link](https://github.com/dice-group/MST5)**|
 |**2024-07-08**|**KG-FPQ: Evaluating Factuality Hallucination in LLMs with Knowledge Graph-based False Premise Questions**|Yanxu Zhu et.al.|[2407.05868v1](http://arxiv.org/abs/2407.05868v1)|**[link](https://github.com/yanxuzhu/kg-fpq)**|
 |**2024-07-08**|**Fast and Continual Knowledge Graph Embedding via Incremental LoRA**|Jiajun Liu et.al.|[2407.05705v1](http://arxiv.org/abs/2407.05705v1)|**[link](https://github.com/seukgcode/fastkge)**|
 |**2024-07-07**|**KAE: A Property-based Method for Knowledge Graph Alignment and Extension**|Daqian Shi et.al.|[2407.05320v1](http://arxiv.org/abs/2407.05320v1)|null|
 |**2024-07-06**|**Database Technology Evolution III: Knowledge Graphs and Linked Data**|Malcolm Crowe et.al.|[2407.05096v1](http://arxiv.org/abs/2407.05096v1)|null|
 |**2024-07-05**|**CBL: Compact Encoding of JSON-LD Data using CBOR and Bitmaps for Web of Things**|Prudhvi Gudla et.al.|[2407.04398v1](http://arxiv.org/abs/2407.04398v1)|null|
 |**2024-07-05**|**AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents**|Petr Anokhin et.al.|[2407.04363v1](http://arxiv.org/abs/2407.04363v1)|**[link](https://github.com/airi-institute/arigraph)**|
-|**2024-07-05**|**Unified Interpretation of Smoothing Methods for Negative Sampling Loss Functions in Knowledge Graph Embedding**|Xincan Feng et.al.|[2407.04251v1](http://arxiv.org/abs/2407.04251v1)|null|
+|**2024-07-05**|**Unified Interpretation of Smoothing Methods for Negative Sampling Loss Functions in Knowledge Graph Embedding**|Xincan Feng et.al.|[2407.04251v1](http://arxiv.org/abs/2407.04251v1)|**[link](https://github.com/xincanfeng/ss_kge)**|
 |**2024-07-04**|**MedRAT: Unpaired Medical Report Generation via Auxiliary Tasks**|Elad Hirsch et.al.|[2407.03919v1](http://arxiv.org/abs/2407.03919v1)|null|
 |**2024-07-04**|**Neural Probabilistic Logic Learning for Knowledge Graph Reasoning**|Fengsong Sun et.al.|[2407.03704v1](http://arxiv.org/abs/2407.03704v1)|null|
 |**2024-07-04**|**Heterogeneous Hypergraph Embedding for Recommendation Systems**|Darnbi Sakong et.al.|[2407.03665v1](http://arxiv.org/abs/2407.03665v1)|null|
@@ -3725,7 +3725,7 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240709'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240710'>back to top</a>)</p>
 
 ## GNN
 
@@ -4669,5 +4669,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240709'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240710'>back to top</a>)</p>
 
