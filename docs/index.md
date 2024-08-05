@@ -3134,7 +3134,7 @@ layout: default
 |**2024-05-25**|**LLMs for User Interest Exploration: A Hybrid Approach**|Jianling Wang et.al.|[2405.16363v1](http://arxiv.org/abs/2405.16363v1)|null|
 |**2024-05-25**|**Finetuning Large Language Model for Personalized Ranking**|Zhuoxi Bai et.al.|[2405.16127v1](http://arxiv.org/abs/2405.16127v1)|**[link](https://github.com/BZX667/DMPO)**|
 |**2024-05-25**|**BankFair: Balancing Accuracy and Fairness under Varying User Traffic in Recommender System**|Xiaopeng Ye et.al.|[2405.16120v1](http://arxiv.org/abs/2405.16120v1)|**[link](https://github.com/shawnye2000/BankFair)**|
-|**2024-05-25**|**COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**|Changle Qu et.al.|[2405.16089v1](http://arxiv.org/abs/2405.16089v1)|null|
+|**2024-05-25**|**COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**|Changle Qu et.al.|[2405.16089v1](http://arxiv.org/abs/2405.16089v1)|**[link](https://github.com/quchangle1/colt)**|
 |**2024-05-24**|**Erase to Enhance: Data-Efficient Machine Unlearning in MRI Reconstruction**|Yuyang Xue et.al.|[2405.15517v1](http://arxiv.org/abs/2405.15517v1)|**[link](https://github.com/yuyangxueed/reconunlearning)**|
 |**2024-05-24**|**Fine-Grained Dynamic Framework for Bias-Variance Joint Optimization on Data Missing Not at Random**|Mingming Ha et.al.|[2405.15403v1](http://arxiv.org/abs/2405.15403v1)|null|
 |**2024-05-24**|**Multi-Modal Recommendation Unlearning**|Yash Sinha et.al.|[2405.15328v1](http://arxiv.org/abs/2405.15328v1)|null|
@@ -3631,7 +3631,7 @@ layout: default
 |**2024-07-27**|**Semantic Communication Enhanced by Knowledge Graph Representation Learning**|Nour Hello et.al.|[2407.19338v1](http://arxiv.org/abs/2407.19338v1)|null|
 |**2024-07-27**|**IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment**|Taoyu Su et.al.|[2407.19302v1](http://arxiv.org/abs/2407.19302v1)|null|
 |**2024-07-29**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752v2](http://arxiv.org/abs/2407.18752v2)|**[link](https://github.com/littleflow3r/kg-structure-as-prompt)**|
-|**2024-07-26**|**AutoRDF2GML: Facilitating RDF Integration in Graph Machine Learning**|Michael Färber et.al.|[2407.18735v1](http://arxiv.org/abs/2407.18735v1)|null|
+|**2024-07-26**|**AutoRDF2GML: Facilitating RDF Integration in Graph Machine Learning**|Michael Färber et.al.|[2407.18735v1](http://arxiv.org/abs/2407.18735v1)|**[link](https://github.com/davidlamprecht/autordf2gml)**|
 |**2024-07-26**|**Using GPT-4 to guide causal machine learning**|Anthony C. Constantinou et.al.|[2407.18607v1](http://arxiv.org/abs/2407.18607v1)|null|
 |**2024-07-26**|**Look Globally and Reason: Two-stage Path Reasoning over Sparse Knowledge Graphs**|Saiping Guan et.al.|[2407.18556v1](http://arxiv.org/abs/2407.18556v1)|null|
 |**2024-07-26**|**Multi-turn Response Selection with Commonsense-enhanced Language Models**|Yuandong Wang et.al.|[2407.18479v1](http://arxiv.org/abs/2407.18479v1)|null|
@@ -4223,7 +4223,7 @@ layout: default
 |**2024-07-26**|**Enhancing material property prediction with ensemble deep graph convolutional networks**|Chowdhury Mohammad Abid Rahman et.al.|[2407.18847v1](http://arxiv.org/abs/2407.18847v1)|null|
 |**2024-07-26**|**Robust Learning in Bayesian Parallel Branching Graph Neural Networks: The Narrow Width Limit**|Zechen Zhang et.al.|[2407.18807v1](http://arxiv.org/abs/2407.18807v1)|null|
 |**2024-07-26**|**Learning production functions for supply chains with graph neural networks**|Serina Chang et.al.|[2407.18772v1](http://arxiv.org/abs/2407.18772v1)|null|
-|**2024-07-26**|**AutoRDF2GML: Facilitating RDF Integration in Graph Machine Learning**|Michael Färber et.al.|[2407.18735v1](http://arxiv.org/abs/2407.18735v1)|null|
+|**2024-07-26**|**AutoRDF2GML: Facilitating RDF Integration in Graph Machine Learning**|Michael Färber et.al.|[2407.18735v1](http://arxiv.org/abs/2407.18735v1)|**[link](https://github.com/davidlamprecht/autordf2gml)**|
 |**2024-07-26**|**Graph Neural Networks for Virtual Sensing in Complex Systems: Addressing Heterogeneous Temporal Dynamics**|Mengjie Zhao et.al.|[2407.18691v1](http://arxiv.org/abs/2407.18691v1)|null|
 |**2024-07-26**|**DTFormer: A Transformer-Based Method for Discrete-Time Dynamic Graph Representation Learning**|Xi Chen et.al.|[2407.18523v1](http://arxiv.org/abs/2407.18523v1)|null|
 |**2024-07-26**|**TCGPN: Temporal-Correlation Graph Pre-trained Network for Stock Forecasting**|Wenbo Yan et.al.|[2407.18519v1](http://arxiv.org/abs/2407.18519v1)|null|
