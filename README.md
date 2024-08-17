@@ -1,4 +1,4 @@
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-15**|**CatalogBank: A Structured and Interoperable Catalog Dataset with a Semi-Automatic Annotation Tool (DocumentLabeler) for Engineering System Design**|Hasan Sinan Bank et.al.|[2408.08238v1](http://arxiv.org/abs/2408.08238v1)|null|
+|**2024-08-15**|**CatalogBank: A Structured and Interoperable Catalog Dataset with a Semi-Automatic Annotation Tool (DocumentLabeler) for Engineering System Design**|Hasan Sinan Bank et.al.|[2408.08238v1](http://arxiv.org/abs/2408.08238v1)|**[link](https://github.com/bankh/DocumentLabeler)**|
 |**2024-08-15**|**Enhancing Sharpness-Aware Minimization by Learning Perturbation Radius**|Xuehao Wang et.al.|[2408.08222v1](http://arxiv.org/abs/2408.08222v1)|null|
 |**2024-08-15**|**Extracting Sentence Embeddings from Pretrained Transformer Models**|Lukas Stankevičius et.al.|[2408.08073v1](http://arxiv.org/abs/2408.08073v1)|null|
 |**2024-08-15**|**ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models**|Faris Hijazi et.al.|[2408.07983v1](http://arxiv.org/abs/2408.07983v1)|**[link](https://github.com/thiqah/arablegaleval)**|
@@ -26,7 +26,7 @@
 |**2024-08-14**|**MatterGPT: A Generative Transformer for Multi-Property Inverse Design of Solid-State Materials**|Yan Chen et.al.|[2408.07608v1](http://arxiv.org/abs/2408.07608v1)|null|
 |**2024-08-14**|**A Study on Bias Detection and Classification in Natural Language Processing**|Ana Sofia Evans et.al.|[2408.07479v1](http://arxiv.org/abs/2408.07479v1)|null|
 |**2024-08-14**|**Large Language Models Prompting With Episodic Memory**|Dai Do et.al.|[2408.07465v1](http://arxiv.org/abs/2408.07465v1)|null|
-|**2024-08-14**|**Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals**|Tobias A. Opsahl et.al.|[2408.07453v1](http://arxiv.org/abs/2408.07453v1)|null|
+|**2024-08-14**|**Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals**|Tobias A. Opsahl et.al.|[2408.07453v1](http://arxiv.org/abs/2408.07453v1)|**[link](https://github.com/tobias-opsahl/fact-or-fiction)**|
 |**2024-08-14**|**Exploring Retrieval Augmented Generation in Arabic**|Samhaa R. El-Beltagy et.al.|[2408.07425v1](http://arxiv.org/abs/2408.07425v1)|null|
 |**2024-08-14**|**A Quantum-Inspired Analysis of Human Disambiguation Processes**|Daphne Wang et.al.|[2408.07402v1](http://arxiv.org/abs/2408.07402v1)|null|
 |**2024-08-14**|**Nonlocal Attention Operator: Materializing Hidden Knowledge Towards Interpretable Physics Discovery**|Yue Yu et.al.|[2408.07307v1](http://arxiv.org/abs/2408.07307v1)|null|
@@ -1250,7 +1250,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240816'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240817'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -1271,7 +1271,7 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240816'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240817'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -1623,7 +1623,7 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240816'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240817'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -1632,7 +1632,7 @@
 |**2024-08-15**|**IIU: Independent Inference Units for Knowledge-based Visual Question Answering**|Yili Li et.al.|[2408.07989v1](http://arxiv.org/abs/2408.07989v1)|**[link](https://github.com/lilidamowang/iiu)**|
 |**2024-08-15**|**LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**|Jiajie Li et.al.|[2408.07981v1](http://arxiv.org/abs/2408.07981v1)|null|
 |**2024-08-15**|**A Systematic Mapping Study of Crowd Knowledge Enhanced Software Engineering Research Using Stack Overflow**|Minaoar Tanzil et.al.|[2408.07913v1](http://arxiv.org/abs/2408.07913v1)|null|
-|**2024-08-15**|**Fine-tuning Large Language Models with Human-inspired Learning Strategies in Medical Question Answering**|Yushi Yang et.al.|[2408.07888v1](http://arxiv.org/abs/2408.07888v1)|null|
+|**2024-08-15**|**Fine-tuning Large Language Models with Human-inspired Learning Strategies in Medical Question Answering**|Yushi Yang et.al.|[2408.07888v1](http://arxiv.org/abs/2408.07888v1)|**[link](https://github.com/Oxford-AI-for-Society/human-learning-strategies)**|
 |**2024-08-15**|**Continuous Perception Benchmark**|Zeyu Wang et.al.|[2408.07867v1](http://arxiv.org/abs/2408.07867v1)|null|
 |**2024-08-14**|**QirK: Question Answering via Intermediate Representation on Knowledge Graphs**|Jan Luca Scheerer et.al.|[2408.07494v1](http://arxiv.org/abs/2408.07494v1)|null|
 |**2024-08-14**|**LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**|Fan Yang et.al.|[2408.07422v1](http://arxiv.org/abs/2408.07422v1)|null|
@@ -2697,13 +2697,13 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20240816'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240817'>back to top</a>)</p>
 
 ## Information Extraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-15**|**CatalogBank: A Structured and Interoperable Catalog Dataset with a Semi-Automatic Annotation Tool (DocumentLabeler) for Engineering System Design**|Hasan Sinan Bank et.al.|[2408.08238v1](http://arxiv.org/abs/2408.08238v1)|null|
+|**2024-08-15**|**CatalogBank: A Structured and Interoperable Catalog Dataset with a Semi-Automatic Annotation Tool (DocumentLabeler) for Engineering System Design**|Hasan Sinan Bank et.al.|[2408.08238v1](http://arxiv.org/abs/2408.08238v1)|**[link](https://github.com/bankh/DocumentLabeler)**|
 |**2024-08-14**|**Evaluating Large Language Model based Personal Information Extraction and Countermeasures**|Yupei Liu et.al.|[2408.07291v1](http://arxiv.org/abs/2408.07291v1)|null|
 |**2024-08-15**|**An Event Structure-aware Generative Model for Biomedical Event Extraction**|Haohan Yuan et.al.|[2408.06583v3](http://arxiv.org/abs/2408.06583v3)|null|
 |**2024-08-10**|**Document-Level Event Extraction with Definition-Driven ICL**|Zhuoyuan Liu et.al.|[2408.05566v1](http://arxiv.org/abs/2408.05566v1)|null|
@@ -3060,7 +3060,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240816'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240817'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -3801,7 +3801,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240816'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240817'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -3816,7 +3816,7 @@
 |**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611v1](http://arxiv.org/abs/2408.07611v1)|null|
 |**2024-08-14**|**Graph polyhedral divisions in growing cell aggregates**|Urban Železnik et.al.|[2408.07551v1](http://arxiv.org/abs/2408.07551v1)|null|
 |**2024-08-14**|**QirK: Question Answering via Intermediate Representation on Knowledge Graphs**|Jan Luca Scheerer et.al.|[2408.07494v1](http://arxiv.org/abs/2408.07494v1)|null|
-|**2024-08-14**|**Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals**|Tobias A. Opsahl et.al.|[2408.07453v1](http://arxiv.org/abs/2408.07453v1)|null|
+|**2024-08-14**|**Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals**|Tobias A. Opsahl et.al.|[2408.07453v1](http://arxiv.org/abs/2408.07453v1)|**[link](https://github.com/tobias-opsahl/fact-or-fiction)**|
 |**2024-08-13**|**The gene function prediction challenge: large language models and knowledge graphs to the rescue**|Rohan Shawn Sunil et.al.|[2408.07222v1](http://arxiv.org/abs/2408.07222v1)|null|
 |**2024-08-13**|**Unlock the Power of Frozen LLMs in Knowledge Graph Completion**|Bo Xue et.al.|[2408.06787v1](http://arxiv.org/abs/2408.06787v1)|null|
 |**2024-08-13**|**Generalized knowledge-enhanced framework for biomedical entity and relation extraction**|Minh Nguyen et.al.|[2408.06618v1](http://arxiv.org/abs/2408.06618v1)|null|
@@ -4425,7 +4425,7 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240816'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240817'>back to top</a>)</p>
 
 ## GNN
 
@@ -4437,9 +4437,9 @@
 |**2024-08-14**|**Towards Few-shot Self-explaining Graph Neural Networks**|Jingyu Peng et.al.|[2408.07340v1](http://arxiv.org/abs/2408.07340v1)|**[link](https://github.com/jypeng28/mse-gnn)**|
 |**2024-08-14**|**RSEA-MVGNN: Multi-View Graph Neural Network with Reliable Structural Enhancement and Aggregation**|Junyu Chen et.al.|[2408.07331v1](http://arxiv.org/abs/2408.07331v1)|null|
 |**2024-08-13**|**Pan-cancer gene set discovery via scRNA-seq for optimal deep learning based downstream tasks**|Jong Hyun Kim et.al.|[2408.07233v1](http://arxiv.org/abs/2408.07233v1)|null|
-|**2024-08-13**|**Joint Graph Rewiring and Feature Denoising via Spectral Resonance**|Jonas Linkerhägner et.al.|[2408.07191v1](http://arxiv.org/abs/2408.07191v1)|null|
+|**2024-08-13**|**Joint Graph Rewiring and Feature Denoising via Spectral Resonance**|Jonas Linkerhägner et.al.|[2408.07191v1](http://arxiv.org/abs/2408.07191v1)|**[link](https://github.com/jlinki/JDR)**|
 |**2024-08-13**|**Physics-informed graph neural networks for flow field estimation in carotid arteries**|Julian Suk et.al.|[2408.07110v1](http://arxiv.org/abs/2408.07110v1)|null|
-|**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan et.al.|[2408.07038v1](http://arxiv.org/abs/2408.07038v1)|null|
+|**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan et.al.|[2408.07038v1](http://arxiv.org/abs/2408.07038v1)|**[link](https://github.com/arshpreetmaan/astra)**|
 |**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993v1](http://arxiv.org/abs/2408.06993v1)|**[link](https://github.com/starjob42/datasetjsp)**|
 |**2024-08-13**|**Graph Neural Network Approach to Predict the Effects of Road Capacity Reduction Policies: A Case Study for Paris, France**|Elena Natterer et.al.|[2408.06762v1](http://arxiv.org/abs/2408.06762v1)|null|
 |**2024-08-13**|**Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models**|Jialiang Wang et.al.|[2408.06717v1](http://arxiv.org/abs/2408.06717v1)|null|
@@ -5561,5 +5561,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240816'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240817'>back to top</a>)</p>
 
