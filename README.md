@@ -1,4 +1,4 @@
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -1250,7 +1250,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240818'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240819'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -1258,7 +1258,7 @@
 |---|---|---|---|---|
 |**2024-07-20**|**Economy Watchers Survey provides Datasets and Tasks for Japanese Financial Domain**|Masahiro Suzuki et.al.|[2407.14727v1](http://arxiv.org/abs/2407.14727v1)|**[link](https://github.com/retarfi/economy-watchers-survey)**|
 |**2024-07-13**|**AraFinNLP 2024: The First Arabic Financial NLP Shared Task**|Sanad Malaysha et.al.|[2407.09818v1](http://arxiv.org/abs/2407.09818v1)|null|
-|**2024-04-16**|**No Language is an Island: Unifying Chinese and English in Financial Large Language Models, Instruction Data, and Benchmarks**|Gang Hu et.al.|[2403.06249v2](http://arxiv.org/abs/2403.06249v2)|**[link](https://github.com/the-finai/pixiu)**|
+|**2024-08-16**|**No Language is an Island: Unifying Chinese and English in Financial Large Language Models, Instruction Data, and Benchmarks**|Gang Hu et.al.|[2403.06249v3](http://arxiv.org/abs/2403.06249v3)|**[link](https://github.com/the-finai/pixiu)**|
 |**2024-02-04**|**A Survey of Large Language Models in Finance (FinLLMs)**|Jean Lee et.al.|[2402.02315v1](http://arxiv.org/abs/2402.02315v1)|**[link](https://github.com/adlnlp/finllms)**|
 |**2023-11-11**|**BizBench: A Quantitative Reasoning Benchmark for Business and Finance**|Rik Koncel-Kedziorski et.al.|[2311.06602v1](http://arxiv.org/abs/2311.06602v1)|null|
 |**2023-10-22**|**Retrieval-Augmented Chain-of-Thought in Semi-structured Domains**|Vaibhav Mavi et.al.|[2310.14435v1](http://arxiv.org/abs/2310.14435v1)|null|
@@ -1271,7 +1271,7 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240818'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240819'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -1623,7 +1623,7 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240818'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240819'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -2697,7 +2697,7 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20240818'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240819'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -3060,7 +3060,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240818'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240819'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -3801,7 +3801,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240818'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240819'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -4425,7 +4425,7 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240818'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240819'>back to top</a>)</p>
 
 ## GNN
 
@@ -5561,5 +5561,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240818'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240819'>back to top</a>)</p>
 
