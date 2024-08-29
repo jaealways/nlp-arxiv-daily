@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**A New Method for Cross-Lingual-based Semantic Role Labeling**|Mohammad Ebrahimi et.al.|[2408.15896v1](http://arxiv.org/abs/2408.15896v1)|null|
+|**2024-08-28**|**Lyrically Speaking: Exploring the Link Between Lyrical Emotions, Themes and Depression Risk**|Pavani Chowdary et.al.|[2408.15575v1](http://arxiv.org/abs/2408.15575v1)|null|
+|**2024-08-28**|**Dolphin: Long Context as a New Modality for Energy-Efficient On-Device Language Models**|Wei Chen et.al.|[2408.15518v1](http://arxiv.org/abs/2408.15518v1)|null|
+|**2024-08-28**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496v1](http://arxiv.org/abs/2408.15496v1)|null|
+|**2024-08-27**|**TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering**|Yiqing Shen et.al.|[2408.15299v1](http://arxiv.org/abs/2408.15299v1)|**[link](https://github.com/tsynbio/TourSynbio)**|
 |**2024-08-27**|**PoseWatch: A Transformer-based Architecture for Human-centric Video Anomaly Detection Using Spatio-temporal Pose Tokenization**|Ghazal Alinezhad Noghre et.al.|[2408.15185v1](http://arxiv.org/abs/2408.15185v1)|null|
 |**2024-08-27**|**A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships**|Gracile Astlin Pereira et.al.|[2408.15178v1](http://arxiv.org/abs/2408.15178v1)|null|
 |**2024-08-27**|**AAVENUE: Detecting LLM Biases on NLU Tasks in AAVE via a Novel Benchmark**|Abhay Gupta et.al.|[2408.14845v1](http://arxiv.org/abs/2408.14845v1)|null|
@@ -1340,11 +1345,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Visual Prompt Engineering for Medical Vision Language Models in Radiology**|Stefan Denner et.al.|[2408.15802v1](http://arxiv.org/abs/2408.15802v1)|null|
+|**2024-08-28**|**Evaluating Named Entity Recognition Using Few-Shot Prompting with Large Language Models**|Hédi Zhegidi et.al.|[2408.15796v1](http://arxiv.org/abs/2408.15796v1)|**[link](https://github.com/geode-project/ner-llm)**|
 |**2024-08-27**|**Detecting AI Flaws: Target-Driven Attacks on Internal Faults in Language Models**|Yuhao Du et.al.|[2408.14853v1](http://arxiv.org/abs/2408.14853v1)|null|
 |**2024-08-25**|**Towards Reliable Medical Question Answering: Techniques and Challenges in Mitigating Hallucinations in Language Models**|Duy Khoa Pham et.al.|[2408.13808v1](http://arxiv.org/abs/2408.13808v1)|null|
 |**2024-08-23**|**Understanding Defects in Generated Codes by Language Models**|Ali Mohammadi Esfahani et.al.|[2408.13372v1](http://arxiv.org/abs/2408.13372v1)|null|
 |**2024-08-27**|**Can LLM be a Good Path Planner based on Prompt Engineering? Mitigating the Hallucination for Path Planning**|Hourui Deng et.al.|[2408.13184v2](http://arxiv.org/abs/2408.13184v2)|null|
-|**2024-08-23**|**What Do You Want? User-centric Prompt Generation for Text-to-image Synthesis via Multi-turn Guidance**|Yilun Liu et.al.|[2408.12910v1](http://arxiv.org/abs/2408.12910v1)|null|
+|**2024-08-23**|**What Do You Want? User-centric Prompt Generation for Text-to-image Synthesis via Multi-turn Guidance**|Yilun Liu et.al.|[2408.12910v1](http://arxiv.org/abs/2408.12910v1)|**[link](https://github.com/superboom/dialprompt)**|
 |**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599v1](http://arxiv.org/abs/2408.12599v1)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
 |**2024-08-21**|**Research on the Application of Large Language Models in Automatic Question Generation: A Case Study of ChatGLM in the Context of High School Information Technology Curriculum**|Yanxin Chen et.al.|[2408.11539v1](http://arxiv.org/abs/2408.11539v1)|null|
 |**2024-08-21**|**Probabilistic Medical Predictions of Large Language Models**|Bowen Gu et.al.|[2408.11316v1](http://arxiv.org/abs/2408.11316v1)|null|
@@ -1709,6 +1716,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903v1](http://arxiv.org/abs/2408.15903v1)|null|
+|**2024-08-28**|**Can SAR improve RSVQA performance?**|Lucrezia Tosato et.al.|[2408.15642v1](http://arxiv.org/abs/2408.15642v1)|null|
+|**2024-08-28**|**Can Visual Language Models Replace OCR-Based Visual Question Answering Pipelines in Production? A Case Study in Retail**|Bianca Lamm et.al.|[2408.15626v1](http://arxiv.org/abs/2408.15626v1)|null|
+|**2024-08-28**|**SIaM: Self-Improving Code-Assisted Mathematical Reasoning of Large Language Models**|Dian Yu et.al.|[2408.15565v1](http://arxiv.org/abs/2408.15565v1)|**[link](https://github.com/tencent-ailab/siam)**|
+|**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562v1](http://arxiv.org/abs/2408.15562v1)|null|
+|**2024-08-27**|**A Statistical Framework for Data-dependent Retrieval-Augmented Models**|Soumya Basu et.al.|[2408.15399v1](http://arxiv.org/abs/2408.15399v1)|null|
 |**2024-08-27**|**Evidence-Enhanced Triplet Generation Framework for Hallucination Alleviation in Generative Question Answering**|Haowei Du et.al.|[2408.15037v1](http://arxiv.org/abs/2408.15037v1)|null|
 |**2024-08-26**|**MMR: Evaluating Reading Ability of Large Multimodal Models**|Jian Chen et.al.|[2408.14594v1](http://arxiv.org/abs/2408.14594v1)|null|
 |**2024-08-26**|**Towards Graph Prompt Learning: A Survey and Beyond**|Qingqing Long et.al.|[2408.14520v1](http://arxiv.org/abs/2408.14520v1)|null|
@@ -2848,6 +2861,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Deep thermalization under charge-conserving quantum dynamics**|Rui-An Chang et.al.|[2408.15325v1](http://arxiv.org/abs/2408.15325v1)|null|
 |**2024-08-27**|**Triplètoile: Extraction of Knowledge from Microblogging Text**|Vanni Zavarella et.al.|[2408.14908v1](http://arxiv.org/abs/2408.14908v1)|null|
 |**2024-08-26**|**Epidemic Information Extraction for Event-Based Surveillance using Large Language Models**|Sergio Consoli et.al.|[2408.14277v1](http://arxiv.org/abs/2408.14277v1)|null|
 |**2024-08-25**|**Biomedical Large Languages Models Seem not to be Superior to Generalist Models on Unseen Medical Data**|Felix J. Dorfner et.al.|[2408.13833v1](http://arxiv.org/abs/2408.13833v1)|null|
@@ -3222,6 +3236,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Software Solutions for Newcomers' Onboarding in Software Projects: A Systematic Literature Review**|Italo Santos et.al.|[2408.15989v1](http://arxiv.org/abs/2408.15989v1)|null|
+|**2024-08-28**|**Lyrically Speaking: Exploring the Link Between Lyrical Emotions, Themes and Depression Risk**|Pavani Chowdary et.al.|[2408.15575v1](http://arxiv.org/abs/2408.15575v1)|null|
 |**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172v1](http://arxiv.org/abs/2408.15172v1)|null|
 |**2024-08-27**|**SiHGNN: Leveraging Properties of Semantic Graphs for Efficient HGNN Acceleration**|Runzhen Xue et.al.|[2408.15089v1](http://arxiv.org/abs/2408.15089v1)|null|
 |**2024-08-27**|**Graph and Sequential Neural Networks in Session-based Recommendation: A Survey**|Zihao Li et.al.|[2408.14851v1](http://arxiv.org/abs/2408.14851v1)|null|
@@ -4010,6 +4026,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903v1](http://arxiv.org/abs/2408.15903v1)|null|
+|**2024-08-28**|**Hierarchical Blockmodelling for Knowledge Graphs**|Marcin Pietrasik et.al.|[2408.15649v1](http://arxiv.org/abs/2408.15649v1)|**[link](https://github.com/mpietrasik/hb)**|
+|**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620v1](http://arxiv.org/abs/2408.15620v1)|null|
+|**2024-08-27**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294v1](http://arxiv.org/abs/2408.15294v1)|null|
+|**2024-08-27**|**Learning Granularity Representation for Temporal Knowledge Graph Completion**|Jinchuan Zhang et.al.|[2408.15293v1](http://arxiv.org/abs/2408.15293v1)|**[link](https://github.com/kcacozhang/lgre)**|
 |**2024-08-27**|**Triplètoile: Extraction of Knowledge from Microblogging Text**|Vanni Zavarella et.al.|[2408.14908v1](http://arxiv.org/abs/2408.14908v1)|null|
 |**2024-08-28**|**VHAKG: A Multi-modal Knowledge Graph Based on Synchronized Multi-view Videos of Daily Activities**|Shusaku Egami et.al.|[2408.14895v2](http://arxiv.org/abs/2408.14895v2)|null|
 |**2024-08-27**|**CL4KGE: A Curriculum Learning Method for Knowledge Graph Embedding**|Yang Liu et.al.|[2408.14840v1](http://arxiv.org/abs/2408.14840v1)|null|
@@ -4660,6 +4681,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**The Role of Fibration Symmetries in Geometric Deep Learning**|Osvaldo Velarde et.al.|[2408.15894v1](http://arxiv.org/abs/2408.15894v1)|null|
+|**2024-08-28**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750v1](http://arxiv.org/abs/2408.15750v1)|null|
+|**2024-08-28**|**Affordable HPC: Leveraging Small Clusters for Big Data and Graph Computing**|Ruilong Wu et.al.|[2408.15568v1](http://arxiv.org/abs/2408.15568v1)|null|
+|**2024-08-27**|**Understanding GNNs for Boolean Satisfiability through Approximation Algorithms**|Jan Hůla et.al.|[2408.15418v1](http://arxiv.org/abs/2408.15418v1)|null|
+|**2024-08-27**|**Temporal Graph Neural Network-Powered Paper Recommendation on Dynamic Citation Networks**|Junhao Shen et.al.|[2408.15371v1](http://arxiv.org/abs/2408.15371v1)|null|
+|**2024-08-27**|**Multi-domain Network Slice Partitioning: A Graph Neural Network Algorithm**|Zhouxiang Wu et.al.|[2408.15342v1](http://arxiv.org/abs/2408.15342v1)|null|
+|**2024-08-27**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294v1](http://arxiv.org/abs/2408.15294v1)|null|
 |**2024-08-27**|**SiHGNN: Leveraging Properties of Semantic Graphs for Efficient HGNN Acceleration**|Runzhen Xue et.al.|[2408.15089v1](http://arxiv.org/abs/2408.15089v1)|null|
 |**2024-08-27**|**Earth Observation Satellite Scheduling with Graph Neural Networks**|Antoine Jacquet et.al.|[2408.15041v1](http://arxiv.org/abs/2408.15041v1)|null|
 |**2024-08-27**|**Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14964v1](http://arxiv.org/abs/2408.14964v1)|null|
