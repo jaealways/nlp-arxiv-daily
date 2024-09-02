@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**Towards Symbolic XAI -- Explanation Through Human Understandable Logical Relationships Between Features**|Thomas Schnake et.al.|[2408.17198v1](http://arxiv.org/abs/2408.17198v1)|null|
+|**2024-08-30**|**Training Ultra Long Context Language Model with Fully Pipelined Distributed Transformer**|Jinghan Yao et.al.|[2408.16978v1](http://arxiv.org/abs/2408.16978v1)|**[link](https://github.com/microsoft/DeepSpeed)**|
+|**2024-08-29**|**A longitudinal sentiment analysis of Sinophobia during COVID-19 using large language models**|Chen Wang et.al.|[2408.16942v1](http://arxiv.org/abs/2408.16942v1)|null|
+|**2024-08-29**|**Exploring Multiple Strategies to Improve Multilingual Coreference Resolution in CorefUD**|Ondřej Pražák et.al.|[2408.16893v1](http://arxiv.org/abs/2408.16893v1)|**[link](https://github.com/ondfa/coref-multiling)**|
+|**2024-08-29**|**LLaVA-Chef: A Multi-modal Generative Model for Food Recipes**|Fnu Mohbat et.al.|[2408.16889v1](http://arxiv.org/abs/2408.16889v1)|**[link](https://github.com/mohbattharani/LLaVA-Chef)**|
 |**2024-08-29**|**How Far Can Cantonese NLP Go? Benchmarking Cantonese Capabilities of Large Language Models**|Jiyue Jiang et.al.|[2408.16756v1](http://arxiv.org/abs/2408.16756v1)|null|
 |**2024-08-29**|**Theoretical and Methodological Framework for Studying Texts Produced by Large Language Models**|Jiří Milička et.al.|[2408.16740v1](http://arxiv.org/abs/2408.16740v1)|null|
 |**2024-08-29**|**Data Quality Monitoring through Transfer Learning on Anomaly Detection for the Hadron Calorimeters**|Mulugeta Weldezgina Asres et.al.|[2408.16612v1](http://arxiv.org/abs/2408.16612v1)|null|
@@ -1724,6 +1729,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**Look, Learn and Leverage (L $^3$ ): Mitigating Visual-Domain Shift and Discovering Intrinsic Relations via Symbolic Alignment**|Hanchen Xie et.al.|[2408.17363v1](http://arxiv.org/abs/2408.17363v1)|null|
+|**2024-08-30**|**InkubaLM: A small language model for low-resource African languages**|Atnafu Lambebo Tonja et.al.|[2408.17024v1](http://arxiv.org/abs/2408.17024v1)|null|
+|**2024-08-30**|**Evaluation of Table Representations to Answer Questions from Tables in Documents : A Case Study using 3GPP Specifications**|Sujoy Roychowdhury et.al.|[2408.17008v1](http://arxiv.org/abs/2408.17008v1)|null|
+|**2024-08-30**|**Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering**|Su Hyeon Lim et.al.|[2408.17006v1](http://arxiv.org/abs/2408.17006v1)|null|
+|**2024-08-29**|**Event Extraction for Portuguese: A QA-driven Approach using ACE-2005**|Luís Filipe Cunha et.al.|[2408.16932v1](http://arxiv.org/abs/2408.16932v1)|null|
 |**2024-08-29**|**GradBias: Unveiling Word Influence on Bias in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2408.16700v1](http://arxiv.org/abs/2408.16700v1)|**[link](https://github.com/moreno98/gradbias)**|
 |**2024-08-29**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662v1](http://arxiv.org/abs/2408.16662v1)|null|
 |**2024-08-29**|**M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation**|Jonggwon Park et.al.|[2408.16213v1](http://arxiv.org/abs/2408.16213v1)|null|
@@ -2873,6 +2883,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Event Extraction for Portuguese: A QA-driven Approach using ACE-2005**|Luís Filipe Cunha et.al.|[2408.16932v1](http://arxiv.org/abs/2408.16932v1)|null|
+|**2024-08-29**|**ACE-2005-PT: Corpus for Event Extraction in Portuguese**|Luís Filipe Cunha et.al.|[2408.16928v1](http://arxiv.org/abs/2408.16928v1)|null|
 |**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645v1](http://arxiv.org/abs/2408.16645v1)|null|
 |**2024-08-28**|**ChartEye: A Deep Learning Framework for Chart Information Extraction**|Osama Mustafa et.al.|[2408.16123v1](http://arxiv.org/abs/2408.16123v1)|null|
 |**2024-08-27**|**Deep thermalization under charge-conserving quantum dynamics**|Rui-An Chang et.al.|[2408.15325v1](http://arxiv.org/abs/2408.15325v1)|null|
@@ -3250,6 +3262,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**Not All Videos Become Outdated: Short-Video Recommendation by Learning to Deconfound Release Interval Bias**|Lulu Dong et.al.|[2408.17332v1](http://arxiv.org/abs/2408.17332v1)|**[link](https://github.com/ECNU-Text-Computing/LDRI)**|
+|**2024-08-30**|**Efficient Multi-task Prompt Tuning for Recommendation**|Ting Bai et.al.|[2408.17214v1](http://arxiv.org/abs/2408.17214v1)|null|
+|**2024-08-30**|**UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches**|Chao Wang et.al.|[2408.16966v1](http://arxiv.org/abs/2408.16966v1)|null|
+|**2024-08-29**|**Mitigating Polarization in Recommender Systems via Network-aware Feedback Optimization**|Sanjay Chandrasekaran et.al.|[2408.16899v1](http://arxiv.org/abs/2408.16899v1)|null|
 |**2024-08-29**|**Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation**|Viet-Anh Tran et.al.|[2408.16578v1](http://arxiv.org/abs/2408.16578v1)|null|
 |**2024-08-29**|**HYGENE: A Diffusion-based Hypergraph Generation Method**|Dorian Gailhard et.al.|[2408.16457v1](http://arxiv.org/abs/2408.16457v1)|null|
 |**2024-08-29**|**Do Recommender Systems Promote Local Music? A Reproducibility Study Using Music Streaming Data**|Kristina Matrosova et.al.|[2408.16430v1](http://arxiv.org/abs/2408.16430v1)|**[link](https://github.com/kmatrosova/fairnessrecsys2024)**|
@@ -4045,6 +4061,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**iCPS-DL: A Description Language for Autonomic Industrial Cyber-Physical Systems**|Dimitrios Kouzapas et.al.|[2408.17133v1](http://arxiv.org/abs/2408.17133v1)|null|
 |**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903v1](http://arxiv.org/abs/2408.15903v1)|null|
 |**2024-08-28**|**Hierarchical Blockmodelling for Knowledge Graphs**|Marcin Pietrasik et.al.|[2408.15649v1](http://arxiv.org/abs/2408.15649v1)|**[link](https://github.com/mpietrasik/hb)**|
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620v1](http://arxiv.org/abs/2408.15620v1)|null|
@@ -4700,6 +4717,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**Leveraging Graph Neural Networks to Forecast Electricity Consumption**|Eloi Campagne et.al.|[2408.17366v1](http://arxiv.org/abs/2408.17366v1)|null|
+|**2024-08-30**|**A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks**|Mingjun Sun et.al.|[2408.17252v1](http://arxiv.org/abs/2408.17252v1)|null|
+|**2024-08-30**|**Search for $t\bar{t}H/A \rightarrow t\bar{t}t\bar{t}$ production in proton-proton collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2408.17164v1](http://arxiv.org/abs/2408.17164v1)|null|
+|**2024-08-30**|**Controllable Edge-Type-Specific Interpretation in Multi-Relational Graph Neural Networks for Drug Response Prediction**|Xiaodi Li et.al.|[2408.17129v1](http://arxiv.org/abs/2408.17129v1)|**[link](https://github.com/ahaubioinformatics/cetexplainer)**|
 |**2024-08-29**|**H-SGANet: Hybrid Sparse Graph Attention Network for Deformable Medical Image Registration**|Yufeng Zhou et.al.|[2408.16719v1](http://arxiv.org/abs/2408.16719v1)|null|
 |**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717v1](http://arxiv.org/abs/2408.16717v1)|null|
 |**2024-08-29**|**SympGNNs: Symplectic Graph Neural Networks for identifiying high-dimensional Hamiltonian systems and node classification**|Alan John Varghese et.al.|[2408.16698v1](http://arxiv.org/abs/2408.16698v1)|null|
