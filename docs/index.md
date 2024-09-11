@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -1356,7 +1356,7 @@ layout: default
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20240910'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240911'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -1377,7 +1377,7 @@ layout: default
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20240910'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240911'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -1762,19 +1762,19 @@ layout: default
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20240910'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240911'>back to top</a>)</p>
 
 ## Question Answering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-09**|**Breaking Neural Network Scaling Laws with Modularity**|Akhilan Boopathy et.al.|[2409.05780v1](http://arxiv.org/abs/2409.05780v1)|null|
-|**2024-09-09**|**MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery**|Hongjin Qian et.al.|[2409.05591v1](http://arxiv.org/abs/2409.05591v1)|null|
+|**2024-09-10**|**MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery**|Hongjin Qian et.al.|[2409.05591v2](http://arxiv.org/abs/2409.05591v2)|**[link](https://github.com/qhjqhj00/memorag)**|
 |**2024-09-09**|**Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**|Georgios Pantazopoulos et.al.|[2409.05395v1](http://arxiv.org/abs/2409.05395v1)|null|
-|**2024-09-09**|**Towards Building a Robust Knowledge Intensive Question Answering Model with Large Language Models**|Hong Xingyun Hong et.al.|[2409.05385v1](http://arxiv.org/abs/2409.05385v1)|null|
+|**2024-09-10**|**Towards Building a Robust Knowledge Intensive Question Answering Model with Large Language Models**|Hong Xingyun Hong et.al.|[2409.05385v2](http://arxiv.org/abs/2409.05385v2)|null|
 |**2024-09-09**|**Seek and Solve Reasoning for Table Question Answering**|Ruya Jiang et.al.|[2409.05286v1](http://arxiv.org/abs/2409.05286v1)|null|
 |**2024-09-07**|**Just ASR + LLM? A Study on Speech Large Language Models' Ability to Identify and Understand Speaker in Spoken Dialogue**|Junkai Wu et.al.|[2409.04927v1](http://arxiv.org/abs/2409.04927v1)|**[link](https://github.com/wjk0925/slt2024-speechllm-speaker-understanding)**|
-|**2024-09-09**|**Question-Answering Dense Video Events**|Hangyu Qin et.al.|[2409.04388v2](http://arxiv.org/abs/2409.04388v2)|null|
+|**2024-09-10**|**Question-Answering Dense Video Events**|Hangyu Qin et.al.|[2409.04388v3](http://arxiv.org/abs/2409.04388v3)|null|
 |**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181v1](http://arxiv.org/abs/2409.04181v1)|null|
 |**2024-09-06**|**COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes**|Koen Kraaijveld et.al.|[2409.04053v1](http://arxiv.org/abs/2409.04053v1)|null|
 |**2024-09-06**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708v2](http://arxiv.org/abs/2409.03708v2)|null|
@@ -2942,7 +2942,7 @@ layout: default
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20240910'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240911'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -3333,7 +3333,7 @@ layout: default
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20240910'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240911'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -4153,7 +4153,7 @@ layout: default
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20240910'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240911'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -4829,7 +4829,7 @@ layout: default
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|**[link](https://github.com/hkust-knowcomp/abductivekgr)**|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20240910'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240911'>back to top</a>)</p>
 
 ## GNN
 
@@ -4839,12 +4839,12 @@ layout: default
 |**2024-09-09**|**Are Heterophily-Specific GNNs and Homophily Metrics Really Effective? Evaluation Pitfalls and New Benchmarks**|Sitao Luan et.al.|[2409.05755v1](http://arxiv.org/abs/2409.05755v1)|null|
 |**2024-09-09**|**Enhancing Graph Contrastive Learning with Reliable and Informative Augmentation for Recommendation**|Bowen Zheng et.al.|[2409.05633v1](http://arxiv.org/abs/2409.05633v1)|null|
 |**2024-09-09**|**Learning to Model Graph Structural Information on MLPs via Graph Structure Self-Contrasting**|Lirong Wu et.al.|[2409.05573v1](http://arxiv.org/abs/2409.05573v1)|null|
-|**2024-09-09**|**Retrofitting Temporal Graph Neural Networks with Transformer**|Qiang Huang et.al.|[2409.05477v1](http://arxiv.org/abs/2409.05477v1)|**[link](https://github.com/qianghuangwhu/tf-tgn)**|
+|**2024-09-10**|**Retrofitting Temporal Graph Neural Networks with Transformer**|Qiang Huang et.al.|[2409.05477v2](http://arxiv.org/abs/2409.05477v2)|**[link](https://github.com/qianghuangwhu/tf-tgn)**|
 |**2024-09-09**|**Graffin: Stand for Tails in Imbalanced Node Classification**|Xiaorui Qi et.al.|[2409.05339v1](http://arxiv.org/abs/2409.05339v1)|null|
 |**2024-09-09**|**Investigating Material Interface Diffusion Phenomena through Graph Neural Networks in Applied Materials**|Zirui Zhao et.al.|[2409.05306v1](http://arxiv.org/abs/2409.05306v1)|null|
 |**2024-09-08**|**Generalization of Geometric Graph Neural Networks**|Zhiyang Wang et.al.|[2409.05191v1](http://arxiv.org/abs/2409.05191v1)|null|
 |**2024-09-08**|**Learning polycrystal plasticity using mesh-based subgraph geometric deep learning**|Hanfeng Zhai et.al.|[2409.05169v1](http://arxiv.org/abs/2409.05169v1)|null|
-|**2024-09-08**|**MaxCutPool: differentiable feature-aware Maxcut for pooling in graph neural networks**|Carlo Abate et.al.|[2409.05100v1](http://arxiv.org/abs/2409.05100v1)|null|
+|**2024-09-10**|**MaxCutPool: differentiable feature-aware Maxcut for pooling in graph neural networks**|Carlo Abate et.al.|[2409.05100v2](http://arxiv.org/abs/2409.05100v2)|null|
 |**2024-09-06**|**Accelerating Training with Neuron Interaction and Nowcasting Networks**|Boris Knyazev et.al.|[2409.04434v1](http://arxiv.org/abs/2409.04434v1)|**[link](https://github.com/samsungsailmontreal/nino)**|
 |**2024-09-06**|**GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding**|Ziyin Zhang et.al.|[2409.04183v1](http://arxiv.org/abs/2409.04183v1)|null|
 |**2024-09-06**|**CUQ-GNN: Committee-based Graph Uncertainty Quantification using Posterior Networks**|Clemens Damke et.al.|[2409.04159v1](http://arxiv.org/abs/2409.04159v1)|null|
@@ -6067,5 +6067,5 @@ layout: default
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|**[link](https://github.com/basiralab/falcon)**|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20240910'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240911'>back to top</a>)</p>
 
