@@ -22,6 +22,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Leveraging Distillation Techniques for Document Understanding: A Case Study with FLAN-T5**|Marcel Lamott et.al.|[2409.11282v1](http://arxiv.org/abs/2409.11282v1)|null|
+|**2024-09-17**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022v1](http://arxiv.org/abs/2409.11022v1)|null|
+|**2024-09-17**|**Cross-lingual transfer of multilingual models on low resource African Languages**|Harish Thangaraj et.al.|[2409.10965v1](http://arxiv.org/abs/2409.10965v1)|null|
+|**2024-09-17**|**Propulsion: Steering LLM with Tiny Fine-Tuning**|Md Kowsher et.al.|[2409.10927v1](http://arxiv.org/abs/2409.10927v1)|**[link](https://github.com/Kowsher/Propulsion)**|
+|**2024-09-17**|**American Sign Language to Text Translation using Transformer and Seq2Seq with LSTM**|Gregorius Guntur Sunardi Putra et.al.|[2409.10874v1](http://arxiv.org/abs/2409.10874v1)|null|
+|**2024-09-16**|**Trustworthy Conceptual Explanations for Neural Networks in Robot Decision-Making**|Som Sagar et.al.|[2409.10733v1](http://arxiv.org/abs/2409.10733v1)|null|
 |**2024-09-16**|**LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning**|Jicong Ao et.al.|[2409.10444v1](http://arxiv.org/abs/2409.10444v1)|null|
 |**2024-09-16**|**HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**|Sumera Anjum et.al.|[2409.10011v1](http://arxiv.org/abs/2409.10011v1)|null|
 |**2024-09-16**|**SelECT-SQL: Self-correcting ensemble Chain-of-Thought for Text-to-SQL**|Ke Shen et.al.|[2409.10007v1](http://arxiv.org/abs/2409.10007v1)|**[link](https://github.com/neuripspublishingresearchcode/select-sql)**|
@@ -1413,6 +1419,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825v1](http://arxiv.org/abs/2409.10825v1)|null|
+|**2024-09-15**|**Language Models and Retrieval Augmented Generation for Automated Structured Data Extraction from Diagnostic Reports**|Mohamed Sobhi Jabal et.al.|[2409.10576v1](http://arxiv.org/abs/2409.10576v1)|null|
+|**2024-09-11**|**DrLLM: Prompt-Enhanced Distributed Denial-of-Service Resistance Method with Large Language Models**|Zhenyu Yin et.al.|[2409.10561v1](http://arxiv.org/abs/2409.10561v1)|null|
 |**2024-09-16**|**A Study on Zero-shot Non-intrusive Speech Assessment using Large Language Models**|Ryandhimas E. Zezario et.al.|[2409.09914v1](http://arxiv.org/abs/2409.09914v1)|null|
 |**2024-09-14**|**AI-Driven Virtual Teacher for Enhanced Educational Efficiency: Leveraging Large Pretrain Models for Autonomous Error Analysis and Correction**|Tianlong Xu et.al.|[2409.09403v1](http://arxiv.org/abs/2409.09403v1)|null|
 |**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010v1](http://arxiv.org/abs/2409.09010v1)|null|
@@ -1809,6 +1818,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**OneEncoder: A Lightweight Framework for Progressive Alignment of Modalities**|Bilal Faye et.al.|[2409.11059v1](http://arxiv.org/abs/2409.11059v1)|null|
+|**2024-09-17**|**CAST: Cross-modal Alignment Similarity Test for Vision Language Models**|Gautier Dagan et.al.|[2409.11007v1](http://arxiv.org/abs/2409.11007v1)|**[link](https://github.com/gautierdag/cast)**|
+|**2024-09-17**|**Contextual Breach: Assessing the Robustness of Transformer-based QA Models**|Asir Saadat et.al.|[2409.10997v1](http://arxiv.org/abs/2409.10997v1)|null|
+|**2024-09-17**|**Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs**|Dingjie Song et.al.|[2409.10994v1](http://arxiv.org/abs/2409.10994v1)|null|
 |**2024-09-16**|**StruEdit: Structured Outputs Enable the Fast and Accurate Knowledge Editing for Large Language Models**|Baolong Bi et.al.|[2409.10132v1](http://arxiv.org/abs/2409.10132v1)|null|
 |**2024-09-16**|**HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**|Sumera Anjum et.al.|[2409.10011v1](http://arxiv.org/abs/2409.10011v1)|null|
 |**2024-09-15**|**A Benchmark Dataset with Larger Context for Non-Factoid Question Answering over Islamic Text**|Faiza Qamar et.al.|[2409.09844v1](http://arxiv.org/abs/2409.09844v1)|null|
@@ -3421,6 +3434,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Diversity-grounded Channel Prototypical Learning for Out-of-Distribution Intent Detection**|Bo Liu et.al.|[2409.11114v1](http://arxiv.org/abs/2409.11114v1)|null|
+|**2024-09-17**|**Multi-modal Generative Models in Recommendation System**|Arnau Ramisa et.al.|[2409.10993v1](http://arxiv.org/abs/2409.10993v1)|null|
+|**2024-09-17**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825v1](http://arxiv.org/abs/2409.10825v1)|null|
+|**2024-09-16**|**Aligning Judgment Using Task Context and Explanations to Improve Human-Recommender System Performance**|Divya Srivastava et.al.|[2409.10717v1](http://arxiv.org/abs/2409.10717v1)|null|
+|**2024-09-16**|**Development of Data Evaluation Benchmark for Data Wrangling Recommendation System**|Yuqing Wang et.al.|[2409.10635v1](http://arxiv.org/abs/2409.10635v1)|null|
 |**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494v1](http://arxiv.org/abs/2409.10494v1)|null|
 |**2024-09-16**|**Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation**|Tianrui Song et.al.|[2409.10343v1](http://arxiv.org/abs/2409.10343v1)|null|
 |**2024-09-16**|**beeFormer: Bridging the Gap Between Semantic and Interaction Similarity in Recommender Systems**|Vojtěch Vančura et.al.|[2409.10309v1](http://arxiv.org/abs/2409.10309v1)|**[link](https://github.com/recombee/beeformer)**|
@@ -4268,6 +4286,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Semantic Information Management in Low-Temperature Plasma Science and Technology with VIVO**|Ihda Chaerony Siffa et.al.|[2409.11065v1](http://arxiv.org/abs/2409.11065v1)|null|
+|**2024-09-17**|**GOSt-MT: A Knowledge Graph for Occupation-related Gender Biases in Machine Translation**|Orfeas Menis Mastromichalakis et.al.|[2409.10989v1](http://arxiv.org/abs/2409.10989v1)|null|
+|**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921v1](http://arxiv.org/abs/2409.10921v1)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
 |**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403v1](http://arxiv.org/abs/2409.10403v1)|null|
 |**2024-09-16**|**MGSA: Multi-granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**|Shanshan Wang et.al.|[2409.10294v1](http://arxiv.org/abs/2409.10294v1)|null|
 |**2024-09-16**|**LLM-DER:A Named Entity Recognition Method Based on Large Language Models for Chinese Coal Chemical Domain**|Le Xiao et.al.|[2409.10077v1](http://arxiv.org/abs/2409.10077v1)|null|
@@ -4958,6 +4979,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Uncertainty and Prediction Quality Estimation for Semantic Segmentation via Graph Neural Networks**|Edgar Heinert et.al.|[2409.11373v1](http://arxiv.org/abs/2409.11373v1)|null|
+|**2024-09-17**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[2409.11206v1](http://arxiv.org/abs/2409.11206v1)|null|
+|**2024-09-17**|**MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for Legged Robot Contact Perception**|Daniel Butterfield et.al.|[2409.11146v1](http://arxiv.org/abs/2409.11146v1)|null|
+|**2024-09-17**|**Can Graph Reordering Speed Up Graph Neural Network Training? An Experimental Study**|Nikolai Merkel et.al.|[2409.11129v1](http://arxiv.org/abs/2409.11129v1)|**[link](https://github.com/nikolaimerkel/reordering)**|
+|**2024-09-17**|**GINTRIP: Interpretable Temporal Graph Regression using Information bottleneck and Prototype-based method**|Ali Royat et.al.|[2409.10996v1](http://arxiv.org/abs/2409.10996v1)|null|
+|**2024-09-17**|**Contrasformer: A Brain Network Contrastive Transformer for Neurodegenerative Condition Identification**|Jiaxing Xu et.al.|[2409.10944v1](http://arxiv.org/abs/2409.10944v1)|**[link](https://github.com/angusmonroe/contrasformer)**|
+|**2024-09-17**|**Spatio-Temporal-Network Point Processes for Modeling Crime Events with Landmarks**|Zheng Dong et.al.|[2409.10882v1](http://arxiv.org/abs/2409.10882v1)|null|
+|**2024-09-16**|**Recurrent Graph Transformer Network for Multiple Fault Localization in Naval Shipboard Systems**|Quang-Ha Ngo et.al.|[2409.10792v1](http://arxiv.org/abs/2409.10792v1)|null|
 |**2024-09-16**|**Signed Graph Autoencoder for Explainable and Polarization-Aware Network Embeddings**|Nikolaos Nakis et.al.|[2409.10452v1](http://arxiv.org/abs/2409.10452v1)|null|
 |**2024-09-16**|**Hyperedge Modeling in Hypergraph Neural Networks by using Densest Overlapping Subgraphs**|Mehrad Soltani et.al.|[2409.10340v1](http://arxiv.org/abs/2409.10340v1)|null|
 |**2024-09-16**|**Deep Graph Anomaly Detection: A Survey and New Perspectives**|Hezhe Qiao et.al.|[2409.09957v1](http://arxiv.org/abs/2409.09957v1)|**[link](https://github.com/mala-lab/awesome-deep-graph-anomaly-detection)**|
