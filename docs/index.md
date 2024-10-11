@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -26,7 +26,7 @@ layout: default
 |**2024-10-09**|**Pap2Pat: Towards Automated Paper-to-Patent Drafting using Chunk-based Outline-guided Generation**|Valentin Knappich et.al.|[2410.07009v1](http://arxiv.org/abs/2410.07009v1)|null|
 |**2024-10-09**|**Generative Model for Less-Resourced Language with 1 billion parameters**|Domen Vreš et.al.|[2410.06898v1](http://arxiv.org/abs/2410.06898v1)|null|
 |**2024-10-09**|**FltLM: An Intergrated Long-Context Large Language Model for Effective Context Filtering and Understanding**|Jingyang Deng et.al.|[2410.06886v1](http://arxiv.org/abs/2410.06886v1)|null|
-|**2024-10-09**|**Large Language Models as Code Executors: An Exploratory Study**|Chenyang Lyu et.al.|[2410.06667v1](http://arxiv.org/abs/2410.06667v1)|null|
+|**2024-10-10**|**Large Language Models as Code Executors: An Exploratory Study**|Chenyang Lyu et.al.|[2410.06667v2](http://arxiv.org/abs/2410.06667v2)|null|
 |**2024-10-09**|**Rodimus*: Breaking the Accuracy-Efficiency Trade-Off with Efficient Attentions**|Zhihao He et.al.|[2410.06577v1](http://arxiv.org/abs/2410.06577v1)|null|
 |**2024-10-09**|**The Accuracy Paradox in RLHF: When Better Reward Models Don't Yield Better Language Models**|Yanjun Chen et.al.|[2410.06554v1](http://arxiv.org/abs/2410.06554v1)|null|
 |**2024-10-09**|**Do great minds think alike? Investigating Human-AI Complementarity in Question Answering with CAIMIRA**|Maharshi Gor et.al.|[2410.06524v1](http://arxiv.org/abs/2410.06524v1)|null|
@@ -1491,7 +1491,7 @@ layout: default
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20241010'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241011'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -1513,7 +1513,7 @@ layout: default
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20241010'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241011'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -1955,7 +1955,7 @@ layout: default
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20241010'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241011'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -3272,7 +3272,7 @@ layout: default
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20241010'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241011'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -3282,7 +3282,7 @@ layout: default
 |**2024-10-07**|**Document-level Causal Relation Extraction with Knowledge-guided Binary Question Answering**|Zimu Wang et.al.|[2410.04752v1](http://arxiv.org/abs/2410.04752v1)|null|
 |**2024-10-06**|**MC-CoT: A Modular Collaborative CoT Framework for Zero-shot Medical-VQA with LLM and MLLM Integration**|Lai Wei et.al.|[2410.04521v1](http://arxiv.org/abs/2410.04521v1)|**[link](https://github.com/thomaswei-cn/MC-CoT)**|
 |**2024-10-04**|**Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments**|Omar Sharif et.al.|[2410.03594v1](http://arxiv.org/abs/2410.03594v1)|null|
-|**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748v1](http://arxiv.org/abs/2410.02748v1)|null|
+|**2024-10-09**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748v2](http://arxiv.org/abs/2410.02748v2)|null|
 |**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741v1](http://arxiv.org/abs/2410.02741v1)|null|
 |**2024-10-02**|**Assisted Data Annotation for Business Process Information Extraction from Textual Documents**|Julian Neuberger et.al.|[2410.01356v1](http://arxiv.org/abs/2410.01356v1)|**[link](https://github.com/JulianNeuberger/assisted-process-annotation)**|
 |**2024-10-02**|**GraphRevisedIE: Multimodal Information Extraction with Graph-Revised Network**|Panfeng Cao et.al.|[2410.01160v1](http://arxiv.org/abs/2410.01160v1)|**[link](https://github.com/caop-kie/GraphRevisedIE)**|
@@ -3693,7 +3693,7 @@ layout: default
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20241010'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241011'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -4624,7 +4624,7 @@ layout: default
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20241010'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241011'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -4633,7 +4633,7 @@ layout: default
 |**2024-10-09**|**Inference over Unseen Entities, Relations and Literals on Knowledge Graphs**|Caglar Demir et.al.|[2410.06742v1](http://arxiv.org/abs/2410.06742v1)|null|
 |**2024-10-08**|**Less is More: Making Smaller Language Models Competent Subgraph Retrievers for Multi-hop KGQA**|Wenyu Huang et.al.|[2410.06121v1](http://arxiv.org/abs/2410.06121v1)|null|
 |**2024-10-08**|**Posets and Bounded Probabilities for Discovering Order-inducing Features in Event Knowledge Graphs**|Christoffer Olling Back et.al.|[2410.06065v1](http://arxiv.org/abs/2410.06065v1)|null|
-|**2024-10-08**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062v1](http://arxiv.org/abs/2410.06062v1)|null|
+|**2024-10-10**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062v2](http://arxiv.org/abs/2410.06062v2)|null|
 |**2024-10-08**|**A large collection of bioinformatics question-query pairs over federated knowledge graphs: methodology and applications**|Jerven Bolleman et.al.|[2410.06010v1](http://arxiv.org/abs/2410.06010v1)|null|
 |**2024-10-08**|**Bottom-up Anytime Discovery of Generalised Multimodal Graph Patterns for Knowledge Graphs**|Xander Wilcke et.al.|[2410.05839v1](http://arxiv.org/abs/2410.05839v1)|null|
 |**2024-10-08**|**Information Discovery in e-Commerce**|Zhaochun Ren et.al.|[2410.05763v1](http://arxiv.org/abs/2410.05763v1)|null|
@@ -5366,7 +5366,7 @@ layout: default
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|**[link](https://github.com/hkust-knowcomp/abductivekgr)**|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20241010'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241011'>back to top</a>)</p>
 
 ## GNN
 
@@ -6739,5 +6739,5 @@ layout: default
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|**[link](https://github.com/basiralab/falcon)**|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20241010'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241011'>back to top</a>)</p>
 
