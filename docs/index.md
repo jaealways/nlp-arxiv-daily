@@ -22,6 +22,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Less is More: Extreme Gradient Boost Rank-1 Adaption for Efficient Finetuning of LLMs**|Yifei Zhang et.al.|[2410.19694v1](http://arxiv.org/abs/2410.19694v1)|null|
+|**2024-10-25**|**A distributional simplicity bias in the learning dynamics of transformers**|Riccardo Rende et.al.|[2410.19637v1](http://arxiv.org/abs/2410.19637v1)|null|
+|**2024-10-25**|**Investigating the Role of Prompting and External Tools in Hallucination Rates of Large Language Models**|Liam Barkley et.al.|[2410.19385v1](http://arxiv.org/abs/2410.19385v1)|null|
+|**2024-10-25**|**Peptide-GPT: Generative Design of Peptides using Generative Pre-trained Transformers and Bio-informatic Supervision**|Aayush Shah et.al.|[2410.19222v1](http://arxiv.org/abs/2410.19222v1)|**[link](https://github.com/aayush-shah14/peptidegpt)**|
+|**2024-10-24**|**Making Social Platforms Accessible: Emotion-Aware Speech Generation with Integrated Text Analysis**|Suparna De et.al.|[2410.19199v1](http://arxiv.org/abs/2410.19199v1)|null|
+|**2024-10-24**|**Indication Finding: a novel use case for representation learning**|Maren Eckhoff et.al.|[2410.19174v1](http://arxiv.org/abs/2410.19174v1)|null|
+|**2024-10-24**|**Research on Key Technologies for Cross-Cloud Federated Training of Large Language Models**|Haowei Yang et.al.|[2410.19130v1](http://arxiv.org/abs/2410.19130v1)|null|
+|**2024-10-24**|**LLM Tree Search**|Dylan Wilson et.al.|[2410.19117v1](http://arxiv.org/abs/2410.19117v1)|null|
+|**2024-10-24**|**TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**|Yuhang Li et.al.|[2410.19103v1](http://arxiv.org/abs/2410.19103v1)|null|
 |**2024-10-24**|**Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework**|Esteban Garces Arias et.al.|[2410.18653v1](http://arxiv.org/abs/2410.18653v1)|**[link](https://github.com/YecanLee/2BeOETG)**|
 |**2024-10-24**|**Data Scaling Laws in Imitation Learning for Robotic Manipulation**|Fanqi Lin et.al.|[2410.18647v1](http://arxiv.org/abs/2410.18647v1)|null|
 |**2024-10-24**|**Taipan: Efficient and Expressive State Space Language Models with Selective Attention**|Chien Van Nguyen et.al.|[2410.18572v1](http://arxiv.org/abs/2410.18572v1)|null|
@@ -1611,6 +1620,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Introducing MAPO: Momentum-Aided Gradient Descent Prompt Optimization**|Anthony Cui et.al.|[2410.19499v1](http://arxiv.org/abs/2410.19499v1)|null|
+|**2024-10-25**|**Intelligent Understanding of Large Language Models in Traditional Chinese Medicine Based on Prompt Engineering Framework**|Yirui Chen et.al.|[2410.19451v1](http://arxiv.org/abs/2410.19451v1)|null|
+|**2024-10-25**|**Investigating the Role of Prompting and External Tools in Hallucination Rates of Large Language Models**|Liam Barkley et.al.|[2410.19385v1](http://arxiv.org/abs/2410.19385v1)|null|
+|**2024-10-24**|**Inference time LLM alignment in single and multidomain preference spectrum**|Sadat Shahriar et.al.|[2410.19206v1](http://arxiv.org/abs/2410.19206v1)|null|
 |**2024-10-24**|**Demystifying Large Language Models for Medicine: A Primer**|Qiao Jin et.al.|[2410.18856v1](http://arxiv.org/abs/2410.18856v1)|**[link](https://github.com/ncbi-nlp/llm-medicine-primer)**|
 |**2024-10-21**|**Generative Design of Functional Metal Complexes Utilizing the Internal Knowledge of Large Language Models**|Jieyu Lu et.al.|[2410.18136v1](http://arxiv.org/abs/2410.18136v1)|null|
 |**2024-10-23**|**Benchmarking Foundation Models on Exceptional Cases: Dataset Creation and Validation**|Suho Kang et.al.|[2410.18001v1](http://arxiv.org/abs/2410.18001v1)|**[link](https://github.com/mlai-yonsei/exceptionalbenchmark)**|
@@ -2087,6 +2100,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning**|Yu Fu et.al.|[2410.19258v1](http://arxiv.org/abs/2410.19258v1)|null|
+|**2024-10-24**|**Visual Text Matters: Improving Text-KVQA with Visual Text Entity Knowledge-aware Large Multimodal Assistant**|Abhirama Subramanyam Penamakuri et.al.|[2410.19144v1](http://arxiv.org/abs/2410.19144v1)|**[link](https://github.com/vl2g/KaLMA)**|
 |**2024-10-24**|**BioMistral-NLU: Towards More Generalizable Medical Language Understanding through Instruction Tuning**|Yujuan Velvin Fu et.al.|[2410.18955v1](http://arxiv.org/abs/2410.18955v1)|null|
 |**2024-10-24**|**DeCoRe: Decoding by Contrasting Retrieval Heads to Mitigate Hallucinations**|Aryo Pradipta Gema et.al.|[2410.18860v1](http://arxiv.org/abs/2410.18860v1)|**[link](https://github.com/aryopg/decore)**|
 |**2024-10-24**|**Can Code-Switched Texts Activate a Knowledge Switch in LLMs? A Case Study on English-Korean Code-Switching**|Seoyeon Kim et.al.|[2410.18436v1](http://arxiv.org/abs/2410.18436v1)|null|
@@ -3509,6 +3524,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark**|S Sakshi et.al.|[2410.19168v1](http://arxiv.org/abs/2410.19168v1)|null|
 |**2024-10-24**|**SPEED++: A Multilingual Event Extraction Framework for Epidemic Prediction and Preparedness**|Tanmay Parekh et.al.|[2410.18393v1](http://arxiv.org/abs/2410.18393v1)|null|
 |**2024-10-22**|**Neural association between musical features and shared inter-subject emotional perception while movie-watching: fMRI study**|Leonardo Muller-Rodriguez et.al.|[2410.17300v1](http://arxiv.org/abs/2410.17300v1)|null|
 |**2024-10-22**|**PGCS: Physical Law embedded Generative Cloud Synthesis in Remote Sensing Images**|Liying Xu et.al.|[2410.16955v1](http://arxiv.org/abs/2410.16955v1)|**[link](https://github.com/liying-xu/pgcs)**|
@@ -3950,9 +3966,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Arabic Music Classification and Generation using Deep Learning**|Mohamed Elshaarawy et.al.|[2410.19719v1](http://arxiv.org/abs/2410.19719v1)|null|
+|**2024-10-25**|**Knowledge Graph Enhanced Language Agents for Recommendation**|Taicheng Guo et.al.|[2410.19627v1](http://arxiv.org/abs/2410.19627v1)|null|
+|**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429v1](http://arxiv.org/abs/2410.19429v1)|null|
+|**2024-10-25**|**TEARS: Textual Representations for Scrutable Recommendations**|Emiliano Penaloza et.al.|[2410.19302v1](http://arxiv.org/abs/2410.19302v1)|null|
+|**2024-10-25**|**Learning ID-free Item Representation with Token Crossing for Multimodal Recommendation**|Kangning Zhang et.al.|[2410.19276v1](http://arxiv.org/abs/2410.19276v1)|null|
+|**2024-10-24**|**Sentiment-Driven Community Detection in a Network of Perfume Preferences**|Kamand Kalashi et.al.|[2410.19177v1](http://arxiv.org/abs/2410.19177v1)|**[link](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection)**|
 |**2024-10-24**|**End-to-end Training for Recommendation with Language-based User Profiles**|Zhaolin Gao et.al.|[2410.18870v1](http://arxiv.org/abs/2410.18870v1)|**[link](https://github.com/zhaolingao/langptune)**|
 |**2024-10-24**|**Testing Deep Learning Recommender Systems Models on Synthetic GAN-Generated Datasets**|Jesús Bobadilla et.al.|[2410.17651v2](http://arxiv.org/abs/2410.17651v2)|null|
-|**2024-10-23**|**Comprehensive Evaluation of Matrix Factorization Models for Collaborative Filtering Recommender Systems**|Jesús Bobadilla et.al.|[2410.17644v1](http://arxiv.org/abs/2410.17644v1)|null|
+|**2024-10-25**|**Comprehensive Evaluation of Matrix Factorization Models for Collaborative Filtering Recommender Systems**|Jesús Bobadilla et.al.|[2410.17644v2](http://arxiv.org/abs/2410.17644v2)|null|
 |**2024-10-23**|**FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning**|Wei Chen et.al.|[2410.17555v1](http://arxiv.org/abs/2410.17555v1)|**[link](https://github.com/cwei01/fairdgcl)**|
 |**2024-10-22**|**On the use of Large Language Models in Model-Driven Engineering**|Juri Di Rocco et.al.|[2410.17370v1](http://arxiv.org/abs/2410.17370v1)|**[link](https://github.com/MDEGroup/LLM4MDE-Appendix)**|
 |**2024-10-22**|**Improving Pinterest Search Relevance Using Large Language Models**|Han Wang et.al.|[2410.17152v1](http://arxiv.org/abs/2410.17152v1)|null|
@@ -4939,6 +4961,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727v1](http://arxiv.org/abs/2410.19727v1)|null|
+|**2024-10-25**|**Knowledge Graph Enhanced Language Agents for Recommendation**|Taicheng Guo et.al.|[2410.19627v1](http://arxiv.org/abs/2410.19627v1)|null|
 |**2024-10-24**|**Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains**|Kun Li et.al.|[2410.18415v1](http://arxiv.org/abs/2410.18415v1)|null|
 |**2024-10-24**|**Geometric Feature Enhanced Knowledge Graph Embedding and Spatial Reasoning**|Lei Hu et.al.|[2410.18345v1](http://arxiv.org/abs/2410.18345v1)|null|
 |**2024-10-23**|**Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**|Rui Yang et.al.|[2410.17600v1](http://arxiv.org/abs/2410.17600v1)|null|
@@ -5747,6 +5771,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Sparse Decomposition of Graph Neural Networks**|Yaochen Hu et.al.|[2410.19723v1](http://arxiv.org/abs/2410.19723v1)|null|
+|**2024-10-25**|**DeMuVGN: Effective Software Defect Prediction Model by Learning Multi-view Software Dependency via Graph Neural Networks**|Yu Qiao et.al.|[2410.19550v1](http://arxiv.org/abs/2410.19550v1)|null|
+|**2024-10-25**|**An Enhanced Hierarchical Planning Framework for Multi-Robot Autonomous Exploration**|Gengyuan Cai et.al.|[2410.19373v1](http://arxiv.org/abs/2410.19373v1)|null|
+|**2024-10-25**|**Double Difference Earthquake Location with Graph Neural Networks**|Ian W. McBrearty et.al.|[2410.19323v1](http://arxiv.org/abs/2410.19323v1)|null|
+|**2024-10-24**|**Enriching GNNs with Text Contextual Representations for Detecting Disinformation Campaigns on Social Media**|Bruno Croso Cunha da Silva et.al.|[2410.19193v1](http://arxiv.org/abs/2410.19193v1)|null|
 |**2024-10-24**|**Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling**|Mingtong Zhang et.al.|[2410.18912v1](http://arxiv.org/abs/2410.18912v1)|null|
 |**2024-10-24**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631v1](http://arxiv.org/abs/2410.18631v1)|null|
 |**2024-10-24**|**Binary Code Similarity Detection via Graph Contrastive Learning on Intermediate Representations**|Xiuwei Shang et.al.|[2410.18561v1](http://arxiv.org/abs/2410.18561v1)|null|
