@@ -22,9 +22,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**M3SciQA: A Multi-Modal Multi-Document Scientific QA Benchmark for Evaluating Foundation Models**|Chuhan Li et.al.|[2411.04075v1](http://arxiv.org/abs/2411.04075v1)|null|
+|**2024-11-06**|**Pseudo-labeling with Keyword Refining for Few-Supervised Video Captioning**|Ping Li et.al.|[2411.04059v1](http://arxiv.org/abs/2411.04059v1)|**[link](https://github.com/mlvccn/pkg_vidcap)**|
+|**2024-11-06**|**Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages**|Aniket Deroy et.al.|[2411.04025v1](http://arxiv.org/abs/2411.04025v1)|null|
+|**2024-11-06**|**What Really is Commonsense Knowledge?**|Quyet V. Do et.al.|[2411.03964v1](http://arxiv.org/abs/2411.03964v1)|null|
+|**2024-11-05**|**Learning to Write Rationally: How Information Is Distributed in Non-Native Speakers' Essays**|Zixin Tang et.al.|[2411.03550v1](http://arxiv.org/abs/2411.03550v1)|null|
+|**2024-11-05**|**Exploring the Benefits of Domain-Pretraining of Generative Large Language Models for Chemistry**|Anurag Acharya et.al.|[2411.03542v1](http://arxiv.org/abs/2411.03542v1)|null|
 |**2024-11-05**|**Capturing research literature attitude towards Sustainable Development Goals: an LLM-based topic modeling approach**|Francesco Invernici et.al.|[2411.02943v1](http://arxiv.org/abs/2411.02943v1)|null|
 |**2024-11-05**|**ADOPT: Modified Adam Can Converge with Any $β_2$ with the Optimal Rate**|Shohei Taniguchi et.al.|[2411.02853v1](http://arxiv.org/abs/2411.02853v1)|**[link](https://github.com/ishohei220/adopt)**|
-|**2024-11-05**|**PersianRAG: A Retrieval-Augmented Generation System for Persian Language**|Hossein Hosseini et.al.|[2411.02832v1](http://arxiv.org/abs/2411.02832v1)|null|
+|**2024-11-06**|**PersianRAG: A Retrieval-Augmented Generation System for Persian Language**|Hossein Hosseini et.al.|[2411.02832v2](http://arxiv.org/abs/2411.02832v2)|null|
 |**2024-11-05**|**A Natural Language Processing Approach to Support Biomedical Data Harmonization: Leveraging Large Language Models**|Zexu Li et.al.|[2411.02730v1](http://arxiv.org/abs/2411.02730v1)|null|
 |**2024-11-04**|**Social Support Detection from Social Media Texts**|Zahra Ahani et.al.|[2411.02580v1](http://arxiv.org/abs/2411.02580v1)|null|
 |**2024-11-04**|**A Comparative Analysis of Instruction Fine-Tuning LLMs for Financial Text Classification**|Sorouralsadat Fatemi et.al.|[2411.02476v1](http://arxiv.org/abs/2411.02476v1)|null|
@@ -1669,6 +1675,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages**|Aniket Deroy et.al.|[2411.04025v1](http://arxiv.org/abs/2411.04025v1)|null|
+|**2024-11-06**|**MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue**|Fengxiang Wang et.al.|[2411.03814v1](http://arxiv.org/abs/2411.03814v1)|null|
+|**2024-11-06**|**From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond**|Harsha Nori et.al.|[2411.03590v1](http://arxiv.org/abs/2411.03590v1)|null|
+|**2024-11-05**|**Automated, LLM enabled extraction of synthesis details for reticular materials from scientific literature**|Viviane Torres da Silva et.al.|[2411.03484v1](http://arxiv.org/abs/2411.03484v1)|null|
 |**2024-11-05**|**DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**|Ying Zhou et.al.|[2411.03250v1](http://arxiv.org/abs/2411.03250v1)|null|
 |**2024-11-05**|**Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs**|Muhammad Tayyab Khan et.al.|[2411.02810v1](http://arxiv.org/abs/2411.02810v1)|null|
 |**2024-11-04**|**From Twitter to Reasoner: Understand Mobility Travel Modes and Sentiment Using Large Language Models**|Kangrui Ruan et.al.|[2411.02666v1](http://arxiv.org/abs/2411.02666v1)|null|
@@ -2172,6 +2182,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118v1](http://arxiv.org/abs/2411.04118v1)|null|
+|**2024-11-06**|**M3SciQA: A Multi-Modal Multi-Document Scientific QA Benchmark for Evaluating Foundation Models**|Chuhan Li et.al.|[2411.04075v1](http://arxiv.org/abs/2411.04075v1)|null|
+|**2024-11-06**|**Select2Plan: Training-Free ICL-Based Planning through VQA and Memory Retrieval**|Davide Buoso et.al.|[2411.04006v1](http://arxiv.org/abs/2411.04006v1)|null|
+|**2024-11-06**|**Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System**|David Maria Schmidt et.al.|[2411.03906v1](http://arxiv.org/abs/2411.03906v1)|null|
+|**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883v1](http://arxiv.org/abs/2411.03883v1)|**[link](https://github.com/lautel/meg)**|
+|**2024-11-06**|**VQA $^2$ :Visual Question Answering for Video Quality Assessment**|Ziheng Jia et.al.|[2411.03795v1](http://arxiv.org/abs/2411.03795v1)|null|
+|**2024-11-06**|**NeurIPS 2023 Competition: Privacy Preserving Federated Learning Document VQA**|Marlon Tobaben et.al.|[2411.03730v1](http://arxiv.org/abs/2411.03730v1)|null|
 |**2024-11-05**|**MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning**|Ziliang Gan et.al.|[2411.03314v1](http://arxiv.org/abs/2411.03314v1)|null|
 |**2024-11-05**|**VERITAS: A Unified Approach to Reliability Evaluation**|Rajkumar Ramamurthy et.al.|[2411.03300v1](http://arxiv.org/abs/2411.03300v1)|null|
 |**2024-11-05**|**Leveraging Large Language Models in Code Question Answering: Baselines and Issues**|Georgy Andryushchenko et.al.|[2411.03012v1](http://arxiv.org/abs/2411.03012v1)|**[link](https://github.com/iu-aes-ai4code/codequestionanswering)**|
@@ -3648,6 +3665,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Harnessing quantum back-action for time-series processing**|Giacomo Franceschetto et.al.|[2411.03979v1](http://arxiv.org/abs/2411.03979v1)|null|
+|**2024-11-06**|**NeurIPS 2023 Competition: Privacy Preserving Federated Learning Document VQA**|Marlon Tobaben et.al.|[2411.03730v1](http://arxiv.org/abs/2411.03730v1)|null|
+|**2024-11-06**|**Fine-Tuning Vision-Language Model for Automated Engineering Drawing Information Extraction**|Muhammad Tayyab Khan et.al.|[2411.03707v1](http://arxiv.org/abs/2411.03707v1)|null|
+|**2024-11-05**|**Automated, LLM enabled extraction of synthesis details for reticular materials from scientific literature**|Viviane Torres da Silva et.al.|[2411.03484v1](http://arxiv.org/abs/2411.03484v1)|null|
+|**2024-11-05**|**Climate AI for Corporate Decarbonization Metrics Extraction**|Aditya Dave et.al.|[2411.03402v1](http://arxiv.org/abs/2411.03402v1)|null|
 |**2024-11-02**|**HIP: Hierarchical Point Modeling and Pre-training for Visual Information Extraction**|Rujiao Long et.al.|[2411.01139v1](http://arxiv.org/abs/2411.01139v1)|null|
 |**2024-10-31**|**Leveraging Large Language Models for Medical Information Extraction and Query Generation**|Georgios Peikos et.al.|[2410.23851v1](http://arxiv.org/abs/2410.23851v1)|null|
 |**2024-10-30**|**Collage: Decomposable Rapid Prototyping for Information Extraction on Scientific PDFs**|Sireesh Gururaja et.al.|[2410.23478v1](http://arxiv.org/abs/2410.23478v1)|**[link](https://github.com/gsireesh/ht-max)**|
@@ -4101,6 +4123,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**DM4Steal: Diffusion Model For Link Stealing Attack On Graph Neural Networks**|Jinyin Chen et.al.|[2411.03364v1](http://arxiv.org/abs/2411.03364v1)|null|
+|**2024-11-04**|**Enhancing Table Representations with LLM-powered Synthetic Data Generation**|Dayu Yang et.al.|[2411.03356v1](http://arxiv.org/abs/2411.03356v1)|null|
 |**2024-11-05**|**Empowering Library Users: Creative Strategies for Engagement and Innovation**|Snehasish Paul et.al.|[2411.02993v1](http://arxiv.org/abs/2411.02993v1)|null|
 |**2024-11-05**|**Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation**|Junchen Fu et.al.|[2411.02992v1](http://arxiv.org/abs/2411.02992v1)|null|
 |**2024-11-05**|**A Natural Language Processing Approach to Support Biomedical Data Harmonization: Leveraging Large Language Models**|Zexu Li et.al.|[2411.02730v1](http://arxiv.org/abs/2411.02730v1)|null|
@@ -5128,6 +5152,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883v1](http://arxiv.org/abs/2411.03883v1)|**[link](https://github.com/lautel/meg)**|
+|**2024-11-06**|**Fully Hyperbolic Rotation for Knowledge Graph Embedding**|Qiuyu Liang et.al.|[2411.03622v1](http://arxiv.org/abs/2411.03622v1)|null|
+|**2024-11-06**|**Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation**|Yuxin Dong et.al.|[2411.03572v1](http://arxiv.org/abs/2411.03572v1)|null|
+|**2024-11-06**|**The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**|Lee Kezar et.al.|[2411.03568v1](http://arxiv.org/abs/2411.03568v1)|null|
 |**2024-11-05**|**Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI**|Ruwan Wickramarachchi et.al.|[2411.03225v1](http://arxiv.org/abs/2411.03225v1)|null|
 |**2024-11-05**|**JEL: Applying End-to-End Neural Entity Linking in JPMorgan Chase**|Wanying Ding et.al.|[2411.02695v1](http://arxiv.org/abs/2411.02695v1)|null|
 |**2024-11-05**|**JPEC: A Novel Graph Neural Network for Competitor Retrieval in Financial Knowledge Graphs**|Wanying Ding et.al.|[2411.02692v1](http://arxiv.org/abs/2411.02692v1)|null|
@@ -5968,7 +5996,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-05**|**Beyond Grid Data: Exploring Graph Neural Networks for Earth Observation**|Shan Zhao et.al.|[2411.03223v1](http://arxiv.org/abs/2411.03223v1)|null|
+|**2024-11-06**|**Multi-branch Spatio-Temporal Graph Neural Network For Efficient Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2411.04055v1](http://arxiv.org/abs/2411.04055v1)|null|
+|**2024-11-06**|**Reconsidering the Performance of GAE in Link Prediction**|Weishuo Ma et.al.|[2411.03845v1](http://arxiv.org/abs/2411.03845v1)|**[link](https://github.com/graphpku/refined-gae)**|
+|**2024-11-06**|**Graph Neural Networks with Coarse- and Fine-Grained Division for Mitigating Label Sparsity and Noise**|Shuangjie Li et.al.|[2411.03744v1](http://arxiv.org/abs/2411.03744v1)|null|
+|**2024-11-06**|**Can Graph Neural Networks Expose Training Data Properties? An Efficient Risk Assessment Approach**|Hanyang Yuan et.al.|[2411.03663v1](http://arxiv.org/abs/2411.03663v1)|null|
+|**2024-11-06**|**SEGMN: A Structure-Enhanced Graph Matching Network for Graph Similarity Learning**|Wenjun Wang et.al.|[2411.03624v1](http://arxiv.org/abs/2411.03624v1)|null|
+|**2024-11-06**|**Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation**|Yuxin Dong et.al.|[2411.03572v1](http://arxiv.org/abs/2411.03572v1)|null|
+|**2024-11-06**|**Beyond Grid Data: Exploring Graph Neural Networks for Earth Observation**|Shan Zhao et.al.|[2411.03223v2](http://arxiv.org/abs/2411.03223v2)|null|
 |**2024-11-05**|**DA-MoE: Addressing Depth-Sensitivity in Graph-Level Analysis through Mixture of Experts**|Zelin Yao et.al.|[2411.03025v1](http://arxiv.org/abs/2411.03025v1)|**[link](https://github.com/celin-yao/da-moe)**|
 |**2024-11-05**|**Privacy-Preserving Graph-Based Machine Learning with Fully Homomorphic Encryption for Collaborative Anti-Money Laundering**|Fabrianne Effendi et.al.|[2411.02926v1](http://arxiv.org/abs/2411.02926v1)|**[link](https://github.com/fabecode/GraphML-FHE)**|
 |**2024-11-05**|**Distributed Graph Neural Network Design for Sum Ergodic Spectral Efficiency Maximization in Cell-Free Massive MIMO**|Nguyen Xuan Tung et.al.|[2411.02900v1](http://arxiv.org/abs/2411.02900v1)|null|
