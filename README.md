@@ -1,4 +1,4 @@
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -1666,7 +1666,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20241112'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241113'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -1690,7 +1690,7 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20241112'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241113'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -1700,7 +1700,7 @@
 |**2024-11-09**|**Leveraging Retrieval-Augmented Generation for University Knowledge Retrieval**|Arshia Hemmat et.al.|[2411.06237v1](http://arxiv.org/abs/2411.06237v1)|null|
 |**2024-11-09**|**CoPrompter: User-Centric Evaluation of LLM Instruction Alignment for Improved Prompt Engineering**|Ishika Joshi et.al.|[2411.06099v1](http://arxiv.org/abs/2411.06099v1)|null|
 |**2024-11-08**|**Qwen2.5-32B: Leveraging Self-Consistent Tool-Integrated Reasoning for Bengali Mathematical Olympiad Problem Solving**|Saad Tahmid et.al.|[2411.05934v1](http://arxiv.org/abs/2411.05934v1)|null|
-|**2024-11-08**|**LLMs as Method Actors: A Model for Prompt Engineering and Architecture**|Colin Doyle et.al.|[2411.05778v1](http://arxiv.org/abs/2411.05778v1)|null|
+|**2024-11-08**|**LLMs as Method Actors: A Model for Prompt Engineering and Architecture**|Colin Doyle et.al.|[2411.05778v1](http://arxiv.org/abs/2411.05778v1)|**[link](https://github.com/colindoyle0000/llms-as-method-actors)**|
 |**2024-11-08**|**Web Archives Metadata Generation with GPT-4o: Challenges and Insights**|Abigail Yongping Huang et.al.|[2411.05409v1](http://arxiv.org/abs/2411.05409v1)|**[link](https://github.com/masamune-prog/warc2summary)**|
 |**2024-11-07**|**Selecting Between BERT and GPT for Text Classification in Political Science Research**|Yu Wang et.al.|[2411.05050v1](http://arxiv.org/abs/2411.05050v1)|null|
 |**2024-11-07**|**Leveraging LLMs to Enable Natural Language Search on Go-to-market Platforms**|Jesse Yao et.al.|[2411.05048v1](http://arxiv.org/abs/2411.05048v1)|null|
@@ -2205,7 +2205,7 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20241112'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241113'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -2215,11 +2215,11 @@
 |**2024-11-11**|**Invar-RAG: Invariant LLM-aligned Retrieval for Better Generation**|Ziwei Liu et.al.|[2411.07021v1](http://arxiv.org/abs/2411.07021v1)|null|
 |**2024-11-11**|**EVQAScore: Efficient Video Question Answering Data Evaluation**|Hao Liang et.al.|[2411.06908v1](http://arxiv.org/abs/2411.06908v1)|null|
 |**2024-11-11**|**Subgraph Retrieval Enhanced by Graph-Text Alignment for Commonsense Question Answering**|Boci Peng et.al.|[2411.06866v1](http://arxiv.org/abs/2411.06866v1)|null|
-|**2024-11-10**|**Self-Training Meets Consistency: Improving LLMs' Reasoning With Consistency-Driven Rationale Evaluation**|Jaehyeok Lee et.al.|[2411.06387v1](http://arxiv.org/abs/2411.06387v1)|null|
+|**2024-11-10**|**Self-Training Meets Consistency: Improving LLMs' Reasoning With Consistency-Driven Rationale Evaluation**|Jaehyeok Lee et.al.|[2411.06387v1](http://arxiv.org/abs/2411.06387v1)|**[link](https://github.com/jaehyeoklee-119/crest)**|
 |**2024-11-09**|**Leveraging Retrieval-Augmented Generation for University Knowledge Retrieval**|Arshia Hemmat et.al.|[2411.06237v1](http://arxiv.org/abs/2411.06237v1)|null|
 |**2024-11-09**|**Exploring Knowledge Boundaries in Large Language Models for Retrieval Judgment**|Zhen Zhang et.al.|[2411.06207v1](http://arxiv.org/abs/2411.06207v1)|null|
 |**2024-11-09**|**M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding And A Retrieval-Aware Tuning Framework**|Yew Ken Chia et.al.|[2411.06176v1](http://arxiv.org/abs/2411.06176v1)|null|
-|**2024-11-08**|**GUIDEQ: Framework for Guided Questioning for progressive informational collection and classification**|Priya Mishra et.al.|[2411.05991v1](http://arxiv.org/abs/2411.05991v1)|null|
+|**2024-11-08**|**GUIDEQ: Framework for Guided Questioning for progressive informational collection and classification**|Priya Mishra et.al.|[2411.05991v1](http://arxiv.org/abs/2411.05991v1)|**[link](https://github.com/SDRMp/DRPG)**|
 |**2024-11-08**|**The Empirical Impact of Data Sanitization on Language Models**|Anwesan Pal et.al.|[2411.05978v1](http://arxiv.org/abs/2411.05978v1)|null|
 |**2024-11-08**|**End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering**|Dylan Goetting et.al.|[2411.05755v1](http://arxiv.org/abs/2411.05755v1)|null|
 |**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734v1](http://arxiv.org/abs/2411.05734v1)|null|
@@ -3709,7 +3709,7 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20241112'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241113'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -4171,7 +4171,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20241112'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241113'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -5208,7 +5208,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20241112'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241113'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -5220,7 +5220,7 @@
 |**2024-11-11**|**Bridge: A Unified Framework to Knowledge Graph Completion via Language Models and Knowledge Representation**|Qiao Qiao et.al.|[2411.06660v1](http://arxiv.org/abs/2411.06660v1)|null|
 |**2024-11-10**|**Discovering emergent connections in quantum physics research via dynamic word embeddings**|Felix Frohnert et.al.|[2411.06577v1](http://arxiv.org/abs/2411.06577v1)|null|
 |**2024-11-10**|**Class Granularity: How richly does your knowledge graph represent the real world?**|Sumin Seo et.al.|[2411.06385v1](http://arxiv.org/abs/2411.06385v1)|null|
-|**2024-11-09**|**Annotative Indexing**|Charles L. A. Clarke et.al.|[2411.06256v1](http://arxiv.org/abs/2411.06256v1)|null|
+|**2024-11-09**|**Annotative Indexing**|Charles L. A. Clarke et.al.|[2411.06256v1](http://arxiv.org/abs/2411.06256v1)|**[link](https://github.com/claclark/cottontail)**|
 |**2024-11-09**|**Generalizing Hyperedge Expansion for Hyper-relational Knowledge Graph Modeling**|Yu Liu et.al.|[2411.06191v1](http://arxiv.org/abs/2411.06191v1)|null|
 |**2024-11-08**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521v1](http://arxiv.org/abs/2411.05521v1)|null|
 |**2024-11-07**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883v2](http://arxiv.org/abs/2411.03883v2)|**[link](https://github.com/lautel/meg)**|
@@ -6061,7 +6061,7 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|**[link](https://github.com/hkust-knowcomp/abductivekgr)**|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20241112'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241113'>back to top</a>)</p>
 
 ## GNN
 
@@ -7608,5 +7608,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|**[link](https://github.com/basiralab/falcon)**|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20241112'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20241113'>back to top</a>)</p>
 
