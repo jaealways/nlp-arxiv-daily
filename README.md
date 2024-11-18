@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**A Survey of Event Causality Identification: Principles, Taxonomy, Challenges, and Assessment**|Zefan Zeng et.al.|[2411.10371v1](http://arxiv.org/abs/2411.10371v1)|null|
+|**2024-11-15**|**On the Cost of Model-Serving Frameworks: An Experimental Evaluation**|Pasquale De Rosa et.al.|[2411.10337v1](http://arxiv.org/abs/2411.10337v1)|null|
+|**2024-11-15**|**Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP**|Adaku Uchendu et.al.|[2411.10298v1](http://arxiv.org/abs/2411.10298v1)|null|
+|**2024-11-15**|**Entropy and type-token ratio in gigaword corpora**|Pablo Rosillo-Rodes et.al.|[2411.10227v1](http://arxiv.org/abs/2411.10227v1)|null|
+|**2024-11-15**|**Causal Time-Series Synchronization for Multi-Dimensional Forecasting**|Michael Mayr et.al.|[2411.10152v1](http://arxiv.org/abs/2411.10152v1)|null|
+|**2024-11-15**|**Xmodel-1.5: An 1B-scale Multilingual LLM**|Wang Qun et.al.|[2411.10083v1](http://arxiv.org/abs/2411.10083v1)|**[link](https://github.com/xiaoduoailab/xmodellm)**|
+|**2024-11-15**|**Hollywood's misrepresentation of death: A comparison of overall and by-gender mortality causes in film and the real world**|Calla Beauregard et.al.|[2411.10040v1](http://arxiv.org/abs/2411.10040v1)|null|
+|**2024-11-15**|**Information Extraction from Clinical Notes: Are We Ready to Switch to Large Language Models?**|Yan Hu et.al.|[2411.10020v1](http://arxiv.org/abs/2411.10020v1)|null|
+|**2024-11-15**|**Adaptive Non-Uniform Timestep Sampling for Diffusion Model Training**|Myunsoo Kim et.al.|[2411.09998v1](http://arxiv.org/abs/2411.09998v1)|null|
+|**2024-11-15**|**A natural-language-based approach to intelligent data retrieval and representation for cloud BIM**|Jia-Rui Lin et.al.|[2411.09951v1](http://arxiv.org/abs/2411.09951v1)|null|
 |**2024-11-14**|**The Moral Foundations Weibo Corpus**|Renjie Cao et.al.|[2411.09612v1](http://arxiv.org/abs/2411.09612v1)|null|
 |**2024-11-14**|**Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework**|Ronak Pradeep et.al.|[2411.09607v1](http://arxiv.org/abs/2411.09607v1)|null|
 |**2024-11-14**|**A Practical Guide to Fine-tuning Language Models with Limited Data**|Márton Szép et.al.|[2411.09539v1](http://arxiv.org/abs/2411.09539v1)|null|
@@ -1721,6 +1731,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Experiences from Using LLMs for Repository Mining Studies in Empirical Software Engineering**|Vincenzo de Martino et.al.|[2411.09974v1](http://arxiv.org/abs/2411.09974v1)|null|
 |**2024-11-14**|**How Good is ChatGPT at Audiovisual Deepfake Detection: A Comparative Study of ChatGPT, AI Models and Human Perception**|Sahibzada Adil Shahzad et.al.|[2411.09266v1](http://arxiv.org/abs/2411.09266v1)|null|
 |**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862v1](http://arxiv.org/abs/2411.08862v1)|null|
 |**2024-11-13**|**Practitioners' Discussions on Building LLM-based Applications for Production**|Alina Mailach et.al.|[2411.08574v1](http://arxiv.org/abs/2411.08574v1)|null|
@@ -2244,6 +2255,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440v1](http://arxiv.org/abs/2411.10440v1)|null|
+|**2024-11-15**|**Visual question answering based evaluation metrics for text-to-image generation**|Mizuki Miyamoto et.al.|[2411.10183v1](http://arxiv.org/abs/2411.10183v1)|null|
+|**2024-11-15**|**Layer Importance and Hallucination Analysis in Large Language Models via Enhanced Activation Variance-Sparsity**|Zichen Song et.al.|[2411.10069v1](http://arxiv.org/abs/2411.10069v1)|null|
+|**2024-11-15**|**SlimLM: An Efficient Small Language Model for On-Device Document Assistance**|Thang M. Pham et.al.|[2411.09944v1](http://arxiv.org/abs/2411.09944v1)|null|
+|**2024-11-15**|**AMXFP4: Taming Activation Outliers with Asymmetric Microscaling Floating-Point for 4-bit LLM Inference**|Janghwan Lee et.al.|[2411.09909v1](http://arxiv.org/abs/2411.09909v1)|null|
+|**2024-11-14**|**A Benchmark for Long-Form Medical Question Answering**|Pedram Hosseini et.al.|[2411.09834v1](http://arxiv.org/abs/2411.09834v1)|**[link](https://github.com/lavita-ai/medical-eval-sphere)**|
 |**2024-11-14**|**Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework**|Ronak Pradeep et.al.|[2411.09607v1](http://arxiv.org/abs/2411.09607v1)|null|
 |**2024-11-14**|**Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering**|Nghia Trung Ngo et.al.|[2411.09213v1](http://arxiv.org/abs/2411.09213v1)|null|
 |**2024-11-13**|**AstroMLab 3: Achieving GPT-4o Level Performance in Astronomy with a Specialized 8B-Parameter Large Language Model**|Tijmen de Haan et.al.|[2411.09012v1](http://arxiv.org/abs/2411.09012v1)|null|
@@ -3761,6 +3778,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Increasing the Accessibility of Causal Domain Knowledge via Causal Information Extraction Methods: A Case Study in the Semiconductor Manufacturing Industry**|Houssam Razouk et.al.|[2411.10172v1](http://arxiv.org/abs/2411.10172v1)|null|
+|**2024-11-15**|**Information Extraction from Clinical Notes: Are We Ready to Switch to Large Language Models?**|Yan Hu et.al.|[2411.10020v1](http://arxiv.org/abs/2411.10020v1)|null|
 |**2024-11-14**|**Harnessing multiple LLMs for Information Retrieval: A case study on Deep Learning methodologies in Biodiversity publications**|Vamsi Krishna Kommineni et.al.|[2411.09269v1](http://arxiv.org/abs/2411.09269v1)|null|
 |**2024-11-13**|**Zero-shot Cross-lingual Transfer Learning with Multiple Source and Target Languages for Information Extraction: Language Selection and Adversarial Training**|Nghia Trung Ngo et.al.|[2411.08785v1](http://arxiv.org/abs/2411.08785v1)|null|
 |**2024-11-13**|**Are Triggers Needed for Document-Level Event Extraction?**|Shaden Shaar et.al.|[2411.08708v1](http://arxiv.org/abs/2411.08708v1)|null|
@@ -4228,8 +4247,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**KuaiFormer: Transformer-Based Retrieval at Kuaishou**|Chi Liu et.al.|[2411.10057v1](http://arxiv.org/abs/2411.10057v1)|null|
+|**2024-11-15**|**InterFormer: Towards Effective Heterogeneous Interaction Learning for Click-Through Rate Prediction**|Zhichen Zeng et.al.|[2411.09852v1](http://arxiv.org/abs/2411.09852v1)|null|
 |**2024-11-14**|**MARM: Unlocking the Future of Recommendation Systems through Memory Augmentation and Scalable Complexity**|Xiao Lv et.al.|[2411.09425v1](http://arxiv.org/abs/2411.09425v1)|null|
-|**2024-11-14**|**LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation**|Shutong Qiao et.al.|[2411.09410v1](http://arxiv.org/abs/2411.09410v1)|null|
+|**2024-11-15**|**LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation**|Shutong Qiao et.al.|[2411.09410v2](http://arxiv.org/abs/2411.09410v2)|null|
 |**2024-11-14**|**DeBaTeR: Denoising Bipartite Temporal Graph for Recommendation**|Xinyu He et.al.|[2411.09181v1](http://arxiv.org/abs/2411.09181v1)|null|
 |**2024-11-13**|**Language-Model Prior Overcomes Cold-Start Items**|Shiyu Wang et.al.|[2411.09065v1](http://arxiv.org/abs/2411.09065v1)|**[link](https://github.com/awslabs/language-model-prior-4-item-cold-start)**|
 |**2024-11-13**|**Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature**|Wenhao Zhang et.al.|[2411.08734v1](http://arxiv.org/abs/2411.08734v1)|**[link](https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review)**|
@@ -5278,6 +5299,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**HistoLens: An LLM-Powered Framework for Multi-Layered Analysis of Historical Texts -- A Case Application of Yantie Lun**|Yifan Zeng et.al.|[2411.09978v1](http://arxiv.org/abs/2411.09978v1)|null|
 |**2024-11-14**|**Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**|Cogan Shimizu et.al.|[2411.09601v1](http://arxiv.org/abs/2411.09601v1)|null|
 |**2024-11-13**|**Continuous GNN-based Anomaly Detection on Edge using Efficient Adaptive Knowledge Graph Learning**|Sanggeon Yun et.al.|[2411.09072v1](http://arxiv.org/abs/2411.09072v1)|null|
 |**2024-11-13**|**Scholarly Wikidata: Population and Exploration of Conference Data in Wikidata using LLMs**|Nandana Mihindukulasooriya et.al.|[2411.08696v1](http://arxiv.org/abs/2411.08696v1)|null|
@@ -6140,7 +6162,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-14**|**Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows**|M. Quattromini et.al.|[2411.09476v1](http://arxiv.org/abs/2411.09476v1)|null|
+|**2024-11-15**|**Bitcoin Research with a Transaction Graph Dataset**|Hugo Schnoering et.al.|[2411.10325v1](http://arxiv.org/abs/2411.10325v1)|null|
+|**2024-11-15**|**DuSEGO: Dual Second-order Equivariant Graph Ordinary Differential Equation**|Yingxu Wang et.al.|[2411.10000v1](http://arxiv.org/abs/2411.10000v1)|null|
+|**2024-11-15**|**Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows**|M. Quattromini et.al.|[2411.09476v2](http://arxiv.org/abs/2411.09476v2)|null|
 |**2024-11-14**|**Less is More: Unseen Domain Fake News Detection via Causal Propagation Substructures**|Shuzhi Gong et.al.|[2411.09389v1](http://arxiv.org/abs/2411.09389v1)|null|
 |**2024-11-14**|**Cross Space and Time: A Spatio-Temporal Unitized Model for Traffic Flow Forecasting**|Weilin Ruan et.al.|[2411.09251v1](http://arxiv.org/abs/2411.09251v1)|null|
 |**2024-11-14**|**Neural Graph Simulator for Complex Systems**|Hoyun Choi et.al.|[2411.09120v1](http://arxiv.org/abs/2411.09120v1)|null|
