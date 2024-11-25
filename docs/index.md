@@ -22,6 +22,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Evaluating LLM Prompts for Data Augmentation in Multi-label Classification of Ecological Texts**|Anna Glazkova et.al.|[2411.14896v1](http://arxiv.org/abs/2411.14896v1)|null|
+|**2024-11-22**|**Comparative Analysis of Pooling Mechanisms in LLMs: A Sentiment Analysis Perspective**|Jinming Xing et.al.|[2411.14654v1](http://arxiv.org/abs/2411.14654v1)|null|
+|**2024-11-21**|**CodeSAM: Source Code Representation Learning by Infusing Self-Attention with Multi-Code-View Graphs**|Alex Mathai et.al.|[2411.14611v1](http://arxiv.org/abs/2411.14611v1)|null|
+|**2024-11-21**|**Planning-Driven Programming: A Large Language Model Programming Workflow**|Chao Lei et.al.|[2411.14503v1](http://arxiv.org/abs/2411.14503v1)|null|
 |**2024-11-21**|**POS-tagging to highlight the skeletal structure of sentences**|Grigorii Churakov et.al.|[2411.14393v1](http://arxiv.org/abs/2411.14393v1)|**[link](https://github.com/disk0Dancer/rubert-finetuned-pos)**|
 |**2024-11-21**|**Efficient Aspect-Based Summarization of Climate Change Reports with Small Language Models**|Iacopo Ghinassi et.al.|[2411.14272v1](http://arxiv.org/abs/2411.14272v1)|**[link](https://github.com/ighina/llmclimate2024)**|
 |**2024-11-21**|**Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective**|Ernests Lavrinovics et.al.|[2411.14258v1](http://arxiv.org/abs/2411.14258v1)|null|
@@ -1764,11 +1768,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**FTA generation using GenAI with an Autonomy sensor Usecase**|Sneha Sudhir Shetiya et.al.|[2411.15007v1](http://arxiv.org/abs/2411.15007v1)|null|
+|**2024-11-22**|**Optimizing Social Media Annotation of HPV Vaccine Skepticism and Misinformation Using Large Language Models: An Experimental Evaluation of In-Context Learning and Fine-Tuning Stance Detection Across Multiple Models**|Luhang Sun et.al.|[2411.14720v1](http://arxiv.org/abs/2411.14720v1)|null|
+|**2024-11-20**|**Robust Planning with Compound LLM Architectures: An LLM-Modulo Approach**|Atharva Gundawar et.al.|[2411.14484v1](http://arxiv.org/abs/2411.14484v1)|null|
+|**2024-11-19**|**GRL-Prompt: Towards Knowledge Graph based Prompt Optimization via Reinforcement Learning**|Yuze Liu et.al.|[2411.14479v1](http://arxiv.org/abs/2411.14479v1)|null|
+|**2024-11-18**|**Large Language Model for Qualitative Research -- A Systematic Mapping Study**|Cauã Ferreira Barros et.al.|[2411.14473v1](http://arxiv.org/abs/2411.14473v1)|null|
 |**2024-11-21**|**LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display Advertisement Recommender System**|Fengxin Li et.al.|[2411.13789v1](http://arxiv.org/abs/2411.13789v1)|null|
 |**2024-11-19**|**Can ChatGPT Overcome Behavioral Biases in the Financial Sector? Classify-and-Rethink: Multi-Step Zero-Shot Reasoning in the Gold Investment**|Shuoling Liu et.al.|[2411.13599v1](http://arxiv.org/abs/2411.13599v1)|null|
 |**2024-11-20**|**From Prompt Engineering to Prompt Craft**|Joseph Lindley et.al.|[2411.13422v1](http://arxiv.org/abs/2411.13422v1)|null|
 |**2024-11-20**|**Evaluating LLMs Capabilities Towards Understanding Social Dynamics**|Anique Tahir et.al.|[2411.13008v1](http://arxiv.org/abs/2411.13008v1)|null|
-|**2024-11-19**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnett et.al.|[2411.12872v1](http://arxiv.org/abs/2411.12872v1)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
+|**2024-11-22**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnet et.al.|[2411.12872v2](http://arxiv.org/abs/2411.12872v2)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
 |**2024-11-18**|**LLM-IE: A Python Package for Generative Information Extraction with Large Language Models**|Enshuo Hsu et.al.|[2411.11779v1](http://arxiv.org/abs/2411.11779v1)|null|
 |**2024-11-18**|**Large corpora and large language models: a replicable method for automating grammatical annotation**|Cameron Morin et.al.|[2411.11260v1](http://arxiv.org/abs/2411.11260v1)|null|
 |**2024-11-16**|**Generating Compositional Scenes via Text-to-image RGBA Instance Generation**|Alessandro Fontanella et.al.|[2411.10913v1](http://arxiv.org/abs/2411.10913v1)|null|
@@ -2299,6 +2308,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection**|Songhao Han et.al.|[2411.14794v1](http://arxiv.org/abs/2411.14794v1)|null|
+|**2024-11-21**|**GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI**|Tianbin Li et.al.|[2411.14522v1](http://arxiv.org/abs/2411.14522v1)|**[link](https://github.com/uni-medical/gmai-vl)**|
 |**2024-11-21**|**Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective**|Ernests Lavrinovics et.al.|[2411.14258v1](http://arxiv.org/abs/2411.14258v1)|null|
 |**2024-11-21**|**Visual Contexts Clarify Ambiguous Expressions: A Benchmark Dataset**|Heejeong Nam et.al.|[2411.14137v1](http://arxiv.org/abs/2411.14137v1)|null|
 |**2024-11-21**|**Multimodal 3D Reasoning Segmentation with Complex Scenes**|Xueying Jiang et.al.|[2411.13927v1](http://arxiv.org/abs/2411.13927v1)|null|
@@ -3851,6 +3862,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Information Extraction from Heterogenous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation**|Aniket Bhattacharyya et.al.|[2411.14957v1](http://arxiv.org/abs/2411.14957v1)|null|
+|**2024-11-22**|**Rapid eccentric spin-aligned binary black hole waveform generation based on deep learning**|Ruijun Shi et.al.|[2411.14893v1](http://arxiv.org/abs/2411.14893v1)|null|
+|**2024-11-21**|**Variable Extraction for Model Recovery in Scientific Literature**|Chunwei Liu et.al.|[2411.14569v1](http://arxiv.org/abs/2411.14569v1)|null|
+|**2024-11-19**|**StreetviewLLM: Extracting Geographic Information Using a Chain-of-Thought Multimodal Large Language Model**|Zongrong Li et.al.|[2411.14476v1](http://arxiv.org/abs/2411.14476v1)|null|
 |**2024-11-21**|**NewsInterview: a Dataset and a Playground to Evaluate LLMs' Ground Gap via Informational Interviews**|Michael Lu et.al.|[2411.13779v1](http://arxiv.org/abs/2411.13779v1)|**[link](https://github.com/alex2awesome/news-interview-question-generation)**|
 |**2024-11-19**|**A data driven approach to classify descriptors based on their efficiency in translating noisy trajectories into physically-relevant information**|Simone Martino et.al.|[2411.12570v1](http://arxiv.org/abs/2411.12570v1)|**[link](https://github.com/GMPavanLab/Descriptors)**|
 |**2024-11-19**|**UMGAD: Unsupervised Multiplex Graph Anomaly Detection**|Xiang Li et.al.|[2411.12556v1](http://arxiv.org/abs/2411.12556v1)|null|
@@ -4330,6 +4345,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**The 1st Workshop on Human-Centered Recommender Systems**|Kaike Zhang et.al.|[2411.14760v1](http://arxiv.org/abs/2411.14760v1)|null|
+|**2024-11-22**|**LIBER: Lifelong User Behavior Modeling Based on Large Language Models**|Chenxu Zhu et.al.|[2411.14713v1](http://arxiv.org/abs/2411.14713v1)|null|
 |**2024-11-21**|**Topology-Aware Popularity Debiasing via Simplicial Complexes**|Yanbiao Ji et.al.|[2411.13892v1](http://arxiv.org/abs/2411.13892v1)|null|
 |**2024-11-21**|**When Online Algorithms Influence the Environment: A Dynamical Systems Analysis of the Unintended Consequences**|Prabhat Lankireddy et.al.|[2411.13883v1](http://arxiv.org/abs/2411.13883v1)|null|
 |**2024-11-21**|**HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems**|Qiyao Ma et.al.|[2411.13865v1](http://arxiv.org/abs/2411.13865v1)|null|
@@ -5406,6 +5423,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Domain and Range Aware Synthetic Negatives Generation for Knowledge Graph Embedding Models**|Alberto Bernardi et.al.|[2411.14858v1](http://arxiv.org/abs/2411.14858v1)|null|
+|**2024-11-19**|**Associative Knowledge Graphs for Efficient Sequence Storage and Retrieval**|Przemysław Stokłosa et.al.|[2411.14480v1](http://arxiv.org/abs/2411.14480v1)|**[link](https://github.com/PrzemyslawStok/ssakg)**|
+|**2024-11-19**|**GRL-Prompt: Towards Knowledge Graph based Prompt Optimization via Reinforcement Learning**|Yuze Liu et.al.|[2411.14479v1](http://arxiv.org/abs/2411.14479v1)|null|
 |**2024-11-21**|**Neuro-Symbolic Query Optimization in Knowledge Graphs**|Maribel Acosta et.al.|[2411.14277v1](http://arxiv.org/abs/2411.14277v1)|null|
 |**2024-11-21**|**Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective**|Ernests Lavrinovics et.al.|[2411.14258v1](http://arxiv.org/abs/2411.14258v1)|null|
 |**2024-11-21**|**Logic Augmented Generation**|Aldo Gangemi et.al.|[2411.14012v1](http://arxiv.org/abs/2411.14012v1)|null|
@@ -6282,6 +6302,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Can GNNs Learn Link Heuristics? A Concise Review and Evaluation of Link Prediction Methods**|Shuming Liang et.al.|[2411.14711v1](http://arxiv.org/abs/2411.14711v1)|**[link](https://github.com/astroming/GNNHE)**|
+|**2024-11-21**|**Swift: A Multi-FPGA Framework for Scaling Up Accelerated Graph Analytics**|Oluwole Jaiyeoba et.al.|[2411.14554v1](http://arxiv.org/abs/2411.14554v1)|null|
 |**2024-11-21**|**Learning Pore-scale Multi-phase Flow from Experimental Data with Graph Neural Network**|Yuxuan Gu et.al.|[2411.14192v1](http://arxiv.org/abs/2411.14192v1)|null|
 |**2024-11-21**|**Predicting rigidity and connectivity percolation in disordered particulate networks using graph neural networks**|D. A. Head et.al.|[2411.14159v1](http://arxiv.org/abs/2411.14159v1)|null|
 |**2024-11-21**|**GNN-MultiFix: Addressing the pitfalls for GNNs for multi-label node classification**|Tianqi Zhao et.al.|[2411.14094v1](http://arxiv.org/abs/2411.14094v1)|null|
