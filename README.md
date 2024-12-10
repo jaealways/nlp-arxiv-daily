@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**A Flexible Template for Edge Generative AI with High-Accuracy Accelerated Softmax & GELU**|Andrea Belano et.al.|[2412.06321v1](http://arxiv.org/abs/2412.06321v1)|null|
+|**2024-12-09**|**Plagiarism Detection Using Machine Learning**|Omraj Kamat et.al.|[2412.06241v1](http://arxiv.org/abs/2412.06241v1)|null|
+|**2024-12-09**|**Unseen Attack Detection in Software-Defined Networking Using a BERT-Based Large Language Model**|Mohammed N. Swileh et.al.|[2412.06239v1](http://arxiv.org/abs/2412.06239v1)|null|
+|**2024-12-09**|**Privacy-Preserving Large Language Models: Mechanisms, Applications, and Future Directions**|Guoshenghui Zhao et.al.|[2412.06113v1](http://arxiv.org/abs/2412.06113v1)|null|
+|**2024-12-08**|**Enhanced Computationally Efficient Long LoRA Inspired Perceiver Architectures for Auto-Regressive Language Modeling**|Kaleel Mahmood et.al.|[2412.06106v1](http://arxiv.org/abs/2412.06106v1)|null|
+|**2024-12-08**|**1-800-SHARED-TASKS at RegNLP: Lexical Reranking of Semantic Retrieval (LeSeR) for Regulatory Question Answering**|Jebish Purbey et.al.|[2412.06009v1](http://arxiv.org/abs/2412.06009v1)|null|
+|**2024-12-08**|**Automated Extraction and Creation of FBS Design Reasoning Knowledge Graphs from Structured Data in Product Catalogues Lacking Contextual Information**|Vijayalaxmi Sahadevan et.al.|[2412.05868v1](http://arxiv.org/abs/2412.05868v1)|null|
+|**2024-12-08**|**Depression detection from Social Media Bangla Text Using Recurrent Neural Networks**|Sultan Ahmed et.al.|[2412.05861v1](http://arxiv.org/abs/2412.05861v1)|null|
+|**2024-12-07**|**A Comparative Study on Code Generation with Transformers**|Namrata Das et.al.|[2412.05749v1](http://arxiv.org/abs/2412.05749v1)|null|
 |**2024-12-06**|**Project Report: Requirements for a Social Robot as an Information Provider in the Public Sector**|Thomas Sievers et.al.|[2412.05013v1](http://arxiv.org/abs/2412.05013v1)|null|
 |**2024-12-06**|**Probing the contents of semantic representations from text, behavior, and brain data using the psychNorms metabase**|Zak Hussain et.al.|[2412.04936v1](http://arxiv.org/abs/2412.04936v1)|**[link](https://github.com/zak-hussain/psychnorms)**|
 |**2024-12-06**|**$S^3$ : Synonymous Semantic Space for Improving Zero-Shot Generalization of Vision-Language Models**|Xiaojie Yin et.al.|[2412.04925v1](http://arxiv.org/abs/2412.04925v1)|null|
@@ -1836,6 +1845,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**|Weichao Xu et.al.|[2412.06684v1](http://arxiv.org/abs/2412.06684v1)|null|
+|**2024-12-08**|**BAMBA: A Bimodal Adversarial Multi-Round Black-Box Jailbreak Attacker for LVLMs**|Ruoxi Cheng et.al.|[2412.05892v1](http://arxiv.org/abs/2412.05892v1)|null|
+|**2024-12-08**|**SILMM: Self-Improving Large Multimodal Models for Compositional Text-to-Image Generation**|Leigang Qu et.al.|[2412.05818v1](http://arxiv.org/abs/2412.05818v1)|null|
 |**2024-12-06**|**Are Frontier Large Language Models Suitable for Q&A in Science Centres?**|Jacob Watson et.al.|[2412.05200v1](http://arxiv.org/abs/2412.05200v1)|null|
 |**2024-12-06**|**The Prompt Canvas: A Literature-Based Practitioner Guide for Creating Effective Prompts in Large Language Models**|Michael Hewing et.al.|[2412.05127v1](http://arxiv.org/abs/2412.05127v1)|null|
 |**2024-12-06**|**Steps are all you need: Rethinking STEM Education with Prompt Engineering**|Krishnasai Addala et.al.|[2412.05023v1](http://arxiv.org/abs/2412.05023v1)|null|
@@ -2403,6 +2415,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**3D Spatial Understanding in MLLMs: Disambiguation and Evaluation**|Chun-Peng Chang et.al.|[2412.06613v1](http://arxiv.org/abs/2412.06613v1)|null|
+|**2024-12-09**|**Ranked from Within: Ranking Large Multimodal Models for Visual Question Answering Without Labels**|Weijie Tu et.al.|[2412.06461v1](http://arxiv.org/abs/2412.06461v1)|null|
+|**2024-12-09**|**LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations**|Mingjie Xu et.al.|[2412.06322v1](http://arxiv.org/abs/2412.06322v1)|**[link](https://github.com/endlinc/llava-spacesgg)**|
+|**2024-12-09**|**PediaBench: A Comprehensive Chinese Pediatric Dataset for Benchmarking Large Language Models**|Qian Zhang et.al.|[2412.06287v1](http://arxiv.org/abs/2412.06287v1)|**[link](https://github.com/acmislab/pediabench)**|
+|**2024-12-08**|**1-800-SHARED-TASKS at RegNLP: Lexical Reranking of Semantic Retrieval (LeSeR) for Regulatory Question Answering**|Jebish Purbey et.al.|[2412.06009v1](http://arxiv.org/abs/2412.06009v1)|null|
+|**2024-12-08**|**Accelerating Manufacturing Scale-Up from Material Discovery Using Agentic Web Navigation and Retrieval-Augmented AI for Process Engineering Schematics Design**|Sakhinana Sagar Srinivas et.al.|[2412.05937v1](http://arxiv.org/abs/2412.05937v1)|null|
+|**2024-12-08**|**An Entailment Tree Generation Approach for Multimodal Multi-Hop Question Answering with Mixture-of-Experts and Iterative Feedback Mechanism**|Qing Zhang et.al.|[2412.05821v1](http://arxiv.org/abs/2412.05821v1)|null|
+|**2024-12-07**|**Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent**|Ziyuan Qin et.al.|[2412.05722v1](http://arxiv.org/abs/2412.05722v1)|null|
+|**2024-12-07**|**PromptRefine: Enhancing Few-Shot Performance on Low-Resource Indic Languages with Example Selection from Related Example Banks**|Soumya Suvra Ghosal et.al.|[2412.05710v1](http://arxiv.org/abs/2412.05710v1)|null|
+|**2024-12-07**|**HMGIE: Hierarchical and Multi-Grained Inconsistency Evaluation for Vision-Language Data Cleansing**|Zihao Zhu et.al.|[2412.05685v1](http://arxiv.org/abs/2412.05685v1)|null|
 |**2024-12-06**|**CompCap: Improving Multimodal Large Language Models with Composite Captions**|Xiaohui Chen et.al.|[2412.05243v1](http://arxiv.org/abs/2412.05243v1)|null|
 |**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149v1](http://arxiv.org/abs/2412.05149v1)|null|
 |**2024-12-06**|**Steps are all you need: Rethinking STEM Education with Prompt Engineering**|Krishnasai Addala et.al.|[2412.05023v1](http://arxiv.org/abs/2412.05023v1)|null|
@@ -4029,8 +4051,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**SeFENet: Robust Deep Homography Estimation via Semantic-Driven Feature Enhancement**|Zeru Shi et.al.|[2412.06352v1](http://arxiv.org/abs/2412.06352v1)|null|
+|**2024-12-09**|**Optimizing Multi-Task Learning for Enhanced Performance in Large Language Models**|Zhen Qi et.al.|[2412.06249v1](http://arxiv.org/abs/2412.06249v1)|null|
 |**2024-12-05**|**Diagnosing Systematic Effects Using the Inferred Initial Power Spectrum**|Tristan Hoellinger et.al.|[2412.04443v1](http://arxiv.org/abs/2412.04443v1)|null|
-|**2024-12-05**|**Boundary-Guided Learning for Gene Expression Prediction in Spatial Transcriptomics**|Mingcheng Qu et.al.|[2412.04072v1](http://arxiv.org/abs/2412.04072v1)|**[link](https://github.com/WcloudC0416/BG-TRIPLEX)**|
+|**2024-12-08**|**Boundary-Guided Learning for Gene Expression Prediction in Spatial Transcriptomics**|Mingcheng Qu et.al.|[2412.04072v2](http://arxiv.org/abs/2412.04072v2)|**[link](https://github.com/WcloudC0416/BG-TRIPLEX)**|
 |**2024-12-05**|**M $^{3}$ D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction**|Jiang Liu et.al.|[2412.04026v1](http://arxiv.org/abs/2412.04026v1)|**[link](https://github.com/solkx/m3d)**|
 |**2024-12-05**|**Dual-Branch Subpixel-Guided Network for Hyperspectral Image Classification**|Zhu Han et.al.|[2412.03893v1](http://arxiv.org/abs/2412.03893v1)|**[link](https://github.com/hanzhu97702/dsnet)**|
 |**2024-12-05**|**Meta-Reinforcement Learning With Mixture of Experts for Generalizable Multi Access in Heterogeneous Wireless Networks**|Zhaoyang Liu et.al.|[2412.03850v1](http://arxiv.org/abs/2412.03850v1)|null|
@@ -4531,6 +4555,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**PRECISE: Pre-training Sequential Recommenders with Collaborative and Semantic Information**|Chonggang Song et.al.|[2412.06308v1](http://arxiv.org/abs/2412.06308v1)|null|
+|**2024-12-08**|**Fuzzy Norm-Explicit Product Quantization for Recommender Systems**|Mohammadreza Jamalifard et.al.|[2412.06069v1](http://arxiv.org/abs/2412.06069v1)|null|
+|**2024-12-07**|**Interactions Between Artificial Intelligence and Digital Public Infrastructure: Concepts, Benefits, and Challenges**|Sarosh Nagar et.al.|[2412.05761v1](http://arxiv.org/abs/2412.05761v1)|null|
 |**2024-12-05**|**From Models to Systems: A Comprehensive Fairness Framework for Compositional Recommender Systems**|Brian Hsu et.al.|[2412.04655v1](http://arxiv.org/abs/2412.04655v1)|null|
 |**2024-12-05**|**Game-Theoretic Foundations for Cyber Resilience Against Deceptive Information Attacks in Intelligent Transportation Systems**|Ya-Ting Yang et.al.|[2412.04627v1](http://arxiv.org/abs/2412.04627v1)|null|
 |**2024-12-05**|**User-item fairness tradeoffs in recommendations**|Sophie Greenwood et.al.|[2412.04466v1](http://arxiv.org/abs/2412.04466v1)|**[link](https://github.com/vschiniah/ArXiv_Recommendation_Research)**|
@@ -5647,7 +5674,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-06**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248v1](http://arxiv.org/abs/2412.05248v1)|null|
+|**2024-12-09**|**Prediction of Occluded Pedestrians in Road Scenes using Human-like Reasoning: Insights from the OccluRoads Dataset**|Melo Castillo Angie Nataly et.al.|[2412.06549v1](http://arxiv.org/abs/2412.06549v1)|null|
+|**2024-12-08**|**Accelerating Manufacturing Scale-Up from Material Discovery Using Agentic Web Navigation and Retrieval-Augmented AI for Process Engineering Schematics Design**|Sakhinana Sagar Srinivas et.al.|[2412.05937v1](http://arxiv.org/abs/2412.05937v1)|null|
+|**2024-12-08**|**Automated Extraction and Creation of FBS Design Reasoning Knowledge Graphs from Structured Data in Product Catalogues Lacking Contextual Information**|Vijayalaxmi Sahadevan et.al.|[2412.05868v1](http://arxiv.org/abs/2412.05868v1)|null|
+|**2024-12-08**|**KITE-DDI: A Knowledge graph Integrated Transformer Model for accurately predicting Drug-Drug Interaction Events from Drug SMILES and Biomedical Knowledge Graph**|Azwad Tamir et.al.|[2412.05770v1](http://arxiv.org/abs/2412.05770v1)|null|
+|**2024-12-07**|**KG-Retriever: Efficient Knowledge Indexing for Retrieval-Augmented Large Language Models**|Weijie Chen et.al.|[2412.05547v1](http://arxiv.org/abs/2412.05547v1)|null|
+|**2024-12-06**|**Knowledge Graphs are all you need: Leveraging KGs in Physics Question Answering**|Krishnasai Addala et.al.|[2412.05453v1](http://arxiv.org/abs/2412.05453v1)|null|
+|**2024-12-06**|**A Graph-Based Approach for Conversational AI-Driven Personal Memory Capture and Retrieval in a Real-world Application**|Savini Kashmira et.al.|[2412.05447v1](http://arxiv.org/abs/2412.05447v1)|null|
+|**2024-12-09**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248v2](http://arxiv.org/abs/2412.05248v2)|null|
 |**2024-12-06**|**A*Net and NBFNet Learn Negative Patterns on Knowledge Graphs**|Patrick Betz et.al.|[2412.05114v1](http://arxiv.org/abs/2412.05114v1)|null|
 |**2024-12-06**|**Unifying Dual-Space Embedding for Entity Alignment via Contrastive Learning**|Cunda Wang et.al.|[2412.05028v1](http://arxiv.org/abs/2412.05028v1)|**[link](https://github.com/wondercs1213/uniea)**|
 |**2024-12-06**|**Improving data sharing and knowledge transfer via the Neuroelectrophysiology Analysis Ontology (NEAO)**|Cristiano André Köhler et.al.|[2412.05021v1](http://arxiv.org/abs/2412.05021v1)|null|
@@ -6562,6 +6596,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**MISFEAT: Feature Selection for Subgroups with Systematic Missing Data**|Bar Genossar et.al.|[2412.06711v1](http://arxiv.org/abs/2412.06711v1)|null|
+|**2024-12-09**|**Cramér-Rao Bound Analysis and Beamforming Design for 3D Extended Target in ISAC: From Optimization to Learning Approaches**|Yiqiu Wang et.al.|[2412.06353v1](http://arxiv.org/abs/2412.06353v1)|null|
+|**2024-12-09**|**A Self-guided Multimodal Approach to Enhancing Graph Representation Learning for Alzheimer's Diseases**|Zhepeng Wang et.al.|[2412.06212v1](http://arxiv.org/abs/2412.06212v1)|null|
+|**2024-12-09**|**Deep Unfolding Beamforming and Power Control Designs for Multi-Port Matching Networks**|Bokai Xu et.al.|[2412.06178v1](http://arxiv.org/abs/2412.06178v1)|null|
+|**2024-12-09**|**Revisiting the Necessity of Graph Learning and Common Graph Benchmarks**|Isay Katsman et.al.|[2412.06173v1](http://arxiv.org/abs/2412.06173v1)|null|
+|**2024-12-08**|**Fully Distributed Online Training of Graph Neural Networks in Networked Systems**|Rostyslav Olshevskyi et.al.|[2412.06105v1](http://arxiv.org/abs/2412.06105v1)|null|
+|**2024-12-08**|**Understanding the Impact of Graph Reduction on Adversarial Robustness in Graph Neural Networks**|Kerui Wu et.al.|[2412.05883v1](http://arxiv.org/abs/2412.05883v1)|null|
+|**2024-12-08**|**Large Language Models Merging for Enhancing the Link Stealing Attack on Graph Neural Networks**|Faqian Guan et.al.|[2412.05830v1](http://arxiv.org/abs/2412.05830v1)|null|
+|**2024-12-07**|**Towards Robust Spatio-Temporal Auto-Regressive Prediction: Adams-Bashforth Time Integration with Adaptive Multi-Step Rollout**|Sunwoong Yang et.al.|[2412.05657v1](http://arxiv.org/abs/2412.05657v1)|null|
+|**2024-12-07**|**RouteNet-Fermi: Network Modeling With GNN (Analysis And Re-implementation)**|Shourya Verma et.al.|[2412.05649v1](http://arxiv.org/abs/2412.05649v1)|null|
 |**2024-12-06**|**ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-k-Cut Problems**|Yeqing Qiu et.al.|[2412.05146v1](http://arxiv.org/abs/2412.05146v1)|null|
 |**2024-12-06**|**Unifying Dual-Space Embedding for Entity Alignment via Contrastive Learning**|Cunda Wang et.al.|[2412.05028v1](http://arxiv.org/abs/2412.05028v1)|**[link](https://github.com/wondercs1213/uniea)**|
 |**2024-12-06**|**GABAR: Graph Attention-Based Action Ranking for Relational Policy Learning**|Rajesh Mangannavar et.al.|[2412.04752v1](http://arxiv.org/abs/2412.04752v1)|null|
