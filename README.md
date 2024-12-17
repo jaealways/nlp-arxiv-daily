@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094v1](http://arxiv.org/abs/2412.12094v1)|null|
+|**2024-12-16**|**The Open Source Advantage in Large Language Models (LLMs)**|Jiya Manchanda et.al.|[2412.12004v1](http://arxiv.org/abs/2412.12004v1)|null|
+|**2024-12-16**|**Advancements and Challenges in Bangla Question Answering Models: A Comprehensive Review**|Md Iftekhar Islam Tashik et.al.|[2412.11823v1](http://arxiv.org/abs/2412.11823v1)|null|
+|**2024-12-16**|**BioBridge: Unified Bio-Embedding with Bridging Modality in Code-Switched EMR**|Jangyeong Jeon et.al.|[2412.11671v1](http://arxiv.org/abs/2412.11671v1)|**[link](https://github.com/jjy961228/biobridge)**|
+|**2024-12-16**|**SE-GCL: An Event-Based Simple and Effective Graph Contrastive Learning for Text Representation**|Tao Meng et.al.|[2412.11652v1](http://arxiv.org/abs/2412.11652v1)|null|
+|**2024-12-16**|**QPruner: Probabilistic Decision Quantization for Structured Pruning in Large Language Models**|Changhai Zhou et.al.|[2412.11629v1](http://arxiv.org/abs/2412.11629v1)|null|
+|**2024-12-16**|**The Role of Natural Language Processing Tasks in Automatic Literary Character Network Construction**|Arthur Amalvy et.al.|[2412.11560v1](http://arxiv.org/abs/2412.11560v1)|null|
+|**2024-12-16**|**Multilabel Classification for Lung Disease Detection: Integrating Deep Learning and Natural Language Processing**|Maria Efimovich et.al.|[2412.11452v1](http://arxiv.org/abs/2412.11452v1)|null|
+|**2024-12-15**|**RoLargeSum: A Large Dialect-Aware Romanian News Dataset for Summary, Headline, and Keyword Generation**|Andrei-Marius Avram et.al.|[2412.11317v1](http://arxiv.org/abs/2412.11317v1)|null|
+|**2024-12-15**|**Reliable, Reproducible, and Really Fast Leaderboards with Evalica**|Dmitry Ustalov et.al.|[2412.11314v1](http://arxiv.org/abs/2412.11314v1)|null|
 |**2024-12-13**|**Unexpected but informative: What fixation-related potentials tell us about the processing of ambiguous program code**|Annabelle Bergum et.al.|[2412.10099v1](http://arxiv.org/abs/2412.10099v1)|null|
 |**2024-12-13**|**Unsupervised Named Entity Disambiguation for Low Resource Domains**|Debarghya Datta et.al.|[2412.10054v1](http://arxiv.org/abs/2412.10054v1)|**[link](https://github.com/deba-iitbh/gst-ned)**|
 |**2024-12-13**|**Analyzing Fairness of Computer Vision and Natural Language Processing Models**|Ahmed Rashed et.al.|[2412.09900v1](http://arxiv.org/abs/2412.09900v1)|null|
@@ -1849,6 +1859,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-14**|**SusGen-GPT: A Data-Centric LLM for Financial NLP and Sustainability Report Generation**|Qilong Wu et.al.|[2412.10906v1](http://arxiv.org/abs/2412.10906v1)|null|
 |**2024-11-09**|**Golden Touchstone: A Comprehensive Bilingual Benchmark for Evaluating Financial Large Language Models**|Xiaojun Wu et.al.|[2411.06272v1](http://arxiv.org/abs/2411.06272v1)|**[link](https://github.com/IDEA-FinAI/Golden-Touchstone)**|
 |**2024-10-30**|**Deep Learning and Machine Learning -- Natural Language Processing: From Theory to Application**|Keyu Chen et.al.|[2411.05026v1](http://arxiv.org/abs/2411.05026v1)|null|
 |**2024-08-25**|**StockTime: A Time Series Specialized Large Language Model Architecture for Stock Price Prediction**|Shengkun Wang et.al.|[2409.08281v1](http://arxiv.org/abs/2409.08281v1)|null|
@@ -1873,6 +1884,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**SAMIC: Segment Anything with In-Context Spatial Prompt Engineering**|Savinay Nagendra et.al.|[2412.11998v1](http://arxiv.org/abs/2412.11998v1)|null|
+|**2024-12-16**|**Combining Large Language Models with Tutoring System Intelligence: A Case Study in Caregiver Homework Support**|Devika Venugopalan et.al.|[2412.11995v1](http://arxiv.org/abs/2412.11995v1)|**[link](https://github.com/devika-prog/caregiver-conversational-support-tool)**|
+|**2024-12-16**|**Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs**|Yuchen Fu et.al.|[2412.11556v1](http://arxiv.org/abs/2412.11556v1)|null|
+|**2024-12-15**|**Dual Traits in Probabilistic Reasoning of Large Language Models**|Shenxiong Li et.al.|[2412.11009v1](http://arxiv.org/abs/2412.11009v1)|**[link](https://github.com/jacobsonradical/llm-dual-trait)**|
 |**2024-12-13**|**TACOMORE: Leveraging the Potential of LLMs in Corpus-based Discourse Analysis with Prompt Engineering**|Bingru Li et.al.|[2412.10139v1](http://arxiv.org/abs/2412.10139v1)|null|
 |**2024-12-13**|**Enhancing the Reasoning Capabilities of Small Language Models via Solution Guidance Fine-Tuning**|Jing Bi et.al.|[2412.09906v1](http://arxiv.org/abs/2412.09906v1)|**[link](https://github.com/bijings/sgft)**|
 |**2024-12-12**|**GReaTer: Gradients over Reasoning Makes Smaller Language Models Strong Prompt Optimizers**|Sarkar Snigdha Sarathi Das et.al.|[2412.09722v1](http://arxiv.org/abs/2412.09722v1)|null|
@@ -2453,6 +2468,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077v1](http://arxiv.org/abs/2412.12077v1)|null|
+|**2024-12-16**|**CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding**|Guo Chen et.al.|[2412.12075v1](http://arxiv.org/abs/2412.12075v1)|null|
+|**2024-12-16**|**DARWIN 1.5: Large Language Models as Materials Science Adapted Learners**|Tong Xie et.al.|[2412.11970v1](http://arxiv.org/abs/2412.11970v1)|null|
+|**2024-12-16**|**Precise Length Control in Large Language Models**|Bradley Butcher et.al.|[2412.11937v1](http://arxiv.org/abs/2412.11937v1)|null|
+|**2024-12-16**|**Advancements and Challenges in Bangla Question Answering Models: A Comprehensive Review**|Md Iftekhar Islam Tashik et.al.|[2412.11823v1](http://arxiv.org/abs/2412.11823v1)|null|
+|**2024-12-16**|**UAlign: Leveraging Uncertainty Estimations for Factuality Alignment on Large Language Models**|Boyang Xue et.al.|[2412.11803v1](http://arxiv.org/abs/2412.11803v1)|null|
+|**2024-12-16**|**SCITAT: A Question Answering Benchmark for Scientific Tables and Text Covering Diverse Reasoning Types**|Xuanliang Zhang et.al.|[2412.11757v1](http://arxiv.org/abs/2412.11757v1)|**[link](https://github.com/zhxlia/scitat)**|
+|**2024-12-16**|**Context Filtering with Reward Modeling in Question Answering**|Sangryul Kim et.al.|[2412.11707v1](http://arxiv.org/abs/2412.11707v1)|null|
+|**2024-12-16**|**ACE- $M^3$ : Automatic Capability Evaluator for Multimodal Medical Models**|Xiechi Zhang et.al.|[2412.11453v1](http://arxiv.org/abs/2412.11453v1)|null|
+|**2024-12-16**|**ConceptEdit: Conceptualization-Augmented Knowledge Editing in Large Language Models for Commonsense Reasoning**|Liyu Zhang et.al.|[2412.11418v1](http://arxiv.org/abs/2412.11418v1)|null|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302v1](http://arxiv.org/abs/2412.10302v1)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
 |**2024-12-13**|**VLR-Bench: Multilingual Benchmark Dataset for Vision-Language Retrieval Augmented Generation**|Hyeonseok Lim et.al.|[2412.10151v1](http://arxiv.org/abs/2412.10151v1)|null|
 |**2024-12-13**|**RETQA: A Large-Scale Open-Domain Tabular Question Answering Dataset for Real Estate Sector**|Zhensheng Wang et.al.|[2412.10104v1](http://arxiv.org/abs/2412.10104v1)|**[link](https://github.com/jensen-w/retqa)**|
@@ -4124,9 +4149,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Towards Better Multi-task Learning: A Framework for Optimizing Dataset Combinations in Large Language Models**|Zaifu Zhan et.al.|[2412.11455v1](http://arxiv.org/abs/2412.11455v1)|null|
+|**2024-12-16**|**Can AI Extract Antecedent Factors of Human Trust in AI? An Application of Information Extraction for Scientific Literature in Behavioural and Computer Sciences**|Melanie McGrath et.al.|[2412.11344v1](http://arxiv.org/abs/2412.11344v1)|null|
+|**2024-12-14**|**CRENER: A Character Relation Enhanced Chinese NER Model**|Yaqiong Qiao et.al.|[2412.10858v1](http://arxiv.org/abs/2412.10858v1)|null|
+|**2024-12-14**|**Enhancing Event Extraction from Short Stories through Contextualized Prompts**|Chaitanya Kirti et.al.|[2412.10745v1](http://arxiv.org/abs/2412.10745v1)|null|
+|**2024-12-14**|**Learning to Verify Summary Facts with Fine-Grained LLM Feedback**|Jihwan Oh et.al.|[2412.10689v1](http://arxiv.org/abs/2412.10689v1)|null|
 |**2024-12-13**|**Unexpected but informative: What fixation-related potentials tell us about the processing of ambiguous program code**|Annabelle Bergum et.al.|[2412.10099v1](http://arxiv.org/abs/2412.10099v1)|null|
 |**2024-12-12**|**Foundational Large Language Models for Materials Research**|Vaibhav Mishra et.al.|[2412.09560v1](http://arxiv.org/abs/2412.09560v1)|null|
-|**2024-12-12**|**USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation**|Wanjiang Weng et.al.|[2412.09220v1](http://arxiv.org/abs/2412.09220v1)|**[link](https://github.com/wengwanjiang/usdrl)**|
+|**2024-12-14**|**USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation**|Wanjiang Weng et.al.|[2412.09220v2](http://arxiv.org/abs/2412.09220v2)|**[link](https://github.com/wengwanjiang/usdrl)**|
 |**2024-12-11**|**Accurate Medical Named Entity Recognition Through Specialized NLP Models**|Jiacheng Hu et.al.|[2412.08255v1](http://arxiv.org/abs/2412.08255v1)|null|
 |**2024-12-10**|**Zero-Shot ATC Coding with Large Language Models for Clinical Assessments**|Zijian Chen et.al.|[2412.07743v1](http://arxiv.org/abs/2412.07743v1)|null|
 |**2024-12-11**|**Preserving Speaker Information in Direct Speech-to-Speech Translation with Non-Autoregressive Generation and Pretraining**|Rui Zhou et.al.|[2412.07316v2](http://arxiv.org/abs/2412.07316v2)|**[link](https://github.com/zhouruitohoku99/sc-s2ut)**|
@@ -4635,6 +4665,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**One for Dozens: Adaptive REcommendation for All Domains with Counterfactual Augmentation**|Huishi Luo et.al.|[2412.11905v1](http://arxiv.org/abs/2412.11905v1)|**[link](https://github.com/chrissie-law/aread-multi-domain-recommendation)**|
+|**2024-12-16**|**Classification of Spontaneous and Scripted Speech for Multilingual Audio**|Shahar Elisha et.al.|[2412.11896v1](http://arxiv.org/abs/2412.11896v1)|null|
+|**2024-12-16**|**Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs**|Junjie Huang et.al.|[2412.11747v1](http://arxiv.org/abs/2412.11747v1)|null|
+|**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557v1](http://arxiv.org/abs/2412.11557v1)|null|
+|**2024-12-16**|**Exploring Temporal Event Cues for Dense Video Captioning in Cyclic Co-learning**|Zhuyang Xie et.al.|[2412.11467v1](http://arxiv.org/abs/2412.11467v1)|null|
+|**2024-12-15**|**Modeling the Heterogeneous Duration of User Interest in Time-Dependent Recommendation: A Hidden Semi-Markov Approach**|Haidong Zhang et.al.|[2412.11127v1](http://arxiv.org/abs/2412.11127v1)|null|
+|**2024-12-15**|**RecSys Arena: Pair-wise Recommender System Evaluation with Large Language Models**|Zhuo Wu et.al.|[2412.11068v1](http://arxiv.org/abs/2412.11068v1)|**[link](https://github.com/anonyprojects/recsys-arena)**|
+|**2024-12-15**|**A Contextualized BERT model for Knowledge Graph Completion**|Haji Gul et.al.|[2412.11016v1](http://arxiv.org/abs/2412.11016v1)|null|
+|**2024-12-14**|**Sequential Diversification with Provable Guarantees**|Honglian Wang et.al.|[2412.10944v1](http://arxiv.org/abs/2412.10944v1)|null|
+|**2024-12-14**|**Why Not Together? A Multiple-Round Recommender System for Queries and Items**|Jiarui Jin et.al.|[2412.10787v1](http://arxiv.org/abs/2412.10787v1)|null|
 |**2024-12-13**|**Can LLMs Convert Graphs to Text-Attributed Graphs?**|Zehong Wang et.al.|[2412.10136v1](http://arxiv.org/abs/2412.10136v1)|**[link](https://github.com/zehong-wang/tans)**|
 |**2024-12-13**|**Matrix Completion via Residual Spectral Matching**|Ziyuan Chen et.al.|[2412.10005v1](http://arxiv.org/abs/2412.10005v1)|null|
 |**2024-12-13**|**Hesitation and Tolerance in Recommender Systems**|Kuan Zou et.al.|[2412.09950v1](http://arxiv.org/abs/2412.09950v1)|null|
@@ -5772,6 +5812,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Intention Knowledge Graph Construction for User Intention Relation Modeling**|Jiaxin Bai et.al.|[2412.11500v1](http://arxiv.org/abs/2412.11500v1)|null|
+|**2024-12-16**|**Embodied CoT Distillation From LLM To Off-the-shelf Agents**|Wonje Choi et.al.|[2412.11499v1](http://arxiv.org/abs/2412.11499v1)|null|
+|**2024-12-16**|**How Can LLMs and Knowledge Graphs Contribute to Robot Safety? A Few-Shot Learning Approach**|Abdulrahman Althobaiti et.al.|[2412.11387v1](http://arxiv.org/abs/2412.11387v1)|null|
+|**2024-12-15**|**A Contextualized BERT model for Knowledge Graph Completion**|Haji Gul et.al.|[2412.11016v1](http://arxiv.org/abs/2412.11016v1)|null|
+|**2024-12-14**|**MedG-KRP: Medical Graph Knowledge Representation Probing**|Gabriel R. Rosenbaum et.al.|[2412.10982v1](http://arxiv.org/abs/2412.10982v1)|null|
+|**2024-12-14**|**Multi-Class and Multi-Task Strategies for Neural Directed Link Prediction**|Claudio Moroni et.al.|[2412.10895v1](http://arxiv.org/abs/2412.10895v1)|null|
+|**2024-12-14**|**Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data**|Xue Wu et.al.|[2412.10654v1](http://arxiv.org/abs/2412.10654v1)|null|
 |**2024-12-13**|**A Survey on Knowledge Graph Structure and Knowledge Graph Embeddings**|Jeffrey Sardina et.al.|[2412.10092v1](http://arxiv.org/abs/2412.10092v1)|null|
 |**2024-12-13**|**Lost in the Middle, and In-Between: Enhancing Language Models' Ability to Reason Over Long Contexts in Multi-Hop QA**|George Arthur Baker et.al.|[2412.10079v1](http://arxiv.org/abs/2412.10079v1)|**[link](https://github.com/spongeorge/long-context-multihop)**|
 |**2024-12-13**|**Text2Cypher: Bridging Natural Language and Graph Databases**|Makbule Gulcin Ozsoy et.al.|[2412.10064v1](http://arxiv.org/abs/2412.10064v1)|null|
@@ -6711,6 +6758,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Thermodynamics-informed graph neural networks for real-time simulation of digital human twins**|Lucas Tesán et.al.|[2412.12034v1](http://arxiv.org/abs/2412.12034v1)|null|
+|**2024-12-16**|**Learning interactions between Rydberg atoms**|Olivier Simard et.al.|[2412.12019v1](http://arxiv.org/abs/2412.12019v1)|null|
+|**2024-12-16**|**Cost-Effective Label-free Node Classification with LLMs**|Taiyan Zhang et.al.|[2412.11983v1](http://arxiv.org/abs/2412.11983v1)|null|
+|**2024-12-16**|**BetaExplainer: A Probabilistic Method to Explain Graph Neural Networks**|Whitney Sloneker et.al.|[2412.11964v1](http://arxiv.org/abs/2412.11964v1)|**[link](https://github.com/wsloneker/betaexplainerdemo)**|
+|**2024-12-16**|**Prediction of social dilemmas in networked populations via graph neural networks**|Huaiyu Tan et.al.|[2412.11775v1](http://arxiv.org/abs/2412.11775v1)|null|
+|**2024-12-16**|**Asymmetric Learning for Spectral Graph Neural Networks**|Fangbing Liu et.al.|[2412.11739v1](http://arxiv.org/abs/2412.11739v1)|**[link](https://github.com/mia-321/asym-opt)**|
+|**2024-12-16**|**Smoothness Really Matters: A Simple yet Effective Approach for Unsupervised Graph Domain Adaptation**|Wei Chen et.al.|[2412.11654v1](http://arxiv.org/abs/2412.11654v1)|**[link](https://github.com/cwei01/tdss)**|
+|**2024-12-16**|**EvoLlama: Enhancing LLMs' Understanding of Proteins via Multimodal Structure and Sequence Representations**|Nuowei Liu et.al.|[2412.11618v1](http://arxiv.org/abs/2412.11618v1)|null|
+|**2024-12-15**|**A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers**|Ashish Parmanand Pandey et.al.|[2412.11293v1](http://arxiv.org/abs/2412.11293v1)|null|
+|**2024-12-15**|**Point Cloud Deep Learning Methods for Particle Shower Reconstruction in the DHCAL**|Maryna Borysova et.al.|[2412.11208v1](http://arxiv.org/abs/2412.11208v1)|null|
 |**2024-12-13**|**Shape error prediction in 5-axis machining using graph neural networks**|Julia Huuk et.al.|[2412.10341v1](http://arxiv.org/abs/2412.10341v1)|null|
 |**2024-12-13**|**A Novel Framework Using Deep Reinforcement Learning for Join Order Selection**|Chang Liu et.al.|[2412.10253v1](http://arxiv.org/abs/2412.10253v1)|null|
 |**2024-12-13**|**Keep It Simple: Towards Accurate Vulnerability Detection for Large Code Graphs**|Xin Peng et.al.|[2412.10164v1](http://arxiv.org/abs/2412.10164v1)|null|
