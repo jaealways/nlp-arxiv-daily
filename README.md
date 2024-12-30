@@ -43,7 +43,7 @@
 |**2024-12-20**|**A Thorough Investigation into the Application of Deep CNN for Enhancing Natural Language Processing Capabilities**|Chang Weng et.al.|[2412.15900v1](http://arxiv.org/abs/2412.15900v1)|null|
 |**2024-12-20**|**$π$ -yalli: un nouveau corpus pour le nahuatl**|Juan-Manuel Torres-Moreno et.al.|[2412.15821v1](http://arxiv.org/abs/2412.15821v1)|null|
 |**2024-12-20**|**Learning from Impairment: Leveraging Insights from Clinical Linguistics in Language Modelling Research**|Dominique Brunato et.al.|[2412.15785v1](http://arxiv.org/abs/2412.15785v1)|null|
-|**2024-12-20**|**Contrastive Learning for Task-Independent SpeechLLM-Pretraining**|Maike Züfle et.al.|[2412.15712v1](http://arxiv.org/abs/2412.15712v1)|null|
+|**2024-12-20**|**Contrastive Learning for Task-Independent SpeechLLM-Pretraining**|Maike Züfle et.al.|[2412.15712v1](http://arxiv.org/abs/2412.15712v1)|**[link](https://github.com/maikezuefle/contr-pretraining)**|
 |**2024-12-20**|**Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework**|Zhenjie Xu et.al.|[2412.15504v1](http://arxiv.org/abs/2412.15504v1)|null|
 |**2024-12-20**|**A Review of the Marathi Natural Language Processing**|Asang Dani et.al.|[2412.15471v1](http://arxiv.org/abs/2412.15471v1)|null|
 |**2024-12-19**|**Systematic Evaluation of Long-Context LLMs on Financial Concepts**|Lavanya Gupta et.al.|[2412.15386v1](http://arxiv.org/abs/2412.15386v1)|null|
@@ -2552,13 +2552,13 @@
 |**2024-12-23**|**From Models to Microtheories: Distilling a Model's Topical Knowledge for Grounded Question Answering**|Nathaniel Weir et.al.|[2412.17701v1](http://arxiv.org/abs/2412.17701v1)|**[link](https://github.com/nweir127/microtheories)**|
 |**2024-12-23**|**RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG**|Rishiraj Saha Roy et.al.|[2412.17690v1](http://arxiv.org/abs/2412.17690v1)|**[link](https://github.com/fraunhofer-iis/ragonite)**|
 |**2024-12-23**|**Resource-Aware Arabic LLM Creation: Model Adaptation, Integration, and Multi-Domain Testing**|Prakash Aryan et.al.|[2412.17548v1](http://arxiv.org/abs/2412.17548v1)|**[link](https://github.com/prakash-aryan/qwen-arabic-project)**|
-|**2024-12-23**|**Multimodal Preference Data Synthetic Alignment with Reward Model**|Robert Wijaya et.al.|[2412.17417v1](http://arxiv.org/abs/2412.17417v1)|null|
+|**2024-12-23**|**Multimodal Preference Data Synthetic Alignment with Reward Model**|Robert Wijaya et.al.|[2412.17417v1](http://arxiv.org/abs/2412.17417v1)|**[link](https://github.com/pds-dpo/pds-dpo)**|
 |**2024-12-23**|**VidCtx: Context-aware Video Question Answering with Image Models**|Andreas Goulas et.al.|[2412.17415v1](http://arxiv.org/abs/2412.17415v1)|null|
 |**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346v1](http://arxiv.org/abs/2412.17346v1)|null|
 |**2024-12-22**|**MINTQA: A Multi-Hop Question Answering Benchmark for Evaluating LLMs on New and Tail Knowledge**|Jie He et.al.|[2412.17032v1](http://arxiv.org/abs/2412.17032v1)|null|
 |**2024-12-22**|**FriendsQA: A New Large-Scale Deep Video Understanding Dataset with Fine-grained Topic Categorization for Story Videos**|Zhengqian Wu et.al.|[2412.17022v1](http://arxiv.org/abs/2412.17022v1)|**[link](https://github.com/nercms-mmap/friendsqa)**|
 |**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100v1](http://arxiv.org/abs/2412.16100v1)|null|
-|**2024-12-20**|**Contrastive Learning for Task-Independent SpeechLLM-Pretraining**|Maike Züfle et.al.|[2412.15712v1](http://arxiv.org/abs/2412.15712v1)|null|
+|**2024-12-20**|**Contrastive Learning for Task-Independent SpeechLLM-Pretraining**|Maike Züfle et.al.|[2412.15712v1](http://arxiv.org/abs/2412.15712v1)|**[link](https://github.com/maikezuefle/contr-pretraining)**|
 |**2024-12-20**|**Template-Driven LLM-Paraphrased Framework for Tabular Math Word Problem Generation**|Xiaoqiang Kang et.al.|[2412.15594v1](http://arxiv.org/abs/2412.15594v1)|**[link](https://github.com/jason8kang/tell)**|
 |**2024-12-20**|**MORTAR: Metamorphic Multi-turn Testing for LLM-based Dialogue Systems**|Guoxiang Guo et.al.|[2412.15557v1](http://arxiv.org/abs/2412.15557v1)|null|
 |**2024-12-20**|**NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning**|Zheyuan Zhang et.al.|[2412.15547v1](http://arxiv.org/abs/2412.15547v1)|null|
@@ -4335,7 +4335,7 @@
 |**2024-11-13**|**Are Triggers Needed for Document-Level Event Extraction?**|Shaden Shaar et.al.|[2411.08708v1](http://arxiv.org/abs/2411.08708v1)|null|
 |**2024-11-12**|**Investigation and optimization of the deconvolution method for PMT waveform reconstruction**|Jingzhe Tang et.al.|[2411.07620v1](http://arxiv.org/abs/2411.07620v1)|null|
 |**2024-11-11**|**Multimodal Fusion Balancing Through Game-Theoretic Regularization**|Konstantinos Kontras et.al.|[2411.07335v1](http://arxiv.org/abs/2411.07335v1)|null|
-|**2024-11-08**|**FinDVer: Explainable Claim Verification over Long and Hybrid-Content Financial Documents**|Yilun Zhao et.al.|[2411.05764v1](http://arxiv.org/abs/2411.05764v1)|null|
+|**2024-11-08**|**FinDVer: Explainable Claim Verification over Long and Hybrid-Content Financial Documents**|Yilun Zhao et.al.|[2411.05764v1](http://arxiv.org/abs/2411.05764v1)|**[link](https://github.com/yilunzhao/FinDVer)**|
 |**2024-11-08**|**Echoes from Beyond: Detecting Gravitational Wave Quantum Imprints with LISA**|Nils Deppe et.al.|[2411.05645v1](http://arxiv.org/abs/2411.05645v1)|null|
 |**2024-11-07**|**A Brief History of Named Entity Recognition**|Monica Munnangi et.al.|[2411.05057v1](http://arxiv.org/abs/2411.05057v1)|null|
 |**2024-11-07**|**AlignXIE: Improving Multilingual Information Extraction by Cross-Lingual Alignment**|Yuxin Zuo et.al.|[2411.04794v1](http://arxiv.org/abs/2411.04794v1)|null|
@@ -5659,7 +5659,7 @@
 |**2024-04-01**|**EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation**|Shaorun Zhang et.al.|[2404.01008v1](http://arxiv.org/abs/2404.01008v1)|null|
 |**2024-04-01**|**Cross-channel Recommendation for Multi-channel Retail**|Yijin Choi et.al.|[2404.00972v1](http://arxiv.org/abs/2404.00972v1)|null|
 |**2024-04-01**|**Maximizing User Experience with LLMOps-Driven Personalized Recommendation Systems**|Chenxi Shi et.al.|[2404.00903v1](http://arxiv.org/abs/2404.00903v1)|null|
-|**2024-03-31**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702v1](http://arxiv.org/abs/2404.00702v1)|null|
+|**2024-03-31**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702v1](http://arxiv.org/abs/2404.00702v1)|**[link](https://github.com/applied-machine-learning-lab/llmtreerec)**|
 |**2024-03-31**|**Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey**|Qijiong Liu et.al.|[2404.00621v1](http://arxiv.org/abs/2404.00621v1)|null|
 |**2024-03-31**|**A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)**|Yashar Deldjoo et.al.|[2404.00579v1](http://arxiv.org/abs/2404.00579v1)|**[link](https://github.com/yasdel/llm-recsys)**|
 |**2024-03-30**|**Leveraging Intelligent Recommender system as a first step resilience measure -- A data-driven supply chain disruption response framework**|Yang Hu et.al.|[2404.00306v1](http://arxiv.org/abs/2404.00306v1)|null|
@@ -6146,7 +6146,7 @@
 |**2024-10-24**|**Geometric Feature Enhanced Knowledge Graph Embedding and Spatial Reasoning**|Lei Hu et.al.|[2410.18345v1](http://arxiv.org/abs/2410.18345v1)|null|
 |**2024-10-23**|**Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**|Rui Yang et.al.|[2410.17600v1](http://arxiv.org/abs/2410.17600v1)|null|
 |**2024-10-22**|**Representation Shattering in Transformers: A Synthetic Study with Knowledge Editing**|Kento Nishi et.al.|[2410.17194v1](http://arxiv.org/abs/2410.17194v1)|null|
-|**2024-10-22**|**Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**|Muzhi Li et.al.|[2410.16803v1](http://arxiv.org/abs/2410.16803v1)|null|
+|**2024-10-22**|**Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**|Muzhi Li et.al.|[2410.16803v1](http://arxiv.org/abs/2410.16803v1)|**[link](https://github.com/idea-finai/cats)**|
 |**2024-10-22**|**Atomic Fact Decomposition Helps Attributed Question Answering**|Zhichao Yan et.al.|[2410.16708v1](http://arxiv.org/abs/2410.16708v1)|null|
 |**2024-10-22**|**Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency**|Prafulla Kumar Choubey et.al.|[2410.16597v1](http://arxiv.org/abs/2410.16597v1)|null|
 |**2024-10-21**|**Towards a Reliable Offline Personal AI Assistant for Long Duration Spaceflight**|Oliver Bensch et.al.|[2410.16397v1](http://arxiv.org/abs/2410.16397v1)|null|
@@ -6297,7 +6297,7 @@
 |**2024-08-30**|**iCPS-DL: A Description Language for Autonomic Industrial Cyber-Physical Systems**|Dimitrios Kouzapas et.al.|[2408.17133v1](http://arxiv.org/abs/2408.17133v1)|**[link](https://github.com/kios-research/icps-dl)**|
 |**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903v1](http://arxiv.org/abs/2408.15903v1)|null|
 |**2024-08-28**|**Hierarchical Blockmodelling for Knowledge Graphs**|Marcin Pietrasik et.al.|[2408.15649v1](http://arxiv.org/abs/2408.15649v1)|**[link](https://github.com/mpietrasik/hb)**|
-|**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620v1](http://arxiv.org/abs/2408.15620v1)|null|
+|**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620v1](http://arxiv.org/abs/2408.15620v1)|**[link](https://github.com/bigdasgit/caper)**|
 |**2024-08-29**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294v2](http://arxiv.org/abs/2408.15294v2)|null|
 |**2024-08-27**|**Learning Granularity Representation for Temporal Knowledge Graph Completion**|Jinchuan Zhang et.al.|[2408.15293v1](http://arxiv.org/abs/2408.15293v1)|**[link](https://github.com/kcacozhang/lgre)**|
 |**2024-08-27**|**Triplètoile: Extraction of Knowledge from Microblogging Text**|Vanni Zavarella et.al.|[2408.14908v1](http://arxiv.org/abs/2408.14908v1)|null|
@@ -6400,7 +6400,7 @@
 |**2024-07-25**|**RDFGraphGen: A Synthetic RDF Graph Generator based on SHACL Constraints**|Marija Vecovska et.al.|[2407.17941v1](http://arxiv.org/abs/2407.17941v1)|**[link](https://github.com/mveco/rdfgraphgen)**|
 |**2024-07-25**|**Beyond Entity Alignment: Towards Complete Knowledge Graph Alignment via Entity-Relation Synergy**|Xiaohan Fang et.al.|[2407.17745v1](http://arxiv.org/abs/2407.17745v1)|null|
 |**2024-07-25**|**Text-Driven Neural Collaborative Filtering Model for Paper Source Tracing**|Aobo Xu et.al.|[2407.17722v1](http://arxiv.org/abs/2407.17722v1)|**[link](https://github.com/mylove-xab/kddcupfinal)**|
-|**2024-07-25**|**Context-aware knowledge graph framework for traffic speed forecasting using graph neural network**|Yatao Zhang et.al.|[2407.17703v1](http://arxiv.org/abs/2407.17703v1)|null|
+|**2024-07-25**|**Context-aware knowledge graph framework for traffic speed forecasting using graph neural network**|Yatao Zhang et.al.|[2407.17703v1](http://arxiv.org/abs/2407.17703v1)|**[link](https://github.com/mie-lab/ckg-traffic-forecasting)**|
 |**2024-07-24**|**My Ontologist: Evaluating BFO-Based AI for Definition Support**|Carter Benson et.al.|[2407.17657v1](http://arxiv.org/abs/2407.17657v1)|null|
 |**2024-07-24**|**Fusing LLMs and KGs for Formal Causal Reasoning behind Financial Risk Contagion**|Guanyuan Yu et.al.|[2407.17190v1](http://arxiv.org/abs/2407.17190v1)|null|
 |**2024-07-24**|**From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM**|Lingzhi Wang et.al.|[2407.16928v1](http://arxiv.org/abs/2407.16928v1)|null|
@@ -6971,7 +6971,7 @@
 |**2024-12-20**|**Astrometric constraints on stochastic gravitational wave background with neural networks**|Marienza Caldarola et.al.|[2412.15879v1](http://arxiv.org/abs/2412.15879v1)|null|
 |**2024-12-20**|**GraphSeqLM: A Unified Graph Language Framework for Omic Graph Learning**|Heming Zhang et.al.|[2412.15790v1](http://arxiv.org/abs/2412.15790v1)|null|
 |**2024-12-20**|**Prompt-based Unifying Inference Attack on Graph Neural Networks**|Yuecen Wei et.al.|[2412.15735v1](http://arxiv.org/abs/2412.15735v1)|**[link](https://github.com/ringbdstack/proia)**|
-|**2024-12-20**|**Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck**|Van Thuy Hoang et.al.|[2412.15589v1](http://arxiv.org/abs/2412.15589v1)|null|
+|**2024-12-20**|**Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck**|Van Thuy Hoang et.al.|[2412.15589v1](http://arxiv.org/abs/2412.15589v1)|**[link](https://github.com/NSLab-CUK/S-CGIB)**|
 |**2024-12-19**|**Investigating Relational State Abstraction in Collaborative MARL**|Sharlin Utke et.al.|[2412.15388v1](http://arxiv.org/abs/2412.15388v1)|**[link](https://github.com/gmontana/collaborativepickandplaceenv)**|
 |**2024-12-19**|**Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification**|Zijie Zhou et.al.|[2412.15302v1](http://arxiv.org/abs/2412.15302v1)|**[link](https://github.com/Dodo-D-Caster/Tokenphormer)**|
 |**2024-12-19**|**Graph-neural-network predictions of solid-state NMR parameters from spherical tensor decomposition**|Chiheb Ben Mahmoud et.al.|[2412.15063v1](http://arxiv.org/abs/2412.15063v1)|null|
@@ -7175,7 +7175,7 @@
 |**2024-11-12**|**Quantum Information-Empowered Graph Neural Network for Hyperspectral Change Detection**|Chia-Hsiang Lin et.al.|[2411.07608v1](http://arxiv.org/abs/2411.07608v1)|null|
 |**2024-11-12**|**Enhancing Link Prediction with Fuzzy Graph Attention Networks and Dynamic Negative Sampling**|Jinming Xing et.al.|[2411.07482v1](http://arxiv.org/abs/2411.07482v1)|null|
 |**2024-11-12**|**Machines and Mathematical Mutations: Using GNNs to Characterize Quiver Mutation Classes**|Jesse He et.al.|[2411.07467v1](http://arxiv.org/abs/2411.07467v1)|null|
-|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207v1](http://arxiv.org/abs/2411.07207v1)|null|
+|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207v1](http://arxiv.org/abs/2411.07207v1)|**[link](https://github.com/google-research/population-dynamics)**|
 |**2024-11-11**|**Efficient Unsupervised Domain Adaptation Regression for Spatial-Temporal Air Quality Sensor Fusion**|Keivan Faghih Niresi et.al.|[2411.06917v1](http://arxiv.org/abs/2411.06917v1)|null|
 |**2024-11-11**|**Predicting ionic conductivity in solids from the machine-learned potential energy landscape**|Artem Maevskiy et.al.|[2411.06804v1](http://arxiv.org/abs/2411.06804v1)|**[link](https://github.com/SiLiKhon/pes_fingerprint)**|
 |**2024-11-11**|**Shedding Light on Problems with Hyperbolic Graph Learning**|Isay Katsman et.al.|[2411.06688v1](http://arxiv.org/abs/2411.06688v1)|null|
@@ -7518,7 +7518,7 @@
 |**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717v1](http://arxiv.org/abs/2408.16717v1)|null|
 |**2024-08-29**|**SympGNNs: Symplectic Graph Neural Networks for identifiying high-dimensional Hamiltonian systems and node classification**|Alan John Varghese et.al.|[2408.16698v1](http://arxiv.org/abs/2408.16698v1)|null|
 |**2024-09-01**|**SFR-GNN: Simple and Fast Robust GNNs against Structural Attacks**|Xing Ai et.al.|[2408.16537v2](http://arxiv.org/abs/2408.16537v2)|null|
-|**2024-08-29**|**TempoKGAT: A Novel Graph Attention Network Approach for Temporal Graph Analysis**|Lena Sasal et.al.|[2408.16391v1](http://arxiv.org/abs/2408.16391v1)|null|
+|**2024-08-29**|**TempoKGAT: A Novel Graph Attention Network Approach for Temporal Graph Analysis**|Lena Sasal et.al.|[2408.16391v1](http://arxiv.org/abs/2408.16391v1)|**[link](https://github.com/capwidow/tempokgatcode)**|
 |**2024-08-29**|**TG-PhyNN: An Enhanced Physically-Aware Graph Neural Network framework for forecasting Spatio-Temporal Data**|Zakaria Elabid et.al.|[2408.16379v1](http://arxiv.org/abs/2408.16379v1)|null|
 |**2024-08-29**|**Do Graph Neural Networks Work for High Entropy Alloys?**|Hengrui Zhang et.al.|[2408.16337v1](http://arxiv.org/abs/2408.16337v1)|**[link](https://github.com/Henrium/LESets)**|
 |**2024-08-29**|**OpenFGL: A Comprehensive Benchmarks for Federated Graph Learning**|Xunkai Li et.al.|[2408.16288v1](http://arxiv.org/abs/2408.16288v1)|**[link](https://github.com/xkli-allen/openfgl)**|
@@ -7689,7 +7689,7 @@
 |**2024-07-25**|**Personalized and Context-aware Route Planning for Edge-assisted Vehicles**|Dinesh Cyril Selvaraj et.al.|[2407.17980v1](http://arxiv.org/abs/2407.17980v1)|null|
 |**2024-07-25**|**Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network**|Sukwon Yun et.al.|[2407.17857v1](http://arxiv.org/abs/2407.17857v1)|**[link](https://github.com/unites-lab/mew)**|
 |**2024-07-25**|**Your Graph Recommender is Provably a Single-view Graph Contrastive Learning**|Wenjie Yang et.al.|[2407.17723v1](http://arxiv.org/abs/2407.17723v1)|null|
-|**2024-07-25**|**Context-aware knowledge graph framework for traffic speed forecasting using graph neural network**|Yatao Zhang et.al.|[2407.17703v1](http://arxiv.org/abs/2407.17703v1)|null|
+|**2024-07-25**|**Context-aware knowledge graph framework for traffic speed forecasting using graph neural network**|Yatao Zhang et.al.|[2407.17703v1](http://arxiv.org/abs/2407.17703v1)|**[link](https://github.com/mie-lab/ckg-traffic-forecasting)**|
 |**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396v1](http://arxiv.org/abs/2407.17396v1)|**[link](https://github.com/erg0dic/gnn-sg)**|
 |**2024-07-24**|**Global and Local Confidence Based Fraud Detection Graph Neural Network**|Jiaxun Liu et.al.|[2407.17333v1](http://arxiv.org/abs/2407.17333v1)|null|
 |**2024-07-24**|**Graph Neural Networks: A suitable Alternative to MLPs in Latent 3D Medical Image Classification?**|Johannes Kiechle et.al.|[2407.17219v1](http://arxiv.org/abs/2407.17219v1)|**[link](https://github.com/compai-lab/2024-miccai-grail-kiechle)**|
