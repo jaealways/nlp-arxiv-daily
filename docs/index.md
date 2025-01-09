@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Evaluating Interval-based Tokenization for Pitch Representation in Symbolic Music Analysis**|Dinh-Viet-Toan Le et.al.|[2501.04630v1](http://arxiv.org/abs/2501.04630v1)|null|
 |**2025-01-07**|**From Newswire to Nexus: Using text-based actor embeddings and transformer networks to forecast conflict dynamics**|Mihai Croicu et.al.|[2501.03928v1](http://arxiv.org/abs/2501.03928v1)|null|
 |**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904v1](http://arxiv.org/abs/2501.03904v1)|null|
 |**2025-01-07**|**Progressive Document-level Text Simplification via Large Language Models**|Dengzhao Fang et.al.|[2501.03857v1](http://arxiv.org/abs/2501.03857v1)|null|
@@ -1996,6 +1997,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Exploring the Expertise of Large Language Models in Materials Science and Metallurgical Engineering**|Christophe Bajan et.al.|[2501.04277v1](http://arxiv.org/abs/2501.04277v1)|null|
 |**2025-01-07**|**From Code to Compliance: Assessing ChatGPT's Utility in Designing an Accessible Webpage -- A Case Study**|Ammar Ahmed et.al.|[2501.03572v1](http://arxiv.org/abs/2501.03572v1)|null|
 |**2025-01-07**|**A Sequential Optimal Learning Approach to Automated Prompt Engineering in Large Language Models**|Shuyang Wang et.al.|[2501.03508v1](http://arxiv.org/abs/2501.03508v1)|null|
 |**2025-01-04**|**Can ChatGPT implement finite element models for geotechnical engineering applications?**|Taegu Kim et.al.|[2501.02199v1](http://arxiv.org/abs/2501.02199v1)|null|
@@ -2609,6 +2611,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675v1](http://arxiv.org/abs/2501.04675v1)|null|
+|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635v1](http://arxiv.org/abs/2501.04635v1)|null|
+|**2025-01-08**|**Supervision-free Vision-Language Alignment**|Giorgio Giannone et.al.|[2501.04568v1](http://arxiv.org/abs/2501.04568v1)|null|
+|**2025-01-08**|**TimelineKGQA: A Comprehensive Question-Answer Pair Generator for Temporal Knowledge Graphs**|Qiang Sun et.al.|[2501.04343v1](http://arxiv.org/abs/2501.04343v1)|**[link](https://github.com/PascalSun/TimelineKGQA)**|
+|**2025-01-08**|**Exploring the Expertise of Large Language Models in Materials Science and Metallurgical Engineering**|Christophe Bajan et.al.|[2501.04277v1](http://arxiv.org/abs/2501.04277v1)|null|
+|**2025-01-08**|**Statistical Uncertainty Quantification for Aggregate Performance Metrics in Machine Learning Benchmarks**|Rachel Longjohn et.al.|[2501.04234v1](http://arxiv.org/abs/2501.04234v1)|null|
+|**2025-01-07**|**Multimodal Multihop Source Retrieval for Web Question Answering**|Navya Yarrabelly et.al.|[2501.04173v1](http://arxiv.org/abs/2501.04173v1)|null|
+|**2025-01-07**|**Multilingual Open QA on the MIA Shared Task**|Navya Yarrabelly et.al.|[2501.04153v1](http://arxiv.org/abs/2501.04153v1)|null|
 |**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003v1](http://arxiv.org/abs/2501.04003v1)|null|
 |**2025-01-07**|**Localizing AI: Evaluating Open-Weight Language Models for Languages of Baltic States**|Jurgita Kapočiūtė-Dzikienė et.al.|[2501.03952v1](http://arxiv.org/abs/2501.03952v1)|null|
 |**2025-01-07**|**Visual question answering: from early developments to recent advances -- a survey**|Ngoc Dung Huynh et.al.|[2501.03939v1](http://arxiv.org/abs/2501.03939v1)|null|
@@ -4394,6 +4404,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**|Ivan Kankeu et.al.|[2501.04591v1](http://arxiv.org/abs/2501.04591v1)|null|
 |**2025-01-06**|**BoundingDocs: a Unified Dataset for Document Question Answering with Spatial Annotations**|Simone Giovannini et.al.|[2501.03403v1](http://arxiv.org/abs/2501.03403v1)|null|
 |**2025-01-05**|**An Analysis Framework for Understanding Deep Neural Networks Based on Network Dynamics**|Yuchen Lin et.al.|[2501.02436v1](http://arxiv.org/abs/2501.02436v1)|null|
 |**2025-01-02**|**Leveraging Full Dependency Parsing Graph Information For Biomedical Event Extraction**|Farshad Noravesh et.al.|[2501.01158v1](http://arxiv.org/abs/2501.01158v1)|null|
@@ -4926,9 +4937,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**A Closer Look on Gender Stereotypes in Movie Recommender Systems and Their Implications with Privacy**|Falguni Roy et.al.|[2501.04420v1](http://arxiv.org/abs/2501.04420v1)|**[link](https://github.com/fr-iit/gsmrs)**|
+|**2025-01-08**|**An innovative data collection method to eliminate the preprocessing phase in web usage mining**|Ozkan Canay et.al.|[2501.04364v1](http://arxiv.org/abs/2501.04364v1)|null|
+|**2025-01-07**|**KGIF: Optimizing Relation-Aware Recommendations with Knowledge Graph Information Fusion**|Dong Hyun Jeon et.al.|[2501.04161v1](http://arxiv.org/abs/2501.04161v1)|null|
 |**2025-01-07**|**Multi-label Cross-lingual automatic music genre classification from lyrics with Sentence BERT**|Tiago Fernandes Tavares et.al.|[2501.03769v1](http://arxiv.org/abs/2501.03769v1)|null|
 |**2025-01-07**|**RecKG: Knowledge Graph for Recommender Systems**|Junhyuk Kwon et.al.|[2501.03598v1](http://arxiv.org/abs/2501.03598v1)|**[link](https://github.com/tree-jhk/reckg)**|
-|**2025-01-06**|**Rethinking Byzantine Robustness in Federated Recommendation from Sparse Aggregation Perspective**|Zhongjian Zhang et.al.|[2501.03301v1](http://arxiv.org/abs/2501.03301v1)|null|
+|**2025-01-08**|**Rethinking Byzantine Robustness in Federated Recommendation from Sparse Aggregation Perspective**|Zhongjian Zhang et.al.|[2501.03301v2](http://arxiv.org/abs/2501.03301v2)|null|
 |**2025-01-06**|**Forward Once for All: Structural Parameterized Adaptation for Efficient Cloud-coordinated On-device Recommendation**|Kairui Fu et.al.|[2501.02837v1](http://arxiv.org/abs/2501.02837v1)|null|
 |**2025-01-06**|**Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data**|Yahe Yang et.al.|[2501.02727v1](http://arxiv.org/abs/2501.02727v1)|null|
 |**2025-01-05**|**Quantum Cognition-Inspired EEG-based Recommendation via Graph Neural Networks**|Jinkun Han et.al.|[2501.02671v1](http://arxiv.org/abs/2501.02671v1)|null|
@@ -6134,6 +6148,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**A Semantic Partitioning Method for Large-Scale Training of Knowledge Graph Embeddings**|Yuhe Bai et.al.|[2501.04613v1](http://arxiv.org/abs/2501.04613v1)|**[link](https://github.com/yuhebai/sem-kge)**|
+|**2025-01-08**|**TimelineKGQA: A Comprehensive Question-Answer Pair Generator for Temporal Knowledge Graphs**|Qiang Sun et.al.|[2501.04343v1](http://arxiv.org/abs/2501.04343v1)|**[link](https://github.com/PascalSun/TimelineKGQA)**|
+|**2025-01-07**|**KGIF: Optimizing Relation-Aware Recommendations with Knowledge Graph Information Fusion**|Dong Hyun Jeon et.al.|[2501.04161v1](http://arxiv.org/abs/2501.04161v1)|null|
 |**2025-01-07**|**RecKG: Knowledge Graph for Recommender Systems**|Junhyuk Kwon et.al.|[2501.03598v1](http://arxiv.org/abs/2501.03598v1)|**[link](https://github.com/tree-jhk/reckg)**|
 |**2025-01-07**|**Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities**|Benedikt Reitemeyer et.al.|[2501.03566v1](http://arxiv.org/abs/2501.03566v1)|null|
 |**2025-01-07**|**KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs**|Zelin Zhou et.al.|[2501.03560v1](http://arxiv.org/abs/2501.03560v1)|null|
@@ -7132,13 +7149,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Large-Scale Spectral Graph Neural Networks via Laplacian Sparsification: Technical Report**|Haipeng Ding et.al.|[2501.04570v1](http://arxiv.org/abs/2501.04570v1)|null|
+|**2025-01-08**|**Dynamic Localisation of Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2501.04239v1](http://arxiv.org/abs/2501.04239v1)|null|
 |**2025-01-07**|**GraphNeT 2.0 -- A Deep Learning Library for Neutrino Telescopes**|Rasmus F. Ørsøe et.al.|[2501.03817v1](http://arxiv.org/abs/2501.03817v1)|null|
 |**2025-01-07**|**Image Segmentation: Inducing graph-based learning**|Aryan Singh et.al.|[2501.03765v1](http://arxiv.org/abs/2501.03765v1)|**[link](https://github.com/aryan-at-ul/electronic-imaging-2025-paper-4492)**|
 |**2025-01-07**|**Exploring Molecule Generation Using Latent Space Graph Diffusion**|Prashanth Pombala et.al.|[2501.03696v1](http://arxiv.org/abs/2501.03696v1)|**[link](https://github.com/prashanth-pombala/molecule-generation-using-latent-space-graph-diffusion)**|
 |**2025-01-07**|**MHGNet: Multi-Heterogeneous Graph Neural Network for Traffic Prediction**|Mei Wu et.al.|[2501.03635v1](http://arxiv.org/abs/2501.03635v1)|**[link](https://github.com/meiwu5/mhgnet)**|
 |**2025-01-07**|**Deep Learning for Pathological Speech: A Survey**|Shakeel A. Sheikh et.al.|[2501.03536v1](http://arxiv.org/abs/2501.03536v1)|null|
 |**2025-01-07**|**LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging**|Shubhr Singh et.al.|[2501.03464v1](http://arxiv.org/abs/2501.03464v1)|null|
-|**2025-01-06**|**Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection**|Donatella Genovese et.al.|[2501.03432v1](http://arxiv.org/abs/2501.03432v1)|null|
+|**2025-01-08**|**Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection**|Donatella Genovese et.al.|[2501.03432v2](http://arxiv.org/abs/2501.03432v2)|null|
 |**2025-01-07**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228v2](http://arxiv.org/abs/2501.03228v2)|null|
 |**2025-01-06**|**Balancing Efficiency and Expressiveness: Subgraph GNNs with Walk-Based Centrality**|Joshua Southern et.al.|[2501.03113v1](http://arxiv.org/abs/2501.03113v1)|null|
 |**2025-01-07**|**CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks**|Atmane Ayoub Mansour Bahar et.al.|[2501.02981v2](http://arxiv.org/abs/2501.02981v2)|null|
