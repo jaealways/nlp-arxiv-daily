@@ -22,6 +22,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278v1](http://arxiv.org/abs/2501.07278v1)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
+|**2025-01-13**|**Breaking Memory Limits: Gradient Wavelet Transform Enhances LLMs Training**|Ziqing Wen et.al.|[2501.07237v1](http://arxiv.org/abs/2501.07237v1)|**[link](https://github.com/zqouo/gwt)**|
+|**2025-01-13**|**Beyond the Surface: An NLP-based Methodology to Automatically Estimate CVE Relevance for CAPEC Attack Patterns**|Silvia Bonomi et.al.|[2501.07131v1](http://arxiv.org/abs/2501.07131v1)|null|
+|**2025-01-13**|**The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering**|Anupam Pandey et.al.|[2501.07109v1](http://arxiv.org/abs/2501.07109v1)|null|
+|**2025-01-13**|**A Weighted Similarity Metric for Community Detection in Sparse Data**|Yong Zhang et.al.|[2501.07025v1](http://arxiv.org/abs/2501.07025v1)|**[link](https://github.com/zhy5186612/Weighted_Similarity_Without_Imputation)**|
+|**2025-01-13**|**ViSoLex: An Open-Source Repository for Vietnamese Social Media Lexical Normalization**|Anh Thi-Hoang Nguyen et.al.|[2501.07020v1](http://arxiv.org/abs/2501.07020v1)|**[link](https://github.com/hadung2002/visolex)**|
+|**2025-01-12**|**Leveraging the Global Research Infrastructure to Characterize the Impact of National Science Foundation Research**|Jamaica Jones et.al.|[2501.06843v1](http://arxiv.org/abs/2501.06843v1)|null|
+|**2025-01-11**|**Natural Language Processing and Deep Learning Models to Classify Phase of Flight in Aviation Safety Occurrences**|Aziida Nanyonga et.al.|[2501.06564v1](http://arxiv.org/abs/2501.06564v1)|null|
+|**2025-01-11**|**A Survey on Spoken Italian Datasets and Corpora**|Marco Giordano et.al.|[2501.06557v1](http://arxiv.org/abs/2501.06557v1)|null|
+|**2025-01-11**|**Sequential Classification of Aviation Safety Occurrences with Natural Language Processing**|Aziida Nanyonga et.al.|[2501.06490v1](http://arxiv.org/abs/2501.06490v1)|null|
 |**2025-01-10**|**Benchmarking Rotary Position Embeddings for Automatic Speech Recognition**|Shucong Zhang et.al.|[2501.06051v1](http://arxiv.org/abs/2501.06051v1)|null|
 |**2025-01-10**|**Astrophysical Narratives: Poetic Representations of Gamma-Ray Emission from FermiLAT via Markov Chains**|Carlos Darío Badilla Cerdas et.al.|[2501.05692v1](http://arxiv.org/abs/2501.05692v1)|null|
 |**2025-01-08**|**S2 Chunking: A Hybrid Framework for Document Segmentation Through Integrated Spatial and Semantic Analysis**|Prashant Verma et.al.|[2501.05485v1](http://arxiv.org/abs/2501.05485v1)|null|
@@ -2006,6 +2016,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection**|Xin Yin et.al.|[2501.07425v1](http://arxiv.org/abs/2501.07425v1)|null|
+|**2025-01-13**|**Initial Findings on Sensor based Open Vocabulary Activity Recognition via Text Embedding Inversion**|Lala Shakti Swarup Ray et.al.|[2501.07408v1](http://arxiv.org/abs/2501.07408v1)|null|
+|**2025-01-13**|**GestLLM: Advanced Hand Gesture Interpretation via Large Language Models for Human-Robot Interaction**|Oleg Kobzarev et.al.|[2501.07295v1](http://arxiv.org/abs/2501.07295v1)|null|
+|**2025-01-13**|**Duplex: Dual Prototype Learning for Compositional Zero-Shot Learning**|Zhong Peng et.al.|[2501.07114v1](http://arxiv.org/abs/2501.07114v1)|null|
+|**2025-01-12**|**A Comprehensive Evaluation of Large Language Models on Mental Illnesses in Arabic Context**|Noureldin Zahran et.al.|[2501.06859v1](http://arxiv.org/abs/2501.06859v1)|null|
+|**2025-01-12**|**TAPO: Task-Referenced Adaptation for Prompt Optimization**|Wenxin Luo et.al.|[2501.06689v1](http://arxiv.org/abs/2501.06689v1)|**[link](https://github.com/applied-machine-learning-lab/tapo)**|
 |**2025-01-10**|**Prompt engineering and its implications on the energy consumption of Large Language Models**|Riccardo Rubei et.al.|[2501.05899v1](http://arxiv.org/abs/2501.05899v1)|null|
 |**2025-01-09**|**Harnessing Large Language Model for Virtual Reality Exploration Testing: A Case Study**|Zhenyu Qi et.al.|[2501.05625v1](http://arxiv.org/abs/2501.05625v1)|null|
 |**2025-01-09**|**CallNavi: A Study and Challenge on Function Calling Routing and Invocation in Large Language Models**|Yewei Song et.al.|[2501.05255v1](http://arxiv.org/abs/2501.05255v1)|null|
@@ -2625,6 +2641,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**WebWalker: Benchmarking LLMs in Web Traversal**|Jialong Wu et.al.|[2501.07572v1](http://arxiv.org/abs/2501.07572v1)|**[link](https://github.com/alibaba-nlp/webwalker)**|
+|**2025-01-13**|**Parallel Key-Value Cache Fusion for Position Invariant RAG**|Philhoon Oh et.al.|[2501.07523v1](http://arxiv.org/abs/2501.07523v1)|null|
+|**2025-01-13**|**TiEBe: A Benchmark for Assessing the Current Knowledge of Large Language Models**|Thales Sales Almeida et.al.|[2501.07482v1](http://arxiv.org/abs/2501.07482v1)|null|
+|**2025-01-13**|**MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning**|Tieyuan Chen et.al.|[2501.07227v1](http://arxiv.org/abs/2501.07227v1)|null|
+|**2025-01-13**|**TimeLogic: A Temporal Logic Benchmark for Video QA**|Sirnam Swetha et.al.|[2501.07214v1](http://arxiv.org/abs/2501.07214v1)|null|
+|**2025-01-13**|**The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering**|Anupam Pandey et.al.|[2501.07109v1](http://arxiv.org/abs/2501.07109v1)|null|
+|**2025-01-13**|**ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training**|Jiayang Wu et.al.|[2501.07078v1](http://arxiv.org/abs/2501.07078v1)|**[link](https://github.com/csjywu1/adkgd)**|
+|**2025-01-12**|**Language Fusion for Parameter-Efficient Cross-lingual Transfer**|Philipp Borchert et.al.|[2501.06892v1](http://arxiv.org/abs/2501.06892v1)|null|
+|**2025-01-12**|**GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing**|Ruizhe Ou et.al.|[2501.06828v1](http://arxiv.org/abs/2501.06828v1)|null|
+|**2025-01-11**|**Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**|Yinghao Hu et.al.|[2501.06521v1](http://arxiv.org/abs/2501.06521v1)|**[link](https://github.com/yinghaohu/legalhalbench)**|
 |**2025-01-10**|**PEACE: Empowering Geologic Map Holistic Understanding with MLLMs**|Yangyu Huang et.al.|[2501.06184v1](http://arxiv.org/abs/2501.06184v1)|null|
 |**2025-01-10**|**Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding**|Fabian David Schmidt et.al.|[2501.06117v1](http://arxiv.org/abs/2501.06117v1)|null|
 |**2025-01-10**|**How to Tune a Multilingual Encoder Model for Germanic Languages: A Study of PEFT, Full Fine-Tuning, and Language Adapters**|Romina Oji et.al.|[2501.06025v1](http://arxiv.org/abs/2501.06025v1)|**[link](https://github.com/rominaoji/german-language-adapter)**|
@@ -4429,6 +4455,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model**|Ziyang Ma et.al.|[2501.07246v1](http://arxiv.org/abs/2501.07246v1)|null|
+|**2025-01-13**|**Dynamic Multimodal Fusion via Meta-Learning Towards Micro-Video Recommendation**|Han Liu et.al.|[2501.07110v1](http://arxiv.org/abs/2501.07110v1)|**[link](https://github.com/hanliu95/metammf)**|
+|**2025-01-08**|**Towards a scalable AI-driven framework for data-independent Cyber Threat Intelligence Information Extraction**|Olga Sorokoletova et.al.|[2501.06239v1](http://arxiv.org/abs/2501.06239v1)|null|
 |**2025-01-10**|**PEACE: Empowering Geologic Map Holistic Understanding with MLLMs**|Yangyu Huang et.al.|[2501.06184v1](http://arxiv.org/abs/2501.06184v1)|null|
 |**2025-01-10**|**Swin-X2S: Reconstructing 3D Shape from 2D Biplanar X-ray with Swin Transformers**|Kuan Liu et.al.|[2501.05961v1](http://arxiv.org/abs/2501.05961v1)|null|
 |**2025-01-09**|**Deep Learning-based Code Completion: On the Impact on Performance of Contextual Information**|Matteo Ciniselli et.al.|[2501.05062v1](http://arxiv.org/abs/2501.05062v1)|null|
@@ -4965,6 +4994,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Foundation Models at Work: Fine-Tuning for Fairness in Algorithmic Hiring**|Buse Sibel Korkmaz et.al.|[2501.07324v1](http://arxiv.org/abs/2501.07324v1)|**[link](https://github.com/buseskorkmaz/fms-at-work)**|
+|**2025-01-13**|**Dataset-Agnostic Recommender Systems**|Tri Kurniawan Wijaya et.al.|[2501.07294v1](http://arxiv.org/abs/2501.07294v1)|null|
+|**2025-01-13**|**Future-Conditioned Recommendations with Multi-Objective Controllable Decision Transformer**|Chongming Gao et.al.|[2501.07212v1](http://arxiv.org/abs/2501.07212v1)|null|
+|**2025-01-13**|**Intent-Interest Disentanglement and Item-Aware Intent Contrastive Learning for Sequential Recommendation**|Yijin Choi et.al.|[2501.07096v1](http://arxiv.org/abs/2501.07096v1)|null|
+|**2025-01-13**|**ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training**|Jiayang Wu et.al.|[2501.07078v1](http://arxiv.org/abs/2501.07078v1)|**[link](https://github.com/csjywu1/adkgd)**|
+|**2025-01-13**|**Graph Contrastive Learning on Multi-label Classification for Recommendations**|Jiayang Wu et.al.|[2501.06985v1](http://arxiv.org/abs/2501.06985v1)|null|
+|**2025-01-12**|**On the effect of the average clustering coefficient on topology-based link prediction in featureless graphs**|Mehrdad Rafiepour et.al.|[2501.06721v1](http://arxiv.org/abs/2501.06721v1)|null|
+|**2025-01-11**|**MedCT: A Clinical Terminology Graph for Generative AI Applications in Healthcare**|Ye Chen et.al.|[2501.06465v1](http://arxiv.org/abs/2501.06465v1)|null|
 |**2025-01-10**|**kANNolo: Sweet and Smooth Approximate k-Nearest Neighbors Search**|Leonardo Delfino et.al.|[2501.06121v1](http://arxiv.org/abs/2501.06121v1)|**[link](https://github.com/tuskanny/kannolo)**|
 |**2025-01-10**|**Recommender Systems for Social Good: The Role of Accountability and Sustainability**|Alan Said et.al.|[2501.05964v1](http://arxiv.org/abs/2501.05964v1)|null|
 |**2025-01-10**|**Text2Playlist: Generating Personalized Playlists from Text on Deezer**|Mathieu Delcluze et.al.|[2501.05894v1](http://arxiv.org/abs/2501.05894v1)|**[link](https://github.com/deezer/text2playlist-ecir2025)**|
@@ -6184,6 +6221,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**An ontology-based description of nano computed tomography measurements in electronic laboratory notebooks: from metadata schema to first user experience**|Fabian Kirchner et.al.|[2501.07398v1](http://arxiv.org/abs/2501.07398v1)|null|
+|**2025-01-13**|**ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training**|Jiayang Wu et.al.|[2501.07078v1](http://arxiv.org/abs/2501.07078v1)|**[link](https://github.com/csjywu1/adkgd)**|
+|**2025-01-12**|**Causal Claims in Economics**|Prashant Garg et.al.|[2501.06873v1](http://arxiv.org/abs/2501.06873v1)|null|
+|**2025-01-12**|**Large Language Models, Knowledge Graphs and Search Engines: A Crossroads for Answering Users' Questions**|Aidan Hogan et.al.|[2501.06699v1](http://arxiv.org/abs/2501.06699v1)|null|
+|**2025-01-11**|**Quantifying Relational Exploration in Cultural Heritage Knowledge Graphs with LLMs: A Neuro-Symbolic Approach**|Mohammed Maree et.al.|[2501.06628v1](http://arxiv.org/abs/2501.06628v1)|null|
+|**2025-01-11**|**MedCT: A Clinical Terminology Graph for Generative AI Applications in Healthcare**|Ye Chen et.al.|[2501.06465v1](http://arxiv.org/abs/2501.06465v1)|null|
 |**2025-01-10**|**Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products**|Van Thuy Hoang et.al.|[2501.05768v1](http://arxiv.org/abs/2501.05768v1)|**[link](https://github.com/nslab-cuk/halal-or-not)**|
 |**2025-01-08**|**A Semantic Partitioning Method for Large-Scale Training of Knowledge Graph Embeddings**|Yuhe Bai et.al.|[2501.04613v1](http://arxiv.org/abs/2501.04613v1)|**[link](https://github.com/yuhebai/sem-kge)**|
 |**2025-01-08**|**TimelineKGQA: A Comprehensive Question-Answer Pair Generator for Temporal Knowledge Graphs**|Qiang Sun et.al.|[2501.04343v1](http://arxiv.org/abs/2501.04343v1)|**[link](https://github.com/PascalSun/TimelineKGQA)**|
@@ -7186,6 +7229,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Advancing Higgsino Searches by Integrating ML for Boosted Object Tagging and Event Selection**|Rameswar Sahu et.al.|[2501.07491v1](http://arxiv.org/abs/2501.07491v1)|null|
+|**2025-01-13**|**Dynami-CAL GraphNet: A Physics-Informed Graph Neural Network Conserving Linear and Angular Momentum for Dynamical Systems**|Vinay Sharma et.al.|[2501.07373v1](http://arxiv.org/abs/2501.07373v1)|null|
+|**2025-01-13**|**Generalizable Graph Neural Networks for Robust Power Grid Topology Control**|Matthijs de Jong et.al.|[2501.07186v1](http://arxiv.org/abs/2501.07186v1)|null|
+|**2025-01-13**|**Duplex: Dual Prototype Learning for Compositional Zero-Shot Learning**|Zhong Peng et.al.|[2501.07114v1](http://arxiv.org/abs/2501.07114v1)|null|
+|**2025-01-13**|**Graph Contrastive Learning on Multi-label Classification for Recommendations**|Jiayang Wu et.al.|[2501.06985v1](http://arxiv.org/abs/2501.06985v1)|null|
+|**2025-01-11**|**Dual-Modality Representation Learning for Molecular Property Prediction**|Anyin Zhao et.al.|[2501.06608v1](http://arxiv.org/abs/2501.06608v1)|null|
+|**2025-01-11**|**On the Computational Capability of Graph Neural Networks: A Circuit Complexity Bound Perspective**|Xiaoyu Li et.al.|[2501.06444v1](http://arxiv.org/abs/2501.06444v1)|null|
 |**2025-01-10**|**Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials**|Jonah Marks et.al.|[2501.06159v1](http://arxiv.org/abs/2501.06159v1)|null|
 |**2025-01-10**|**DeltaGNN: Graph Neural Network with Information Flow Control**|Kevin Mancini et.al.|[2501.06002v1](http://arxiv.org/abs/2501.06002v1)|**[link](https://github.com/basiralab/deltagnn)**|
 |**2025-01-10**|**Annealing Machine-assisted Learning of Graph Neural Network for Combinatorial Optimization**|Pablo Loyola et.al.|[2501.05845v1](http://arxiv.org/abs/2501.05845v1)|null|
