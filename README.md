@@ -2067,7 +2067,7 @@
 |**2025-01-23**|**Dual-Modal Prototype Joint Learning for Compositional Zero-Shot Learning**|Shiyu Zhang et.al.|[2501.13859v1](http://arxiv.org/abs/2501.13859v1)|null|
 |**2025-01-23**|**Auto-Prompting SAM for Weakly Supervised Landslide Extraction**|Jian Wang et.al.|[2501.13426v1](http://arxiv.org/abs/2501.13426v1)|null|
 |**2025-01-22**|**Exploring GPT's Ability as a Judge in Music Understanding**|Kun Fang et.al.|[2501.13261v1](http://arxiv.org/abs/2501.13261v1)|**[link](https://github.com/kunfang98927/gpt-eval-mir)**|
-|**2025-01-20**|**MyGO Multiplex CoT: A Method for Self-Reflection in Large Language Models via Double Chain of Thought Thinking**|Shihao Ji et.al.|[2501.13117v1](http://arxiv.org/abs/2501.13117v1)|null|
+|**2025-01-20**|**MyGO Multiplex CoT: A Method for Self-Reflection in Large Language Models via Double Chain of Thought Thinking**|Shihao Ji et.al.|[2501.13117v1](http://arxiv.org/abs/2501.13117v1)|**[link](https://github.com/data-dream-gdsp/Multiplex-CoT)**|
 |**2025-01-22**|**PreciseCam: Precise Camera Control for Text-to-Image Generation**|Edurne Bernal-Berdun et.al.|[2501.12910v1](http://arxiv.org/abs/2501.12910v1)|null|
 |**2025-01-21**|**Network-informed Prompt Engineering against Organized Astroturf Campaigns under Extreme Class Imbalance**|Nikos Kanakaris et.al.|[2501.11849v1](http://arxiv.org/abs/2501.11849v1)|**[link](https://github.com/nkanak/brag-fake-news-campaigns)**|
 |**2025-01-20**|**Conversation Routines: A Prompt Engineering Framework for Task-Oriented Dialog Systems**|Giorgio Robino et.al.|[2501.11613v1](http://arxiv.org/abs/2501.11613v1)|null|
