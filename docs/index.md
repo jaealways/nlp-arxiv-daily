@@ -2132,7 +2132,7 @@ layout: default
 |**2025-02-05**|**Knowledge Distillation from Large Language Models for Household Energy Modeling**|Mohannad Takrouri et.al.|[2502.03034v1](http://arxiv.org/abs/2502.03034v1)|null|
 |**2025-02-05**|**FACTER: Fairness-Aware Conformal Thresholding and Prompt Engineering for Enabling Fair LLM-Based Recommender Systems**|Arya Fayyazi et.al.|[2502.02966v1](http://arxiv.org/abs/2502.02966v1)|null|
 |**2025-02-04**|**Using ChatGPT to refine draft conceptual schemata in supply-driven design of multidimensional cubes**|Stefano Rizzi et.al.|[2502.02238v1](http://arxiv.org/abs/2502.02238v1)|null|
-|**2025-02-03**|**LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease**|Muhammad Zain Raza et.al.|[2502.01620v1](http://arxiv.org/abs/2502.01620v1)|null|
+|**2025-02-03**|**LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease**|Muhammad Zain Raza et.al.|[2502.01620v1](http://arxiv.org/abs/2502.01620v1)|**[link](https://github.com/jiaweixu98/llm-ta)**|
 |**2025-02-01**|**Social media polarization during conflict: Insights from an ideological stance dataset on Israel-Palestine Reddit comments**|Hasin Jawad Ali et.al.|[2502.00414v1](http://arxiv.org/abs/2502.00414v1)|null|
 |**2025-01-31**|**Analyzing Classroom Interaction Data Using Prompt Engineering and Network Analysis**|Gwanghee Kim et.al.|[2501.18912v1](http://arxiv.org/abs/2501.18912v1)|null|
 |**2025-01-31**|**Streamlining Security Vulnerability Triage with Large Language Models**|Mohammad Jalili Torkamani et.al.|[2501.18908v1](http://arxiv.org/abs/2501.18908v1)|null|
@@ -4713,7 +4713,7 @@ layout: default
 |**2025-01-28**|**Whispers of Sound-Enhancing Information Extraction from Depression Patients' Unstructured Data through Audio and Text Emotion Recognition and Llama Fine-tuning**|Lindy Gan et.al.|[2501.16813v1](http://arxiv.org/abs/2501.16813v1)|null|
 |**2025-01-27**|**3CEL: A corpus of legal Spanish contract clauses**|Nuria Aldama García et.al.|[2501.15990v1](http://arxiv.org/abs/2501.15990v1)|null|
 |**2025-01-26**|**Exponential Improvement on Asian Option Pricing Through Quantum Preconditioning Methods**|Gumaro Rendon et.al.|[2501.15614v1](http://arxiv.org/abs/2501.15614v1)|null|
-|**2025-01-25**|**Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models**|Hulingxiao He et.al.|[2501.15140v1](http://arxiv.org/abs/2501.15140v1)|null|
+|**2025-01-25**|**Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models**|Hulingxiao He et.al.|[2501.15140v1](http://arxiv.org/abs/2501.15140v1)|**[link](https://github.com/pku-icst-mipl/finedefics_iclr2025)**|
 |**2025-01-24**|**Human Activity Recognition with a 6.5 GHz Reconfigurable Intelligent Surface for Wi-Fi 6E**|Nuno Paulino et.al.|[2501.14423v1](http://arxiv.org/abs/2501.14423v1)|null|
 |**2025-01-24**|**High-Precision Fabric Defect Detection via Adaptive Shape Convolutions and Large Kernel Spatial Modeling**|Shuai Wang et.al.|[2501.14190v1](http://arxiv.org/abs/2501.14190v1)|null|
 |**2025-01-23**|**Learning-based A Posteriori Speech Presence Probability Estimation and Applications**|Shuai Tao et.al.|[2501.13642v1](http://arxiv.org/abs/2501.13642v1)|null|
