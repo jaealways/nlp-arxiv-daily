@@ -22,6 +22,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Exploring Advanced Techniques for Visual Question Answering: A Comprehensive Comparison**|Aiswarya Baby et.al.|[2502.14827v1](http://arxiv.org/abs/2502.14827v1)|null|
+|**2025-02-20**|**LoRA-GGPO: Mitigating Double Descent in LoRA Fine-Tuning via Gradient-Guided Perturbation Optimization**|Yupeng Chang et.al.|[2502.14538v1](http://arxiv.org/abs/2502.14538v1)|null|
+|**2025-02-20**|**MLGym: A New Framework and Benchmark for Advancing AI Research Agents**|Deepak Nathani et.al.|[2502.14499v1](http://arxiv.org/abs/2502.14499v1)|null|
+|**2025-02-20**|**Enhancing Portuguese Variety Identification with Cross-Domain Approaches**|Hugo Sousa et.al.|[2502.14394v1](http://arxiv.org/abs/2502.14394v1)|null|
+|**2025-02-20**|**Unveiling Cultural Blind Spots: Analyzing the Limitations of mLLMs in Procedural Text Comprehension**|Amir Hossein Yari et.al.|[2502.14315v1](http://arxiv.org/abs/2502.14315v1)|null|
+|**2025-02-20**|**QUAD-LLM-MLTC: Large Language Models Ensemble Learning for Healthcare Text Multi-Label Classification**|Hajar Sakai et.al.|[2502.14189v1](http://arxiv.org/abs/2502.14189v1)|null|
+|**2025-02-19**|**Benchmarking LLMs for Political Science: A United Nations Perspective**|Yueqing Liang et.al.|[2502.14122v1](http://arxiv.org/abs/2502.14122v1)|null|
+|**2025-02-19**|**Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral**|Shivani Kumar et.al.|[2502.14083v1](http://arxiv.org/abs/2502.14083v1)|null|
 |**2025-02-19**|**Judging the Judges: A Collection of LLM-Generated Relevance Judgements**|Hossein A. Rahmani et.al.|[2502.13908v1](http://arxiv.org/abs/2502.13908v1)|null|
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875v1](http://arxiv.org/abs/2502.13875v1)|null|
 |**2025-02-19**|**ArtMentor: AI-Assisted Evaluation of Artworks to Explore Multimodal Large Language Models Capabilities**|Chanjin Zheng et.al.|[2502.13832v1](http://arxiv.org/abs/2502.13832v1)|null|
@@ -2203,6 +2211,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**From Knowledge Generation to Knowledge Verification: Examining the BioMedical Generative Capabilities of ChatGPT**|Ahmed Abdeen Hamed et.al.|[2502.14714v1](http://arxiv.org/abs/2502.14714v1)|null|
+|**2025-02-20**|**Can LLMs Predict Citation Intent? An Experimental Analysis of In-context Learning and Fine-tuning on Open LLMs**|Paris Koloveas et.al.|[2502.14561v1](http://arxiv.org/abs/2502.14561v1)|null|
+|**2025-02-20**|**Effects of Prompt Length on Domain-specific Tasks for Large Language Models**|Qibang Liu et.al.|[2502.14255v1](http://arxiv.org/abs/2502.14255v1)|null|
+|**2025-02-20**|**QUAD-LLM-MLTC: Large Language Models Ensemble Learning for Healthcare Text Multi-Label Classification**|Hajar Sakai et.al.|[2502.14189v1](http://arxiv.org/abs/2502.14189v1)|null|
+|**2025-02-19**|**UM_FHS at TREC 2024 PLABA: Exploration of Fine-tuning and AI agent approach for plain language adaptations of biomedical text**|Primoz Kocbek et.al.|[2502.14144v1](http://arxiv.org/abs/2502.14144v1)|null|
+|**2025-02-19**|**Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning**|Cole Gawin et.al.|[2502.14086v1](http://arxiv.org/abs/2502.14086v1)|null|
+|**2025-02-19**|**Personalized Education with Generative AI and Digital Twins: VR, RAG, and Zero-Shot Sentiment Analysis for Industry 4.0 Workforce Development**|Yu-Zheng Lin et.al.|[2502.14080v1](http://arxiv.org/abs/2502.14080v1)|null|
 |**2025-02-19**|**RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision**|Guangzhi Xiong et.al.|[2502.13957v1](http://arxiv.org/abs/2502.13957v1)|null|
 |**2025-02-19**|**Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking**|Yanzeng Li et.al.|[2502.13527v1](http://arxiv.org/abs/2502.13527v1)|null|
 |**2025-02-19**|**Prompting a Weighting Mechanism into LLM-as-a-Judge in Two-Step: A Case Study**|Wenwen Xie et.al.|[2502.13396v1](http://arxiv.org/abs/2502.13396v1)|null|
@@ -2896,6 +2911,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Benchmarking Multimodal RAG through a Chart-based Document Question-Answering Generation Framework**|Yuming Yang et.al.|[2502.14864v1](http://arxiv.org/abs/2502.14864v1)|null|
+|**2025-02-20**|**Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps**|Martin Tutek et.al.|[2502.14829v1](http://arxiv.org/abs/2502.14829v1)|null|
+|**2025-02-20**|**Exploring Advanced Techniques for Visual Question Answering: A Comprehensive Comparison**|Aiswarya Baby et.al.|[2502.14827v1](http://arxiv.org/abs/2502.14827v1)|null|
+|**2025-02-20**|**Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration**|Pengxiang Ding et.al.|[2502.14795v1](http://arxiv.org/abs/2502.14795v1)|null|
+|**2025-02-20**|**On the Influence of Context Size and Model Choice in Retrieval-Augmented Generation Systems**|Juraj Vladika et.al.|[2502.14759v1](http://arxiv.org/abs/2502.14759v1)|null|
+|**2025-02-20**|**How to Get Your LLM to Generate Challenging Problems for Evaluation**|Arkil Patel et.al.|[2502.14678v1](http://arxiv.org/abs/2502.14678v1)|null|
+|**2025-02-20**|**How Much Knowledge Can You Pack into a LoRA Adapter without Harming LLM?**|Sergey Pletenev et.al.|[2502.14502v1](http://arxiv.org/abs/2502.14502v1)|null|
+|**2025-02-20**|**Argument-Based Comparative Question Answering Evaluation Benchmark**|Irina Nikishina et.al.|[2502.14476v1](http://arxiv.org/abs/2502.14476v1)|null|
+|**2025-02-20**|**ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**|Zhongyi Zhou et.al.|[2502.14420v1](http://arxiv.org/abs/2502.14420v1)|null|
+|**2025-02-20**|**Triangulating LLM Progress through Benchmarks, Games, and Cognitive Tests**|Filippo Momentè et.al.|[2502.14359v1](http://arxiv.org/abs/2502.14359v1)|null|
 |**2025-02-19**|**MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads**|Weihao Liu et.al.|[2502.13963v1](http://arxiv.org/abs/2502.13963v1)|null|
 |**2025-02-19**|**Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering**|William Jurayj et.al.|[2502.13962v1](http://arxiv.org/abs/2502.13962v1)|null|
 |**2025-02-19**|**DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue**|Feiyuan Zhang et.al.|[2502.13847v1](http://arxiv.org/abs/2502.13847v1)|null|
@@ -4886,13 +4911,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Multi-Record Web Page Information Extraction From News Websites**|Alexander Kustenkov et.al.|[2502.14625v1](http://arxiv.org/abs/2502.14625v1)|null|
 |**2025-02-19**|**Extracting Social Connections from Finnish Karelian Refugee Interviews Using LLMs**|Joonatan Laato et.al.|[2502.13566v1](http://arxiv.org/abs/2502.13566v1)|null|
 |**2025-02-18**|**Label Drop for Multi-Aspect Relation Modeling in Universal Information Extraction**|Lu Yang et.al.|[2502.12614v1](http://arxiv.org/abs/2502.12614v1)|**[link](https://github.com/Lu-Yang666/LDNet)**|
 |**2025-02-18**|**G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation**|Yuhan Li et.al.|[2502.12586v1](http://arxiv.org/abs/2502.12586v1)|null|
 |**2025-02-14**|**Leveraging large language models for structured information extraction from pathology reports**|Jeya Balaji Balasubramanian et.al.|[2502.12183v1](http://arxiv.org/abs/2502.12183v1)|**[link](https://github.com/jeyabbalas/medical-report-information-extractor)**|
 |**2025-02-17**|**MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation**|Haochen Xue et.al.|[2502.11903v1](http://arxiv.org/abs/2502.11903v1)|null|
-|**2025-02-17**|**M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis**|Chengyan Wu et.al.|[2502.11824v1](http://arxiv.org/abs/2502.11824v1)|null|
-|**2025-02-16**|**Cuckoo: An IE Free Rider Hatched by Massive Nutrition in LLM's Nest**|Letian Peng et.al.|[2502.11275v1](http://arxiv.org/abs/2502.11275v1)|null|
+|**2025-02-17**|**M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis**|Chengyan Wu et.al.|[2502.11824v1](http://arxiv.org/abs/2502.11824v1)|**[link](https://github.com/swaggy66/M-ABSA)**|
+|**2025-02-16**|**Cuckoo: An IE Free Rider Hatched by Massive Nutrition in LLM's Nest**|Letian Peng et.al.|[2502.11275v1](http://arxiv.org/abs/2502.11275v1)|**[link](https://github.com/komeijiforce/cuckoo)**|
 |**2025-02-15**|**NPSim: Nighttime Photorealistic Simulation From Daytime Images With Monocular Inverse Rendering and Ray Tracing**|Shutong Zhang et.al.|[2502.10720v1](http://arxiv.org/abs/2502.10720v1)|null|
 |**2025-02-14**|**Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction**|WonJin Yoon et.al.|[2502.10388v1](http://arxiv.org/abs/2502.10388v1)|null|
 |**2025-02-13**|**Weak continuous measurements require more work than strong ones**|Lorena Ballesteros Ferraz et.al.|[2502.09732v1](http://arxiv.org/abs/2502.09732v1)|null|
@@ -5461,6 +5487,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration**|Minjie Hong et.al.|[2502.14735v1](http://arxiv.org/abs/2502.14735v1)|null|
+|**2025-02-20**|**InstructAgent: Building User Controllable Recommender via LLM Agent**|Wujiang Xu et.al.|[2502.14662v1](http://arxiv.org/abs/2502.14662v1)|null|
+|**2025-02-20**|**Beyond the Surface: Uncovering Implicit Locations with LLMs for Personalized Local News**|Gali Katz et.al.|[2502.14660v1](http://arxiv.org/abs/2502.14660v1)|null|
+|**2025-02-20**|**LLM-based User Profile Management for Recommender System**|Seunghwan Bang et.al.|[2502.14541v1](http://arxiv.org/abs/2502.14541v1)|null|
+|**2025-02-20**|**A Note on Efficient Privacy-Preserving Similarity Search for Encrypted Vectors**|Dongfang Zhao et.al.|[2502.14291v1](http://arxiv.org/abs/2502.14291v1)|null|
+|**2025-02-19**|**Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems**|Yaochen Zhu et.al.|[2502.14137v1](http://arxiv.org/abs/2502.14137v1)|null|
 |**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845v1](http://arxiv.org/abs/2502.13845v1)|null|
 |**2025-02-19**|**Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents**|Jiahao Liu et.al.|[2502.13843v1](http://arxiv.org/abs/2502.13843v1)|null|
 |**2025-02-19**|**Mitigating Popularity Bias in Collaborative Filtering through Fair Sampling**|Jiahao Liu et.al.|[2502.13840v1](http://arxiv.org/abs/2502.13840v1)|null|
@@ -6815,8 +6847,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802v1](http://arxiv.org/abs/2502.14802v1)|null|
+|**2025-02-20**|**Beyond the Surface: Uncovering Implicit Locations with LLMs for Personalized Local News**|Gali Katz et.al.|[2502.14660v1](http://arxiv.org/abs/2502.14660v1)|null|
+|**2025-02-20**|**Narrative-Driven Travel Planning: Geoculturally-Grounded Script Generation with Evolutionary Itinerary Optimization**|Ran Ding et.al.|[2502.14456v1](http://arxiv.org/abs/2502.14456v1)|null|
+|**2025-02-20**|**Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment**|Jiaxi Li et.al.|[2502.14275v1](http://arxiv.org/abs/2502.14275v1)|null|
+|**2025-02-20**|**NLP-AKG: Few-Shot Construction of NLP Academic Knowledge Graph Based on LLM**|Jiayin Lan et.al.|[2502.14192v1](http://arxiv.org/abs/2502.14192v1)|null|
+|**2025-02-19**|**Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning**|Cole Gawin et.al.|[2502.14086v1](http://arxiv.org/abs/2502.14086v1)|null|
 |**2025-02-19**|**Optimizing Research Portfolio For Semantic Impact**|Alexander V. Belikov et.al.|[2502.13912v1](http://arxiv.org/abs/2502.13912v1)|null|
-|**2025-02-19**|**The KnowWhereGraph: A Large-Scale Geo-Knowledge Graph for Interdisciplinary Knowledge Discovery and Geo-Enrichment**|Rui Zhu et.al.|[2502.13874v1](http://arxiv.org/abs/2502.13874v1)|null|
+|**2025-02-20**|**The KnowWhereGraph: A Large-Scale Geo-Knowledge Graph for Interdisciplinary Knowledge Discovery and Geo-Enrichment**|Rui Zhu et.al.|[2502.13874v2](http://arxiv.org/abs/2502.13874v2)|null|
 |**2025-02-19**|**Complex Ontology Matching with Large Language Model Embeddings**|Guilherme Sousa et.al.|[2502.13619v1](http://arxiv.org/abs/2502.13619v1)|null|
 |**2025-02-19**|**Democratizing Large Language Model-Based Graph Data Augmentation via Latent Knowledge Graphs**|Yushi Feng et.al.|[2502.13555v1](http://arxiv.org/abs/2502.13555v1)|null|
 |**2025-02-19**|**Explore-Construct-Filter: An Automated Framework for Rich and Reliable API Knowledge Graph Construction**|Yanbang Sun et.al.|[2502.13412v1](http://arxiv.org/abs/2502.13412v1)|null|
@@ -7923,8 +7961,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-19**|**Extending the RANGE of Graph Neural Networks: Relaying Attention Nodes for Global Encoding**|Alessandro Caruso et.al.|[2502.13797v1](http://arxiv.org/abs/2502.13797v1)|null|
-|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763v1](http://arxiv.org/abs/2502.13763v1)|null|
+|**2025-02-20**|**Small Graph Is All You Need: DeepStateGNN for Scalable Traffic Forecasting**|Yannick Wölker et.al.|[2502.14525v1](http://arxiv.org/abs/2502.14525v1)|null|
+|**2025-02-20**|**DAG: Deep Adaptive and Generative $K$ -Free Community Detection on Attributed Graphs**|Chang Liu et.al.|[2502.14294v1](http://arxiv.org/abs/2502.14294v1)|null|
+|**2025-02-20**|**Adaptive Sparsified Graph Learning Framework for Vessel Behavior Anomalies**|Jeehong Kim et.al.|[2502.14197v1](http://arxiv.org/abs/2502.14197v1)|null|
+|**2025-02-19**|**Dual-level Mixup for Graph Few-shot Learning with Fewer Tasks**|Yonghao Liu et.al.|[2502.14158v1](http://arxiv.org/abs/2502.14158v1)|null|
+|**2025-02-19**|**SALTY: Explainable Artificial Intelligence Guided Structural Analysis for Hardware Trojan Detection**|Tanzim Mahfuz et.al.|[2502.14116v1](http://arxiv.org/abs/2502.14116v1)|null|
+|**2025-02-20**|**Extending the RANGE of Graph Neural Networks: Relaying Attention Nodes for Global Encoding**|Alessandro Caruso et.al.|[2502.13797v2](http://arxiv.org/abs/2502.13797v2)|null|
+|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763v1](http://arxiv.org/abs/2502.13763v1)|**[link](https://github.com/dbis-uibk/gcnext)**|
 |**2025-02-19**|**Homophily Heterogeneity Matters in Graph Federated Learning: A Spectrum Sharing and Complementing Perspective**|Wentao Yu et.al.|[2502.13732v1](http://arxiv.org/abs/2502.13732v1)|null|
 |**2025-02-19**|**Towards Invariance to Node Identifiers in Graph Neural Networks**|Maya Bechler-Speicher et.al.|[2502.13660v1](http://arxiv.org/abs/2502.13660v1)|null|
 |**2025-02-19**|**Non-Euclidean Hierarchical Representational Learning using Hyperbolic Graph Neural Networks for Environmental Claim Detection**|Darpan Aswal et.al.|[2502.13628v1](http://arxiv.org/abs/2502.13628v1)|null|
