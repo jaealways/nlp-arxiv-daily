@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -2190,7 +2190,7 @@ layout: default
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -2216,15 +2216,15 @@ layout: default
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Prompt Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-24**|**A Systematic Survey of Automatic Prompt Optimization Techniques**|Kiran Ramnath et.al.|[2502.16923v1](http://arxiv.org/abs/2502.16923v1)|null|
-|**2025-02-24**|**Language Model Fine-Tuning on Scaled Survey Data for Predicting Distributions of Public Opinions**|Joseph Suh et.al.|[2502.16761v1](http://arxiv.org/abs/2502.16761v1)|null|
-|**2025-02-23**|**Code Summarization Beyond Function Level**|Vladimir Makharev et.al.|[2502.16704v1](http://arxiv.org/abs/2502.16704v1)|null|
+|**2025-02-24**|**Language Model Fine-Tuning on Scaled Survey Data for Predicting Distributions of Public Opinions**|Joseph Suh et.al.|[2502.16761v1](http://arxiv.org/abs/2502.16761v1)|**[link](https://github.com/josephjeesungsuh/subpop)**|
+|**2025-02-23**|**Code Summarization Beyond Function Level**|Vladimir Makharev et.al.|[2502.16704v1](http://arxiv.org/abs/2502.16704v1)|**[link](https://github.com/kilimanj4r0/code-summarization-beyond-function-level)**|
 |**2025-02-23**|**Can Large Vision-Language Models Detect Images Copyright Infringement from GenAI?**|Qipan Xu et.al.|[2502.16618v1](http://arxiv.org/abs/2502.16618v1)|null|
 |**2025-02-23**|**LawPal : A Retrieval Augmented Generation Based System for Enhanced Legal Accessibility in India**|Dnyanesh Panchal et.al.|[2502.16573v1](http://arxiv.org/abs/2502.16573v1)|null|
 |**2025-02-23**|**Navigation-GPT: A Robust and Adaptive Framework Utilizing Large Language Models for Navigation Applications**|Feng Ma et.al.|[2502.16402v1](http://arxiv.org/abs/2502.16402v1)|null|
@@ -2927,22 +2927,22 @@ layout: default
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Question Answering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422v1](http://arxiv.org/abs/2502.17422v1)|null|
+|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422v1](http://arxiv.org/abs/2502.17422v1)|**[link](https://github.com/saccharomycetes/mllms_know)**|
 |**2025-02-24**|**Turning Conversations into Workflows: A Framework to Extract and Evaluate Dialog Workflows for Service AI Agents**|Prafulla Kumar Choubey et.al.|[2502.17321v1](http://arxiv.org/abs/2502.17321v1)|null|
-|**2025-02-24**|**HIPPO: Enhancing the Table Understanding Capability of Large Language Models through Hybrid-Modal Preference Optimization**|Zhenghao Liu et.al.|[2502.17315v1](http://arxiv.org/abs/2502.17315v1)|null|
+|**2025-02-24**|**HIPPO: Enhancing the Table Understanding Capability of Large Language Models through Hybrid-Modal Preference Optimization**|Zhenghao Liu et.al.|[2502.17315v1](http://arxiv.org/abs/2502.17315v1)|**[link](https://github.com/neuir/hippo)**|
 |**2025-02-24**|**Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts**|Zhenghao Liu et.al.|[2502.17297v1](http://arxiv.org/abs/2502.17297v1)|null|
-|**2025-02-24**|**MULTITAT: Benchmarking Multilingual Table-and-Text Question Answering**|Xuanliang Zhang et.al.|[2502.17253v1](http://arxiv.org/abs/2502.17253v1)|null|
-|**2025-02-24**|**Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**|Tianpeng Li et.al.|[2502.17239v1](http://arxiv.org/abs/2502.17239v1)|null|
+|**2025-02-24**|**MULTITAT: Benchmarking Multilingual Table-and-Text Question Answering**|Xuanliang Zhang et.al.|[2502.17253v1](http://arxiv.org/abs/2502.17253v1)|**[link](https://github.com/zhxlia/multitat)**|
+|**2025-02-24**|**Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**|Tianpeng Li et.al.|[2502.17239v1](http://arxiv.org/abs/2502.17239v1)|**[link](https://github.com/baichuan-inc/baichuan-audio)**|
 |**2025-02-24**|**LettuceDetect: A Hallucination Detection Framework for RAG Applications**|Ádám Kovács et.al.|[2502.17125v1](http://arxiv.org/abs/2502.17125v1)|null|
 |**2025-02-24**|**All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark**|Davide Testa et.al.|[2502.16989v1](http://arxiv.org/abs/2502.16989v1)|null|
 |**2025-02-24**|**AAD-LLM: Neural Attention-Driven Auditory Scene Understanding**|Xilin Jiang et.al.|[2502.16794v1](http://arxiv.org/abs/2502.16794v1)|null|
-|**2025-02-24**|**MultiOCR-QA: Dataset for Evaluating Robustness of LLMs in Question Answering on Multilingual OCR Texts**|Bhawna Piryani et.al.|[2502.16781v1](http://arxiv.org/abs/2502.16781v1)|null|
+|**2025-02-24**|**MultiOCR-QA: Dataset for Evaluating Robustness of LLMs in Question Answering on Multilingual OCR Texts**|Bhawna Piryani et.al.|[2502.16781v1](http://arxiv.org/abs/2502.16781v1)|**[link](https://github.com/datascienceuibk/multiocr-qa)**|
 |**2025-02-21**|**Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?**|Yoshua Bengio et.al.|[2502.15657v1](http://arxiv.org/abs/2502.15657v1)|null|
 |**2025-02-21**|**Empowering LLMs with Logical Reasoning: A Comprehensive Survey**|Fengxiang Cheng et.al.|[2502.15652v1](http://arxiv.org/abs/2502.15652v1)|null|
 |**2025-02-21**|**Chats-Grid: An Iterative Retrieval Q&A Optimization Scheme Leveraging Large Model and Retrieval Enhancement Generation in smart grid**|Yunfeng Li et.al.|[2502.15583v1](http://arxiv.org/abs/2502.15583v1)|null|
@@ -4945,7 +4945,7 @@ layout: default
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -4954,7 +4954,7 @@ layout: default
 |**2025-02-24**|**Real-time Monitoring of Economic Shocks using Company Websites**|Michael Koenig et.al.|[2502.17161v1](http://arxiv.org/abs/2502.17161v1)|null|
 |**2025-02-23**|**Few-shot Continual Relation Extraction via Open Information Extraction**|Thiem Nguyen et.al.|[2502.16648v1](http://arxiv.org/abs/2502.16648v1)|null|
 |**2025-02-22**|**Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines**|Saurabh Srivastava et.al.|[2502.16377v1](http://arxiv.org/abs/2502.16377v1)|null|
-|**2025-02-22**|**OmniParser V2: Structured-Points-of-Thought for Unified Visual Text Parsing and Its Generality to Multimodal Large Language Models**|Wenwen Yu et.al.|[2502.16161v1](http://arxiv.org/abs/2502.16161v1)|null|
+|**2025-02-22**|**OmniParser V2: Structured-Points-of-Thought for Unified Visual Text Parsing and Its Generality to Multimodal Large Language Models**|Wenwen Yu et.al.|[2502.16161v1](http://arxiv.org/abs/2502.16161v1)|**[link](https://github.com/alibabaresearch/advancedliteratemachinery)**|
 |**2025-02-21**|**MMRAG: Multi-Mode Retrieval-Augmented Generation with Large Language Models for Biomedical In-Context Learning**|Zaifu Zhan et.al.|[2502.15954v1](http://arxiv.org/abs/2502.15954v1)|null|
 |**2025-02-21**|**Enhancing Domain-Specific Retrieval-Augmented Generation: Synthetic Data Generation and Evaluation using Reasoning Models**|Aryan Jadon et.al.|[2502.15854v1](http://arxiv.org/abs/2502.15854v1)|null|
 |**2025-02-21**|**Multimodal Graph-Based Variational Mixture of Experts Network for Zero-Shot Multimodal Information Extraction**|Baohang Zhou et.al.|[2502.15290v1](http://arxiv.org/abs/2502.15290v1)|null|
@@ -5529,7 +5529,7 @@ layout: default
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -6903,7 +6903,7 @@ layout: default
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -8029,7 +8029,7 @@ layout: default
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|**[link](https://github.com/hkust-knowcomp/abductivekgr)**|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## GNN
 
@@ -10071,5 +10071,5 @@ layout: default
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|**[link](https://github.com/basiralab/falcon)**|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
