@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304v1](http://arxiv.org/abs/2503.16304v1)|null|
+|**2025-03-20**|**From Structured Prompts to Open Narratives: Measuring Gender Bias in LLMs Through Open-Ended Storytelling**|Evan Chen et.al.|[2503.15904v1](http://arxiv.org/abs/2503.15904v1)|null|
+|**2025-03-20**|**ATTENTION2D: Communication Efficient Distributed Self-Attention Mechanism**|Venmugil Elango et.al.|[2503.15758v1](http://arxiv.org/abs/2503.15758v1)|null|
+|**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737v1](http://arxiv.org/abs/2503.15737v1)|null|
 |**2025-03-20**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
 |**2025-03-19**|**VenusFactory: A Unified Platform for Protein Engineering Data Retrieval and Language Model Fine-Tuning**|Yang Tan et.al.|[2503.15438v1](http://arxiv.org/abs/2503.15438v1)|null|
 |**2025-03-19**|**Exploring Large Language Models for Word Games:Who is the Spy?**|Chentian Wei et.al.|[2503.15235v1](http://arxiv.org/abs/2503.15235v1)|null|
@@ -2347,6 +2351,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Enhancing Zero-Shot Image Recognition in Vision-Language Models through Human-like Concept Guidance**|Hui Liu et.al.|[2503.15886v1](http://arxiv.org/abs/2503.15886v1)|null|
+|**2025-03-20**|**DroidTTP: Mapping Android Applications with TTP for Cyber Threat Intelligence**|Dincy R Arikkat et.al.|[2503.15866v1](http://arxiv.org/abs/2503.15866v1)|null|
 |**2025-03-19**|**A Peek Behind the Curtain: Using Step-Around Prompt Engineering to Identify Bias and Misinformation in GenAI Models**|Don Hickerson et.al.|[2503.15205v1](http://arxiv.org/abs/2503.15205v1)|null|
 |**2025-03-18**|**Synthetic Data Generation Using Large Language Models: Advances in Text and Code**|Mihai Nadas et.al.|[2503.14023v1](http://arxiv.org/abs/2503.14023v1)|null|
 |**2025-03-18**|**Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering**|Wenjie Zhang et.al.|[2503.13806v1](http://arxiv.org/abs/2503.13806v1)|null|
@@ -3106,6 +3112,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**GAEA: A Geolocation Aware Conversational Model**|Ron Campos et.al.|[2503.16423v1](http://arxiv.org/abs/2503.16423v1)|null|
+|**2025-03-20**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304v1](http://arxiv.org/abs/2503.16304v1)|null|
+|**2025-03-20**|**MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering**|Feiyang Li et.al.|[2503.16131v1](http://arxiv.org/abs/2503.16131v1)|null|
+|**2025-03-20**|**Agentic Keyframe Search for Video Question Answering**|Sunqi Fan et.al.|[2503.16032v1](http://arxiv.org/abs/2503.16032v1)|null|
+|**2025-03-20**|**GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping under Flexible Language Instructions**|Xiaomeng Chu et.al.|[2503.16013v1](http://arxiv.org/abs/2503.16013v1)|null|
+|**2025-03-20**|**ECKGBench: Benchmarking Large Language Models in E-commerce Leveraging Knowledge Graph**|Langming Liu et.al.|[2503.15990v1](http://arxiv.org/abs/2503.15990v1)|null|
+|**2025-03-20**|**UMIT: Unifying Medical Imaging Tasks via Vision-Language Models**|Haiyang Yu et.al.|[2503.15892v1](http://arxiv.org/abs/2503.15892v1)|null|
+|**2025-03-20**|**DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering**|Haochen Wang et.al.|[2503.15887v1](http://arxiv.org/abs/2503.15887v1)|null|
+|**2025-03-20**|**Typed-RAG: Type-aware Multi-Aspect Decomposition for Non-Factoid Question Answering**|DongGeon Lee et.al.|[2503.15879v1](http://arxiv.org/abs/2503.15879v1)|null|
+|**2025-03-20**|**A Vision Centric Remote Sensing Benchmark**|Abduljaleel Adejumo et.al.|[2503.15816v1](http://arxiv.org/abs/2503.15816v1)|null|
 |**2025-03-19**|**Evaluating Bias in Retrieval-Augmented Medical Question-Answering Systems**|Yuelyu Ji et.al.|[2503.15454v1](http://arxiv.org/abs/2503.15454v1)|null|
 |**2025-03-19**|**EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models**|Yinan Liang et.al.|[2503.15369v1](http://arxiv.org/abs/2503.15369v1)|null|
 |**2025-03-19**|**TruthLens:A Training-Free Paradigm for DeepFake Detection**|Ritabrata Chakraborty et.al.|[2503.15342v1](http://arxiv.org/abs/2503.15342v1)|null|
@@ -5271,6 +5287,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737v1](http://arxiv.org/abs/2503.15737v1)|null|
 |**2025-03-19**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234v2](http://arxiv.org/abs/2503.14234v2)|null|
 |**2025-03-18**|**BI-RADS prediction of mammographic masses using uncertainty information extracted from a Bayesian Deep Learning model**|Mohaddeseh Chegini et.al.|[2503.13999v1](http://arxiv.org/abs/2503.13999v1)|null|
 |**2025-03-18**|**YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction**|Ziyu Lin et.al.|[2503.13883v1](http://arxiv.org/abs/2503.13883v1)|null|
@@ -5892,6 +5909,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Diffusion-augmented Graph Contrastive Learning for Collaborative Filter**|Fan Huang et.al.|[2503.16290v1](http://arxiv.org/abs/2503.16290v1)|null|
 |**2025-03-19**|**ACE: A Cardinality Estimator for Set-Valued Queries**|Yufan Sheng et.al.|[2503.14929v1](http://arxiv.org/abs/2503.14929v1)|null|
 |**2025-03-19**|**Scaled Supervision is an Implicit Lipschitz Regularizer**|Zhongyu Ouyang et.al.|[2503.14813v1](http://arxiv.org/abs/2503.14813v1)|null|
 |**2025-03-18**|**Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation**|Ashraf Ghiye et.al.|[2503.14213v1](http://arxiv.org/abs/2503.14213v1)|null|
@@ -7332,6 +7350,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering**|Feiyang Li et.al.|[2503.16131v1](http://arxiv.org/abs/2503.16131v1)|null|
+|**2025-03-20**|**ECKGBench: Benchmarking Large Language Models in E-commerce Leveraging Knowledge Graph**|Langming Liu et.al.|[2503.15990v1](http://arxiv.org/abs/2503.15990v1)|null|
+|**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980v1](http://arxiv.org/abs/2503.15980v1)|null|
+|**2025-03-20**|**A metadata model for profiling multidimensional sources in data ecosystems**|Claudia Diamantini et.al.|[2503.15951v1](http://arxiv.org/abs/2503.15951v1)|null|
+|**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737v1](http://arxiv.org/abs/2503.15737v1)|null|
 |**2025-03-19**|**Graph-Based Re-ranking: Emerging Techniques, Limitations, and Opportunities**|Md Shahir Zaoad et.al.|[2503.14802v1](http://arxiv.org/abs/2503.14802v1)|null|
 |**2025-03-19**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234v2](http://arxiv.org/abs/2503.14234v2)|null|
 |**2025-03-18**|**Empowering GraphRAG with Knowledge Filtering and Integration**|Kai Guo et.al.|[2503.13804v1](http://arxiv.org/abs/2503.13804v1)|null|
@@ -8525,6 +8548,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Beyond Local Selection: Global Cut Selection for Enhanced Mixed-Integer Programming**|Shuli Zeng et.al.|[2503.15847v1](http://arxiv.org/abs/2503.15847v1)|null|
+|**2025-03-20**|**GraPLUS: Graph-based Placement Using Semantics for Image Composition**|Mir Mohammad Khaleghi et.al.|[2503.15761v1](http://arxiv.org/abs/2503.15761v1)|null|
+|**2025-03-19**|**Survey on Generalization Theory for Graph Neural Networks**|Antonis Vasileiou et.al.|[2503.15650v1](http://arxiv.org/abs/2503.15650v1)|null|
+|**2025-03-19**|**PEnGUiN: Partially Equivariant Graph NeUral Networks for Sample Efficient MARL**|Joshua McClellan et.al.|[2503.15615v1](http://arxiv.org/abs/2503.15615v1)|null|
 |**2025-03-19**|**Modeling crystal defects using defect-informed neural networks**|Ziduo Yang et.al.|[2503.15391v1](http://arxiv.org/abs/2503.15391v1)|null|
 |**2025-03-19**|**Lyapunov-Based Graph Neural Networks for Adaptive Control of Multi-Agent Systems**|Brandon C. Fallin et.al.|[2503.15360v1](http://arxiv.org/abs/2503.15360v1)|null|
 |**2025-03-19**|**Learning to quantify graph nodes**|Alessio Micheli et.al.|[2503.15267v1](http://arxiv.org/abs/2503.15267v1)|null|
