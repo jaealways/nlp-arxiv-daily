@@ -2452,8 +2452,8 @@
 |**2025-04-10**|**Cognitive Debiasing Large Language Models for Decision-Making**|Yougang Lyu et.al.|[2504.04141v2](http://arxiv.org/abs/2504.04141v2)|null|
 |**2025-04-04**|**Bridging LMS and Generative AI: Dynamic Course Content Integration (DCCI) for Connecting LLMs to Course Content -- The Ask ME Assistant**|Kovan Mzwri et.al.|[2504.03966v1](http://arxiv.org/abs/2504.03966v1)|null|
 |**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563v1](http://arxiv.org/abs/2504.03563v1)|null|
-|**2025-04-07**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160v2](http://arxiv.org/abs/2504.03160v2)|null|
-|**2025-04-04**|**Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**|Junlang Qian et.al.|[2504.03159v1](http://arxiv.org/abs/2504.03159v1)|null|
+|**2025-04-07**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160v2](http://arxiv.org/abs/2504.03160v2)|**[link](https://github.com/gair-nlp/deepresearcher)**|
+|**2025-04-04**|**Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**|Junlang Qian et.al.|[2504.03159v1](http://arxiv.org/abs/2504.03159v1)|**[link](https://github.com/qianjunlang/placeholdingparallelprediction)**|
 |**2025-04-03**|**Large (Vision) Language Models are Unsupervised In-Context Learners**|Artyom Gadetsky et.al.|[2504.02349v1](http://arxiv.org/abs/2504.02349v1)|**[link](https://github.com/mlbio-epfl/joint-inference)**|
 |**2025-04-03**|**LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models**|Weibin Liao et.al.|[2504.02327v1](http://arxiv.org/abs/2504.02327v1)|null|
 |**2025-04-03**|**CoTAL: Human-in-the-Loop Prompt Engineering, Chain-of-Thought Reasoning, and Active Learning for Generalizable Formative Assessment Scoring**|Clayton Cohn et.al.|[2504.02323v1](http://arxiv.org/abs/2504.02323v1)|null|
@@ -3286,10 +3286,10 @@
 |**2025-04-04**|**Bonsai: Interpretable Tree-Adaptive Grounded Reasoning**|Kate Sanders et.al.|[2504.03640v1](http://arxiv.org/abs/2504.03640v1)|null|
 |**2025-04-04**|**Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Task**|Leonardo Ranaldi et.al.|[2504.03616v1](http://arxiv.org/abs/2504.03616v1)|null|
 |**2025-04-04**|**QIRL: Boosting Visual Question Answering via Optimized Question-Image Relation Learning**|Quanxing Xu et.al.|[2504.03337v1](http://arxiv.org/abs/2504.03337v1)|null|
-|**2025-04-04**|**SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding**|Yimin Wei et.al.|[2504.03254v1](http://arxiv.org/abs/2504.03254v1)|null|
+|**2025-04-04**|**SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding**|Yimin Wei et.al.|[2504.03254v1](http://arxiv.org/abs/2504.03254v1)|**[link](https://github.com/jimmyxichen/sarlang-1m)**|
 |**2025-04-04**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[2504.03164v1](http://arxiv.org/abs/2504.03164v1)|null|
 |**2025-04-04**|**Hierarchical Modeling for Medical Visual Question Answering with Cross-Attention Fusion**|Junkai Zhang et.al.|[2504.03135v1](http://arxiv.org/abs/2504.03135v1)|null|
-|**2025-04-04**|**Single-Pass Document Scanning for Question Answering**|Weili Cao et.al.|[2504.03101v1](http://arxiv.org/abs/2504.03101v1)|null|
+|**2025-04-04**|**Single-Pass Document Scanning for Question Answering**|Weili Cao et.al.|[2504.03101v1](http://arxiv.org/abs/2504.03101v1)|**[link](https://github.com/mambaretriever/mambaretriever)**|
 |**2025-04-03**|**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**|Divya Velayudhan et.al.|[2504.02823v1](http://arxiv.org/abs/2504.02823v1)|null|
 |**2025-04-03**|**LexPam: Legal Procedure Awareness-Guided Mathematical Reasoning**|Kepu Zhang et.al.|[2504.02590v1](http://arxiv.org/abs/2504.02590v1)|null|
 |**2025-04-03**|**Leveraging Static Relationships for Intra-Type and Inter-Type Message Passing in Video Question Answering**|Lili Liang et.al.|[2504.02417v1](http://arxiv.org/abs/2504.02417v1)|null|
@@ -3635,7 +3635,7 @@
 |**2025-02-06**|**Predicting Large Language Model Capabilities on Closed-Book QA Tasks Using Only Information Available Prior to Training**|Changhao Jiang et.al.|[2502.04066v1](http://arxiv.org/abs/2502.04066v1)|null|
 |**2025-02-06**|**Ontology-Guided, Hybrid Prompt Learning for Generalization in Knowledge Graph Question Answering**|Longquan Jiang et.al.|[2502.03992v1](http://arxiv.org/abs/2502.03992v1)|**[link](https://github.com/longquanjiang/ontoscprompt)**|
 |**2025-02-06**|**Improving Natural Language Understanding for LLMs via Large-Scale Instruction Synthesis**|Lin Yuan et.al.|[2502.03843v1](http://arxiv.org/abs/2502.03843v1)|null|
-|**2025-02-06**|**DocMIA: Document-Level Membership Inference Attacks against DocVQA Models**|Khanh Nguyen et.al.|[2502.03692v1](http://arxiv.org/abs/2502.03692v1)|null|
+|**2025-02-06**|**DocMIA: Document-Level Membership Inference Attacks against DocVQA Models**|Khanh Nguyen et.al.|[2502.03692v1](http://arxiv.org/abs/2502.03692v1)|**[link](https://github.com/khanhnguyen21006/mia_docvqa)**|
 |**2025-02-05**|**A Mixed-Methods Evaluation of LLM-Based Chatbots for Menopause**|Roshini Deva et.al.|[2502.03579v1](http://arxiv.org/abs/2502.03579v1)|null|
 |**2025-02-05**|**MeDiSumQA: Patient-Oriented Question-Answer Generation from Discharge Letters**|Amin Dada et.al.|[2502.03298v1](http://arxiv.org/abs/2502.03298v1)|null|
 |**2025-02-05**|**MedBioLM: Optimizing Medical and Biological QA with Fine-Tuned Large Language Models and Retrieval-Augmented Generation**|Seonok Kim et.al.|[2502.03004v1](http://arxiv.org/abs/2502.03004v1)|null|
@@ -3822,7 +3822,7 @@
 |**2024-12-23**|**RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG**|Rishiraj Saha Roy et.al.|[2412.17690v1](http://arxiv.org/abs/2412.17690v1)|**[link](https://github.com/fraunhofer-iis/ragonite)**|
 |**2024-12-23**|**Resource-Aware Arabic LLM Creation: Model Adaptation, Integration, and Multi-Domain Testing**|Prakash Aryan et.al.|[2412.17548v1](http://arxiv.org/abs/2412.17548v1)|**[link](https://github.com/prakash-aryan/qwen-arabic-project)**|
 |**2024-12-23**|**Multimodal Preference Data Synthetic Alignment with Reward Model**|Robert Wijaya et.al.|[2412.17417v1](http://arxiv.org/abs/2412.17417v1)|**[link](https://github.com/pds-dpo/pds-dpo)**|
-|**2024-12-23**|**VidCtx: Context-aware Video Question Answering with Image Models**|Andreas Goulas et.al.|[2412.17415v1](http://arxiv.org/abs/2412.17415v1)|null|
+|**2024-12-23**|**VidCtx: Context-aware Video Question Answering with Image Models**|Andreas Goulas et.al.|[2412.17415v1](http://arxiv.org/abs/2412.17415v1)|**[link](https://github.com/idt-iti/vidctx)**|
 |**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346v1](http://arxiv.org/abs/2412.17346v1)|null|
 |**2024-12-22**|**MINTQA: A Multi-Hop Question Answering Benchmark for Evaluating LLMs on New and Tail Knowledge**|Jie He et.al.|[2412.17032v1](http://arxiv.org/abs/2412.17032v1)|**[link](https://github.com/probe2/multi-hop)**|
 |**2024-12-22**|**FriendsQA: A New Large-Scale Deep Video Understanding Dataset with Fine-grained Topic Categorization for Story Videos**|Zhengqian Wu et.al.|[2412.17022v1](http://arxiv.org/abs/2412.17022v1)|**[link](https://github.com/nercms-mmap/friendsqa)**|
@@ -4279,7 +4279,7 @@
 |**2024-09-30**|**QAEncoder: Towards Aligned Representation Learning in Question Answering System**|Zhengren Wang et.al.|[2409.20434v1](http://arxiv.org/abs/2409.20434v1)|**[link](https://github.com/IAAR-Shanghai/QAEncoder)**|
 |**2024-09-30**|**World to Code: Multi-modal Data Generation via Self-Instructed Compositional Captioning and Filtering**|Jiacong Wang et.al.|[2409.20424v1](http://arxiv.org/abs/2409.20424v1)|**[link](https://github.com/foundation-multimodal-models/world2code)**|
 |**2024-09-30**|**VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs**|Ruotong Liao et.al.|[2409.20365v1](http://arxiv.org/abs/2409.20365v1)|**[link](https://github.com/mayhugotong/videoinsta)**|
-|**2024-09-30**|**Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models**|Luohe Shi et.al.|[2409.20181v1](http://arxiv.org/abs/2409.20181v1)|null|
+|**2024-09-30**|**Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models**|Luohe Shi et.al.|[2409.20181v1](http://arxiv.org/abs/2409.20181v1)|**[link](https://github.com/shiluohe/referencetrustabledecoding)**|
 |**2024-09-30**|**Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs**|Zicheng Zhang et.al.|[2409.20063v1](http://arxiv.org/abs/2409.20063v1)|null|
 |**2024-09-29**|**Does RAG Introduce Unfairness in LLMs? Evaluating Fairness in Retrieval-Augmented Generation Systems**|Xuyang Wu et.al.|[2409.19804v1](http://arxiv.org/abs/2409.19804v1)|**[link](https://github.com/elviswxy/rag_fairness)**|
 |**2024-09-29**|**Towards Robust Extractive Question Answering Models: Rethinking the Training Methodology**|Son Quoc Tran et.al.|[2409.19766v1](http://arxiv.org/abs/2409.19766v1)|**[link](https://github.com/sonqt/robust_qa)**|
@@ -6439,7 +6439,7 @@
 |**2025-02-04**|**Online Clustering of Dueling Bandits**|Zhiyong Wang et.al.|[2502.02079v1](http://arxiv.org/abs/2502.02079v1)|null|
 |**2025-02-03**|**Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations**|Giorgos Filandrianos et.al.|[2502.01349v1](http://arxiv.org/abs/2502.01349v1)|null|
 |**2025-02-03**|**Federated Linear Dueling Bandits**|Xuhan Huang et.al.|[2502.01085v1](http://arxiv.org/abs/2502.01085v1)|null|
-|**2025-02-01**|**Personalized Denoising Implicit Feedback for Robust Recommender System**|Kaike Zhang et.al.|[2502.00348v1](http://arxiv.org/abs/2502.00348v1)|null|
+|**2025-02-01**|**Personalized Denoising Implicit Feedback for Robust Recommender System**|Kaike Zhang et.al.|[2502.00348v1](http://arxiv.org/abs/2502.00348v1)|**[link](https://github.com/kaike-zhang/pld)**|
 |**2025-02-01**|**MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior Modeling**|Bencheng Yan et.al.|[2502.00321v1](http://arxiv.org/abs/2502.00321v1)|null|
 |**2025-01-31**|**Collaborative Diffusion Model for Recommender System**|Gyuseok Lee et.al.|[2501.18997v1](http://arxiv.org/abs/2501.18997v1)|null|
 |**2025-01-30**|**Are Representation Disentanglement and Interpretability Linked in Recommendation Models? A Critical Review and Reproducibility Study**|Ervin Dervishaj et.al.|[2501.18805v1](http://arxiv.org/abs/2501.18805v1)|**[link](https://github.com/edervishaj/disentanglement-interpretability-recsys)**|
@@ -7737,14 +7737,14 @@
 |**2025-04-08**|**Crowdsourcing-Based Knowledge Graph Construction for Drug Side Effects Using Large Language Models with an Application on Semaglutide**|Zhijie Duan et.al.|[2504.04346v2](http://arxiv.org/abs/2504.04346v2)|null|
 |**2025-04-05**|**JsStories: Improving Social Inclusion in Computer Science Education Through Interactive Stories**|Inas Ghazouani Ghailani et.al.|[2504.04006v1](http://arxiv.org/abs/2504.04006v1)|null|
 |**2025-04-04**|**Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**|Xinyi Wang et.al.|[2504.03635v1](http://arxiv.org/abs/2504.03635v1)|null|
-|**2025-04-04**|**Optimal Embedding Guided Negative Sample Generation for Knowledge Graph Link Prediction**|Makoto Takamoto et.al.|[2504.03327v1](http://arxiv.org/abs/2504.03327v1)|null|
+|**2025-04-04**|**Optimal Embedding Guided Negative Sample Generation for Knowledge Graph Link Prediction**|Makoto Takamoto et.al.|[2504.03327v1](http://arxiv.org/abs/2504.03327v1)|**[link](https://github.com/nec-research/emu-kg)**|
 |**2025-04-04**|**LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph**|Tu Ao et.al.|[2504.03137v1](http://arxiv.org/abs/2504.03137v1)|null|
 |**2025-04-02**|**Embedding Method for Knowledge Graph with Densely Defined Ontology**|Takanori Ugai et.al.|[2504.02889v1](http://arxiv.org/abs/2504.02889v1)|null|
 |**2025-04-03**|**Affordable AI Assistants with Knowledge Graph of Thoughts**|Maciej Besta et.al.|[2504.02670v1](http://arxiv.org/abs/2504.02670v1)|null|
-|**2025-04-03**|**Knowledge Graph Completion with Mixed Geometry Tensor Factorization**|Viacheslav Yusupov et.al.|[2504.02589v1](http://arxiv.org/abs/2504.02589v1)|null|
+|**2025-04-03**|**Knowledge Graph Completion with Mixed Geometry Tensor Factorization**|Viacheslav Yusupov et.al.|[2504.02589v1](http://arxiv.org/abs/2504.02589v1)|**[link](https://github.com/hse-cs/migtf)**|
 |**2025-04-03**|**Reasoning Inconsistencies and How to Mitigate Them in Deep Learning**|Erik Arakelyan et.al.|[2504.02577v1](http://arxiv.org/abs/2504.02577v1)|null|
 |**2025-04-03**|**Improving Harmful Text Detection with Joint Retrieval and External Knowledge**|Zidong Yu et.al.|[2504.02310v1](http://arxiv.org/abs/2504.02310v1)|null|
-|**2025-04-02**|**Graph Analytics for Cyber-Physical System Resilience Quantification**|Romain Dagnas et.al.|[2504.02120v1](http://arxiv.org/abs/2504.02120v1)|null|
+|**2025-04-02**|**Graph Analytics for Cyber-Physical System Resilience Quantification**|Romain Dagnas et.al.|[2504.02120v1](http://arxiv.org/abs/2504.02120v1)|**[link](https://github.com/romaindgns/cyber_resilience_analytics)**|
 |**2025-04-02**|**PolyG: Effective and Efficient GraphRAG with Adaptive Graph Traversal**|Renjie Liu et.al.|[2504.02112v1](http://arxiv.org/abs/2504.02112v1)|null|
 |**2025-04-02**|**Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph**|Lingxiao Guan et.al.|[2504.01309v1](http://arxiv.org/abs/2504.01309v1)|null|
 |**2025-04-01**|**MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs**|Juncheng Wu et.al.|[2504.00993v1](http://arxiv.org/abs/2504.00993v1)|**[link](https://github.com/UCSC-VLAA/MedReason)**|
@@ -8994,7 +8994,7 @@
 |**2025-04-07**|**GraphPINE: Graph Importance Propagation for Interpretable Drug Response Prediction**|Yoshitaka Inoue et.al.|[2504.05454v1](http://arxiv.org/abs/2504.05454v1)|null|
 |**2025-04-07**|**A Novel Approach to Linking Histology Images with DNA Methylation**|Manahil Raza et.al.|[2504.05403v1](http://arxiv.org/abs/2504.05403v1)|null|
 |**2025-04-07**|**Unifying Physics- and Data-Driven Modeling via Novel Causal Spatiotemporal Graph Neural Network for Interpretable Epidemic Forecasting**|Shuai Han et.al.|[2504.05140v1](http://arxiv.org/abs/2504.05140v1)|null|
-|**2025-04-07**|**AsyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification**|Wang Tang et.al.|[2504.05030v1](http://arxiv.org/abs/2504.05030v1)|null|
+|**2025-04-07**|**AsyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification**|Wang Tang et.al.|[2504.05030v1](http://arxiv.org/abs/2504.05030v1)|**[link](https://github.com/tw-repository/asyrec)**|
 |**2025-04-07**|**Fine tuning generative adversarial networks with universal force fields: application to two-dimensional topological insulators**|Alexander C. Tyner et.al.|[2504.04940v1](http://arxiv.org/abs/2504.04940v1)|null|
 |**2025-04-07**|**Boosting Relational Deep Learning with Pretrained Tabular Models**|Veronica Lachi et.al.|[2504.04934v1](http://arxiv.org/abs/2504.04934v1)|null|
 |**2025-04-07**|**Attentional Graph Meta-Learning for Indoor Localization Using Extremely Sparse Fingerprints**|Wenzhong Yan et.al.|[2504.04829v1](http://arxiv.org/abs/2504.04829v1)|null|
@@ -9004,14 +9004,14 @@
 |**2025-04-07**|**Scaling Graph Neural Networks for Particle Track Reconstruction**|Alok Tripathy et.al.|[2504.04670v1](http://arxiv.org/abs/2504.04670v1)|null|
 |**2025-04-05**|**PIORF: Physics-Informed Ollivier-Ricci Flow for Long-Range Interactions in Mesh Graph Neural Networks**|Youn-Yeol Yu et.al.|[2504.04052v1](http://arxiv.org/abs/2504.04052v1)|null|
 |**2025-04-04**|**Optimization of a Triangular Delaunay Mesh Generator using Reinforcement Learning**|Will Thacher et.al.|[2504.03610v1](http://arxiv.org/abs/2504.03610v1)|null|
-|**2025-04-04**|**Dynamic Training Enhances Machine Learning Potentials for Long-Lasting Molecular Dynamics**|Ivan Žugec et.al.|[2504.03521v1](http://arxiv.org/abs/2504.03521v1)|null|
+|**2025-04-04**|**Dynamic Training Enhances Machine Learning Potentials for Long-Lasting Molecular Dynamics**|Ivan Žugec et.al.|[2504.03521v1](http://arxiv.org/abs/2504.03521v1)|**[link](https://github.com/izugec/dtegnn)**|
 |**2025-04-04**|**Optimizing Quantum Circuits via ZX Diagrams using Reinforcement Learning and Graph Neural Networks**|Alexander Mattick et.al.|[2504.03429v1](http://arxiv.org/abs/2504.03429v1)|null|
-|**2025-04-03**|**Graph Attention for Heterogeneous Graphs with Positional Encoding**|Nikhil Shivakumar Nayak et.al.|[2504.02938v1](http://arxiv.org/abs/2504.02938v1)|null|
+|**2025-04-03**|**Graph Attention for Heterogeneous Graphs with Positional Encoding**|Nikhil Shivakumar Nayak et.al.|[2504.02938v1](http://arxiv.org/abs/2504.02938v1)|**[link](https://github.com/nikhilnayak-debug/am220)**|
 |**2025-04-03**|**A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification**|Aman Singh et.al.|[2504.02615v1](http://arxiv.org/abs/2504.02615v1)|null|
 |**2025-04-03**|**Toward General and Robust LLM-enhanced Text-attributed Graph Learning**|Zihao Zhang et.al.|[2504.02343v1](http://arxiv.org/abs/2504.02343v1)|null|
 |**2025-04-03**|**Enhancing Customer Contact Efficiency with Graph Neural Networks in Credit Card Fraud Detection Workflow**|Menghao Huo et.al.|[2504.02275v1](http://arxiv.org/abs/2504.02275v1)|null|
 |**2025-04-03**|**LLM-Augmented Graph Neural Recommenders: Integrating User Reviews**|Hiroki Kanezashi et.al.|[2504.02195v1](http://arxiv.org/abs/2504.02195v1)|null|
-|**2025-04-02**|**OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling**|Heming Zhang et.al.|[2504.02148v1](http://arxiv.org/abs/2504.02148v1)|null|
+|**2025-04-02**|**OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling**|Heming Zhang et.al.|[2504.02148v1](http://arxiv.org/abs/2504.02148v1)|**[link](https://github.com/fuhailiailab/omnicelltosg)**|
 |**2025-04-02**|**LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection**|Lingzhi Shen et.al.|[2504.02146v1](http://arxiv.org/abs/2504.02146v1)|null|
 |**2025-04-02**|**From Text to Graph: Leveraging Graph Neural Networks for Enhanced Explainability in NLP**|Fabio Yáñez-Romero et.al.|[2504.02064v1](http://arxiv.org/abs/2504.02064v1)|null|
 |**2025-04-02**|**Geometric Reasoning in the Embedding Space**|Jan Hůla et.al.|[2504.02018v1](http://arxiv.org/abs/2504.02018v1)|null|
@@ -9579,7 +9579,7 @@
 |**2024-12-04**|**A Graph Neural Network Approach to Dispersed Systems**|Aref Hashemi et.al.|[2412.02967v1](http://arxiv.org/abs/2412.02967v1)|**[link](https://github.com/rfjd/gns-dispersedsystems)**|
 |**2024-12-03**|**CuXASNet: Rapid and Accurate Prediction of Copper L-edge X-Ray Absorption Spectra Using Machine Learning**|Samuel P. Gleason et.al.|[2412.02916v1](http://arxiv.org/abs/2412.02916v1)|**[link](https://github.com/smglsn12/CuXASNet)**|
 |**2024-12-03**|**Geographical Information Alignment Boosts Traffic Analysis via Transpose Cross-attention**|Xiangyu Jiang et.al.|[2412.02839v1](http://arxiv.org/abs/2412.02839v1)|null|
-|**2024-12-03**|**MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images**|Aniruddha Ganguly et.al.|[2412.02601v1](http://arxiv.org/abs/2412.02601v1)|null|
+|**2024-12-03**|**MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images**|Aniruddha Ganguly et.al.|[2412.02601v1](http://arxiv.org/abs/2412.02601v1)|**[link](https://github.com/ags3927/MERGE)**|
 |**2024-12-03**|**Mobile Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning: A Scalable Framework**|Ziheng Liu et.al.|[2412.02581v1](http://arxiv.org/abs/2412.02581v1)|null|
 |**2024-12-03**|**An Automated Data Mining Framework Using Autoencoders for Feature Extraction and Dimensionality Reduction**|Yaxin Liang et.al.|[2412.02211v1](http://arxiv.org/abs/2412.02211v1)|null|
 |**2024-12-03**|**Generalizing Weisfeiler-Lehman Kernels to Subgraphs**|Dongkwan Kim et.al.|[2412.02181v1](http://arxiv.org/abs/2412.02181v1)|**[link](https://github.com/dongkwan-kim/wlks)**|
@@ -9604,7 +9604,7 @@
 |**2024-11-27**|**Causal and Local Correlations Based Network for Multivariate Time Series Classification**|Mingsen Du et.al.|[2411.18008v1](http://arxiv.org/abs/2411.18008v1)|**[link](https://github.com/dumingsen/calonet)**|
 |**2024-11-27**|**Graph Neural Network for Cerebral Blood Flow Prediction With Clinical Datasets**|Seungyeon Kim et.al.|[2411.17971v1](http://arxiv.org/abs/2411.17971v1)|null|
 |**2024-11-26**|**Spatio-temporal Causal Learning for Streamflow Forecasting**|Shu Wan et.al.|[2411.17937v1](http://arxiv.org/abs/2411.17937v1)|null|
-|**2024-11-26**|**GNN 101: Visual Learning of Graph Neural Networks in Your Web Browser**|Yilin Lu et.al.|[2411.17849v1](http://arxiv.org/abs/2411.17849v1)|null|
+|**2024-11-26**|**GNN 101: Visual Learning of Graph Neural Networks in Your Web Browser**|Yilin Lu et.al.|[2411.17849v1](http://arxiv.org/abs/2411.17849v1)|**[link](https://github.com/visual-intelligence-umn/gnn-101)**|
 |**2024-11-26**|**Instance-Aware Graph Prompt Learning**|Jiazheng Li et.al.|[2411.17676v1](http://arxiv.org/abs/2411.17676v1)|null|
 |**2024-11-26**|**A Graph Neural Network deep-dive into successful counterattacks**|Joris Bekkers et.al.|[2411.17450v1](http://arxiv.org/abs/2411.17450v1)|null|
 |**2024-11-26**|**Rewiring Techniques to Mitigate Oversquashing and Oversmoothing in GNNs: A Survey**|Hugo Attali et.al.|[2411.17429v1](http://arxiv.org/abs/2411.17429v1)|null|
@@ -10264,7 +10264,7 @@
 |**2024-07-12**|**Conformal Inductive Graph Neural Networks**|Soroush H. Zargarbashi et.al.|[2407.09173v1](http://arxiv.org/abs/2407.09173v1)|null|
 |**2024-07-12**|**SlideGCD: Slide-based Graph Collaborative Training with Knowledge Distillation for Whole Slide Image Classification**|Tong Shu et.al.|[2407.08968v1](http://arxiv.org/abs/2407.08968v1)|**[link](https://github.com/hfut-mialab/slidegcd)**|
 |**2024-07-12**|**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**|Ke Ji et.al.|[2407.08959v1](http://arxiv.org/abs/2407.08959v1)|null|
-|**2024-07-11**|**Deep Inverse Design for High-Level Synthesis**|Ping Chang et.al.|[2407.08797v1](http://arxiv.org/abs/2407.08797v1)|null|
+|**2024-07-11**|**Deep Inverse Design for High-Level Synthesis**|Ping Chang et.al.|[2407.08797v1](http://arxiv.org/abs/2407.08797v1)|**[link](https://github.com/PingChang818/DID4HLS)**|
 |**2024-07-11**|**Robust Generalization of Graph Neural Networks for Carrier Scheduling**|Daniel F. Perez-Ramirez et.al.|[2407.08479v1](http://arxiv.org/abs/2407.08479v1)|null|
 |**2024-07-11**|**Improving Molecular Modeling with Geometric GNNs: an Empirical Study**|Ali Ramlaoui et.al.|[2407.08313v1](http://arxiv.org/abs/2407.08313v1)|null|
 |**2024-07-11**|**HRRPGraphNet: A Graph Neural Network Based Approach for HRRP Radar Target Recognition**|Lingfeng Chen et.al.|[2407.08236v1](http://arxiv.org/abs/2407.08236v1)|**[link](https://github.com/MountainChenCad/HRRPGraphNet)**|
