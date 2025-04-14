@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -2408,7 +2408,7 @@ layout: default
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20250413'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250414'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -2437,7 +2437,7 @@ layout: default
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20250413'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250414'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -3248,7 +3248,7 @@ layout: default
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20250413'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250414'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -3261,7 +3261,7 @@ layout: default
 |**2025-04-10**|**MRD-RAG: Enhancing Medical Diagnosis with Multi-Round Retrieval-Augmented Generation**|Yixiang Chen et.al.|[2504.07724v1](http://arxiv.org/abs/2504.07724v1)|**[link](https://github.com/yixiangch/mrd-rag)**|
 |**2025-04-10**|**PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization**|Yang Jiao et.al.|[2504.07717v1](http://arxiv.org/abs/2504.07717v1)|null|
 |**2025-04-10**|**On the Temporal Question-Answering Capabilities of Large Language Models Over Anonymized Data**|Alfredo Garrachón Ruiz et.al.|[2504.07646v1](http://arxiv.org/abs/2504.07646v1)|null|
-|**2025-04-10**|**Do LLMs Understand Your Translations? Evaluating Paragraph-level MT with Question Answering**|Patrick Fernandes et.al.|[2504.07583v1](http://arxiv.org/abs/2504.07583v1)|null|
+|**2025-04-11**|**Do LLMs Understand Your Translations? Evaluating Paragraph-level MT with Question Answering**|Patrick Fernandes et.al.|[2504.07583v2](http://arxiv.org/abs/2504.07583v2)|null|
 |**2025-04-10**|**TokenFocus-VQA: Enhancing Text-to-Image Alignment with Position-Aware Focus and Multi-Perspective Aggregations on LVLMs**|Zijian Zhang et.al.|[2504.07556v1](http://arxiv.org/abs/2504.07556v1)|null|
 |**2025-04-10**|**Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models**|Yuxiang Lin et.al.|[2504.07521v1](http://arxiv.org/abs/2504.07521v1)|**[link](https://github.com/lum1104/eibench)**|
 |**2025-04-09**|**Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions**|Angela Lopez-Cardona et.al.|[2504.06843v1](http://arxiv.org/abs/2504.06843v1)|null|
@@ -5541,7 +5541,7 @@ layout: default
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20250413'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250414'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -6195,7 +6195,7 @@ layout: default
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20250413'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250414'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -7713,7 +7713,7 @@ layout: default
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20250413'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250414'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -8972,7 +8972,7 @@ layout: default
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|**[link](https://github.com/hkust-knowcomp/abductivekgr)**|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20250413'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250414'>back to top</a>)</p>
 
 ## GNN
 
@@ -11226,5 +11226,5 @@ layout: default
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|**[link](https://github.com/basiralab/falcon)**|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20250413'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250414'>back to top</a>)</p>
 
