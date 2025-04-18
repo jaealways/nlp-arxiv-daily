@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Automated Generation of Commit Messages in Software Repositories**|Varun Kumar Palakodeti et.al.|[2504.12998v1](http://arxiv.org/abs/2504.12998v1)|null|
+|**2025-04-17**|**SMARTe: Slot-based Method for Accountable Relational Triple extraction**|Xue Wen Tan et.al.|[2504.12816v1](http://arxiv.org/abs/2504.12816v1)|null|
+|**2025-04-16**|**Accelerating Clinical NLP at Scale with a Hybrid Framework with Reduced GPU Demands: A Case Study in Dementia Identification**|Jianlin Shi et.al.|[2504.12494v1](http://arxiv.org/abs/2504.12494v1)|null|
+|**2025-04-16**|**Deriving Equivalent Symbol-Based Decision Models from Feedforward Neural Networks**|Sebastian Seidel et.al.|[2504.12446v1](http://arxiv.org/abs/2504.12446v1)|null|
+|**2025-04-16**|**Bridging the Gap: A Comparative Study of Academic and Developer Approaches to Smart Contract Vulnerabilities**|Francesco Salzano et.al.|[2504.12443v1](http://arxiv.org/abs/2504.12443v1)|null|
 |**2025-04-16**|**SALAD: Improving Robustness and Generalization through Contrastive Learning with Structure-Aware and LLM-Driven Augmented Data**|Suyoung Bae et.al.|[2504.12185v1](http://arxiv.org/abs/2504.12185v1)|null|
 |**2025-04-16**|**Mapping Controversies Using Artificial Intelligence: An Analysis of the Hamas-Israel Conflict on YouTube**|Victor Manuel Hernandez Lopez et.al.|[2504.12177v1](http://arxiv.org/abs/2504.12177v1)|null|
 |**2025-04-16**|**AttentionDrop: A Novel Regularization Method for Transformer Models**|Mirza Samad Ahmed Baig et.al.|[2504.12088v1](http://arxiv.org/abs/2504.12088v1)|null|
@@ -2464,6 +2469,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Aspect-Based Summarization with Self-Aspect Retrieval Enhanced Generation**|Yichao Feng et.al.|[2504.13054v1](http://arxiv.org/abs/2504.13054v1)|null|
+|**2025-04-17**|**Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models**|Kooshan Amini et.al.|[2504.12542v1](http://arxiv.org/abs/2504.12542v1)|null|
 |**2025-04-16**|**Search is All You Need for Few-shot Anomaly Detection**|Qishan Wang et.al.|[2504.11895v1](http://arxiv.org/abs/2504.11895v1)|null|
 |**2025-04-16**|**Can GPT tell us why these images are synthesized? Empowering Multimodal Large Language Models for Forensics**|Yiran He et.al.|[2504.11686v1](http://arxiv.org/abs/2504.11686v1)|null|
 |**2025-04-14**|**LLM-based AI Agent for Sizing of Analog and Mixed Signal Circuit**|Chang Liu et.al.|[2504.11497v1](http://arxiv.org/abs/2504.11497v1)|null|
@@ -3287,6 +3294,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180v1](http://arxiv.org/abs/2504.13180v1)|null|
+|**2025-04-17**|**Hadamard product in deep learning: Introduction, Advances and Challenges**|Grigorios G Chrysos et.al.|[2504.13112v1](http://arxiv.org/abs/2504.13112v1)|null|
+|**2025-04-17**|**Accommodate Knowledge Conflicts in Retrieval-augmented LLMs: Towards Reliable Response Generation in the Wild**|Jiatai Wang et.al.|[2504.12982v1](http://arxiv.org/abs/2504.12982v1)|null|
+|**2025-04-17**|**A Phenomenological Approach to Analyzing User Queries in IT Systems Using Heidegger's Fundamental Ontology**|Maksim Vishnevskiy et.al.|[2504.12977v1](http://arxiv.org/abs/2504.12977v1)|null|
+|**2025-04-17**|**Enhancing the Geometric Problem-Solving Ability of Multimodal LLMs via Symbolic-Neural Integration**|Yicheng Pan et.al.|[2504.12773v1](http://arxiv.org/abs/2504.12773v1)|null|
+|**2025-04-17**|**WebLists: Extracting Structured Information From Complex Interactive Websites Using Executable LLM Agents**|Arth Bohra et.al.|[2504.12682v1](http://arxiv.org/abs/2504.12682v1)|null|
+|**2025-04-17**|**Benchmarking LLM-based Relevance Judgment Methods**|Negar Arabzadeh et.al.|[2504.12558v1](http://arxiv.org/abs/2504.12558v1)|null|
+|**2025-04-16**|**Mitigating LLM Hallucinations with Knowledge Graphs: A Case Study**|Harry Li et.al.|[2504.12422v1](http://arxiv.org/abs/2504.12422v1)|null|
 |**2025-04-16**|**Self-alignment of Large Video Language Models with Refined Regularized Preference Optimization**|Pritam Sarkar et.al.|[2504.12083v1](http://arxiv.org/abs/2504.12083v1)|null|
 |**2025-04-16**|**Instruction-augmented Multimodal Alignment for Image-Text and Element Matching**|Xinli Yue et.al.|[2504.12018v1](http://arxiv.org/abs/2504.12018v1)|null|
 |**2025-04-16**|**LLM-as-a-Judge: Reassessing the Performance of LLMs in Extractive QA**|Xanh Ho et.al.|[2504.11972v1](http://arxiv.org/abs/2504.11972v1)|null|
@@ -5610,6 +5625,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Maximum Information Extraction From Noisy Data Via Shannon Entropy Minimization**|Matteo Becchi et.al.|[2504.12990v1](http://arxiv.org/abs/2504.12990v1)|null|
 |**2025-04-14**|**Relation-Rich Visual Document Generator for Visual Information Extraction**|Zi-Han Jiang et.al.|[2504.10659v1](http://arxiv.org/abs/2504.10659v1)|null|
 |**2025-04-14**|**Constructing Micro Knowledge Graphs from Technical Support Documents**|Atul Kumar et.al.|[2504.09877v1](http://arxiv.org/abs/2504.09877v1)|null|
 |**2025-04-11**|**Forecasting Cryptocurrency Prices using Contextual ES-adRNN with Exogenous Variables**|Slawek Smyl et.al.|[2504.08947v1](http://arxiv.org/abs/2504.08947v1)|null|
@@ -6268,6 +6284,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**|Ivica Kostric et.al.|[2504.13095v1](http://arxiv.org/abs/2504.13095v1)|null|
+|**2025-04-17**|**SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation**|Nicolas Bougie et.al.|[2504.12722v1](http://arxiv.org/abs/2504.12722v1)|null|
 |**2025-04-16**|**Neural Contextual Bandits Under Delayed Feedback Constraints**|Mohammadali Moghimi et.al.|[2504.12086v1](http://arxiv.org/abs/2504.12086v1)|null|
 |**2025-04-16**|**Generative Recommendation with Continuous-Token Diffusion**|Haohao Qu et.al.|[2504.12007v1](http://arxiv.org/abs/2504.12007v1)|null|
 |**2025-04-16**|**Rethinking LLM-Based Recommendations: A Query Generation-Based, Training-Free Approach**|Donghee Han et.al.|[2504.11889v1](http://arxiv.org/abs/2504.11889v1)|null|
@@ -7812,6 +7830,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Pandora: A Code-Driven Large Language Model Agent for Unified Reasoning Across Diverse Structured Knowledge**|Yongrui Chen et.al.|[2504.12734v1](http://arxiv.org/abs/2504.12734v1)|null|
+|**2025-04-16**|**Mitigating LLM Hallucinations with Knowledge Graphs: A Case Study**|Harry Li et.al.|[2504.12422v1](http://arxiv.org/abs/2504.12422v1)|null|
 |**2025-04-15**|**NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes**|Tianyang Xu et.al.|[2504.11544v1](http://arxiv.org/abs/2504.11544v1)|null|
 |**2025-04-13**|**Leveraging Knowledge Graphs and Large Language Models to Track and Analyze Learning Trajectories**|Yu-Hxiang Chen et.al.|[2504.11481v1](http://arxiv.org/abs/2504.11481v1)|null|
 |**2025-04-15**|**Mutual Understanding between People and Systems via Neurosymbolic AI and Knowledge Graphs**|Irene Celino et.al.|[2504.11200v1](http://arxiv.org/abs/2504.11200v1)|null|
@@ -9085,6 +9105,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Inference-friendly Graph Compression for Graph Neural Networks**|Yangxin Fan et.al.|[2504.13034v1](http://arxiv.org/abs/2504.13034v1)|null|
+|**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[2504.12817v1](http://arxiv.org/abs/2504.12817v1)|null|
+|**2025-04-17**|**Uncertainty Quantification in Graph Neural Networks with Shallow Ensembles**|Tirtha Vinchurkar et.al.|[2504.12627v1](http://arxiv.org/abs/2504.12627v1)|null|
+|**2025-04-16**|**Integrating Structural and Semantic Signals in Text-Attributed Graphs with BiGTex**|Azadeh Beiranvand et.al.|[2504.12474v1](http://arxiv.org/abs/2504.12474v1)|null|
 |**2025-04-16**|**Balancing Graph Embedding Smoothness in Self-Supervised Learning via Information-Theoretic Decomposition**|Heesoo Jung et.al.|[2504.12011v1](http://arxiv.org/abs/2504.12011v1)|null|
 |**2025-04-16**|**A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration**|Gabriele Calzolari et.al.|[2504.11907v1](http://arxiv.org/abs/2504.11907v1)|null|
 |**2025-04-16**|**HyperSAT: Unsupervised Hypergraph Neural Networks for Weighted MaxSAT Problems**|Qiyue Chen et.al.|[2504.11885v1](http://arxiv.org/abs/2504.11885v1)|null|
