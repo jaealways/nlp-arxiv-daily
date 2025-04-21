@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Transformer Encoder and Multi-features Time2Vec for Financial Prediction**|Nguyen Kim Hai Bui et.al.|[2504.13801v1](http://arxiv.org/abs/2504.13801v1)|null|
+|**2025-04-18**|**Word Embedding Techniques for Classification of Star Ratings**|Hesham Abdelmotaleb et.al.|[2504.13653v1](http://arxiv.org/abs/2504.13653v1)|null|
+|**2025-04-18**|**Bitcoin's Edge: Embedded Sentiment in Blockchain Transactional Data**|Charalampos Kleitsikas et.al.|[2504.13598v1](http://arxiv.org/abs/2504.13598v1)|null|
+|**2025-04-18**|**PoEmotion: Can AI Utilize Chinese Calligraphy to Express Emotion from Poems?**|Tiancheng Liu et.al.|[2504.13567v1](http://arxiv.org/abs/2504.13567v1)|null|
+|**2025-04-18**|**Transformers Can Overcome the Curse of Dimensionality: A Theoretical Study from an Approximation Perspective**|Yuling Jiao et.al.|[2504.13558v1](http://arxiv.org/abs/2504.13558v1)|null|
+|**2025-04-18**|**Can Local Representation Alignment RNNs Solve Temporal Tasks?**|Nikolay Manchev et.al.|[2504.13531v1](http://arxiv.org/abs/2504.13531v1)|null|
+|**2025-04-18**|**Deep Learning Models Meet Financial Data Modalities**|Kasymkhan Khubiev et.al.|[2504.13521v1](http://arxiv.org/abs/2504.13521v1)|null|
+|**2025-04-18**|**From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs**|Jiliang Ni et.al.|[2504.13471v1](http://arxiv.org/abs/2504.13471v1)|null|
 |**2025-04-17**|**Automated Generation of Commit Messages in Software Repositories**|Varun Kumar Palakodeti et.al.|[2504.12998v1](http://arxiv.org/abs/2504.12998v1)|null|
 |**2025-04-17**|**SMARTe: Slot-based Method for Accountable Relational Triple extraction**|Xue Wen Tan et.al.|[2504.12816v1](http://arxiv.org/abs/2504.12816v1)|null|
 |**2025-04-16**|**Accelerating Clinical NLP at Scale with a Hybrid Framework with Reduced GPU Demands: A Case Study in Dementia Identification**|Jianlin Shi et.al.|[2504.12494v1](http://arxiv.org/abs/2504.12494v1)|null|
@@ -2469,6 +2477,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828v1](http://arxiv.org/abs/2504.13828v1)|null|
+|**2025-04-18**|**Do Prompt Patterns Affect Code Quality? A First Empirical Assessment of ChatGPT-Generated Code**|Antonio Della Porta et.al.|[2504.13656v1](http://arxiv.org/abs/2504.13656v1)|null|
 |**2025-04-17**|**Aspect-Based Summarization with Self-Aspect Retrieval Enhanced Generation**|Yichao Feng et.al.|[2504.13054v1](http://arxiv.org/abs/2504.13054v1)|null|
 |**2025-04-17**|**Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models**|Kooshan Amini et.al.|[2504.12542v1](http://arxiv.org/abs/2504.12542v1)|null|
 |**2025-04-16**|**Search is All You Need for Few-shot Anomaly Detection**|Qishan Wang et.al.|[2504.11895v1](http://arxiv.org/abs/2504.11895v1)|**[link](https://github.com/qiqigeww/visionad)**|
@@ -3294,6 +3304,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Learning to Attribute with Attention**|Benjamin Cohen-Wang et.al.|[2504.13752v1](http://arxiv.org/abs/2504.13752v1)|null|
+|**2025-04-18**|**Long-context Non-factoid Question Answering in Indic Languages**|Ritwik Mishra et.al.|[2504.13615v1](http://arxiv.org/abs/2504.13615v1)|null|
+|**2025-04-17**|**ChartQA-X: Generating Explanations for Charts**|Shamanthak Hegde et.al.|[2504.13275v1](http://arxiv.org/abs/2504.13275v1)|null|
 |**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180v1](http://arxiv.org/abs/2504.13180v1)|null|
 |**2025-04-17**|**Hadamard product in deep learning: Introduction, Advances and Challenges**|Grigorios G Chrysos et.al.|[2504.13112v1](http://arxiv.org/abs/2504.13112v1)|null|
 |**2025-04-17**|**Accommodate Knowledge Conflicts in Retrieval-augmented LLMs: Towards Reliable Response Generation in the Wild**|Jiatai Wang et.al.|[2504.12982v1](http://arxiv.org/abs/2504.12982v1)|null|
@@ -5625,6 +5638,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Long-context Non-factoid Question Answering in Indic Languages**|Ritwik Mishra et.al.|[2504.13615v1](http://arxiv.org/abs/2504.13615v1)|null|
 |**2025-04-18**|**Maximum Information Extraction From Noisy Data Via Shannon Entropy Minimization**|Matteo Becchi et.al.|[2504.12990v2](http://arxiv.org/abs/2504.12990v2)|null|
 |**2025-04-14**|**Relation-Rich Visual Document Generator for Visual Information Extraction**|Zi-Han Jiang et.al.|[2504.10659v1](http://arxiv.org/abs/2504.10659v1)|null|
 |**2025-04-14**|**Constructing Micro Knowledge Graphs from Technical Support Documents**|Atul Kumar et.al.|[2504.09877v1](http://arxiv.org/abs/2504.09877v1)|null|
@@ -6284,6 +6298,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Bake Two Cakes with One Oven: RL for Defusing Popularity Bias and Cold-start in Third-Party Library Recommendations**|Minh Hoang Vuong et.al.|[2504.13772v1](http://arxiv.org/abs/2504.13772v1)|null|
+|**2025-04-18**|**Multi-Type Context-Aware Conversational Recommender Systems via Mixture-of-Experts**|Jie Zou et.al.|[2504.13655v1](http://arxiv.org/abs/2504.13655v1)|null|
+|**2025-04-18**|**A Reinforcement Learning Method to Factual and Counterfactual Explanations for Session-based Recommendation**|Han Zhou et.al.|[2504.13632v1](http://arxiv.org/abs/2504.13632v1)|null|
+|**2025-04-18**|**Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation**|Zahra Akhlaghi et.al.|[2504.13614v1](http://arxiv.org/abs/2504.13614v1)|null|
+|**2025-04-18**|**How to Mine Potentially Popular Items? A Reverse MIPS-based Approach**|Daichi Amagata et.al.|[2504.13445v1](http://arxiv.org/abs/2504.13445v1)|null|
 |**2025-04-17**|**Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**|Ivica Kostric et.al.|[2504.13095v1](http://arxiv.org/abs/2504.13095v1)|**[link](https://github.com/iai-group/umap2025-convstyles)**|
 |**2025-04-17**|**SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation**|Nicolas Bougie et.al.|[2504.12722v1](http://arxiv.org/abs/2504.12722v1)|null|
 |**2025-04-16**|**Neural Contextual Bandits Under Delayed Feedback Constraints**|Mohammadali Moghimi et.al.|[2504.12086v1](http://arxiv.org/abs/2504.12086v1)|null|
@@ -7830,6 +7849,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Multi-Type Context-Aware Conversational Recommender Systems via Mixture-of-Experts**|Jie Zou et.al.|[2504.13655v1](http://arxiv.org/abs/2504.13655v1)|null|
+|**2025-04-18**|**Multi-modal Knowledge Graph Generation with Semantics-enriched Prompts**|Yajing Xu et.al.|[2504.13631v1](http://arxiv.org/abs/2504.13631v1)|null|
+|**2025-04-18**|**CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models**|Feiyang Li et.al.|[2504.13534v1](http://arxiv.org/abs/2504.13534v1)|null|
 |**2025-04-17**|**Pandora: A Code-Driven Large Language Model Agent for Unified Reasoning Across Diverse Structured Knowledge**|Yongrui Chen et.al.|[2504.12734v1](http://arxiv.org/abs/2504.12734v1)|null|
 |**2025-04-16**|**Mitigating LLM Hallucinations with Knowledge Graphs: A Case Study**|Harry Li et.al.|[2504.12422v1](http://arxiv.org/abs/2504.12422v1)|null|
 |**2025-04-15**|**NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes**|Tianyang Xu et.al.|[2504.11544v1](http://arxiv.org/abs/2504.11544v1)|null|
@@ -9105,6 +9127,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**On the Relationship Between Robustness and Expressivity of Graph Neural Networks**|Lorenz Kummer et.al.|[2504.13786v1](http://arxiv.org/abs/2504.13786v1)|null|
+|**2025-04-18**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768v1](http://arxiv.org/abs/2504.13768v1)|null|
+|**2025-04-18**|**Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation**|Zahra Akhlaghi et.al.|[2504.13614v1](http://arxiv.org/abs/2504.13614v1)|null|
+|**2025-04-18**|**ViG3D-UNet: Volumetric Vascular Connectivity-Aware Segmentation via 3D Vision Graph Representation**|Bowen Liu et.al.|[2504.13599v1](http://arxiv.org/abs/2504.13599v1)|null|
+|**2025-04-18**|**Bounded and Uniform Energy-based Out-of-distribution Detection for Graphs**|Shenzhi Yang et.al.|[2504.13429v1](http://arxiv.org/abs/2504.13429v1)|null|
+|**2025-04-17**|**Graph Learning at Scale: Characterizing and Optimizing Pre-Propagation GNNs**|Zichao Yue et.al.|[2504.13266v1](http://arxiv.org/abs/2504.13266v1)|null|
 |**2025-04-17**|**Inference-friendly Graph Compression for Graph Neural Networks**|Yangxin Fan et.al.|[2504.13034v1](http://arxiv.org/abs/2504.13034v1)|null|
 |**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[2504.12817v1](http://arxiv.org/abs/2504.12817v1)|null|
 |**2025-04-17**|**Uncertainty Quantification in Graph Neural Networks with Shallow Ensembles**|Tirtha Vinchurkar et.al.|[2504.12627v1](http://arxiv.org/abs/2504.12627v1)|null|
