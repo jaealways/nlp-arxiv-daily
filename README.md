@@ -1,4 +1,4 @@
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-22**|**A Python Tool for Reconstructing Full News Text from GDELT**|A. Fronzetti Colladon et.al.|[2504.16063v1](http://arxiv.org/abs/2504.16063v1)|null|
-|**2025-04-22**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005v1](http://arxiv.org/abs/2504.16005v1)|**[link](https://github.com/finitearth/capo)**|
+|**2025-04-23**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005v2](http://arxiv.org/abs/2504.16005v2)|**[link](https://github.com/finitearth/capo)**|
 |**2025-04-22**|**W-PCA Based Gradient-Free Proxy for Efficient Search of Lightweight Language Models**|Shang Wang et.al.|[2504.15983v1](http://arxiv.org/abs/2504.15983v1)|null|
 |**2025-04-21**|**Real-Time Sentiment Insights from X Using VADER, DistilBERT, and Web-Scraped Data**|Yanampally Abhiram Reddy et.al.|[2504.15448v1](http://arxiv.org/abs/2504.15448v1)|null|
 |**2025-04-21**|**Event2Vec: Processing neuromorphic events directly by representations in vector space**|Wei Fang et.al.|[2504.15371v1](http://arxiv.org/abs/2504.15371v1)|null|
@@ -2457,7 +2457,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20250423'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250424'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -2486,7 +2486,7 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20250423'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250424'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -3320,7 +3320,7 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20250423'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250424'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -3328,7 +3328,7 @@
 |---|---|---|---|---|
 |**2025-04-22**|**Survey of Video Diffusion Models: Foundations, Implementations, and Applications**|Yimu Wang et.al.|[2504.16081v1](http://arxiv.org/abs/2504.16081v1)|null|
 |**2025-04-22**|**Honey, I Shrunk the Language Model: Impact of Knowledge Distillation Methods on Performance and Explainability**|Daniel Hendriks et.al.|[2504.16056v1](http://arxiv.org/abs/2504.16056v1)|null|
-|**2025-04-22**|**FinDER: Financial Dataset for Question Answering and Evaluating Retrieval-Augmented Generation**|Chanyeol Choi et.al.|[2504.15800v1](http://arxiv.org/abs/2504.15800v1)|null|
+|**2025-04-23**|**FinDER: Financial Dataset for Question Answering and Evaluating Retrieval-Augmented Generation**|Chanyeol Choi et.al.|[2504.15800v2](http://arxiv.org/abs/2504.15800v2)|null|
 |**2025-04-22**|**Exploiting Contextual Knowledge in LLMs through V-usable Information based Layer Enhancement**|Xiaowei Yuan et.al.|[2504.15630v1](http://arxiv.org/abs/2504.15630v1)|null|
 |**2025-04-22**|**The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks**|Minghao Wu et.al.|[2504.15521v1](http://arxiv.org/abs/2504.15521v1)|null|
 |**2025-04-21**|**Towards Understanding Camera Motions in Any Video**|Zhiqiu Lin et.al.|[2504.15376v1](http://arxiv.org/abs/2504.15376v1)|null|
@@ -5670,7 +5670,7 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20250423'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250424'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -5680,7 +5680,7 @@
 |**2025-04-20**|**Harnessing Generative LLMs for Enhanced Financial Event Entity Extraction Performance**|Soo-joon Choi et.al.|[2504.14633v1](http://arxiv.org/abs/2504.14633v1)|null|
 |**2025-04-20**|**FinSage: A Multi-aspect RAG System for Financial Filings Question Answering**|Xinyu Wang et.al.|[2504.14493v1](http://arxiv.org/abs/2504.14493v1)|null|
 |**2025-04-18**|**Long-context Non-factoid Question Answering in Indic Languages**|Ritwik Mishra et.al.|[2504.13615v1](http://arxiv.org/abs/2504.13615v1)|null|
-|**2025-04-22**|**Maximum Information Extraction From Noisy Data Via Shannon Entropy Minimization**|Matteo Becchi et.al.|[2504.12990v3](http://arxiv.org/abs/2504.12990v3)|null|
+|**2025-04-23**|**Maximum Information Extraction From Noisy Data Via Shannon Entropy Minimization**|Matteo Becchi et.al.|[2504.12990v4](http://arxiv.org/abs/2504.12990v4)|null|
 |**2025-04-14**|**Relation-Rich Visual Document Generator for Visual Information Extraction**|Zi-Han Jiang et.al.|[2504.10659v1](http://arxiv.org/abs/2504.10659v1)|null|
 |**2025-04-14**|**Constructing Micro Knowledge Graphs from Technical Support Documents**|Atul Kumar et.al.|[2504.09877v1](http://arxiv.org/abs/2504.09877v1)|null|
 |**2025-04-11**|**Forecasting Cryptocurrency Prices using Contextual ES-adRNN with Exogenous Variables**|Slawek Smyl et.al.|[2504.08947v1](http://arxiv.org/abs/2504.08947v1)|null|
@@ -6333,7 +6333,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20250423'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250424'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -7895,7 +7895,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20250423'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250424'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -9181,7 +9181,7 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|**[link](https://github.com/hkust-knowcomp/abductivekgr)**|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20250423'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250424'>back to top</a>)</p>
 
 ## GNN
 
@@ -11493,5 +11493,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|**[link](https://github.com/basiralab/falcon)**|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20250423'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250424'>back to top</a>)</p>
 
