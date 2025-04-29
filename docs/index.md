@@ -22,6 +22,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020v1](http://arxiv.org/abs/2504.20020v1)|null|
+|**2025-04-28**|**Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage**|Anita Srbinovska et.al.|[2504.20007v1](http://arxiv.org/abs/2504.20007v1)|null|
+|**2025-04-28**|**FineQ: Software-Hardware Co-Design for Low-Bit Fine-Grained Mixed-Precision Quantization of LLMs**|Xilong Xie et.al.|[2504.19746v1](http://arxiv.org/abs/2504.19746v1)|null|
+|**2025-04-28**|**Annif at SemEval-2025 Task 5: Traditional XMTC augmented by LLMs**|Osma Suominen et.al.|[2504.19675v1](http://arxiv.org/abs/2504.19675v1)|null|
+|**2025-04-28**|**A Comprehensive Part-of-Speech Tagging to Standardize Central-Kurdish Language: A Research Guide for Kurdish Natural Language Processing Tasks**|Shadan Shukr Sabr et.al.|[2504.19645v1](http://arxiv.org/abs/2504.19645v1)|null|
+|**2025-04-28**|**Coreference Resolution for Vietnamese Narrative Texts**|Hieu-Dai Tran et.al.|[2504.19606v1](http://arxiv.org/abs/2504.19606v1)|null|
+|**2025-04-28**|**BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text**|Jiageng Wu et.al.|[2504.19467v1](http://arxiv.org/abs/2504.19467v1)|null|
+|**2025-04-27**|**VIST-GPT: Ushering in the Era of Visual Storytelling with LLMs?**|Mohamed Gado et.al.|[2504.19267v1](http://arxiv.org/abs/2504.19267v1)|null|
+|**2025-04-26**|**RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning**|Haoran Geng et.al.|[2504.18904v1](http://arxiv.org/abs/2504.18904v1)|null|
+|**2025-04-25**|**Can Third-parties Read Our Emotions?**|Jiayi Li et.al.|[2504.18673v1](http://arxiv.org/abs/2504.18673v1)|null|
 |**2025-04-25**|**Spatial Reasoner: A 3D Inference Pipeline for XR Applications**|Steven Häsler et.al.|[2504.18380v1](http://arxiv.org/abs/2504.18380v1)|null|
 |**2025-04-25**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158v1](http://arxiv.org/abs/2504.18158v1)|null|
 |**2025-04-25**|**EDU-NER-2025: Named Entity Recognition in Urdu Educational Texts using XLM-RoBERTa with X (formerly Twitter)**|Fida Ullah et.al.|[2504.18142v1](http://arxiv.org/abs/2504.18142v1)|null|
@@ -2520,6 +2530,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design**|Linshi Li et.al.|[2504.20016v1](http://arxiv.org/abs/2504.20016v1)|null|
+|**2025-04-28**|**LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects**|Guangyi Liu et.al.|[2504.19838v1](http://arxiv.org/abs/2504.19838v1)|null|
+|**2025-04-28**|**Generative AI in Education: Student Skills and Lecturer Roles**|Stefanie Krause et.al.|[2504.19673v1](http://arxiv.org/abs/2504.19673v1)|null|
+|**2025-04-26**|**Artificial Intelligence Generates Stereotypical Images of Scientists but Can Also Detect Them: A Pilot Study Using the Draw-A-Scientist Test**|Gyeonggeon Lee et.al.|[2504.19005v1](http://arxiv.org/abs/2504.19005v1)|null|
+|**2025-04-26**|**Tracking the Moving Target: A Framework for Continuous Evaluation of LLM Test Generation in Industry**|Maider Azanza et.al.|[2504.18985v1](http://arxiv.org/abs/2504.18985v1)|null|
+|**2025-04-26**|**Inferring Questions from Programming Screenshots**|Faiz Ahmed et.al.|[2504.18912v1](http://arxiv.org/abs/2504.18912v1)|null|
+|**2025-04-25**|**A Review of 3D Object Detection with Vision-Language Models**|Ranjan Sapkota et.al.|[2504.18738v1](http://arxiv.org/abs/2504.18738v1)|null|
+|**2025-04-25**|**MODP: Multi Objective Directional Prompting**|Aashutosh Nema et.al.|[2504.18722v1](http://arxiv.org/abs/2504.18722v1)|null|
+|**2025-04-25**|**Proof-of-TBI -- Fine-Tuned Vision Language Model Consortium and OpenAI-o3 Reasoning LLM-Based Medical Diagnosis Support System for Mild Traumatic Brain Injury (TBI) Prediction**|Ross Gore et.al.|[2504.18671v1](http://arxiv.org/abs/2504.18671v1)|null|
 |**2025-04-25**|**Comparative Study on the Discourse Meaning of Chinese and English Media in the Paris Olympics Based on LDA Topic Modeling Technology and LLM Prompt Engineering**|Yinglong Yu et.al.|[2504.18106v1](http://arxiv.org/abs/2504.18106v1)|null|
 |**2025-04-23**|**PIS: Linking Importance Sampling and Attention Mechanisms for Efficient Prompt Compression**|Lizhe Chen et.al.|[2504.16574v1](http://arxiv.org/abs/2504.16574v1)|null|
 |**2025-04-23**|**Private Federated Learning using Preference-Optimized Synthetic Data**|Charlie Hou et.al.|[2504.16438v1](http://arxiv.org/abs/2504.16438v1)|null|
@@ -3359,6 +3378,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041v1](http://arxiv.org/abs/2504.20041v1)|null|
+|**2025-04-28**|**Better To Ask in English? Evaluating Factual Accuracy of Multilingual LLMs in English and Low-Resource Languages**|Pritika Rohera et.al.|[2504.20022v1](http://arxiv.org/abs/2504.20022v1)|null|
+|**2025-04-28**|**Knowledge Distillation of Domain-adapted LLMs for Question-Answering in Telecom**|Rishika Sen et.al.|[2504.20000v1](http://arxiv.org/abs/2504.20000v1)|null|
+|**2025-04-28**|**m-KAILIN: Knowledge-Driven Agentic Scientific Corpus Distillation Framework for Biomedical Large Language Models Training**|Meng Xiao et.al.|[2504.19565v1](http://arxiv.org/abs/2504.19565v1)|null|
+|**2025-04-28**|**Context-Guided Dynamic Retrieval for Improving Generation Quality in RAG Models**|Jacky He et.al.|[2504.19436v1](http://arxiv.org/abs/2504.19436v1)|null|
+|**2025-04-27**|**Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers**|Dylan Bouchard et.al.|[2504.19254v1](http://arxiv.org/abs/2504.19254v1)|null|
+|**2025-04-27**|**Privacy-Preserving Federated Embedding Learning for Localized Retrieval-Augmented Generation**|Qianren Mao et.al.|[2504.19101v1](http://arxiv.org/abs/2504.19101v1)|null|
+|**2025-04-26**|**Test It Before You Trust It: Applying Software Testing for Trustworthy In-context Learning**|Teeradaj Racharak et.al.|[2504.18827v1](http://arxiv.org/abs/2504.18827v1)|null|
 |**2025-04-25**|**Kimi-Audio Technical Report**|KimiTeam et.al.|[2504.18425v1](http://arxiv.org/abs/2504.18425v1)|null|
 |**2025-04-25**|**An Empirical Study of Evaluating Long-form Question Answering**|Ning Xian et.al.|[2504.18413v1](http://arxiv.org/abs/2504.18413v1)|null|
 |**2025-04-25**|**Pushing the boundary on Natural Language Inference**|Pablo Miralles-González et.al.|[2504.18376v1](http://arxiv.org/abs/2504.18376v1)|null|
@@ -5721,6 +5748,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-27**|**Leveraging Multi-Modal Saliency and Fusion for Gaze Target Detection**|Athul M. Mathew et.al.|[2504.19271v1](http://arxiv.org/abs/2504.19271v1)|null|
+|**2025-04-27**|**Hallucinations and Key Information Extraction in Medical Texts: A Comprehensive Assessment of Open-Source Large Language Models**|Anindya Bijoy Das et.al.|[2504.19061v1](http://arxiv.org/abs/2504.19061v1)|null|
 |**2025-04-25**|**Facets, Taxonomies, and Syntheses: Navigating Structured Representations in LLM-Assisted Literature Review**|Raymond Fok et.al.|[2504.18496v1](http://arxiv.org/abs/2504.18496v1)|null|
 |**2025-04-25**|**Machine Learning-Based b-Jet Tagging in pp Collisions at $\sqrt{s}=13$ TeV**|Hadi Hassan et.al.|[2504.18291v1](http://arxiv.org/abs/2504.18291v1)|null|
 |**2025-04-25**|**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**|Honghao Li et.al.|[2504.17699v2](http://arxiv.org/abs/2504.17699v2)|null|
@@ -6392,6 +6421,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013v1](http://arxiv.org/abs/2504.20013v1)|null|
+|**2025-04-28**|**Optimal Sequential Recommendations: Exploiting User and Item Structure**|Mina Karzand et.al.|[2504.19476v1](http://arxiv.org/abs/2504.19476v1)|null|
+|**2025-04-27**|**AGILE: Lightweight and Efficient Asynchronous GPU-SSD Integration**|Zhuoping Yang et.al.|[2504.19365v1](http://arxiv.org/abs/2504.19365v1)|null|
+|**2025-04-26**|**Feature Fusion Revisited: Multimodal CTR Prediction for MMCTR Challenge**|Junjie Zhou et.al.|[2504.18961v1](http://arxiv.org/abs/2504.18961v1)|null|
+|**2025-04-26**|**A Survey on Multimodal Music Emotion Recognition**|Rashini Liyanarachchi et.al.|[2504.18799v1](http://arxiv.org/abs/2504.18799v1)|null|
+|**2025-04-26**|**Generative Product Recommendations for Implicit Superlative Queries**|Kaustubh D. Dhole et.al.|[2504.18748v1](http://arxiv.org/abs/2504.18748v1)|null|
 |**2025-04-25**|**Revisiting Algorithmic Audits of TikTok: Poor Reproducibility and Short-term Validity of Findings**|Matej Mosnar et.al.|[2504.18140v1](http://arxiv.org/abs/2504.18140v1)|null|
 |**2025-04-23**|**FIM: Frequency-Aware Multi-View Interest Modeling for Local-Life Service Recommendation**|Guoquan Wang et.al.|[2504.17814v1](http://arxiv.org/abs/2504.17814v1)|null|
 |**2025-04-22**|**OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning**|Anirudhan Badrinath et.al.|[2504.17811v1](http://arxiv.org/abs/2504.17811v1)|null|
@@ -7963,6 +7998,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**A Tripartite Perspective on GraphRAG**|Michael Banf et.al.|[2504.19667v1](http://arxiv.org/abs/2504.19667v1)|null|
+|**2025-04-28**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458v1](http://arxiv.org/abs/2504.19458v1)|null|
+|**2025-04-27**|**Representing and querying data tensors in RDF and SPARQL**|Piotr Marciniak et.al.|[2504.19224v1](http://arxiv.org/abs/2504.19224v1)|null|
+|**2025-04-25**|**World Food Atlas Project**|Ali Rostami et.al.|[2504.18727v1](http://arxiv.org/abs/2504.18727v1)|null|
+|**2025-04-24**|**Toward Personalizing Quantum Computing Education: An Evolutionary LLM-Powered Approach**|Iizalaarab Elhaimeur et.al.|[2504.18603v1](http://arxiv.org/abs/2504.18603v1)|null|
 |**2025-04-25**|**Spatial Reasoner: A 3D Inference Pipeline for XR Applications**|Steven Häsler et.al.|[2504.18380v1](http://arxiv.org/abs/2504.18380v1)|null|
 |**2025-04-25**|**Efficient Learning on Large Graphs using a Densifying Regularity Lemma**|Jonathan Kouchly et.al.|[2504.18273v1](http://arxiv.org/abs/2504.18273v1)|null|
 |**2025-04-25**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070v1](http://arxiv.org/abs/2504.18070v1)|null|
@@ -9257,6 +9297,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Graph Neural Network Prediction of Nonlinear Optical Properties**|Yomn Alkabakibi et.al.|[2504.19987v1](http://arxiv.org/abs/2504.19987v1)|null|
+|**2025-04-28**|**Hierarchical Uncertainty-Aware Graph Neural Network**|Yoonhyuk Choi et.al.|[2504.19820v1](http://arxiv.org/abs/2504.19820v1)|null|
+|**2025-04-28**|**Heterophily-informed Message Passing**|Haishan Wang et.al.|[2504.19785v1](http://arxiv.org/abs/2504.19785v1)|null|
+|**2025-04-28**|**Learning Efficiency Meets Symmetry Breaking**|Yingbin Bai et.al.|[2504.19738v1](http://arxiv.org/abs/2504.19738v1)|null|
+|**2025-04-28**|**Explaining Vision GNNs: A Semantic and Visual Analysis of Graph-based Image Classification**|Nikolaos Chaidos et.al.|[2504.19682v1](http://arxiv.org/abs/2504.19682v1)|null|
+|**2025-04-28**|**Intelligent4DSE: Optimizing High-Level Synthesis Design Space Exploration with Graph Neural Networks and Large Language Models**|Lei Xu et.al.|[2504.19649v1](http://arxiv.org/abs/2504.19649v1)|null|
+|**2025-04-28**|**A Universal Spin-Orbit-Coupled Hamiltonian Model for Accelerated Quantum Material Discovery**|Yang Zhong et.al.|[2504.19586v1](http://arxiv.org/abs/2504.19586v1)|null|
+|**2025-04-28**|**Graph Reinforcement Learning for QoS-Aware Load Balancing in Open Radio Access Networks**|Omid Semiari et.al.|[2504.19499v1](http://arxiv.org/abs/2504.19499v1)|null|
+|**2025-04-26**|**HeartSimSage: Attention-Enhanced Graph Neural Networks for Accelerating Cardiac Mechanics Modeling**|Lei Shi et.al.|[2504.18968v1](http://arxiv.org/abs/2504.18968v1)|null|
+|**2025-04-26**|**Kinship Verification through a Forest Neural Network**|Ali Nazari et.al.|[2504.18910v1](http://arxiv.org/abs/2504.18910v1)|null|
 |**2025-04-25**|**Testing Individual Fairness in Graph Neural Networks**|Roya Nasiri et.al.|[2504.18353v1](http://arxiv.org/abs/2504.18353v1)|null|
 |**2025-04-25**|**Efficient Learning on Large Graphs using a Densifying Regularity Lemma**|Jonathan Kouchly et.al.|[2504.18273v1](http://arxiv.org/abs/2504.18273v1)|null|
 |**2025-04-25**|**Efficient GNN Training Through Structure-Aware Randomized Mini-Batching**|Vignesh Balaji et.al.|[2504.18082v1](http://arxiv.org/abs/2504.18082v1)|null|
