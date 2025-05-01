@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Vision Transformers in Precision Agriculture: A Comprehensive Survey**|Saber Mehdipour et.al.|[2504.21706v1](http://arxiv.org/abs/2504.21706v1)|null|
+|**2025-04-30**|**From Precision to Perception: User-Centred Evaluation of Keyword Extraction Algorithms for Internet-Scale Contextual Advertising**|Jingwen Cai et.al.|[2504.21667v1](http://arxiv.org/abs/2504.21667v1)|null|
+|**2025-04-30**|**Sadeed: Advancing Arabic Diacritization Through Small Language Model**|Zeina Aldallal et.al.|[2504.21635v1](http://arxiv.org/abs/2504.21635v1)|null|
+|**2025-04-30**|**Precision Where It Matters: A Novel Spike Aware Mixed-Precision Quantization Strategy for LLaMA-based Language Models**|Lucas Maisonnave et.al.|[2504.21553v1](http://arxiv.org/abs/2504.21553v1)|null|
+|**2025-04-30**|**Advancing Arabic Reverse Dictionary Systems: A Transformer-Based Approach with Dataset Construction Guidelines**|Serry Sibaee et.al.|[2504.21475v1](http://arxiv.org/abs/2504.21475v1)|null|
+|**2025-04-30**|**Sparse-to-Sparse Training of Diffusion Models**|Inês Cardoso Oliveira et.al.|[2504.21380v1](http://arxiv.org/abs/2504.21380v1)|null|
+|**2025-04-30**|**Retrieval-Enhanced Few-Shot Prompting for Speech Event Extraction**|Máté Gedeon et.al.|[2504.21372v1](http://arxiv.org/abs/2504.21372v1)|null|
+|**2025-04-29**|**A Survey on Parameter-Efficient Fine-Tuning for Foundation Models in Federated Learning**|Jieming Bian et.al.|[2504.21099v1](http://arxiv.org/abs/2504.21099v1)|null|
 |**2025-04-29**|**Language Model for Large-Text Transmission in Noisy Quantum Communications**|Yuqi Li et.al.|[2504.20842v1](http://arxiv.org/abs/2504.20842v1)|null|
 |**2025-04-29**|**WenyanGPT: A Large Language Model for Classical Chinese Tasks**|Xinyu Yao et.al.|[2504.20609v1](http://arxiv.org/abs/2504.20609v1)|null|
 |**2025-04-29**|**Natural Language Processing tools for Pharmaceutical Manufacturing Information Extraction from Patents Natural Language Processing (NLP) tools for Pharmaceutical Manufacturing Information Extraction from Patents**|Diego Alvarado-Maldonado et.al.|[2504.20598v1](http://arxiv.org/abs/2504.20598v1)|null|
@@ -2532,9 +2540,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814v1](http://arxiv.org/abs/2504.21814v1)|null|
+|**2025-04-30**|**LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs**|Baleegh Ahmad et.al.|[2504.21770v1](http://arxiv.org/abs/2504.21770v1)|null|
+|**2025-04-30**|**Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models**|Sangmin Woo et.al.|[2504.21559v1](http://arxiv.org/abs/2504.21559v1)|null|
+|**2025-04-29**|**SecRepoBench: Benchmarking LLMs for Secure Code Generation in Real-World Repositories**|Connor Dilgren et.al.|[2504.21205v1](http://arxiv.org/abs/2504.21205v1)|null|
+|**2025-04-29**|**Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts**|Hanhua Hong et.al.|[2504.21117v1](http://arxiv.org/abs/2504.21117v1)|null|
 |**2025-04-29**|**Trace-of-Thought: Enhanced Arithmetic Problem Solving via Reasoning Distillation From Large to Small Language Models**|Tyler McDonald et.al.|[2504.20946v1](http://arxiv.org/abs/2504.20946v1)|null|
 |**2025-04-29**|**Leveraging Generative AI Through Prompt Engineering and Rigorous Validation to Create Comprehensive Synthetic Datasets for AI Training in Healthcare**|Polycarp Nalela et.al.|[2504.20921v1](http://arxiv.org/abs/2504.20921v1)|null|
-|**2025-04-29**|**TF1-EN-3M: Three Million Synthetic Moral Fables for Training Small, Open Language Models**|Mihai Nadas et.al.|[2504.20605v1](http://arxiv.org/abs/2504.20605v1)|null|
+|**2025-04-29**|**TF1-EN-3M: Three Million Synthetic Moral Fables for Training Small, Open Language Models**|Mihai Nadas et.al.|[2504.20605v1](http://arxiv.org/abs/2504.20605v1)|**[link](https://github.com/klusai/tinyfabulist)**|
 |**2025-04-29**|**Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction**|Yulin Chen et.al.|[2504.20472v1](http://arxiv.org/abs/2504.20472v1)|null|
 |**2025-04-29**|**A Summary on GUI Agents with Foundation Models Enhanced by Reinforcement Learning**|Jiahao Li et.al.|[2504.20464v1](http://arxiv.org/abs/2504.20464v1)|null|
 |**2025-04-29**|**Local Prompt Optimization**|Yash Jain et.al.|[2504.20355v1](http://arxiv.org/abs/2504.20355v1)|null|
@@ -3387,6 +3400,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Static or Dynamic: Towards Query-Adaptive Token Selection for Video Question Answering**|Yumeng Shi et.al.|[2504.21403v1](http://arxiv.org/abs/2504.21403v1)|null|
+|**2025-04-30**|**UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation**|Linshan Wu et.al.|[2504.21336v1](http://arxiv.org/abs/2504.21336v1)|null|
+|**2025-04-30**|**An Evaluation of a Visual Question Answering Strategy for Zero-shot Facial Expression Recognition in Still Images**|Modesto Castrillón-Santana et.al.|[2504.21309v1](http://arxiv.org/abs/2504.21309v1)|null|
+|**2025-04-30**|**Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA**|Xuanzhao Dong et.al.|[2504.21252v1](http://arxiv.org/abs/2504.21252v1)|null|
+|**2025-04-29**|**LLM Enhancer: Merged Approach using Vector Embedding for Reducing Large Language Model Hallucinations with External Knowledge**|Naheed Rayhan et.al.|[2504.21132v1](http://arxiv.org/abs/2504.21132v1)|null|
 |**2025-04-29**|**SetKE: Knowledge Editing for Knowledge Elements Overlap**|Yifan Wei et.al.|[2504.20972v1](http://arxiv.org/abs/2504.20972v1)|null|
 |**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930v1](http://arxiv.org/abs/2504.20930v1)|null|
 |**2025-04-29**|**SpaRE: Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data**|Michael Ogezi et.al.|[2504.20648v1](http://arxiv.org/abs/2504.20648v1)|null|
@@ -5763,6 +5781,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Retrieval-Enhanced Few-Shot Prompting for Speech Event Extraction**|Máté Gedeon et.al.|[2504.21372v1](http://arxiv.org/abs/2504.21372v1)|null|
+|**2025-04-30**|**Subject Information Extraction for Novelty Detection with Domain Shifts**|Yangyang Qu et.al.|[2504.21247v1](http://arxiv.org/abs/2504.21247v1)|null|
 |**2025-04-29**|**Hamiltonian learning of triplon excitations in an artificial nanoscale molecular quantum magnet**|Rouven Koch et.al.|[2504.20711v1](http://arxiv.org/abs/2504.20711v1)|null|
 |**2025-04-29**|**Natural Language Processing tools for Pharmaceutical Manufacturing Information Extraction from Patents Natural Language Processing (NLP) tools for Pharmaceutical Manufacturing Information Extraction from Patents**|Diego Alvarado-Maldonado et.al.|[2504.20598v1](http://arxiv.org/abs/2504.20598v1)|null|
 |**2025-04-29**|**Style-Adaptive Detection Transformer for Single-Source Domain Generalized Object Detection**|Jianhong Han et.al.|[2504.20498v1](http://arxiv.org/abs/2504.20498v1)|null|
@@ -6439,6 +6459,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Learning Universal User Representations Leveraging Cross-domain User Intent at Snapchat**|Clark Mingxuan Ju et.al.|[2504.21838v1](http://arxiv.org/abs/2504.21838v1)|null|
+|**2025-04-30**|**FAST-Q: Fast-track Exploration with Adversarially Balanced State Representations for Counterfactual Action Estimation in Offline Reinforcement Learning**|Pulkit Agrawal et.al.|[2504.21383v1](http://arxiv.org/abs/2504.21383v1)|null|
+|**2025-04-30**|**Enhancing New-item Fairness in Dynamic Recommender Systems**|Huizhong Guo et.al.|[2504.21362v1](http://arxiv.org/abs/2504.21362v1)|null|
+|**2025-04-30**|**Fairness in Graph Learning Augmented with Machine Learning: A Survey**|Renqiang Luo et.al.|[2504.21296v1](http://arxiv.org/abs/2504.21296v1)|null|
 |**2025-04-29**|**X-Cross: Dynamic Integration of Language Models for Cross-Domain Sequential Recommendation**|Guy Hadad et.al.|[2504.20859v1](http://arxiv.org/abs/2504.20859v1)|null|
 |**2025-04-29**|**RecGaze: The First Eye Tracking and User Interaction Dataset for Carousel Interfaces**|Santiago de Leon-Martinez et.al.|[2504.20792v1](http://arxiv.org/abs/2504.20792v1)|null|
 |**2025-04-29**|**Search-Based Interaction For Conversation Recommendation via Generative Reward Model Based Simulated User**|Xiaolei Wang et.al.|[2504.20458v1](http://arxiv.org/abs/2504.20458v1)|null|
@@ -8022,6 +8046,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Automatic Mapping of AutomationML Files to Ontologies for Graph Queries and Validation**|Tom Westermann et.al.|[2504.21694v1](http://arxiv.org/abs/2504.21694v1)|null|
+|**2025-04-26**|**PICO: Secure Transformers via Robust Prompt Isolation and Cybersecurity Oversight**|Ben Goertzel et.al.|[2504.21029v1](http://arxiv.org/abs/2504.21029v1)|null|
 |**2025-04-29**|**Grokking in the Wild: Data Augmentation for Real-World Multi-Hop Reasoning with Transformers**|Roman Abramov et.al.|[2504.20752v1](http://arxiv.org/abs/2504.20752v1)|null|
 |**2025-04-28**|**OpenTCM: A GraphRAG-Empowered LLM-based System for Traditional Chinese Medicine Knowledge Retrieval and Diagnosis**|Jinglin He et.al.|[2504.20118v1](http://arxiv.org/abs/2504.20118v1)|null|
 |**2025-04-28**|**A Tripartite Perspective on GraphRAG**|Michael Banf et.al.|[2504.19667v1](http://arxiv.org/abs/2504.19667v1)|null|
@@ -9323,6 +9349,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks**|William Sutcliffe et.al.|[2504.21844v1](http://arxiv.org/abs/2504.21844v1)|null|
+|**2025-04-30**|**MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks**|Paola F. Antonietti et.al.|[2504.21780v1](http://arxiv.org/abs/2504.21780v1)|null|
+|**2025-04-30**|**ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning**|Sixuan Wang et.al.|[2504.21254v1](http://arxiv.org/abs/2504.21254v1)|null|
+|**2025-04-30**|**Database and deep-learning scalability of anharmonic phonon properties by automated brute-force first-principles calculations**|Masato Ohnishi et.al.|[2504.21245v1](http://arxiv.org/abs/2504.21245v1)|null|
+|**2025-04-29**|**FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs**|Zihan Chen et.al.|[2504.21206v1](http://arxiv.org/abs/2504.21206v1)|null|
+|**2025-04-29**|**Artificial Intelligence for Personalized Prediction of Alzheimer's Disease Progression: A Survey of Methods, Data Challenges, and Future Directions**|Gulsah Hancerliogullari Koksalmis et.al.|[2504.21189v1](http://arxiv.org/abs/2504.21189v1)|null|
+|**2025-04-29**|**LIFT: LLM-Based Pragma Insertion for HLS via GNN Supervised Fine-Tuning**|Neha Prakriya et.al.|[2504.21187v1](http://arxiv.org/abs/2504.21187v1)|null|
 |**2025-04-29**|**Dual Explanations via Subgraph Matching for Malware Detection**|Hossein Shokouhinejad et.al.|[2504.20904v1](http://arxiv.org/abs/2504.20904v1)|null|
 |**2025-04-30**|**Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks**|Junyuan Fang et.al.|[2504.20869v2](http://arxiv.org/abs/2504.20869v2)|null|
 |**2025-04-29**|**Mitigating the Structural Bias in Graph Adversarial Defenses**|Junyuan Fang et.al.|[2504.20848v1](http://arxiv.org/abs/2504.20848v1)|null|
