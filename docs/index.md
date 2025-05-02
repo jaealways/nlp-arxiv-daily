@@ -22,6 +22,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Investigating Task Arithmetic for Zero-Shot Information Retrieval**|Marco Braga et.al.|[2505.00649v1](http://arxiv.org/abs/2505.00649v1)|null|
+|**2025-05-01**|**From Requirements to Test Cases: An NLP-Based Approach for High-Performance ECU Test Case Automation**|Nikitha Medeshetty et.al.|[2505.00547v1](http://arxiv.org/abs/2505.00547v1)|null|
+|**2025-05-01**|**A Generalised Framework for Property-Driven Machine Learning**|Thomas Flinkow et.al.|[2505.00466v1](http://arxiv.org/abs/2505.00466v1)|null|
+|**2025-05-01**|**KoACD: The First Korean Adolescent Dataset for Cognitive Distortion Analysis**|JunSeo Kim et.al.|[2505.00367v1](http://arxiv.org/abs/2505.00367v1)|null|
+|**2025-04-30**|**A Report on the llms evaluating the high school questions**|Zhu Jiawei et.al.|[2505.00057v1](http://arxiv.org/abs/2505.00057v1)|null|
 |**2025-04-30**|**Vision Transformers in Precision Agriculture: A Comprehensive Survey**|Saber Mehdipour et.al.|[2504.21706v1](http://arxiv.org/abs/2504.21706v1)|null|
 |**2025-04-30**|**From Precision to Perception: User-Centred Evaluation of Keyword Extraction Algorithms for Internet-Scale Contextual Advertising**|Jingwen Cai et.al.|[2504.21667v1](http://arxiv.org/abs/2504.21667v1)|null|
 |**2025-04-30**|**Sadeed: Advancing Arabic Diacritization Through Small Language Model**|Zeina Aldallal et.al.|[2504.21635v1](http://arxiv.org/abs/2504.21635v1)|null|
@@ -2544,6 +2549,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design**|Vasudev Sharma et.al.|[2505.00134v1](http://arxiv.org/abs/2505.00134v1)|null|
+|**2025-04-29**|**Improving Phishing Email Detection Performance of Small Large Language Models**|Zijie Lin et.al.|[2505.00034v1](http://arxiv.org/abs/2505.00034v1)|null|
 |**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814v1](http://arxiv.org/abs/2504.21814v1)|null|
 |**2025-04-30**|**LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs**|Baleegh Ahmad et.al.|[2504.21770v1](http://arxiv.org/abs/2504.21770v1)|null|
 |**2025-04-30**|**Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models**|Sangmin Woo et.al.|[2504.21559v1](http://arxiv.org/abs/2504.21559v1)|null|
@@ -3404,6 +3411,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**MINERVA: Evaluating Complex Video Reasoning**|Arsha Nagrani et.al.|[2505.00681v1](http://arxiv.org/abs/2505.00681v1)|null|
+|**2025-05-01**|**HalluMix: A Task-Agnostic, Multi-Domain Benchmark for Real-World Hallucination Detection**|Deanna Emery et.al.|[2505.00506v1](http://arxiv.org/abs/2505.00506v1)|null|
+|**2025-05-01**|**CSE-SFP: Enabling Unsupervised Sentence Representation Learning via a Single Forward Pass**|Bowen Zhang et.al.|[2505.00389v1](http://arxiv.org/abs/2505.00389v1)|null|
+|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275v1](http://arxiv.org/abs/2505.00275v1)|null|
+|**2025-05-01**|**EnronQA: Towards Personalized RAG over Private Documents**|Michael J. Ryan et.al.|[2505.00263v1](http://arxiv.org/abs/2505.00263v1)|null|
+|**2025-05-01**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254v1](http://arxiv.org/abs/2505.00254v1)|null|
+|**2025-04-30**|**ConSens: Assessing context grounding in open-book question answering**|Ivan Vankov et.al.|[2505.00065v1](http://arxiv.org/abs/2505.00065v1)|null|
 |**2025-04-30**|**Static or Dynamic: Towards Query-Adaptive Token Selection for Video Question Answering**|Yumeng Shi et.al.|[2504.21403v1](http://arxiv.org/abs/2504.21403v1)|null|
 |**2025-04-30**|**UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation**|Linshan Wu et.al.|[2504.21336v1](http://arxiv.org/abs/2504.21336v1)|null|
 |**2025-04-30**|**An Evaluation of a Visual Question Answering Strategy for Zero-shot Facial Expression Recognition in Still Images**|Modesto Castrillón-Santana et.al.|[2504.21309v1](http://arxiv.org/abs/2504.21309v1)|null|
@@ -5785,6 +5799,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**From Requirements to Test Cases: An NLP-Based Approach for High-Performance ECU Test Case Automation**|Nikitha Medeshetty et.al.|[2505.00547v1](http://arxiv.org/abs/2505.00547v1)|null|
 |**2025-04-30**|**Retrieval-Enhanced Few-Shot Prompting for Speech Event Extraction**|Máté Gedeon et.al.|[2504.21372v1](http://arxiv.org/abs/2504.21372v1)|null|
 |**2025-04-30**|**Subject Information Extraction for Novelty Detection with Domain Shifts**|Yangyang Qu et.al.|[2504.21247v1](http://arxiv.org/abs/2504.21247v1)|null|
 |**2025-04-29**|**Hamiltonian learning of triplon excitations in an artificial nanoscale molecular quantum magnet**|Rouven Koch et.al.|[2504.20711v1](http://arxiv.org/abs/2504.20711v1)|null|
@@ -6463,6 +6478,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Algorithmic Collective Action with Two Collectives**|Aditya Karan et.al.|[2505.00195v1](http://arxiv.org/abs/2505.00195v1)|null|
+|**2025-04-30**|**Algorithmic Addiction by Design: Big Tech's Leverage of Dark Patterns to Maintain Market Dominance and its Challenge for Content Moderation**|Michelle Nie et.al.|[2505.00054v1](http://arxiv.org/abs/2505.00054v1)|null|
 |**2025-04-30**|**Learning Universal User Representations Leveraging Cross-domain User Intent at Snapchat**|Clark Mingxuan Ju et.al.|[2504.21838v1](http://arxiv.org/abs/2504.21838v1)|null|
 |**2025-04-30**|**FAST-Q: Fast-track Exploration with Adversarially Balanced State Representations for Counterfactual Action Estimation in Offline Reinforcement Learning**|Pulkit Agrawal et.al.|[2504.21383v1](http://arxiv.org/abs/2504.21383v1)|null|
 |**2025-04-30**|**Enhancing New-item Fairness in Dynamic Recommender Systems**|Huizhong Guo et.al.|[2504.21362v1](http://arxiv.org/abs/2504.21362v1)|null|
@@ -8050,6 +8067,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**S3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics (Technical Report)**|Qi Wen et.al.|[2505.00393v1](http://arxiv.org/abs/2505.00393v1)|null|
+|**2025-05-01**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254v1](http://arxiv.org/abs/2505.00254v1)|null|
+|**2025-04-29**|**Graph RAG for Legal Norms: A Hierarchical and Temporal Approach**|Hudson de Martim et.al.|[2505.00039v1](http://arxiv.org/abs/2505.00039v1)|null|
 |**2025-04-30**|**Automatic Mapping of AutomationML Files to Ontologies for Graph Queries and Validation**|Tom Westermann et.al.|[2504.21694v1](http://arxiv.org/abs/2504.21694v1)|null|
 |**2025-04-26**|**PICO: Secure Transformers via Robust Prompt Isolation and Cybersecurity Oversight**|Ben Goertzel et.al.|[2504.21029v1](http://arxiv.org/abs/2504.21029v1)|null|
 |**2025-04-29**|**Grokking in the Wild: Data Augmentation for Real-World Multi-Hop Reasoning with Transformers**|Roman Abramov et.al.|[2504.20752v1](http://arxiv.org/abs/2504.20752v1)|null|
@@ -9353,6 +9373,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625v1](http://arxiv.org/abs/2505.00625v1)|**[link](https://github.com/MustBeOne/SA-GAT-SR)**|
+|**2025-05-01**|**TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching**|Yue Meng et.al.|[2505.00562v1](http://arxiv.org/abs/2505.00562v1)|null|
+|**2025-05-01**|**DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions**|Jinhui Yi et.al.|[2505.00402v1](http://arxiv.org/abs/2505.00402v1)|null|
+|**2025-05-01**|**From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**|Jie Yang et.al.|[2505.00364v1](http://arxiv.org/abs/2505.00364v1)|null|
+|**2025-05-01**|**Repetition Makes Perfect: Recurrent Sum-GNNs Match Message Passing Limit**|Eran Rosenbluth et.al.|[2505.00291v1](http://arxiv.org/abs/2505.00291v1)|null|
+|**2025-05-01**|**Graph Privacy: A Heterogeneous Federated GNN for Trans-Border Financial Data Circulation**|Zhizhong Tan et.al.|[2505.00257v1](http://arxiv.org/abs/2505.00257v1)|null|
 |**2025-04-30**|**Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks**|William Sutcliffe et.al.|[2504.21844v1](http://arxiv.org/abs/2504.21844v1)|null|
 |**2025-04-30**|**MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks**|Paola F. Antonietti et.al.|[2504.21780v1](http://arxiv.org/abs/2504.21780v1)|null|
 |**2025-04-30**|**ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning**|Sixuan Wang et.al.|[2504.21254v1](http://arxiv.org/abs/2504.21254v1)|null|
