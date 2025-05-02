@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -2509,7 +2509,7 @@ layout: default
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20250501'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250502'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -2538,7 +2538,7 @@ layout: default
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20250501'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250502'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -2549,7 +2549,7 @@ layout: default
 |**2025-04-30**|**Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models**|Sangmin Woo et.al.|[2504.21559v1](http://arxiv.org/abs/2504.21559v1)|null|
 |**2025-04-29**|**SecRepoBench: Benchmarking LLMs for Secure Code Generation in Real-World Repositories**|Connor Dilgren et.al.|[2504.21205v1](http://arxiv.org/abs/2504.21205v1)|null|
 |**2025-04-29**|**Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts**|Hanhua Hong et.al.|[2504.21117v1](http://arxiv.org/abs/2504.21117v1)|null|
-|**2025-04-29**|**Trace-of-Thought: Enhanced Arithmetic Problem Solving via Reasoning Distillation From Large to Small Language Models**|Tyler McDonald et.al.|[2504.20946v1](http://arxiv.org/abs/2504.20946v1)|null|
+|**2025-04-30**|**Trace-of-Thought Prompting: Investigating Prompt-Based Knowledge Distillation Through Question Decomposition**|Tyler McDonald et.al.|[2504.20946v2](http://arxiv.org/abs/2504.20946v2)|null|
 |**2025-04-29**|**Leveraging Generative AI Through Prompt Engineering and Rigorous Validation to Create Comprehensive Synthetic Datasets for AI Training in Healthcare**|Polycarp Nalela et.al.|[2504.20921v1](http://arxiv.org/abs/2504.20921v1)|null|
 |**2025-04-29**|**TF1-EN-3M: Three Million Synthetic Moral Fables for Training Small, Open Language Models**|Mihai Nadas et.al.|[2504.20605v1](http://arxiv.org/abs/2504.20605v1)|**[link](https://github.com/klusai/tinyfabulist)**|
 |**2025-04-29**|**Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction**|Yulin Chen et.al.|[2504.20472v1](http://arxiv.org/abs/2504.20472v1)|null|
@@ -3398,7 +3398,7 @@ layout: default
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20250501'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250502'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -5779,7 +5779,7 @@ layout: default
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20250501'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250502'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -5788,7 +5788,7 @@ layout: default
 |**2025-04-30**|**Retrieval-Enhanced Few-Shot Prompting for Speech Event Extraction**|Máté Gedeon et.al.|[2504.21372v1](http://arxiv.org/abs/2504.21372v1)|null|
 |**2025-04-30**|**Subject Information Extraction for Novelty Detection with Domain Shifts**|Yangyang Qu et.al.|[2504.21247v1](http://arxiv.org/abs/2504.21247v1)|null|
 |**2025-04-29**|**Hamiltonian learning of triplon excitations in an artificial nanoscale molecular quantum magnet**|Rouven Koch et.al.|[2504.20711v1](http://arxiv.org/abs/2504.20711v1)|null|
-|**2025-04-29**|**Natural Language Processing tools for Pharmaceutical Manufacturing Information Extraction from Patents Natural Language Processing (NLP) tools for Pharmaceutical Manufacturing Information Extraction from Patents**|Diego Alvarado-Maldonado et.al.|[2504.20598v1](http://arxiv.org/abs/2504.20598v1)|null|
+|**2025-05-01**|**Natural Language Processing tools for Pharmaceutical Manufacturing Information Extraction from Patents**|Diego Alvarado-Maldonado et.al.|[2504.20598v2](http://arxiv.org/abs/2504.20598v2)|null|
 |**2025-04-29**|**Style-Adaptive Detection Transformer for Single-Source Domain Generalized Object Detection**|Jianhong Han et.al.|[2504.20498v1](http://arxiv.org/abs/2504.20498v1)|null|
 |**2025-04-27**|**Leveraging Multi-Modal Saliency and Fusion for Gaze Target Detection**|Athul M. Mathew et.al.|[2504.19271v1](http://arxiv.org/abs/2504.19271v1)|null|
 |**2025-04-27**|**Hallucinations and Key Information Extraction in Medical Texts: A Comprehensive Assessment of Open-Source Large Language Models**|Anindya Bijoy Das et.al.|[2504.19061v1](http://arxiv.org/abs/2504.19061v1)|null|
@@ -6457,7 +6457,7 @@ layout: default
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20250501'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250502'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -8044,7 +8044,7 @@ layout: default
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20250501'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250502'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -9347,7 +9347,7 @@ layout: default
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|**[link](https://github.com/hkust-knowcomp/abductivekgr)**|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20250501'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250502'>back to top</a>)</p>
 
 ## GNN
 
@@ -11698,5 +11698,5 @@ layout: default
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|**[link](https://github.com/basiralab/falcon)**|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20250501'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250502'>back to top</a>)</p>
 
