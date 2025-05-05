@@ -47,7 +47,7 @@ layout: default
 |**2025-04-28**|**Annif at SemEval-2025 Task 5: Traditional XMTC augmented by LLMs**|Osma Suominen et.al.|[2504.19675v1](http://arxiv.org/abs/2504.19675v1)|null|
 |**2025-04-28**|**A Comprehensive Part-of-Speech Tagging to Standardize Central-Kurdish Language: A Research Guide for Kurdish Natural Language Processing Tasks**|Shadan Shukr Sabr et.al.|[2504.19645v1](http://arxiv.org/abs/2504.19645v1)|null|
 |**2025-04-28**|**Coreference Resolution for Vietnamese Narrative Texts**|Hieu-Dai Tran et.al.|[2504.19606v1](http://arxiv.org/abs/2504.19606v1)|null|
-|**2025-04-28**|**BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text**|Jiageng Wu et.al.|[2504.19467v1](http://arxiv.org/abs/2504.19467v1)|null|
+|**2025-04-28**|**BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text**|Jiageng Wu et.al.|[2504.19467v1](http://arxiv.org/abs/2504.19467v1)|**[link](https://github.com/YLab-Open/BRIDGE)**|
 |**2025-04-27**|**VIST-GPT: Ushering in the Era of Visual Storytelling with LLMs?**|Mohamed Gado et.al.|[2504.19267v1](http://arxiv.org/abs/2504.19267v1)|null|
 |**2025-04-26**|**RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning**|Haoran Geng et.al.|[2504.18904v1](http://arxiv.org/abs/2504.18904v1)|null|
 |**2025-04-25**|**Can Third-parties Read Our Emotions?**|Jiayi Li et.al.|[2504.18673v1](http://arxiv.org/abs/2504.18673v1)|null|
@@ -595,7 +595,7 @@ layout: default
 |**2025-01-03**|**Time Series Language Model for Descriptive Caption Generation**|Mohamed Trabelsi et.al.|[2501.01832v1](http://arxiv.org/abs/2501.01832v1)|null|
 |**2025-01-03**|**Quantifying A Firm's AI Engagement: Constructing Objective, Data-Driven, AI Stock Indices Using 10-K Filings**|Lennart Ante et.al.|[2501.01763v1](http://arxiv.org/abs/2501.01763v1)|null|
 |**2025-01-03**|**Comparative Study of Deep Learning Architectures for Textual Damage Level Classification**|Aziida Nanyonga et.al.|[2501.01694v1](http://arxiv.org/abs/2501.01694v1)|null|
-|**2025-01-03**|**Crossing Language Borders: A Pipeline for Indonesian Manhwa Translation**|Nithyasri Narasimhan et.al.|[2501.01629v1](http://arxiv.org/abs/2501.01629v1)|null|
+|**2025-01-03**|**Crossing Language Borders: A Pipeline for Indonesian Manhwa Translation**|Nithyasri Narasimhan et.al.|[2501.01629v1](http://arxiv.org/abs/2501.01629v1)|**[link](https://github.com/Sagarika-Singh-99/indonesian_manhwa_translation)**|
 |**2025-01-03**|**Google is all you need: Semi-Supervised Transfer Learning Strategy For Light Multimodal Multi-Task Classification Model**|Haixu Liu et.al.|[2501.01611v1](http://arxiv.org/abs/2501.01611v1)|null|
 |**2025-01-02**|**A Survey of Deep Learning Methods in Protein Bioinformatics and its Impact on Protein Design**|Weihang Dai et.al.|[2501.01477v1](http://arxiv.org/abs/2501.01477v1)|null|
 |**2025-01-02**|**The Prompt Alchemist: Automated LLM-Tailored Prompt Optimization for Test Case Generation**|Shuzheng Gao et.al.|[2501.01329v1](http://arxiv.org/abs/2501.01329v1)|null|
@@ -4270,7 +4270,7 @@ layout: default
 |**2024-11-18**|**Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts**|Jingxuan Li et.al.|[2411.11479v1](http://arxiv.org/abs/2411.11479v1)|null|
 |**2024-11-18**|**Mitigating Knowledge Conflicts in Language Model-Driven Question Answering**|Han Cao et.al.|[2411.11344v1](http://arxiv.org/abs/2411.11344v1)|null|
 |**2024-11-17**|**A Comprehensive Survey on Visual Question Answering Datasets and Algorithms**|Raihan Kabir et.al.|[2411.11150v1](http://arxiv.org/abs/2411.11150v1)|null|
-|**2024-11-17**|**ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis**|Jingyun Sun et.al.|[2411.11090v1](http://arxiv.org/abs/2411.11090v1)|null|
+|**2024-11-17**|**ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis**|Jingyun Sun et.al.|[2411.11090v1](http://arxiv.org/abs/2411.11090v1)|**[link](https://github.com/luozhongze/ForPKG)**|
 |**2024-11-17**|**Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering**|Zeping Yu et.al.|[2411.10950v1](http://arxiv.org/abs/2411.10950v1)|**[link](https://github.com/zepingyu0512/llava-mechanism)**|
 |**2024-11-17**|**Memory-Augmented Multimodal LLMs for Surgical VQA via Self-Contained Inquiry**|Wenjun Hou et.al.|[2411.10937v1](http://arxiv.org/abs/2411.10937v1)|null|
 |**2024-11-17**|**Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning**|Wenke Huang et.al.|[2411.10928v1](http://arxiv.org/abs/2411.10928v1)|null|
@@ -6006,7 +6006,7 @@ layout: default
 |**2024-11-19**|**Robust Deep Joint Source-Channel Coding Enabled Distributed Image Transmission with Imperfect Channel State Information**|Biao Dong et.al.|[2411.12228v1](http://arxiv.org/abs/2411.12228v1)|null|
 |**2024-11-19**|**A More Advanced Group Polarization Measurement Approach Based on LLM-Based Agents and Graphs**|Zixin Liu et.al.|[2411.12196v1](http://arxiv.org/abs/2411.12196v1)|null|
 |**2024-11-18**|**LLM-IE: A Python Package for Generative Information Extraction with Large Language Models**|Enshuo Hsu et.al.|[2411.11779v1](http://arxiv.org/abs/2411.11779v1)|null|
-|**2024-11-17**|**ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis**|Jingyun Sun et.al.|[2411.11090v1](http://arxiv.org/abs/2411.11090v1)|null|
+|**2024-11-17**|**ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis**|Jingyun Sun et.al.|[2411.11090v1](http://arxiv.org/abs/2411.11090v1)|**[link](https://github.com/luozhongze/ForPKG)**|
 |**2024-11-16**|**HJ-Ky-0.1: an Evaluation Dataset for Kyrgyz Word Embeddings**|Anton Alekseev et.al.|[2411.10724v1](http://arxiv.org/abs/2411.10724v1)|**[link](https://github.com/alexeyev/kyrgyz-embedding-evaluation)**|
 |**2024-11-16**|**AutoIoT: Automated IoT Platform Using Large Language Models**|Ye Cheng et.al.|[2411.10665v1](http://arxiv.org/abs/2411.10665v1)|null|
 |**2024-11-15**|**Increasing the Accessibility of Causal Domain Knowledge via Causal Information Extraction Methods: A Case Study in the Semiconductor Manufacturing Industry**|Houssam Razouk et.al.|[2411.10172v1](http://arxiv.org/abs/2411.10172v1)|null|
@@ -8508,7 +8508,7 @@ layout: default
 |**2024-11-18**|**A Code Knowledge Graph-Enhanced System for LLM-Based Fuzz Driver Generation**|Hanxiang Xu et.al.|[2411.11532v1](http://arxiv.org/abs/2411.11532v1)|**[link](https://github.com/xuhxx/ckgfuzzer)**|
 |**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531v1](http://arxiv.org/abs/2411.11531v1)|null|
 |**2024-11-18**|**Graph Artificial Intelligence for Quantifying Compatibility Mechanisms in Traditional Chinese Medicine**|Jingqi Zeng et.al.|[2411.11474v1](http://arxiv.org/abs/2411.11474v1)|**[link](https://github.com/zengjingqi/graphai-for-tcm)**|
-|**2024-11-17**|**ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis**|Jingyun Sun et.al.|[2411.11090v1](http://arxiv.org/abs/2411.11090v1)|null|
+|**2024-11-17**|**ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis**|Jingyun Sun et.al.|[2411.11090v1](http://arxiv.org/abs/2411.11090v1)|**[link](https://github.com/luozhongze/ForPKG)**|
 |**2024-11-17**|**Knowledge-enhanced Transformer for Multivariate Long Sequence Time-series Forecasting**|Shubham Tanaji Kakde et.al.|[2411.11046v1](http://arxiv.org/abs/2411.11046v1)|null|
 |**2024-11-15**|**HistoLens: An LLM-Powered Framework for Multi-Layered Analysis of Historical Texts -- A Case Application of Yantie Lun**|Yifan Zeng et.al.|[2411.09978v1](http://arxiv.org/abs/2411.09978v1)|null|
 |**2024-11-14**|**Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**|Cogan Shimizu et.al.|[2411.09601v1](http://arxiv.org/abs/2411.09601v1)|null|
