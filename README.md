@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Evaluation of LLMs on Long-tail Entity Linking in Historical Documents**|Marta Boscariol et.al.|[2505.03473v1](http://arxiv.org/abs/2505.03473v1)|null|
+|**2025-05-06**|**Geospatial Mechanistic Interpretability of Large Language Models**|Stef De Sabbata et.al.|[2505.03368v1](http://arxiv.org/abs/2505.03368v1)|**[link](https://github.com/sdesabbata/geospatial-mechanistic-interpretability)**|
+|**2025-05-06**|**Elevating Cyber Threat Intelligence against Disinformation Campaigns with LLM-based Concept Extraction and the FakeCTI Dataset**|Domenico Cotroneo et.al.|[2505.03345v1](http://arxiv.org/abs/2505.03345v1)|null|
+|**2025-05-06**|**Synthline: A Product Line Approach for Synthetic Requirements Engineering Data Generation using Large Language Models**|Abdelkarim El-Hajjami et.al.|[2505.03265v1](http://arxiv.org/abs/2505.03265v1)|null|
+|**2025-05-06**|**SonicRAG : High Fidelity Sound Effects Synthesis Based on Retrival Augmented Generation**|Yu-Ren Guo et.al.|[2505.03244v1](http://arxiv.org/abs/2505.03244v1)|null|
+|**2025-05-06**|**Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets**|Guillermo Roque et.al.|[2505.03174v1](http://arxiv.org/abs/2505.03174v1)|null|
+|**2025-05-06**|**Image Recognition with Online Lightweight Vision Transformer: A Survey**|Zherui Zhang et.al.|[2505.03113v1](http://arxiv.org/abs/2505.03113v1)|null|
 |**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795v1](http://arxiv.org/abs/2505.02795v1)|null|
 |**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737v2](http://arxiv.org/abs/2505.02737v2)|null|
 |**2025-05-05**|**Data Augmentation With Back translation for Low Resource languages: A case of English and Luganda**|Richard Kimera et.al.|[2505.02463v1](http://arxiv.org/abs/2505.02463v1)|null|
@@ -2562,6 +2569,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Safer Prompts: Reducing IP Risk in Visual Generative AI**|Lena Reissinger et.al.|[2505.03338v1](http://arxiv.org/abs/2505.03338v1)|null|
+|**2025-05-06**|**AI-Driven Scholarly Peer Review via Persistent Workflow Prompting, Meta-Prompting, and Meta-Reasoning**|Evgeny Markhasin et.al.|[2505.03332v1](http://arxiv.org/abs/2505.03332v1)|null|
+|**2025-05-02**|**Ensuring Reproducibility in Generative AI Systems for General Use Cases: A Framework for Regression Testing and Open Datasets**|Masumi Morishige et.al.|[2505.02854v1](http://arxiv.org/abs/2505.02854v1)|null|
+|**2025-05-02**|**Enhancing tutoring systems by leveraging tailored promptings and domain knowledge with Large Language Models**|Mohsen Balavar et.al.|[2505.02849v1](http://arxiv.org/abs/2505.02849v1)|null|
 |**2025-05-05**|**AutoLibra: Agent Metric Induction from Open-Ended Feedback**|Hao Zhu et.al.|[2505.02820v1](http://arxiv.org/abs/2505.02820v1)|null|
 |**2025-05-06**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560v2](http://arxiv.org/abs/2505.02560v2)|null|
 |**2025-05-05**|**Generative Sign-description Prompts with Multi-positive Contrastive Learning for Sign Language Recognition**|Siyu Liang et.al.|[2505.02304v1](http://arxiv.org/abs/2505.02304v1)|null|
@@ -3430,6 +3441,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739v1](http://arxiv.org/abs/2505.03739v1)|null|
+|**2025-05-06**|**IndicSQuAD: A Comprehensive Multilingual Question Answering Dataset for Indic Languages**|Sharvi Endait et.al.|[2505.03688v1](http://arxiv.org/abs/2505.03688v1)|null|
+|**2025-05-06**|**DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes**|Sergey Linok et.al.|[2505.03581v1](http://arxiv.org/abs/2505.03581v1)|null|
+|**2025-05-06**|**MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks**|Mouath Abu Daoud et.al.|[2505.03427v1](http://arxiv.org/abs/2505.03427v1)|null|
+|**2025-05-06**|**VLM Q-Learning: Aligning Vision-Language Models for Interactive Decision-Making**|Jake Grigsby et.al.|[2505.03181v1](http://arxiv.org/abs/2505.03181v1)|null|
+|**2025-05-06**|**Characterising Topic Familiarity and Query Specificity Using Eye-Tracking Data**|Jiaman He et.al.|[2505.03136v1](http://arxiv.org/abs/2505.03136v1)|null|
+|**2025-05-05**|**Sim2Real Transfer for Vision-Based Grasp Verification**|Pau Amargant et.al.|[2505.03046v1](http://arxiv.org/abs/2505.03046v1)|null|
 |**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829v1](http://arxiv.org/abs/2505.02829v1)|null|
 |**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811v1](http://arxiv.org/abs/2505.02811v1)|null|
 |**2025-05-05**|**Structure Causal Models and LLMs Integration in Medical Visual Question Answering**|Zibo Xu et.al.|[2505.02703v1](http://arxiv.org/abs/2505.02703v1)|null|
@@ -5832,6 +5850,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Survey of Abstract Meaning Representation: Then, Now, Future**|Behrooz Mansouri et.al.|[2505.03229v1](http://arxiv.org/abs/2505.03229v1)|null|
 |**2025-05-05**|**Re-purposing a modular origami manipulator into an adaptive physical computer for machine learning and robotic perception**|Jun Wang et.al.|[2505.02744v1](http://arxiv.org/abs/2505.02744v1)|null|
 |**2025-05-03**|**A Novel WaveInst-based Network for Tree Trunk Structure Extraction and Pattern Analysis in Forest Inventory**|Chenyang Fan et.al.|[2505.01656v1](http://arxiv.org/abs/2505.01656v1)|null|
 |**2025-05-02**|**Automated Parsing of Engineering Drawings for Structured Information Extraction Using a Fine-tuned Document Understanding Transformer**|Muhammad Tayyab Khan et.al.|[2505.01530v1](http://arxiv.org/abs/2505.01530v1)|null|
@@ -6515,6 +6534,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Counterfactual Inference for Eliminating Sentiment Bias in Recommender Systems**|Le Pan et.al.|[2505.03655v1](http://arxiv.org/abs/2505.03655v1)|null|
+|**2025-05-06**|**Familiarizing with Music: Discovery Patterns for Different Music Discovery Needs**|Marta Moscati et.al.|[2505.03568v1](http://arxiv.org/abs/2505.03568v1)|null|
+|**2025-05-06**|**1 $^{st}$ Place Solution of WWW 2025 EReL@MIR Workshop Multimodal CTR Prediction Challenge**|Junwei Xu et.al.|[2505.03543v1](http://arxiv.org/abs/2505.03543v1)|null|
+|**2025-05-06**|**Modeling Musical Genre Trajectories through Pathlet Learning**|Lilian Marey et.al.|[2505.03480v1](http://arxiv.org/abs/2505.03480v1)|null|
+|**2025-05-06**|**Tell Me the Good Stuff: User Preferences in Movie Recommendation Explanations**|Juan Ahmad et.al.|[2505.03376v1](http://arxiv.org/abs/2505.03376v1)|null|
+|**2025-05-06**|**Variable projection framework for the reduced-rank matrix approximation problem by weighted least-squares**|Pascal Terray et.al.|[2505.03347v1](http://arxiv.org/abs/2505.03347v1)|null|
+|**2025-05-06**|**Avoid Recommending Out-of-Domain Items: Constrained Generative Recommendation with LLMs**|Hao Liao et.al.|[2505.03336v1](http://arxiv.org/abs/2505.03336v1)|null|
 |**2025-05-05**|**Robustness questions the interpretability of graph neural networks: what to do?**|Kirill Lukyanov et.al.|[2505.02566v1](http://arxiv.org/abs/2505.02566v1)|null|
 |**2025-05-05**|**Uncertainty in Repeated Implicit Feedback as a Measure of Reliability**|Bruno Sguerra et.al.|[2505.02492v1](http://arxiv.org/abs/2505.02492v1)|null|
 |**2025-05-04**|**Minimally Supervised Hierarchical Domain Intent Learning for CRS**|Safikureshi Mondal et.al.|[2505.02209v1](http://arxiv.org/abs/2505.02209v1)|null|
@@ -8115,6 +8141,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Fangling Jiang et.al.|[2505.03610v1](http://arxiv.org/abs/2505.03610v1)|null|
+|**2025-05-06**|**Soft Reasoning Paths for Knowledge Graph Completion**|Yanning Hou et.al.|[2505.03285v1](http://arxiv.org/abs/2505.03285v1)|null|
 |**2025-05-05**|**Using Knowledge Graphs to harvest datasets for efficient CLIP model training**|Simon Ging et.al.|[2505.02746v1](http://arxiv.org/abs/2505.02746v1)|null|
 |**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737v2](http://arxiv.org/abs/2505.02737v2)|null|
 |**2025-05-05**|**Social Biases in Knowledge Representations of Wikidata separates Global North from Global South**|Paramita Das et.al.|[2505.02352v1](http://arxiv.org/abs/2505.02352v1)|null|
@@ -9432,6 +9460,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Framework GNN-AID: Graph Neural Network Analysis Interpretation and Defense**|Kirill Lukyanov et.al.|[2505.03424v1](http://arxiv.org/abs/2505.03424v1)|null|
+|**2025-05-06**|**GNN-enabled Precoding for Massive MIMO LEO Satellite Communications**|Huibin Zhou et.al.|[2505.03311v1](http://arxiv.org/abs/2505.03311v1)|null|
+|**2025-05-06**|**HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems**|Ibne Farabi Shihab et.al.|[2505.03140v1](http://arxiv.org/abs/2505.03140v1)|null|
+|**2025-05-06**|**HCOA*: Hierarchical Class-ordered A* for Navigation in Semantic Environments**|Evangelos Psomiadis et.al.|[2505.03128v1](http://arxiv.org/abs/2505.03128v1)|null|
+|**2025-05-06**|**STG: Spatiotemporal Graph Neural Network with Fusion and Spatiotemporal Decoupling Learning for Prognostic Prediction of Colorectal Cancer Liver Metastasis**|Yiran Zhu et.al.|[2505.03123v1](http://arxiv.org/abs/2505.03123v1)|null|
 |**2025-05-05**|**Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks: The GATTACA Framework**|Andrzej Mizera et.al.|[2505.02712v1](http://arxiv.org/abs/2505.02712v1)|null|
 |**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664v1](http://arxiv.org/abs/2505.02664v1)|null|
 |**2025-05-05**|**Rethinking Federated Graph Learning: A Data Condensation Perspective**|Hao Zhang et.al.|[2505.02573v1](http://arxiv.org/abs/2505.02573v1)|null|
