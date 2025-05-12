@@ -22,6 +22,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Estimating Quality in Therapeutic Conversations: A Multi-Dimensional Natural Language Processing Framework**|Alice Rueda et.al.|[2505.06151v1](http://arxiv.org/abs/2505.06151v1)|null|
+|**2025-05-09**|**Symbol-based entity marker highlighting for enhanced text mining in materials science with generative AI**|Junhyeong Lee et.al.|[2505.05864v1](http://arxiv.org/abs/2505.05864v1)|null|
+|**2025-05-08**|**GenAI in Entrepreneurship: a systematic review of generative artificial intelligence in entrepreneurship research: current issues and future directions**|Anna Kusetogullari et.al.|[2505.05523v1](http://arxiv.org/abs/2505.05523v1)|null|
 |**2025-05-08**|**ChemRxivQuest: A Curated Chemistry Question-Answer Database Extracted from ChemRxiv Preprints**|Mahmoud Amiri et.al.|[2505.05232v1](http://arxiv.org/abs/2505.05232v1)|null|
 |**2025-05-08**|**A Benchmark Dataset and a Framework for Urdu Multimodal Named Entity Recognition**|Hussain Ahmad et.al.|[2505.05148v1](http://arxiv.org/abs/2505.05148v1)|null|
 |**2025-05-08**|**General Transform: A Unified Framework for Adaptive Transform to Enhance Representations**|Gekko Budiutama et.al.|[2505.04969v1](http://arxiv.org/abs/2505.04969v1)|null|
@@ -2581,6 +2584,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments**|Pranav Guruprasad et.al.|[2505.05540v1](http://arxiv.org/abs/2505.05540v1)|null|
 |**2025-05-03**|**Towards Artificial Intelligence Research Assistant for Expert-Involved Learning**|Tianyu Liu et.al.|[2505.04638v1](http://arxiv.org/abs/2505.04638v1)|null|
 |**2025-05-07**|**Overcoming Data Scarcity in Generative Language Modelling for Low-Resource Languages: A Systematic Review**|Josh McGiff et.al.|[2505.04531v1](http://arxiv.org/abs/2505.04531v1)|null|
 |**2025-05-07**|**CDE-Mapper: Using Retrieval-Augmented Language Models for Linking Clinical Data Elements to Controlled Vocabularies**|Komal Gilani et.al.|[2505.04365v1](http://arxiv.org/abs/2505.04365v1)|null|
@@ -3458,6 +3462,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks**|Wenqi Zeng et.al.|[2505.06152v1](http://arxiv.org/abs/2505.06152v1)|**[link](https://github.com/zwq803/mm-skin)**|
+|**2025-05-09**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris et.al.|[2505.06046v1](http://arxiv.org/abs/2505.06046v1)|null|
+|**2025-05-09**|**Towards Developmentally Plausible Rewards: Communicative Success as a Learning Signal for Interactive Language Models**|Lennart Stöpler et.al.|[2505.05970v1](http://arxiv.org/abs/2505.05970v1)|null|
+|**2025-05-09**|**NeoQA: Evidence-based Question Answering with Generated News Events**|Max Glockner et.al.|[2505.05949v1](http://arxiv.org/abs/2505.05949v1)|**[link](https://github.com/amazon-science/neoqa)**|
+|**2025-05-09**|**Harnessing LLMs Explanations to Boost Surrogate Models in Tabular Data Classification**|Ruxue Shi et.al.|[2505.05744v1](http://arxiv.org/abs/2505.05744v1)|null|
+|**2025-05-09**|**Assessing Robustness to Spurious Correlations in Post-Training Language Models**|Julia Shuieh et.al.|[2505.05704v1](http://arxiv.org/abs/2505.05704v1)|null|
+|**2025-05-08**|**Lost in OCR Translation? Vision-Based Approaches to Robust Document Retrieval**|Alexander Most et.al.|[2505.05666v1](http://arxiv.org/abs/2505.05666v1)|null|
+|**2025-05-08**|**Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs**|Jeffrey Basoah et.al.|[2505.05660v1](http://arxiv.org/abs/2505.05660v1)|null|
+|**2025-05-08**|**HiBayES: A Hierarchical Bayesian Modeling Framework for AI Evaluation Statistics**|Lennart Luettgau et.al.|[2505.05602v1](http://arxiv.org/abs/2505.05602v1)|null|
 |**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456v1](http://arxiv.org/abs/2505.05456v1)|null|
 |**2025-05-09**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423v2](http://arxiv.org/abs/2505.05423v2)|**[link](https://github.com/zhangr2021/TransProQA)**|
 |**2025-05-08**|**ChemRxivQuest: A Curated Chemistry Question-Answer Database Extracted from ChemRxiv Preprints**|Mahmoud Amiri et.al.|[2505.05232v1](http://arxiv.org/abs/2505.05232v1)|null|
@@ -5877,6 +5890,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Register and CLS tokens yield a decoupling of local and global features in large ViTs**|Alexander Lappe et.al.|[2505.05892v1](http://arxiv.org/abs/2505.05892v1)|null|
 |**2025-05-08**|**Empowering Scientific Workflows with Federated Agents**|J. Gregory Pauloski et.al.|[2505.05428v1](http://arxiv.org/abs/2505.05428v1)|null|
 |**2025-05-07**|**GASCADE: Grouped Summarization of Adverse Drug Event for Enhanced Cancer Pharmacovigilance**|Sofia Jamil et.al.|[2505.04284v1](http://arxiv.org/abs/2505.04284v1)|null|
 |**2025-05-07**|**CM1 -- A Dataset for Evaluating Few-Shot Information Extraction with Large Vision Language Models**|Fabian Wolf et.al.|[2505.04214v1](http://arxiv.org/abs/2505.04214v1)|null|
@@ -6565,6 +6579,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Differentiable Fuzzy Neural Networks for Recommender Systems**|Stephan Bartl et.al.|[2505.06000v1](http://arxiv.org/abs/2505.06000v1)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196v1](http://arxiv.org/abs/2505.05196v1)|null|
 |**2025-05-08**|**Hybrid Personalization Using Declarative and Procedural Memory Modules of the Cognitive Architecture ACT-R**|Kevin Innerebner et.al.|[2505.05083v1](http://arxiv.org/abs/2505.05083v1)|null|
 |**2025-05-08**|**The Pitfalls of Growing Group Complexity: LLMs and Social Choice-Based Aggregation for Group Recommendations**|Cedric Waterschoot et.al.|[2505.05016v1](http://arxiv.org/abs/2505.05016v1)|null|
@@ -8184,6 +8199,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding**|Shuai Wang et.al.|[2505.06020v1](http://arxiv.org/abs/2505.06020v1)|null|
+|**2025-05-08**|**Prompted Meta-Learning for Few-shot Knowledge Graph Completion**|Han Wu et.al.|[2505.05684v1](http://arxiv.org/abs/2505.05684v1)|null|
+|**2025-05-08**|**KG-HTC: Integrating Knowledge Graphs into LLMs for Effective Zero-shot Hierarchical Text Classification**|Qianbo Zang et.al.|[2505.05583v1](http://arxiv.org/abs/2505.05583v1)|**[link](https://github.com/qianbozang/kg-htc)**|
 |**2025-05-08**|**Enhancing Text2Cypher with Schema Filtering**|Makbule Gulcin Ozsoy et.al.|[2505.05118v1](http://arxiv.org/abs/2505.05118v1)|null|
 |**2025-05-08**|**Structural Alignment in Link Prediction**|Jeffrey Seathrún Sardina et.al.|[2505.04939v1](http://arxiv.org/abs/2505.04939v1)|null|
 |**2025-05-06**|**Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions**|Adithya Kulkarni et.al.|[2505.04651v1](http://arxiv.org/abs/2505.04651v1)|null|
@@ -9507,6 +9525,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Rethinking Graph Out-Of-Distribution Generalization: A Learnable Random Walk Perspective**|Henan Sun et.al.|[2505.05785v1](http://arxiv.org/abs/2505.05785v1)|null|
+|**2025-05-08**|**Fast and Fourier Features for Transfer Learning of Interatomic Potentials**|Pietro Novelli et.al.|[2505.05652v1](http://arxiv.org/abs/2505.05652v1)|null|
 |**2025-05-08**|**Recent results of (semi)leptonic decays of charm hadrons at BESIII**|Xiang Pan et.al.|[2505.05123v1](http://arxiv.org/abs/2505.05123v1)|null|
 |**2025-05-08**|**Graph Neural Network Aided Deep Reinforcement Learning for Resource Allocation in Dynamic Terahertz UAV Networks**|Zhifeng Hu et.al.|[2505.04981v1](http://arxiv.org/abs/2505.04981v1)|null|
 |**2025-05-08**|**Physics-Assisted and Topology-Informed Deep Learning for Weather Prediction**|Jiaqi Zheng et.al.|[2505.04918v1](http://arxiv.org/abs/2505.04918v1)|**[link](https://github.com/yumenomae/passat_5p625)**|
