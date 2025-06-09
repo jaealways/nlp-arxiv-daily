@@ -22,6 +22,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**PROVSYN: Synthesizing Provenance Graphs for Data Augmentation in Intrusion Detection Systems**|Yi Huang et.al.|[2506.06226v1](http://arxiv.org/abs/2506.06226v1)|null|
+|**2025-06-06**|**A Novel, Human-in-the-Loop Computational Grounded Theory Framework for Big Social Data**|Lama Alqazlan et.al.|[2506.06083v1](http://arxiv.org/abs/2506.06083v1)|null|
+|**2025-06-06**|**Hey, That's My Data! Label-Only Dataset Inference in Large Language Models**|Chen Xiong et.al.|[2506.06057v1](http://arxiv.org/abs/2506.06057v1)|null|
+|**2025-06-06**|**A cautious user's guide in applying HMMs to physical systems**|Max Schweiger et.al.|[2506.05707v1](http://arxiv.org/abs/2506.05707v1)|null|
+|**2025-06-05**|**SoK: Are Watermarks in LLMs Ready for Deployment?**|Kieu Dang et.al.|[2506.05594v1](http://arxiv.org/abs/2506.05594v1)|null|
+|**2025-06-05**|**Coordinated Robustness Evaluation Framework for Vision-Language Models**|Ashwin Ramesh Babu et.al.|[2506.05429v1](http://arxiv.org/abs/2506.05429v1)|null|
 |**2025-06-05**|**CSI2Vec: Towards a Universal CSI Feature Representation for Positioning and Channel Charting**|Victoria Palhares et.al.|[2506.05237v1](http://arxiv.org/abs/2506.05237v1)|null|
 |**2025-06-05**|**CHANCERY: Evaluating corporate governance reasoning capabilities in language models**|Lucas Irwin et.al.|[2506.04636v1](http://arxiv.org/abs/2506.04636v1)|null|
 |**2025-06-04**|**Schema Generation for Large Knowledge Graphs Using Large Language Models**|Bohui Zhang et.al.|[2506.04512v1](http://arxiv.org/abs/2506.04512v1)|null|
@@ -2723,6 +2729,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**DynamicMind: A Tri-Mode Thinking System for Large Language Models**|Wei Li et.al.|[2506.05936v1](http://arxiv.org/abs/2506.05936v1)|null|
+|**2025-06-06**|**Efficient Online RFT with Plug-and-Play LLM Judges: Unlocking State-of-the-Art Performance**|Rudransh Agnihotri et.al.|[2506.05748v1](http://arxiv.org/abs/2506.05748v1)|null|
+|**2025-06-05**|**Joint User Association and Beamforming Design for ISAC Networks with Large Language Models**|Haoyun Li et.al.|[2506.05637v1](http://arxiv.org/abs/2506.05637v1)|null|
+|**2025-06-05**|**Which Prompting Technique Should I Use? An Empirical Investigation of Prompting Techniques for Software Engineering Tasks**|E. G. Santana Jr et.al.|[2506.05614v1](http://arxiv.org/abs/2506.05614v1)|null|
 |**2025-06-05**|**TextVidBench: A Benchmark for Long Video Scene Text Understanding**|Yangyang Zhong et.al.|[2506.04983v1](http://arxiv.org/abs/2506.04983v1)|null|
 |**2025-06-05**|**Towards Holistic Visual Quality Assessment of AI-Generated Videos: A LLM-Based Multi-Dimensional Evaluation Model**|Zelu Qi et.al.|[2506.04715v1](http://arxiv.org/abs/2506.04715v1)|null|
 |**2025-06-05**|**Handle-based Mesh Deformation Guided By Vision Language Model**|Xingpeng Sun et.al.|[2506.04562v1](http://arxiv.org/abs/2506.04562v1)|null|
@@ -3677,6 +3687,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Shi Liu et.al.|[2506.06279v1](http://arxiv.org/abs/2506.06279v1)|null|
+|**2025-06-06**|**ExAct: A Video-Language Benchmark for Expert Action Analysis**|Han Yi et.al.|[2506.06277v1](http://arxiv.org/abs/2506.06277v1)|null|
+|**2025-06-06**|**Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models**|Zahra Babaiee et.al.|[2506.06242v1](http://arxiv.org/abs/2506.06242v1)|null|
+|**2025-06-06**|**Reinforcing Code Generation: Improving Text-to-SQL with Execution-Based Learning**|Atharv Kulkarni et.al.|[2506.06093v1](http://arxiv.org/abs/2506.06093v1)|null|
+|**2025-06-06**|**WisWheat: A Three-Tiered Vision-Language Dataset for Wheat Management**|Bowen Yuan et.al.|[2506.06084v1](http://arxiv.org/abs/2506.06084v1)|null|
+|**2025-06-06**|**On the Merits of LLM-Based Corpus Enrichment**|Gal Zur et.al.|[2506.06015v1](http://arxiv.org/abs/2506.06015v1)|null|
+|**2025-06-06**|**A Culturally-Rich Romanian NLP Dataset from "Who Wants to Be a Millionaire?" Videos**|Alexandru-Gabriel Ganea et.al.|[2506.05991v1](http://arxiv.org/abs/2506.05991v1)|null|
+|**2025-06-06**|**DynamicMind: A Tri-Mode Thinking System for Large Language Models**|Wei Li et.al.|[2506.05936v1](http://arxiv.org/abs/2506.05936v1)|null|
+|**2025-06-06**|**MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning**|Ye Bai et.al.|[2506.05813v1](http://arxiv.org/abs/2506.05813v1)|null|
+|**2025-06-06**|**Discrete Minds in a Continuous World: Do Language Models Know Time Passes?**|Minghan Wang et.al.|[2506.05790v1](http://arxiv.org/abs/2506.05790v1)|null|
 |**2025-06-06**|**Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs**|Haoyuan Li et.al.|[2506.05318v2](http://arxiv.org/abs/2506.05318v2)|null|
 |**2025-06-05**|**Micro-Act: Mitigate Knowledge Conflict in Question Answering via Actionable Self-Reasoning**|Nan Huo et.al.|[2506.05278v1](http://arxiv.org/abs/2506.05278v1)|null|
 |**2025-06-06**|**ECoRAG: Evidentiality-guided Compression for Long Context RAG**|Yeonseok Jeong et.al.|[2506.05167v2](http://arxiv.org/abs/2506.05167v2)|null|
@@ -6274,6 +6294,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Auto Review: Second Stage Error Detection for Highly Accurate Information Extraction from Phone Conversations**|Ayesha Qamar et.al.|[2506.05400v1](http://arxiv.org/abs/2506.05400v1)|null|
 |**2025-06-05**|**APVR: Hour-Level Long Video Understanding with Adaptive Pivot Visual Information Retrieval**|Hong Gao et.al.|[2506.04953v1](http://arxiv.org/abs/2506.04953v1)|null|
 |**2025-06-05**|**E-bike agents: Large Language Model-Driven E-Bike Accident Analysis and Severity Prediction**|Zhichao Yang et.al.|[2506.04654v1](http://arxiv.org/abs/2506.04654v1)|null|
 |**2025-06-04**|**VISCA: Inferring Component Abstractions for Automated End-to-End Testing**|Parsa Alian et.al.|[2506.04161v1](http://arxiv.org/abs/2506.04161v1)|null|
@@ -7019,10 +7040,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**RecGPT: A Foundation Model for Sequential Recommendation**|Yangqin Jiang et.al.|[2506.06270v1](http://arxiv.org/abs/2506.06270v1)|null|
+|**2025-06-06**|**Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for Item-to-Item Retrieval in Recommendation**|Jiang Zhang et.al.|[2506.06239v1](http://arxiv.org/abs/2506.06239v1)|null|
+|**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162v1](http://arxiv.org/abs/2506.06162v1)|null|
+|**2025-06-05**|**Heterogeneous Sequel-Aware Graph Neural Networks for Sequential Learning**|Anushka Tiwari et.al.|[2506.05625v1](http://arxiv.org/abs/2506.05625v1)|null|
 |**2025-06-05**|**Do It Yourself: Learning Semantic Correspondence from Pseudo-Labels**|Olaf Dünkel et.al.|[2506.05312v1](http://arxiv.org/abs/2506.05312v1)|null|
 |**2025-06-05**|**Estimation of Treatment Effects Under Nonstationarity via Truncated Difference-in-Q's**|Ramesh Johari et.al.|[2506.05308v1](http://arxiv.org/abs/2506.05308v1)|null|
 |**2025-06-05**|**PUB: An LLM-Enhanced Personality-Driven User Behaviour Simulator for Recommender System Evaluation**|Chenglong Ma et.al.|[2506.04551v1](http://arxiv.org/abs/2506.04551v1)|null|
-|**2025-06-05**|**User Altruism in Recommendation Systems**|Ekaterina Fedorova et.al.|[2506.04525v1](http://arxiv.org/abs/2506.04525v1)|null|
+|**2025-06-06**|**User Altruism in Recommendation Systems**|Ekaterina Fedorova et.al.|[2506.04525v2](http://arxiv.org/abs/2506.04525v2)|null|
 |**2025-06-04**|**N $^2$ : A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion**|Caleb Chin et.al.|[2506.04166v1](http://arxiv.org/abs/2506.04166v1)|**[link](https://github.com/aashish-khub/NearestNeighbors)**|
 |**2025-06-04**|**GORACS: Group-level Optimal Transport-guided Coreset Selection for LLM-based Recommender Systems**|Tiehua Mei et.al.|[2506.04015v1](http://arxiv.org/abs/2506.04015v1)|null|
 |**2025-06-04**|**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**|Chunqi Wang et.al.|[2506.03699v1](http://arxiv.org/abs/2506.03699v1)|null|
@@ -8749,6 +8774,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Respecting Temporal-Causal Consistency: Entity-Event Knowledge Graphs for Retrieval-Augmented Generation**|Ze Yu Zhang et.al.|[2506.05939v1](http://arxiv.org/abs/2506.05939v1)|null|
+|**2025-06-06**|**BioMol-MQA: A Multi-Modal Question Answering Dataset For LLM Reasoning Over Bio-Molecular Interactions**|Saptarshi Sengupta et.al.|[2506.05766v1](http://arxiv.org/abs/2506.05766v1)|null|
+|**2025-06-06**|**Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness**|Rongzhe Wei et.al.|[2506.05735v1](http://arxiv.org/abs/2506.05735v1)|null|
+|**2025-06-05**|**Two-dimensional Taxonomy for N-ary Knowledge Representation Learning Methods**|Xiaohua Lu et.al.|[2506.05626v1](http://arxiv.org/abs/2506.05626v1)|null|
 |**2025-06-05**|**OpenAg: Democratizing Agricultural Intelligence**|Srikanth Thudumu et.al.|[2506.04571v1](http://arxiv.org/abs/2506.04571v1)|null|
 |**2025-06-04**|**Schema Generation for Large Knowledge Graphs Using Large Language Models**|Bohui Zhang et.al.|[2506.04512v1](http://arxiv.org/abs/2506.04512v1)|null|
 |**2025-06-04**|**Zero-Shot Open-Schema Entity Structure Discovery**|Xueqiang Xu et.al.|[2506.04458v1](http://arxiv.org/abs/2506.04458v1)|null|
@@ -10200,6 +10229,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**PROVSYN: Synthesizing Provenance Graphs for Data Augmentation in Intrusion Detection Systems**|Yi Huang et.al.|[2506.06226v1](http://arxiv.org/abs/2506.06226v1)|null|
+|**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157v1](http://arxiv.org/abs/2506.06157v1)|null|
+|**2025-06-06**|**Flow-Attentional Graph Neural Networks**|Pascal Plettenberg et.al.|[2506.06127v1](http://arxiv.org/abs/2506.06127v1)|null|
+|**2025-06-06**|**Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics**|Tobias Würth et.al.|[2506.06045v1](http://arxiv.org/abs/2506.06045v1)|null|
+|**2025-06-06**|**On Measuring Long-Range Interactions in Graph Neural Networks**|Jacob Bamberger et.al.|[2506.05971v1](http://arxiv.org/abs/2506.05971v1)|null|
+|**2025-06-06**|**Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization**|Tianjun Yao et.al.|[2506.05957v1](http://arxiv.org/abs/2506.05957v1)|null|
+|**2025-06-06**|**Research on Personalized Financial Product Recommendation by Integrating Large Language Models and Graph Neural Networks**|Yushang Zhao et.al.|[2506.05873v1](http://arxiv.org/abs/2506.05873v1)|null|
+|**2025-06-06**|**Positional Encoding meets Persistent Homology on Graphs**|Yogesh Verma et.al.|[2506.05814v1](http://arxiv.org/abs/2506.05814v1)|null|
+|**2025-06-06**|**EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator**|Qianyi Chen et.al.|[2506.05797v1](http://arxiv.org/abs/2506.05797v1)|null|
+|**2025-06-06**|**Large Language Models are Good Relational Learners**|Fang Wu et.al.|[2506.05725v1](http://arxiv.org/abs/2506.05725v1)|null|
 |**2025-06-05**|**Joint Beamforming and Integer User Association using a GNN with Gumbel-Softmax Reparameterizations**|Qing Lyu et.al.|[2506.05241v1](http://arxiv.org/abs/2506.05241v1)|null|
 |**2025-06-05**|**Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes in Graph Contrastive Learning**|Jingyu Hu et.al.|[2506.05214v1](http://arxiv.org/abs/2506.05214v1)|null|
 |**2025-06-05**|**Learning Intrinsic Alignments from Local Galaxy Environments**|Matthew Craigie et.al.|[2506.05155v1](http://arxiv.org/abs/2506.05155v1)|null|
