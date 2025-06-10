@@ -1,4 +1,4 @@
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -2689,7 +2689,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20250609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250610'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -2703,7 +2703,7 @@
 |**2024-11-09**|**Golden Touchstone: A Comprehensive Bilingual Benchmark for Evaluating Financial Large Language Models**|Xiaojun Wu et.al.|[2411.06272v1](http://arxiv.org/abs/2411.06272v1)|**[link](https://github.com/IDEA-FinAI/Golden-Touchstone)**|
 |**2024-12-17**|**Deep Learning and Machine Learning -- Natural Language Processing: From Theory to Application**|Keyu Chen et.al.|[2411.05026v2](http://arxiv.org/abs/2411.05026v2)|null|
 |**2024-08-25**|**StockTime: A Time Series Specialized Large Language Model Architecture for Stock Price Prediction**|Shengkun Wang et.al.|[2409.08281v1](http://arxiv.org/abs/2409.08281v1)|null|
-|**2025-04-02**|**Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications**|Jimin Huang et.al.|[2408.11878v2](http://arxiv.org/abs/2408.11878v2)|null|
+|**2025-06-07**|**Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications**|Jimin Huang et.al.|[2408.11878v3](http://arxiv.org/abs/2408.11878v3)|null|
 |**2025-02-02**|**Economy Watchers Survey Provides Datasets and Tasks for Japanese Financial Domain**|Masahiro Suzuki et.al.|[2407.14727v2](http://arxiv.org/abs/2407.14727v2)|**[link](https://github.com/retarfi/economy-watchers-survey)**|
 |**2024-07-13**|**AraFinNLP 2024: The First Arabic Financial NLP Shared Task**|Sanad Malaysha et.al.|[2407.09818v1](http://arxiv.org/abs/2407.09818v1)|null|
 |**2024-08-16**|**No Language is an Island: Unifying Chinese and English in Financial Large Language Models, Instruction Data, and Benchmarks**|Gang Hu et.al.|[2403.06249v3](http://arxiv.org/abs/2403.06249v3)|**[link](https://github.com/the-finai/pixiu)**|
@@ -2719,7 +2719,7 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20250609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250610'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -3677,7 +3677,7 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20250609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250610'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -6284,7 +6284,7 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20250609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250610'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -6295,11 +6295,11 @@
 |**2025-06-05**|**E-bike agents: Large Language Model-Driven E-Bike Accident Analysis and Severity Prediction**|Zhichao Yang et.al.|[2506.04654v1](http://arxiv.org/abs/2506.04654v1)|null|
 |**2025-06-04**|**VISCA: Inferring Component Abstractions for Automated End-to-End Testing**|Parsa Alian et.al.|[2506.04161v1](http://arxiv.org/abs/2506.04161v1)|null|
 |**2025-06-04**|**Multimodal Tabular Reasoning with Privileged Structured Information**|Jun-Peng Jiang et.al.|[2506.04088v1](http://arxiv.org/abs/2506.04088v1)|null|
-|**2025-06-04**|**Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning**|Junqi Gao et.al.|[2506.03939v1](http://arxiv.org/abs/2506.03939v1)|null|
+|**2025-06-04**|**Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning**|Junqi Gao et.al.|[2506.03939v1](http://arxiv.org/abs/2506.03939v1)|**[link](https://github.com/gjq100/graph-counselor)**|
 |**2025-06-04**|**A Threat Intelligence Event Extraction Conceptual Model for Cyber Threat Intelligence Feeds**|Jamal H. Al-Yasiri et.al.|[2506.03551v1](http://arxiv.org/abs/2506.03551v1)|null|
 |**2025-06-03**|**OpenCarbon: A Contrastive Learning-based Cross-Modality Neural Approach for High-Resolution Carbon Emission Prediction Using Open Data**|Jinwei Zeng et.al.|[2506.03224v1](http://arxiv.org/abs/2506.03224v1)|null|
 |**2025-06-03**|**Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights**|Mathieu Andreux et.al.|[2506.02865v1](http://arxiv.org/abs/2506.02865v1)|null|
-|**2025-06-04**|**Comparative Analysis of AI Agent Architectures for Entity Relationship Classification**|Maryam Berijanian et.al.|[2506.02426v2](http://arxiv.org/abs/2506.02426v2)|null|
+|**2025-06-04**|**Comparative Analysis of AI Agent Architectures for Entity Relationship Classification**|Maryam Berijanian et.al.|[2506.02426v2](http://arxiv.org/abs/2506.02426v2)|**[link](https://github.com/maryambrj/alien)**|
 |**2025-06-02**|**Novel Benchmark for NER in the Wastewater and Stormwater Domain**|Franco Alberto Cardillo et.al.|[2506.01938v1](http://arxiv.org/abs/2506.01938v1)|null|
 |**2025-06-02**|**Building Entity Association Mining Framework for Knowledge Discovery**|Anshika Rawal et.al.|[2506.01451v1](http://arxiv.org/abs/2506.01451v1)|null|
 |**2025-06-02**|**Schema as Parameterized Tools for Universal Information Extraction**|Sheng Liang et.al.|[2506.01276v1](http://arxiv.org/abs/2506.01276v1)|null|
@@ -7030,7 +7030,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20250609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250610'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -8764,7 +8764,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20250609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250610'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -10219,7 +10219,7 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|**[link](https://github.com/hkust-knowcomp/abductivekgr)**|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20250609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250610'>back to top</a>)</p>
 
 ## GNN
 
@@ -12768,5 +12768,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|**[link](https://github.com/basiralab/falcon)**|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20250609'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250610'>back to top</a>)</p>
 
