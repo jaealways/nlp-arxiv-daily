@@ -22,6 +22,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**TokenBreak: Bypassing Text Classification Models Through Token Manipulation**|Kasimir Schulz et.al.|[2506.07948v1](http://arxiv.org/abs/2506.07948v1)|null|
+|**2025-06-09**|**Quantum Graph Transformer for NLP Sentiment Classification**|Shamminuj Aktar et.al.|[2506.07937v1](http://arxiv.org/abs/2506.07937v1)|null|
+|**2025-06-09**|**Uncovering the Functional Roles of Nonlinearity in Memory**|Manuel Brenner et.al.|[2506.07919v1](http://arxiv.org/abs/2506.07919v1)|null|
+|**2025-06-09**|**MultiMatch: Multihead Consistency Regularization Matching for Semi-Supervised Text Classification**|Iustin Sirbu et.al.|[2506.07801v1](http://arxiv.org/abs/2506.07801v1)|null|
+|**2025-06-09**|**Evaluating LLMs Robustness in Less Resourced Languages with Proxy Models**|Maciej Chrabąszcz et.al.|[2506.07645v1](http://arxiv.org/abs/2506.07645v1)|null|
+|**2025-06-09**|**Vuyko Mistral: Adapting LLMs for Low-Resource Dialectal Translation**|Roman Kyslyi et.al.|[2506.07617v1](http://arxiv.org/abs/2506.07617v1)|null|
+|**2025-06-09**|**Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models**|Kyeonghyun Kim et.al.|[2506.07424v1](http://arxiv.org/abs/2506.07424v1)|null|
+|**2025-06-09**|**Anomaly Detection and Early Warning Mechanism for Intelligent Monitoring Systems in Multi-Cloud Environments Based on LLM**|Yihong Jin et.al.|[2506.07407v1](http://arxiv.org/abs/2506.07407v1)|null|
+|**2025-06-08**|**CTDGSI: A comprehensive exploitation of instance selection methods for automatic text classification. VII Concurso de Teses, Dissertações e Trabalhos de Graduação em SI -- XXI Simpósio Brasileiro de Sistemas de Informação**|Washington Cunha et.al.|[2506.07169v1](http://arxiv.org/abs/2506.07169v1)|null|
+|**2025-06-08**|**ModelForge: Using GenAI to Improve the Development of Security Protocols**|Martin Duclos et.al.|[2506.07010v1](http://arxiv.org/abs/2506.07010v1)|null|
 |**2025-06-06**|**PROVSYN: Synthesizing Provenance Graphs for Data Augmentation in Intrusion Detection Systems**|Yi Huang et.al.|[2506.06226v1](http://arxiv.org/abs/2506.06226v1)|null|
 |**2025-06-06**|**A Novel, Human-in-the-Loop Computational Grounded Theory Framework for Big Social Data**|Lama Alqazlan et.al.|[2506.06083v1](http://arxiv.org/abs/2506.06083v1)|null|
 |**2025-06-06**|**Hey, That's My Data! Label-Only Dataset Inference in Large Language Models**|Chen Xiong et.al.|[2506.06057v1](http://arxiv.org/abs/2506.06057v1)|null|
@@ -2729,6 +2739,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Prompt to Protection: A Comparative Study of Multimodal LLMs in Construction Hazard Recognition**|Nishi Chaudhary et.al.|[2506.07436v1](http://arxiv.org/abs/2506.07436v1)|null|
+|**2025-06-09**|**Improving LLM Reasoning through Interpretable Role-Playing Steering**|Anyi Wang et.al.|[2506.07335v1](http://arxiv.org/abs/2506.07335v1)|null|
 |**2025-06-06**|**DynamicMind: A Tri-Mode Thinking System for Large Language Models**|Wei Li et.al.|[2506.05936v1](http://arxiv.org/abs/2506.05936v1)|null|
 |**2025-06-06**|**Efficient Online RFT with Plug-and-Play LLM Judges: Unlocking State-of-the-Art Performance**|Rudransh Agnihotri et.al.|[2506.05748v1](http://arxiv.org/abs/2506.05748v1)|null|
 |**2025-06-05**|**Joint User Association and Beamforming Design for ISAC Networks with Large Language Models**|Haoyun Li et.al.|[2506.05637v1](http://arxiv.org/abs/2506.05637v1)|null|
@@ -3687,6 +3699,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Aligning Text, Images, and 3D Structure Token-by-Token**|Aadarsh Sahoo et.al.|[2506.08002v1](http://arxiv.org/abs/2506.08002v1)|null|
+|**2025-06-09**|**SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence**|Ziyang Gong et.al.|[2506.07966v1](http://arxiv.org/abs/2506.07966v1)|null|
+|**2025-06-09**|**WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**|Jie Yang et.al.|[2506.07905v1](http://arxiv.org/abs/2506.07905v1)|null|
+|**2025-06-09**|**MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs**|Ke Wang et.al.|[2506.07899v1](http://arxiv.org/abs/2506.07899v1)|null|
+|**2025-06-09**|**HAIBU-ReMUD: Reasoning Multimodal Ultrasound Dataset and Model Bridging to General Specific Domains**|Shijie Wang et.al.|[2506.07837v1](http://arxiv.org/abs/2506.07837v1)|null|
+|**2025-06-09**|**WebUIBench: A Comprehensive Benchmark for Evaluating Multimodal Large Language Models in WebUI-to-Code**|Zhiyu Lin et.al.|[2506.07818v1](http://arxiv.org/abs/2506.07818v1)|null|
+|**2025-06-09**|**Looking Beyond Visible Cues: Implicit Video Question Answering via Dual-Clue Reasoning**|Tieyuan Chen et.al.|[2506.07811v1](http://arxiv.org/abs/2506.07811v1)|null|
+|**2025-06-09**|**Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger**|Qi Yang et.al.|[2506.07785v1](http://arxiv.org/abs/2506.07785v1)|null|
+|**2025-06-09**|**TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review**|Yuan Chang et.al.|[2506.07642v1](http://arxiv.org/abs/2506.07642v1)|null|
+|**2025-06-09**|**Federated In-Context Learning: Iterative Refinement for Improved Answer Quality**|Ruhan Wang et.al.|[2506.07440v1](http://arxiv.org/abs/2506.07440v1)|null|
 |**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Shi Liu et.al.|[2506.06279v1](http://arxiv.org/abs/2506.06279v1)|null|
 |**2025-06-06**|**ExAct: A Video-Language Benchmark for Expert Action Analysis**|Han Yi et.al.|[2506.06277v1](http://arxiv.org/abs/2506.06277v1)|null|
 |**2025-06-06**|**Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models**|Zahra Babaiee et.al.|[2506.06242v1](http://arxiv.org/abs/2506.06242v1)|null|
@@ -6294,6 +6316,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-08**|**Speech Recognition on TV Series with Video-guided Post-Correction**|Haoyuan Yang et.al.|[2506.07323v1](http://arxiv.org/abs/2506.07323v1)|null|
+|**2025-06-08**|**Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants**|Stergios Chatzikyriakidis et.al.|[2506.07042v1](http://arxiv.org/abs/2506.07042v1)|null|
+|**2025-06-07**|**Neural Spectral Band Generation for Audio Coding**|Woongjib Choi et.al.|[2506.06732v1](http://arxiv.org/abs/2506.06732v1)|null|
+|**2025-06-07**|**Learning Robust Heterogeneous Graph Representations via Contrastive-Reconstruction under Sparse Semantics**|Di Lin et.al.|[2506.06682v1](http://arxiv.org/abs/2506.06682v1)|null|
 |**2025-06-03**|**Auto Review: Second Stage Error Detection for Highly Accurate Information Extraction from Phone Conversations**|Ayesha Qamar et.al.|[2506.05400v1](http://arxiv.org/abs/2506.05400v1)|null|
 |**2025-06-05**|**APVR: Hour-Level Long Video Understanding with Adaptive Pivot Visual Information Retrieval**|Hong Gao et.al.|[2506.04953v1](http://arxiv.org/abs/2506.04953v1)|null|
 |**2025-06-05**|**E-bike agents: Large Language Model-Driven E-Bike Accident Analysis and Severity Prediction**|Zhichao Yang et.al.|[2506.04654v1](http://arxiv.org/abs/2506.04654v1)|null|
@@ -7040,6 +7066,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Trend-Aware Fashion Recommendation with Visual Segmentation and Semantic Similarity**|Mohamed Djilani et.al.|[2506.07773v1](http://arxiv.org/abs/2506.07773v1)|null|
+|**2025-06-09**|**MoE-MLoRA for Multi-Domain CTR Prediction: Efficient Adaptation with Expert Specialization**|Ken Yagel et.al.|[2506.07563v1](http://arxiv.org/abs/2506.07563v1)|null|
+|**2025-06-09**|**Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems**|Shuqiang Zhang et.al.|[2506.07517v1](http://arxiv.org/abs/2506.07517v1)|null|
+|**2025-06-09**|**LlamaRec-LKG-RAG: A Single-Pass, Learnable Knowledge Graph-RAG Framework for LLM-Based Ranking**|Vahid Azizi et.al.|[2506.07449v1](http://arxiv.org/abs/2506.07449v1)|null|
+|**2025-06-08**|**RADAR: Recall Augmentation through Deferred Asynchronous Retrieval**|Amit Jaspal et.al.|[2506.07261v1](http://arxiv.org/abs/2506.07261v1)|null|
 |**2025-06-06**|**RecGPT: A Foundation Model for Sequential Recommendation**|Yangqin Jiang et.al.|[2506.06270v1](http://arxiv.org/abs/2506.06270v1)|null|
 |**2025-06-06**|**Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for Item-to-Item Retrieval in Recommendation**|Jiang Zhang et.al.|[2506.06239v1](http://arxiv.org/abs/2506.06239v1)|null|
 |**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162v1](http://arxiv.org/abs/2506.06162v1)|null|
@@ -8774,6 +8805,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**A Temporal FRBR/FRBRoo-Based Model for Component-Level Versioning of Legal Norms**|Hudson de Martim et.al.|[2506.07853v1](http://arxiv.org/abs/2506.07853v1)|null|
+|**2025-06-09**|**SceneRAG: Scene-level Retrieval-Augmented Generation for Video Understanding**|Nianbo Zeng et.al.|[2506.07600v1](http://arxiv.org/abs/2506.07600v1)|null|
+|**2025-06-09**|**LlamaRec-LKG-RAG: A Single-Pass, Learnable Knowledge Graph-RAG Framework for LLM-Based Ranking**|Vahid Azizi et.al.|[2506.07449v1](http://arxiv.org/abs/2506.07449v1)|null|
+|**2025-06-08**|**ConfQA: Answer Only If You Are Confident**|Yin Huang et.al.|[2506.07309v1](http://arxiv.org/abs/2506.07309v1)|null|
+|**2025-06-08**|**Research Knowledge Graphs: the Shifting Paradigm of Scholarly Information Representation**|Matthäus Zloch et.al.|[2506.07285v1](http://arxiv.org/abs/2506.07285v1)|null|
+|**2025-06-08**|**Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants**|Stergios Chatzikyriakidis et.al.|[2506.07042v1](http://arxiv.org/abs/2506.07042v1)|null|
+|**2025-06-08**|**KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering**|Zhongze Luo et.al.|[2506.07037v1](http://arxiv.org/abs/2506.07037v1)|null|
+|**2025-06-07**|**Graph Neural Networks in Modern AI-aided Drug Discovery**|Odin Zhang et.al.|[2506.06915v1](http://arxiv.org/abs/2506.06915v1)|null|
 |**2025-06-06**|**Respecting Temporal-Causal Consistency: Entity-Event Knowledge Graphs for Retrieval-Augmented Generation**|Ze Yu Zhang et.al.|[2506.05939v1](http://arxiv.org/abs/2506.05939v1)|null|
 |**2025-06-06**|**BioMol-MQA: A Multi-Modal Question Answering Dataset For LLM Reasoning Over Bio-Molecular Interactions**|Saptarshi Sengupta et.al.|[2506.05766v1](http://arxiv.org/abs/2506.05766v1)|null|
 |**2025-06-06**|**Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness**|Rongzhe Wei et.al.|[2506.05735v1](http://arxiv.org/abs/2506.05735v1)|null|
@@ -10229,6 +10268,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Residual Reweighted Conformal Prediction for Graph Neural Networks**|Zheng Zhang et.al.|[2506.07854v1](http://arxiv.org/abs/2506.07854v1)|null|
+|**2025-06-09**|**Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning**|Haizhao Jing et.al.|[2506.07735v1](http://arxiv.org/abs/2506.07735v1)|null|
+|**2025-06-09**|**HeTa: Relation-wise Heterogeneous Graph Foundation Attack Model**|Yuling Wang et.al.|[2506.07428v1](http://arxiv.org/abs/2506.07428v1)|null|
+|**2025-06-08**|**Efficient Text-Attributed Graph Learning through Selective Annotation and Graph Alignment**|Huanyi Xie et.al.|[2506.07168v1](http://arxiv.org/abs/2506.07168v1)|null|
+|**2025-06-08**|**MAGNet: A Multi-Scale Attention-Guided Graph Fusion Network for DRC Violation Detection**|Weihan Lu et.al.|[2506.07126v1](http://arxiv.org/abs/2506.07126v1)|null|
+|**2025-06-07**|**Graph-Based Physics-Guided Urban PM2.5 Air Quality Imputation with Constrained Monitoring Data**|Shangjie Du et.al.|[2506.06917v1](http://arxiv.org/abs/2506.06917v1)|null|
+|**2025-06-07**|**Graph Neural Networks in Modern AI-aided Drug Discovery**|Odin Zhang et.al.|[2506.06915v1](http://arxiv.org/abs/2506.06915v1)|null|
+|**2025-06-07**|**Uncertainty Estimation on Graphs with Structure Informed Stochastic Partial Differential Equations**|Fred Xu et.al.|[2506.06907v1](http://arxiv.org/abs/2506.06907v1)|null|
+|**2025-06-07**|**FuncGNN: Learning Functional Semantics of Logic Circuits with Graph Neural Networks**|Qiyun Zhao et.al.|[2506.06787v1](http://arxiv.org/abs/2506.06787v1)|null|
+|**2025-06-07**|**Caterpillar GNN: Replacing Message Passing with Efficient Aggregation**|Marek Černý et.al.|[2506.06784v1](http://arxiv.org/abs/2506.06784v1)|null|
 |**2025-06-06**|**PROVSYN: Synthesizing Provenance Graphs for Data Augmentation in Intrusion Detection Systems**|Yi Huang et.al.|[2506.06226v1](http://arxiv.org/abs/2506.06226v1)|null|
 |**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157v1](http://arxiv.org/abs/2506.06157v1)|null|
 |**2025-06-06**|**Flow-Attentional Graph Neural Networks**|Pascal Plettenberg et.al.|[2506.06127v1](http://arxiv.org/abs/2506.06127v1)|null|
