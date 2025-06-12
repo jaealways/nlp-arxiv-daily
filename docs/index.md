@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,10 +24,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-10**|**Quantum Adiabatic Generation of Human-Like Passwords**|Sascha Mücke et.al.|[2506.08917v1](http://arxiv.org/abs/2506.08917v1)|null|
 |**2025-06-10**|**PlantBert: An Open Source Language Model for Plant Science**|Hiba Khey et.al.|[2506.08897v1](http://arxiv.org/abs/2506.08897v1)|null|
-|**2025-06-10**|**AraReasoner: Evaluating Reasoning-Based LLMs for Arabic NLP**|Ahmed Hasanaath et.al.|[2506.08768v1](http://arxiv.org/abs/2506.08768v1)|null|
+|**2025-06-11**|**AraReasoner: Evaluating Reasoning-Based LLMs for Arabic NLP**|Ahmed Hasanaath et.al.|[2506.08768v2](http://arxiv.org/abs/2506.08768v2)|null|
 |**2025-06-10**|**Improved LLM Agents for Financial Document Question Answering**|Nelvin Tan et.al.|[2506.08726v1](http://arxiv.org/abs/2506.08726v1)|null|
 |**2025-06-10**|**Sample Efficient Demonstration Selection for In-Context Learning**|Kiran Purohit et.al.|[2506.08607v1](http://arxiv.org/abs/2506.08607v1)|null|
-|**2025-06-10**|**Low-resource domain adaptation while minimizing energy and hardware resource consumption**|Hernán Maina et.al.|[2506.08433v1](http://arxiv.org/abs/2506.08433v1)|null|
+|**2025-06-11**|**Low-resource domain adaptation while minimizing energy and hardware resource consumption**|Hernán Maina et.al.|[2506.08433v2](http://arxiv.org/abs/2506.08433v2)|null|
 |**2025-06-10**|**TACTIC: Translation Agents with Cognitive-Theoretic Interactive Collaboration**|Weiya Li et.al.|[2506.08403v1](http://arxiv.org/abs/2506.08403v1)|**[link](https://github.com/weiyali126/TACTIC)**|
 |**2025-06-10**|**How Good LLM-Generated Password Policies Are?**|Vivek Vaidya et.al.|[2506.08320v1](http://arxiv.org/abs/2506.08320v1)|null|
 |**2025-06-09**|**TokenBreak: Bypassing Text Classification Models Through Token Manipulation**|Kasimir Schulz et.al.|[2506.07948v1](http://arxiv.org/abs/2506.07948v1)|null|
@@ -2711,7 +2711,7 @@ layout: default
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20250611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250612'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -2741,7 +2741,7 @@ layout: default
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20250611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250612'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -2750,8 +2750,8 @@ layout: default
 |**2025-06-10**|**From Legal Texts to Defeasible Deontic Logic via LLMs: A Study in Automated Semantic Analysis**|Elias Horner et.al.|[2506.08899v1](http://arxiv.org/abs/2506.08899v1)|null|
 |**2025-06-10**|**Brevity is the soul of sustainability: Characterizing LLM response lengths**|Soham Poddar et.al.|[2506.08686v1](http://arxiv.org/abs/2506.08686v1)|null|
 |**2025-06-10**|**RHealthTwin: Towards Responsible and Multimodal Digital Twins for Personalized Well-being**|Rahatara Ferdousi et.al.|[2506.08486v1](http://arxiv.org/abs/2506.08486v1)|null|
-|**2025-06-10**|**Transforming Expert Knowledge into Scalable Ontology via Large Language Models**|Ikkei Itoku et.al.|[2506.08422v1](http://arxiv.org/abs/2506.08422v1)|null|
-|**2025-06-09**|**Unable to forget: Proactive lnterference Reveals Working Memory Limits in LLMs Beyond Context Length**|Chupei Wang et.al.|[2506.08184v1](http://arxiv.org/abs/2506.08184v1)|null|
+|**2025-06-11**|**Transforming Expert Knowledge into Scalable Ontology via Large Language Models**|Ikkei Itoku et.al.|[2506.08422v2](http://arxiv.org/abs/2506.08422v2)|null|
+|**2025-06-11**|**Unable to Forget: Proactive lnterference Reveals Working Memory Limits in LLMs Beyond Context Length**|Chupei Wang et.al.|[2506.08184v2](http://arxiv.org/abs/2506.08184v2)|null|
 |**2025-06-09**|**Prompt to Protection: A Comparative Study of Multimodal LLMs in Construction Hazard Recognition**|Nishi Chaudhary et.al.|[2506.07436v1](http://arxiv.org/abs/2506.07436v1)|null|
 |**2025-06-09**|**Improving LLM Reasoning through Interpretable Role-Playing Steering**|Anyi Wang et.al.|[2506.07335v1](http://arxiv.org/abs/2506.07335v1)|null|
 |**2025-06-06**|**DynamicMind: A Tri-Mode Thinking System for Large Language Models**|Wei Li et.al.|[2506.05936v1](http://arxiv.org/abs/2506.05936v1)|null|
@@ -3706,19 +3706,19 @@ layout: default
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20250611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250612'>back to top</a>)</p>
 
 ## Question Answering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-10**|**WIP: Large Language Model-Enhanced Smart Tutor for Undergraduate Circuit Analysis**|Liangliang Chen et.al.|[2506.08962v1](http://arxiv.org/abs/2506.08962v1)|null|
-|**2025-06-10**|**Video-CoT: A Comprehensive Dataset for Spatiotemporal Understanding of Videos Based on Chain-of-Thought**|Shuyi Zhang et.al.|[2506.08817v1](http://arxiv.org/abs/2506.08817v1)|null|
+|**2025-06-11**|**Video-CoT: A Comprehensive Dataset for Spatiotemporal Understanding of Videos Based on Chain-of-Thought**|Shuyi Zhang et.al.|[2506.08817v2](http://arxiv.org/abs/2506.08817v2)|null|
 |**2025-06-10**|**Unlocking the Potential of Large Language Models in the Nuclear Industry with Synthetic Data**|Muhammad Anwar et.al.|[2506.08750v1](http://arxiv.org/abs/2506.08750v1)|null|
 |**2025-06-10**|**Improved LLM Agents for Financial Document Question Answering**|Nelvin Tan et.al.|[2506.08726v1](http://arxiv.org/abs/2506.08726v1)|null|
 |**2025-06-10**|**PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly**|Liang Ma et.al.|[2506.08708v1](http://arxiv.org/abs/2506.08708v1)|null|
 |**2025-06-10**|**VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism**|Congzhi Zhang et.al.|[2506.08691v1](http://arxiv.org/abs/2506.08691v1)|null|
-|**2025-06-10**|**Teaching Physical Awareness to LLMs through Sounds**|Weiguo Wang et.al.|[2506.08524v1](http://arxiv.org/abs/2506.08524v1)|null|
+|**2025-06-11**|**Teaching Physical Awareness to LLMs through Sounds**|Weiguo Wang et.al.|[2506.08524v2](http://arxiv.org/abs/2506.08524v2)|null|
 |**2025-06-10**|**Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive- $k$**|Chihiro Taguchi et.al.|[2506.08479v1](http://arxiv.org/abs/2506.08479v1)|null|
 |**2025-06-10**|**mSTEB: Massively Multilingual Evaluation of LLMs on Speech and Text Tasks**|Luel Hagos Beyene et.al.|[2506.08400v1](http://arxiv.org/abs/2506.08400v1)|null|
 |**2025-06-09**|**LEANN: A Low-Storage Vector Index**|Yichuan Wang et.al.|[2506.08276v1](http://arxiv.org/abs/2506.08276v1)|null|
@@ -6333,7 +6333,7 @@ layout: default
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20250611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250612'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -7083,7 +7083,7 @@ layout: default
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20250611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250612'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -7095,7 +7095,7 @@ layout: default
 |**2025-06-09**|**Serendipitous Recommendation with Multimodal LLM**|Haoting Wang et.al.|[2506.08283v1](http://arxiv.org/abs/2506.08283v1)|null|
 |**2025-06-09**|**LLM-BT: Back-Translation as a Framework for Terminology Standardization and Dynamic Semantic Embedding**|Li Weigang et.al.|[2506.08174v1](http://arxiv.org/abs/2506.08174v1)|null|
 |**2025-06-09**|**Trend-Aware Fashion Recommendation with Visual Segmentation and Semantic Similarity**|Mohamed Djilani et.al.|[2506.07773v1](http://arxiv.org/abs/2506.07773v1)|null|
-|**2025-06-10**|**MoE-MLoRA for Multi-Domain CTR Prediction: Efficient Adaptation with Expert Specialization**|Ken Yaggel et.al.|[2506.07563v2](http://arxiv.org/abs/2506.07563v2)|null|
+|**2025-06-11**|**MoE-MLoRA for Multi-Domain CTR Prediction: Efficient Adaptation with Expert Specialization**|Ken Yaggel et.al.|[2506.07563v3](http://arxiv.org/abs/2506.07563v3)|null|
 |**2025-06-09**|**Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems**|Shuqiang Zhang et.al.|[2506.07517v1](http://arxiv.org/abs/2506.07517v1)|null|
 |**2025-06-09**|**LlamaRec-LKG-RAG: A Single-Pass, Learnable Knowledge Graph-RAG Framework for LLM-Based Ranking**|Vahid Azizi et.al.|[2506.07449v1](http://arxiv.org/abs/2506.07449v1)|null|
 |**2025-06-08**|**RADAR: Recall Augmentation through Deferred Asynchronous Retrieval**|Amit Jaspal et.al.|[2506.07261v1](http://arxiv.org/abs/2506.07261v1)|null|
@@ -8827,7 +8827,7 @@ layout: default
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20250611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250612'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -8836,7 +8836,7 @@ layout: default
 |**2025-06-10**|**A Survey of Link Prediction in N-ary Knowledge Graphs**|Jiyao Wei et.al.|[2506.08970v1](http://arxiv.org/abs/2506.08970v1)|null|
 |**2025-06-10**|**Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery**|Yuni Susanti et.al.|[2506.08771v1](http://arxiv.org/abs/2506.08771v1)|null|
 |**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743v1](http://arxiv.org/abs/2506.08743v1)|null|
-|**2025-06-10**|**ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts**|Ruiran Su et.al.|[2506.08700v1](http://arxiv.org/abs/2506.08700v1)|null|
+|**2025-06-11**|**ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts**|Ruiran Su et.al.|[2506.08700v2](http://arxiv.org/abs/2506.08700v2)|null|
 |**2025-06-10**|**From Pixels to Graphs: using Scene and Knowledge Graphs for HD-EPIC VQA Challenge**|Agnese Taluzzi et.al.|[2506.08553v1](http://arxiv.org/abs/2506.08553v1)|null|
 |**2025-06-09**|**ETT-CKGE: Efficient Task-driven Tokens for Continual Knowledge Graph Embedding**|Lijing Zhu et.al.|[2506.08158v1](http://arxiv.org/abs/2506.08158v1)|null|
 |**2025-06-09**|**CuRe: Cultural Gaps in the Long Tail of Text-to-Image Systems**|Aniket Rege et.al.|[2506.08071v1](http://arxiv.org/abs/2506.08071v1)|null|
@@ -10297,7 +10297,7 @@ layout: default
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|**[link](https://github.com/hkust-knowcomp/abductivekgr)**|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20250611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250612'>back to top</a>)</p>
 
 ## GNN
 
@@ -10310,7 +10310,7 @@ layout: default
 |**2025-06-10**|**Urban Incident Prediction with Graph Neural Networks: Integrating Government Ratings and Crowdsourced Reports**|Sidhika Balachandar et.al.|[2506.08740v1](http://arxiv.org/abs/2506.08740v1)|null|
 |**2025-06-10**|**WGLE:Backdoor-free and Multi-bit Black-box Watermarking for Graph Neural Networks**|Tingzhi Li et.al.|[2506.08602v1](http://arxiv.org/abs/2506.08602v1)|null|
 |**2025-06-10**|**HGFormer: A Hierarchical Graph Transformer Framework for Two-Stage Colonel Blotto Games via Reinforcement Learning**|Yang Lv et.al.|[2506.08580v1](http://arxiv.org/abs/2506.08580v1)|null|
-|**2025-06-10**|**Learnable Spatial-Temporal Positional Encoding for Link Prediction**|Katherine Tieu et.al.|[2506.08309v1](http://arxiv.org/abs/2506.08309v1)|null|
+|**2025-06-11**|**Learnable Spatial-Temporal Positional Encoding for Link Prediction**|Katherine Tieu et.al.|[2506.08309v2](http://arxiv.org/abs/2506.08309v2)|null|
 |**2025-06-09**|**Residual Reweighted Conformal Prediction for Graph Neural Networks**|Zheng Zhang et.al.|[2506.07854v1](http://arxiv.org/abs/2506.07854v1)|null|
 |**2025-06-09**|**Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning**|Haizhao Jing et.al.|[2506.07735v1](http://arxiv.org/abs/2506.07735v1)|null|
 |**2025-06-09**|**HeTa: Relation-wise Heterogeneous Graph Foundation Attack Model**|Yuling Wang et.al.|[2506.07428v1](http://arxiv.org/abs/2506.07428v1)|null|
@@ -12864,5 +12864,5 @@ layout: default
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|**[link](https://github.com/basiralab/falcon)**|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20250611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250612'>back to top</a>)</p>
 
