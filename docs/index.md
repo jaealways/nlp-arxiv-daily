@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -29,9 +29,9 @@ layout: default
 |**2025-06-13**|**A Gamified Evaluation and Recruitment Platform for Low Resource Language Machine Translation Systems**|Carlos Rafael Catalan et.al.|[2506.11467v1](http://arxiv.org/abs/2506.11467v1)|null|
 |**2025-06-13**|**Position Paper: Rethinking AI/ML for Air Interface in Wireless Networks**|Georgios Kontes et.al.|[2506.11466v1](http://arxiv.org/abs/2506.11466v1)|null|
 |**2025-06-12**|**Surprisal from Larger Transformer-based Language Models Predicts fMRI Data More Poorly**|Yi-Chien Lin et.al.|[2506.11338v1](http://arxiv.org/abs/2506.11338v1)|null|
-|**2025-06-12**|**Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning**|Julius Berner et.al.|[2506.10973v1](http://arxiv.org/abs/2506.10973v1)|null|
+|**2025-06-12**|**Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning**|Julius Berner et.al.|[2506.10973v1](http://arxiv.org/abs/2506.10973v1)|**[link](https://github.com/neuraloperator/nns-to-nos)**|
 |**2025-06-12**|**FerroAI: A Deep Learning Model for Predicting Phase Diagrams of Ferroelectric Materials**|Chenbo Zhang et.al.|[2506.10970v1](http://arxiv.org/abs/2506.10970v1)|null|
-|**2025-06-12**|**BioClinical ModernBERT: A State-of-the-Art Long-Context Encoder for Biomedical and Clinical NLP**|Thomas Sounack et.al.|[2506.10896v1](http://arxiv.org/abs/2506.10896v1)|null|
+|**2025-06-12**|**BioClinical ModernBERT: A State-of-the-Art Long-Context Encoder for Biomedical and Clinical NLP**|Thomas Sounack et.al.|[2506.10896v1](http://arxiv.org/abs/2506.10896v1)|**[link](https://github.com/lindvalllab/bioclinical-modernbert)**|
 |**2025-06-12**|**Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches**|Andrea Moglia et.al.|[2506.10825v1](http://arxiv.org/abs/2506.10825v1)|null|
 |**2025-06-12**|**FASCIST-O-METER: Classifier for Neo-fascist Discourse Online**|Rudy Alexandro Garrido Veliz et.al.|[2506.10789v1](http://arxiv.org/abs/2506.10789v1)|null|
 |**2025-06-12**|**Formalising Software Requirements using Large Language Models**|Arshad Beg et.al.|[2506.10704v1](http://arxiv.org/abs/2506.10704v1)|null|
@@ -2737,7 +2737,7 @@ layout: default
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20250616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250617'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -2767,7 +2767,7 @@ layout: default
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20250616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250617'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -2777,8 +2777,8 @@ layout: default
 |**2025-06-13**|**Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning**|Chengye Li et.al.|[2506.11516v1](http://arxiv.org/abs/2506.11516v1)|null|
 |**2025-06-12**|**The Sample Complexity of Parameter-Free Stochastic Convex Optimization**|Jared Lawrence et.al.|[2506.11336v1](http://arxiv.org/abs/2506.11336v1)|null|
 |**2025-06-12**|**LLM-as-a-Fuzzy-Judge: Fine-Tuning Large Language Models as a Clinical Evaluation Judge with Fuzzy Logic**|Weibing Zheng et.al.|[2506.11221v1](http://arxiv.org/abs/2506.11221v1)|null|
-|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949v1](http://arxiv.org/abs/2506.10949v1)|**[link](https://github.com/yuehhanchen/monitoring-decomposition-attack)**|
-|**2025-06-12**|**Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs**|Yucong Luo et.al.|[2506.10630v1](http://arxiv.org/abs/2506.10630v1)|null|
+|**2025-06-14**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949v2](http://arxiv.org/abs/2506.10949v2)|**[link](https://github.com/yuehhanchen/monitoring-decomposition-attack)**|
+|**2025-06-12**|**Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs**|Yucong Luo et.al.|[2506.10630v1](http://arxiv.org/abs/2506.10630v1)|**[link](https://github.com/lqzxt/time-r1)**|
 |**2025-06-12**|**Augmenting Large Language Models with Static Code Analysis for Automated Code Quality Improvements**|Seyed Moein Abtahi et.al.|[2506.10330v1](http://arxiv.org/abs/2506.10330v1)|null|
 |**2025-06-11**|**A Navigation Framework Utilizing Vision-Language Models**|Yicheng Duan et.al.|[2506.10172v1](http://arxiv.org/abs/2506.10172v1)|null|
 |**2025-06-11**|**Textual Bayes: Quantifying Uncertainty in LLM-Based Systems**|Brendan Leigh Ross et.al.|[2506.10060v1](http://arxiv.org/abs/2506.10060v1)|null|
@@ -3744,7 +3744,7 @@ layout: default
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20250616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250617'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -3757,7 +3757,7 @@ layout: default
 |**2025-06-13**|**Dynamic Double Space Tower**|Weikai Sun et.al.|[2506.11394v1](http://arxiv.org/abs/2506.11394v1)|null|
 |**2025-06-13**|**Curriculum-Guided Layer Scaling for Language Model Pretraining**|Karanpartap Singh et.al.|[2506.11389v1](http://arxiv.org/abs/2506.11389v1)|null|
 |**2025-06-13**|**Benchmarking Multimodal LLMs on Recognition and Understanding over Chemical Tables**|Yitong Zhou et.al.|[2506.11375v1](http://arxiv.org/abs/2506.11375v1)|null|
-|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949v1](http://arxiv.org/abs/2506.10949v1)|**[link](https://github.com/yuehhanchen/monitoring-decomposition-attack)**|
+|**2025-06-14**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949v2](http://arxiv.org/abs/2506.10949v2)|**[link](https://github.com/yuehhanchen/monitoring-decomposition-attack)**|
 |**2025-06-12**|**VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos**|Jiashuo Yu et.al.|[2506.10857v1](http://arxiv.org/abs/2506.10857v1)|null|
 |**2025-06-12**|**SlotPi: Physics-informed Object-centric Reasoning Models**|Jian Li et.al.|[2506.10778v1](http://arxiv.org/abs/2506.10778v1)|null|
 |**2025-06-12**|**Different Questions, Different Models: Fine-Grained Evaluation of Uncertainty and Calibration in Clinical QA with LLMs**|Alberto Testoni et.al.|[2506.10769v1](http://arxiv.org/abs/2506.10769v1)|null|
@@ -6398,7 +6398,7 @@ layout: default
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20250616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250617'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -6410,7 +6410,7 @@ layout: default
 |**2025-06-10**|**Scalable Medication Extraction and Discontinuation Identification from Electronic Health Records Using Large Language Models**|Chong Shao et.al.|[2506.11137v1](http://arxiv.org/abs/2506.11137v1)|null|
 |**2025-06-09**|**ScIRGen: Synthesize Realistic and Large-Scale RAG Dataset for Scientific Research**|Junyong Lin et.al.|[2506.11117v1](http://arxiv.org/abs/2506.11117v1)|null|
 |**2025-06-08**|**Speech Recognition on TV Series with Video-guided Post-Correction**|Haoyuan Yang et.al.|[2506.07323v1](http://arxiv.org/abs/2506.07323v1)|null|
-|**2025-06-08**|**Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants**|Stergios Chatzikyriakidis et.al.|[2506.07042v1](http://arxiv.org/abs/2506.07042v1)|null|
+|**2025-06-15**|**Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants**|Stergios Chatzikyriakidis et.al.|[2506.07042v2](http://arxiv.org/abs/2506.07042v2)|null|
 |**2025-06-07**|**Neural Spectral Band Generation for Audio Coding**|Woongjib Choi et.al.|[2506.06732v1](http://arxiv.org/abs/2506.06732v1)|null|
 |**2025-06-07**|**Learning Robust Heterogeneous Graph Representations via Contrastive-Reconstruction under Sparse Semantics**|Di Lin et.al.|[2506.06682v1](http://arxiv.org/abs/2506.06682v1)|null|
 |**2025-06-03**|**Auto Review: Second Stage Error Detection for Highly Accurate Information Extraction from Phone Conversations**|Ayesha Qamar et.al.|[2506.05400v1](http://arxiv.org/abs/2506.05400v1)|null|
@@ -7153,7 +7153,7 @@ layout: default
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20250616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250617'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -7165,7 +7165,7 @@ layout: default
 |**2025-06-13**|**Deep Learning Model Acceleration and Optimization Strategies for Real-Time Recommendation Systems**|Junli Shao et.al.|[2506.11421v1](http://arxiv.org/abs/2506.11421v1)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658v1](http://arxiv.org/abs/2506.10658v1)|null|
 |**2025-06-12**|**Macro Graph of Experts for Billion-Scale Multi-Task Recommendation**|Hongyu Yao et.al.|[2506.10520v1](http://arxiv.org/abs/2506.10520v1)|null|
-|**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347v1](http://arxiv.org/abs/2506.10347v1)|null|
+|**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347v1](http://arxiv.org/abs/2506.10347v1)|**[link](https://github.com/1371149/lightkg)**|
 |**2025-06-12**|**Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning**|Jiajin Liu et.al.|[2506.10282v1](http://arxiv.org/abs/2506.10282v1)|null|
 |**2025-06-12**|**Course Project Report: Comparing MCMC and Variational Inference for Bayesian Probabilistic Matrix Factorization on the MovieLens Dataset**|Ruixuan Xu et.al.|[2506.09928v2](http://arxiv.org/abs/2506.09928v2)|null|
 |**2025-06-11**|**Discrete Scale-invariant Metric Learning for Efficient Collaborative Filtering**|Yan Zhang et.al.|[2506.09898v1](http://arxiv.org/abs/2506.09898v1)|**[link](https://github.com/anonyfeb/dsml)**|
@@ -8909,7 +8909,7 @@ layout: default
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20250616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250617'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -8921,8 +8921,8 @@ layout: default
 |**2025-06-12**|**Jelly: a fast and convenient RDF serialization format**|Piotr Sowinski et.al.|[2506.11298v1](http://arxiv.org/abs/2506.11298v1)|null|
 |**2025-06-13**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963v2](http://arxiv.org/abs/2506.10963v2)|null|
 |**2025-06-12**|**Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs**|Yilin Xiao et.al.|[2506.10508v1](http://arxiv.org/abs/2506.10508v1)|null|
-|**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347v1](http://arxiv.org/abs/2506.10347v1)|null|
-|**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645v1](http://arxiv.org/abs/2506.09645v1)|null|
+|**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347v1](http://arxiv.org/abs/2506.10347v1)|**[link](https://github.com/1371149/lightkg)**|
+|**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645v1](http://arxiv.org/abs/2506.09645v1)|**[link](https://github.com/tianyao-aka/rapl)**|
 |**2025-06-11**|**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities**|Miguel Á. González-Santamarta et.al.|[2506.09581v1](http://arxiv.org/abs/2506.09581v1)|null|
 |**2025-06-11**|**From Symbolic to Neural and Back: Exploring Knowledge Graph-Large Language Model Synergies**|Blaž Škrlj et.al.|[2506.09566v1](http://arxiv.org/abs/2506.09566v1)|null|
 |**2025-06-11**|**KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs**|Dingjun Wu et.al.|[2506.09542v1](http://arxiv.org/abs/2506.09542v1)|null|
@@ -10391,7 +10391,7 @@ layout: default
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|**[link](https://github.com/hkust-knowcomp/abductivekgr)**|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20250616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250617'>back to top</a>)</p>
 
 ## GNN
 
@@ -12977,5 +12977,5 @@ layout: default
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|**[link](https://github.com/basiralab/falcon)**|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20250616'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250617'>back to top</a>)</p>
 
