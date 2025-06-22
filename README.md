@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-18**|**Enhancing Hyperbole and Metaphor Detection with Their Bidirectional Dynamic Interaction and Emotion Knowledge**|Li Zheng et.al.|[2506.15504v1](http://arxiv.org/abs/2506.15504v1)|null|
+|**2025-06-18**|**Enhancing Hyperbole and Metaphor Detection with Their Bidirectional Dynamic Interaction and Emotion Knowledge**|Li Zheng et.al.|[2506.15504v1](http://arxiv.org/abs/2506.15504v1)|**[link](https://github.com/zhengl00/emobi)**|
 |**2025-06-18**|**Human-Centred AI in FinTech: Developing a User Experience (UX) Research Point of View (PoV) Playbook**|Festus Adedoyin et.al.|[2506.15325v1](http://arxiv.org/abs/2506.15325v1)|null|
 |**2025-06-18**|**LLM vs. SAST: A Technical Analysis on Detecting Coding Bugs of GPT4-Advanced Data Analysis**|Madjid G. Tehrani et.al.|[2506.15212v1](http://arxiv.org/abs/2506.15212v1)|null|
 |**2025-06-18**|**A Comparative Study of Task Adaptation Techniques of Large Language Models for Identifying Sustainable Development Goals**|Andrea Cadeddu et.al.|[2506.15208v1](http://arxiv.org/abs/2506.15208v1)|null|
@@ -27,7 +27,7 @@
 |**2025-06-18**|**Identifying social isolation themes in NVDRS text narratives using topic modeling and text-classification methods**|Drew Walker et.al.|[2506.15030v1](http://arxiv.org/abs/2506.15030v1)|null|
 |**2025-06-17**|**MDBench: A Synthetic Multi-Document Reasoning Benchmark Generated with Knowledge Guidance**|Joseph J. Peper et.al.|[2506.14927v1](http://arxiv.org/abs/2506.14927v1)|null|
 |**2025-06-17**|**One Size Fits None: Rethinking Fairness in Medical AI**|Roland Roller et.al.|[2506.14400v1](http://arxiv.org/abs/2506.14400v1)|null|
-|**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746v1](http://arxiv.org/abs/2506.13746v1)|null|
+|**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746v1](http://arxiv.org/abs/2506.13746v1)|**[link](https://github.com/PsyberSecLab/Fine-Tuning-and-Explainability-for-Phishing-Detection)**|
 |**2025-06-16**|**GeoRecon: Graph-Level Representation Learning for 3D Molecules via Reconstruction-Based Pretraining**|Shaoheng Yan et.al.|[2506.13174v1](http://arxiv.org/abs/2506.13174v1)|null|
 |**2025-06-16**|**Evolution of ReID: From Early Methods to LLM Integration**|Amran Bhuiyan et.al.|[2506.13039v1](http://arxiv.org/abs/2506.13039v1)|null|
 |**2025-06-15**|**Latent Representation Learning of Multi-scale Thermophysics: Application to Dynamics in Shocked Porous Energetic Material**|Shahab Azarfar et.al.|[2506.12996v1](http://arxiv.org/abs/2506.12996v1)|null|
@@ -3776,13 +3776,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-18**|**WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts**|Negar Foroutan et.al.|[2506.15594v1](http://arxiv.org/abs/2506.15594v1)|null|
-|**2025-06-18**|**SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling**|Md Imbesat Hassan Rizvi et.al.|[2506.15498v1](http://arxiv.org/abs/2506.15498v1)|null|
+|**2025-06-18**|**WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts**|Negar Foroutan et.al.|[2506.15594v1](http://arxiv.org/abs/2506.15594v1)|**[link](https://github.com/negar-foroutan/wikimixqa)**|
+|**2025-06-18**|**SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling**|Md Imbesat Hassan Rizvi et.al.|[2506.15498v1](http://arxiv.org/abs/2506.15498v1)|**[link](https://github.com/ukplab/arxiv2025-spare-prm)**|
 |**2025-06-18**|**SANSKRITI: A Comprehensive Benchmark for Evaluating Language Models' Knowledge of Indian Culture**|Arijit Maji et.al.|[2506.15355v1](http://arxiv.org/abs/2506.15355v1)|null|
 |**2025-06-18**|**MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering**|Xinqi Fan et.al.|[2506.15298v1](http://arxiv.org/abs/2506.15298v1)|null|
 |**2025-06-18**|**TopClustRAG at SIGIR 2025 LiveRAG Challenge**|Juli Bakagianni et.al.|[2506.15246v1](http://arxiv.org/abs/2506.15246v1)|null|
 |**2025-06-18**|**video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models**|Changli Tang et.al.|[2506.15220v1](http://arxiv.org/abs/2506.15220v1)|null|
-|**2025-06-18**|**MinosEval: Distinguishing Factoid and Non-Factoid for Tailored Open-Ended QA Evaluation with LLMs**|Yongqi Fan et.al.|[2506.15215v1](http://arxiv.org/abs/2506.15215v1)|null|
+|**2025-06-18**|**MinosEval: Distinguishing Factoid and Non-Factoid for Tailored Open-Ended QA Evaluation with LLMs**|Yongqi Fan et.al.|[2506.15215v1](http://arxiv.org/abs/2506.15215v1)|**[link](https://github.com/johnny-fans/minoseval)**|
 |**2025-06-17**|**MDBench: A Synthetic Multi-Document Reasoning Benchmark Generated with Knowledge Guidance**|Joseph J. Peper et.al.|[2506.14927v1](http://arxiv.org/abs/2506.14927v1)|null|
 |**2025-06-17**|**GenerationPrograms: Fine-grained Attribution with Executable Programs**|David Wan et.al.|[2506.14580v1](http://arxiv.org/abs/2506.14580v1)|null|
 |**2025-06-17**|**SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks**|Zijian Song et.al.|[2506.14512v1](http://arxiv.org/abs/2506.14512v1)|null|
@@ -7215,7 +7215,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-18**|**Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative Next-User Modeling**|Yu-Ting Lan et.al.|[2506.15267v1](http://arxiv.org/abs/2506.15267v1)|null|
-|**2025-06-18**|**Advancing Loss Functions in Recommender Systems: A Comparative Study with a Rényi Divergence-Based Solution**|Shengjia Zhang et.al.|[2506.15120v1](http://arxiv.org/abs/2506.15120v1)|null|
+|**2025-06-18**|**Advancing Loss Functions in Recommender Systems: A Comparative Study with a Rényi Divergence-Based Solution**|Shengjia Zhang et.al.|[2506.15120v1](http://arxiv.org/abs/2506.15120v1)|**[link](https://github.com/cynthia-shengjia/aaai-2025-drrl)**|
 |**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707v1](http://arxiv.org/abs/2506.14707v1)|null|
 |**2025-06-17**|**A Systematic Replicability and Comparative Study of BSARec and SASRec for Sequential Recommendation**|Chiara D'Ercoli et.al.|[2506.14692v1](http://arxiv.org/abs/2506.14692v1)|null|
 |**2025-06-17**|**ImpReSS: Implicit Recommender System for Support Conversations**|Omri Haller et.al.|[2506.14231v1](http://arxiv.org/abs/2506.14231v1)|null|
@@ -8991,7 +8991,7 @@
 |**2025-06-17**|**A Multi-Expert Structural-Semantic Hybrid Framework for Unveiling Historical Patterns in Temporal Knowledge Graphs**|Yimin Deng et.al.|[2506.14235v1](http://arxiv.org/abs/2506.14235v1)|null|
 |**2025-06-17**|**Affective-CARA: A Knowledge Graph Driven Framework for Culturally Adaptive Emotional Intelligence in HCI**|Nirodya Pussadeniya et.al.|[2506.14166v1](http://arxiv.org/abs/2506.14166v1)|null|
 |**2025-06-16**|**Integrating Knowledge Graphs and Bayesian Networks: A Hybrid Approach for Explainable Disease Risk Prediction**|Mbithe Nzomo et.al.|[2506.13920v1](http://arxiv.org/abs/2506.13920v1)|null|
-|**2025-06-16**|**EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs**|Bohao Yang et.al.|[2506.13641v1](http://arxiv.org/abs/2506.13641v1)|null|
+|**2025-06-16**|**EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs**|Bohao Yang et.al.|[2506.13641v1](http://arxiv.org/abs/2506.13641v1)|**[link](https://github.com/bernard-yang/evolvtrip)**|
 |**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509v1](http://arxiv.org/abs/2506.13509v1)|null|
 |**2025-06-16**|**Decompositional Reasoning for Graph Retrieval with Large Language Models**|Valentin Six et.al.|[2506.13380v1](http://arxiv.org/abs/2506.13380v1)|null|
 |**2025-06-16**|**On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains**|Craig Steven Wright et.al.|[2506.13246v1](http://arxiv.org/abs/2506.13246v1)|null|
@@ -10488,7 +10488,7 @@
 |**2025-06-18**|**DOVA-PATBM: An Intelligent, Adaptive, and Scalable Framework for Optimizing Large-Scale EV Charging Infrastructure**|Chuan Li et.al.|[2506.15289v1](http://arxiv.org/abs/2506.15289v1)|null|
 |**2025-06-17**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684v1](http://arxiv.org/abs/2506.14684v1)|**[link](https://github.com/chymaera96/neuralsampleid)**|
 |**2025-06-17**|**Automated Decision-Making on Networks with LLMs through Knowledge-Guided Evolution**|Xiaohan Zheng et.al.|[2506.14529v1](http://arxiv.org/abs/2506.14529v1)|null|
-|**2025-06-17**|**AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection**|Zixian Zhang et.al.|[2506.14470v1](http://arxiv.org/abs/2506.14470v1)|null|
+|**2025-06-17**|**AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection**|Zixian Zhang et.al.|[2506.14470v1](http://arxiv.org/abs/2506.14470v1)|**[link](https://github.com/zixianreid/semantic_graph_code_code_clone)**|
 |**2025-06-17**|**Can Large Language Models Improve Spectral Graph Neural Networks?**|Kangkang Lu et.al.|[2506.14220v1](http://arxiv.org/abs/2506.14220v1)|null|
 |**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138v1](http://arxiv.org/abs/2506.14138v1)|null|
 |**2025-06-17**|**CLGNN: A Contrastive Learning-based GNN Model for Betweenness Centrality Prediction on Temporal Graphs**|Tianming Zhang et.al.|[2506.14122v1](http://arxiv.org/abs/2506.14122v1)|null|
