@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-19**|**Initial Investigation of LLM-Assisted Development of Rule-Based Clinical NLP System**|Jianlin Shi et.al.|[2506.16628v1](http://arxiv.org/abs/2506.16628v1)|null|
+|**2025-06-19**|**Unpacking Generative AI in Education: Computational Modeling of Teacher and Student Perspectives in Social Media Discourse**|Paulina DeVito et.al.|[2506.16412v1](http://arxiv.org/abs/2506.16412v1)|null|
+|**2025-06-19**|**Large Language Models in Argument Mining: A Survey**|Hao Li et.al.|[2506.16383v1](http://arxiv.org/abs/2506.16383v1)|null|
+|**2025-06-19**|**PL-Guard: Benchmarking Language Model Safety for Polish**|Aleksandra Krasnodębska et.al.|[2506.16322v1](http://arxiv.org/abs/2506.16322v1)|null|
+|**2025-06-19**|**Malware Classification Leveraging NLP & Machine Learning for Enhanced Accuracy**|Bishwajit Prasad Gond et.al.|[2506.16224v1](http://arxiv.org/abs/2506.16224v1)|null|
+|**2025-06-19**|**On using AI for EEG-based BCI applications: problems, current challenges and future trends**|Thomas Barbera et.al.|[2506.16168v1](http://arxiv.org/abs/2506.16168v1)|null|
+|**2025-06-19**|**Bridging Brain with Foundation Models through Self-Supervised Learning**|Hamdi Altaheri et.al.|[2506.16009v1](http://arxiv.org/abs/2506.16009v1)|null|
+|**2025-06-19**|**A Vietnamese Dataset for Text Segmentation and Multiple Choices Reading Comprehension**|Toan Nguyen Hai et.al.|[2506.15978v1](http://arxiv.org/abs/2506.15978v1)|null|
+|**2025-06-19**|**Polyline Path Masked Attention for Vision Transformer**|Zhongchen Zhao et.al.|[2506.15940v1](http://arxiv.org/abs/2506.15940v1)|null|
+|**2025-06-18**|**Job Market Cheat Codes: Prototyping Salary Prediction and Job Grouping with Synthetic Job Listings**|Abdel Rahman Alsheyab et.al.|[2506.15879v1](http://arxiv.org/abs/2506.15879v1)|null|
 |**2025-06-18**|**Enhancing Hyperbole and Metaphor Detection with Their Bidirectional Dynamic Interaction and Emotion Knowledge**|Li Zheng et.al.|[2506.15504v1](http://arxiv.org/abs/2506.15504v1)|**[link](https://github.com/zhengl00/emobi)**|
 |**2025-06-18**|**Human-Centred AI in FinTech: Developing a User Experience (UX) Research Point of View (PoV) Playbook**|Festus Adedoyin et.al.|[2506.15325v1](http://arxiv.org/abs/2506.15325v1)|null|
 |**2025-06-18**|**LLM vs. SAST: A Technical Analysis on Detecting Coding Bugs of GPT4-Advanced Data Analysis**|Madjid G. Tehrani et.al.|[2506.15212v1](http://arxiv.org/abs/2506.15212v1)|null|
@@ -2758,6 +2768,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**Finance Language Model Evaluation (FLaME)**|Glenn Matlin et.al.|[2506.15846v1](http://arxiv.org/abs/2506.15846v1)|null|
 |**2025-06-19**|**MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark for Financial LLM Evaluation**|Xueqing Peng et.al.|[2506.14028v2](http://arxiv.org/abs/2506.14028v2)|null|
 |**2025-05-31**|**FinS-Pilot: A Benchmark for Online Financial System**|Feng Wang et.al.|[2506.02037v1](http://arxiv.org/abs/2506.02037v1)|null|
 |**2025-03-23**|**Won: Establishing Best Practices for Korean Financial NLP**|Guijin Son et.al.|[2503.17963v1](http://arxiv.org/abs/2503.17963v1)|null|
@@ -2789,6 +2800,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Reward-Agnostic Prompt Optimization for Text-to-Image Diffusion Models**|Semin Kim et.al.|[2506.16853v1](http://arxiv.org/abs/2506.16853v1)|null|
+|**2025-06-19**|**SHREC and PHEONA: Using Large Language Models to Advance Next-Generation Computational Phenotyping**|Sarah Pungitore et.al.|[2506.16359v1](http://arxiv.org/abs/2506.16359v1)|null|
+|**2025-06-19**|**FinCoT: Grounding Chain-of-Thought in Expert Financial Reasoning**|Natapong Nitarach et.al.|[2506.16123v1](http://arxiv.org/abs/2506.16123v1)|null|
 |**2025-06-18**|**Optimizing Web-Based AI Query Retrieval with GPT Integration in LangChain A CoT-Enhanced Prompt Engineering Approach**|Wenqi Guan et.al.|[2506.15512v1](http://arxiv.org/abs/2506.15512v1)|null|
 |**2025-06-18**|**A Comparative Study of Task Adaptation Techniques of Large Language Models for Identifying Sustainable Development Goals**|Andrea Cadeddu et.al.|[2506.15208v1](http://arxiv.org/abs/2506.15208v1)|null|
 |**2025-06-17**|**From Chat to Checkup: Can Large Language Models Assist in Diabetes Prediction?**|Shadman Sakib et.al.|[2506.14949v1](http://arxiv.org/abs/2506.14949v1)|null|
@@ -3776,6 +3790,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Instituto de Telecomunicações at IWSLT 2025: Aligning Small-Scale Speech and Language Models for Speech-to-Text Learning**|Giuseppe Attanasio et.al.|[2506.17019v1](http://arxiv.org/abs/2506.17019v1)|null|
+|**2025-06-20**|**PersonalAI: Towards digital twins in the graph form**|Mikhail Menschikov et.al.|[2506.17001v1](http://arxiv.org/abs/2506.17001v1)|null|
+|**2025-06-20**|**RAGentA: Multi-Agent Retrieval-Augmented Generation for Attributed Question Answering**|Ines Besrour et.al.|[2506.16988v1](http://arxiv.org/abs/2506.16988v1)|null|
+|**2025-06-20**|**MM-AttacKG: A Multimodal Approach to Attack Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2506.16968v1](http://arxiv.org/abs/2506.16968v1)|null|
+|**2025-06-20**|**Enhancing Step-by-Step and Verifiable Medical Reasoning in MLLMs**|Haoran Sun et.al.|[2506.16962v1](http://arxiv.org/abs/2506.16962v1)|null|
+|**2025-06-20**|**eSapiens: A Real-World NLP Framework for Multimodal Document Understanding and Enterprise Knowledge Processing**|Isaac Shi et.al.|[2506.16768v1](http://arxiv.org/abs/2506.16768v1)|null|
+|**2025-06-20**|**The Role of Model Confidence on Bias Effects in Measured Uncertainties**|Xinyi Liu et.al.|[2506.16724v1](http://arxiv.org/abs/2506.16724v1)|null|
+|**2025-06-19**|**Capturing Visualization Design Rationale**|Maeve Hutchinson et.al.|[2506.16571v1](http://arxiv.org/abs/2506.16571v1)|null|
+|**2025-06-19**|**How Far Can Off-the-Shelf Multimodal Large Language Models Go in Online Episodic Memory Question Answering?**|Giuseppe Lando et.al.|[2506.16450v1](http://arxiv.org/abs/2506.16450v1)|null|
+|**2025-06-19**|**When Does Divide and Conquer Work for Long Context LLM? A Noise Decomposition Framework**|Zhen Xu et.al.|[2506.16411v1](http://arxiv.org/abs/2506.16411v1)|null|
 |**2025-06-18**|**WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts**|Negar Foroutan et.al.|[2506.15594v1](http://arxiv.org/abs/2506.15594v1)|**[link](https://github.com/negar-foroutan/wikimixqa)**|
 |**2025-06-18**|**SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling**|Md Imbesat Hassan Rizvi et.al.|[2506.15498v1](http://arxiv.org/abs/2506.15498v1)|**[link](https://github.com/ukplab/arxiv2025-spare-prm)**|
 |**2025-06-18**|**SANSKRITI: A Comprehensive Benchmark for Evaluating Language Models' Knowledge of Indian Culture**|Arijit Maji et.al.|[2506.15355v1](http://arxiv.org/abs/2506.15355v1)|null|
@@ -6453,6 +6477,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-19**|**Robustness Evaluation of OCR-based Visual Document Understanding under Multi-Modal Adversarial Attacks**|Dong Nguyen Tien et.al.|[2506.16407v1](http://arxiv.org/abs/2506.16407v1)|null|
+|**2025-06-19**|**DISCIE -- Discriminative Closed Information Extraction**|Cedric Möller et.al.|[2506.16348v1](http://arxiv.org/abs/2506.16348v1)|null|
 |**2025-06-17**|**Combining Constrained and Unconstrained Decoding via Boosting: BoostCD and Its Application to Information Extraction**|Marija Šakota et.al.|[2506.14901v1](http://arxiv.org/abs/2506.14901v1)|null|
 |**2025-06-17**|**Adverse Event Extraction from Discharge Summaries: A New Dataset, Annotation Scheme, and Initial Findings**|Imane Guellil et.al.|[2506.14900v1](http://arxiv.org/abs/2506.14900v1)|null|
 |**2025-06-17**|**Foundation Model Insights and a Multi-Model Approach for Superior Fine-Grained One-shot Subset Selection**|Zhijing Wan et.al.|[2506.14473v1](http://arxiv.org/abs/2506.14473v1)|null|
@@ -7214,6 +7240,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Pyramid Mixer: Multi-dimensional Multi-period Interest Modeling for Sequential Recommendation**|Zhen Gong et.al.|[2506.16942v1](http://arxiv.org/abs/2506.16942v1)|null|
+|**2025-06-20**|**Multi-Objective Recommendation in the Era of Generative AI: A Survey of Recent Progress and Future Prospects**|Zihan Hong et.al.|[2506.16893v1](http://arxiv.org/abs/2506.16893v1)|null|
+|**2025-06-20**|**SIDE: Semantic ID Embedding for effective learning from sequences**|Dinesh Ramasamy et.al.|[2506.16698v1](http://arxiv.org/abs/2506.16698v1)|null|
+|**2025-06-20**|**A Simple Contrastive Framework Of Item Tokenization For Generative Recommendation**|Penglong Zhai et.al.|[2506.16683v1](http://arxiv.org/abs/2506.16683v1)|null|
+|**2025-06-19**|**Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures**|Vijay Prakash Dwivedi et.al.|[2506.16654v1](http://arxiv.org/abs/2506.16654v1)|null|
+|**2025-06-19**|**Neural Prioritisation for Web Crawling**|Francesza Pezzuti et.al.|[2506.16146v1](http://arxiv.org/abs/2506.16146v1)|null|
+|**2025-06-19**|**On the Efficient Discovery of Maximum $k$ -Defective Biclique**|Donghang Cui et.al.|[2506.16121v1](http://arxiv.org/abs/2506.16121v1)|null|
+|**2025-06-19**|**GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks**|Yejing Wang et.al.|[2506.16114v1](http://arxiv.org/abs/2506.16114v1)|null|
+|**2025-06-19**|**SEP-GCN: Leveraging Similar Edge Pairs with Temporal and Spatial Contexts for Location-Based Recommender Systems**|Tan Loc Nguyen et.al.|[2506.16003v1](http://arxiv.org/abs/2506.16003v1)|null|
+|**2025-06-19**|**Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities**|Jiancheng Ruan et.al.|[2506.15986v1](http://arxiv.org/abs/2506.15986v1)|null|
 |**2025-06-18**|**Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative Next-User Modeling**|Yu-Ting Lan et.al.|[2506.15267v1](http://arxiv.org/abs/2506.15267v1)|null|
 |**2025-06-18**|**Advancing Loss Functions in Recommender Systems: A Comparative Study with a Rényi Divergence-Based Solution**|Shengjia Zhang et.al.|[2506.15120v1](http://arxiv.org/abs/2506.15120v1)|**[link](https://github.com/cynthia-shengjia/aaai-2025-drrl)**|
 |**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707v1](http://arxiv.org/abs/2506.14707v1)|null|
@@ -8985,6 +9021,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**PersonalAI: Towards digital twins in the graph form**|Mikhail Menschikov et.al.|[2506.17001v1](http://arxiv.org/abs/2506.17001v1)|null|
+|**2025-06-20**|**SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization**|Hao Zhang et.al.|[2506.16981v1](http://arxiv.org/abs/2506.16981v1)|null|
+|**2025-06-19**|**A Community-driven vision for a new Knowledge Resource for AI**|Vinay K Chaudhri et.al.|[2506.16596v1](http://arxiv.org/abs/2506.16596v1)|null|
+|**2025-06-19**|**Analyzing the Influence of Knowledge Graph Information on Relation Extraction**|Cedric Möller et.al.|[2506.16343v1](http://arxiv.org/abs/2506.16343v1)|null|
 |**2025-06-18**|**Research on Graph-Retrieval Augmented Generation Based on Historical Text Knowledge Graphs**|Yang Fan et.al.|[2506.15241v1](http://arxiv.org/abs/2506.15241v1)|null|
 |**2025-06-17**|**Capacity Matters: a Proof-of-Concept for Transformer Memorization on Real-World Data**|Anton Changalidis et.al.|[2506.14704v1](http://arxiv.org/abs/2506.14704v1)|null|
 |**2025-06-17**|**From What to Respond to When to Respond: Timely Response Generation for Open-domain Dialogue Agents**|Seongbo Jang et.al.|[2506.14285v1](http://arxiv.org/abs/2506.14285v1)|null|
@@ -10483,6 +10523,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064v1](http://arxiv.org/abs/2506.17064v1)|null|
+|**2025-06-20**|**Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective**|Senmiao Wang et.al.|[2506.16790v1](http://arxiv.org/abs/2506.16790v1)|null|
+|**2025-06-19**|**SlepNet: Spectral Subgraph Representation Learning for Neural Dynamics**|Siddharth Viswanath et.al.|[2506.16602v1](http://arxiv.org/abs/2506.16602v1)|null|
+|**2025-06-19**|**Geometric Learning in Black-Box Optimization: A GNN Framework for Algorithm Performance Prediction**|Ana Kostovska et.al.|[2506.16144v1](http://arxiv.org/abs/2506.16144v1)|null|
+|**2025-06-19**|**Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification**|Langzhang Liang et.al.|[2506.16110v1](http://arxiv.org/abs/2506.16110v1)|null|
+|**2025-06-19**|**Unveiling defect motifs in amorphous GeSe using machine learning interatomic potentials**|Minseok Moon et.al.|[2506.15934v1](http://arxiv.org/abs/2506.15934v1)|null|
+|**2025-06-18**|**KG-FGNN: Knowledge-guided GNN Foundation Model for Fertilisation-oriented Soil GHG Flux Prediction**|Yu Zhang et.al.|[2506.15896v1](http://arxiv.org/abs/2506.15896v1)|null|
 |**2025-06-18**|**A Machine Learning Framework for Modeling Ensemble Properties of Atomically Disordered Materials**|Zhenyao Fang et.al.|[2506.15652v1](http://arxiv.org/abs/2506.15652v1)|null|
 |**2025-06-18**|**Over-squashing in Spatiotemporal Graph Neural Networks**|Ivan Marisca et.al.|[2506.15507v1](http://arxiv.org/abs/2506.15507v1)|null|
 |**2025-06-18**|**DOVA-PATBM: An Intelligent, Adaptive, and Scalable Framework for Optimizing Large-Scale EV Charging Infrastructure**|Chuan Li et.al.|[2506.15289v1](http://arxiv.org/abs/2506.15289v1)|null|
