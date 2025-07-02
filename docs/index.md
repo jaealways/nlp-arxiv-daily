@@ -29,7 +29,7 @@ layout: default
 |**2025-06-29**|**RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams**|Gabriel Iturra-Bocaz et.al.|[2506.23192v1](http://arxiv.org/abs/2506.23192v1)|null|
 |**2025-06-29**|**MariNER: A Dataset for Historical Brazilian Portuguese Named Entity Recognition**|João Lucas Luz Lima Sarcinelli et.al.|[2506.23051v1](http://arxiv.org/abs/2506.23051v1)|null|
 |**2025-06-28**|**How Semantically Informative is an Image?: Measuring the Covariance-Weighted Norm of Contrastive Learning Embeddings**|Fumiya Uchiyama et.al.|[2506.22881v1](http://arxiv.org/abs/2506.22881v1)|null|
-|**2025-06-28**|**Text Production and Comprehension by Human and Artificial Intelligence: Interdisciplinary Workshop Report**|Emily Dux Speltz et.al.|[2506.22698v1](http://arxiv.org/abs/2506.22698v1)|null|
+|**2025-07-01**|**Text Production and Comprehension by Human and Artificial Intelligence: Interdisciplinary Workshop Report**|Emily Dux Speltz et.al.|[2506.22698v2](http://arxiv.org/abs/2506.22698v2)|null|
 |**2025-06-27**|**Interact2Vec -- An efficient neural network-based model for simultaneously learning users and items embeddings in recommender systems**|Pedro R. Pires et.al.|[2506.22648v1](http://arxiv.org/abs/2506.22648v1)|null|
 |**2025-06-27**|**Towards Fair Rankings: Leveraging LLMs for Gender Bias Detection and Measurement**|Maryam Mousavian et.al.|[2506.22372v1](http://arxiv.org/abs/2506.22372v1)|null|
 |**2025-06-27**|**Evaluating Scoring Bias in LLM-as-a-Judge**|Qingquan Li et.al.|[2506.22316v1](http://arxiv.org/abs/2506.22316v1)|null|
@@ -3856,11 +3856,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-30**|**Bridging the Gap with Retrieval-Augmented Generation: Making Prosthetic Device User Manuals Available in Marginalised Languages**|Ikechukwu Ogbonna et.al.|[2506.23958v1](http://arxiv.org/abs/2506.23958v1)|null|
-|**2025-06-30**|**Positional Bias in Binary Question Answering: How Uncertainty Shapes Model Preferences**|Tiziano Labruna et.al.|[2506.23743v1](http://arxiv.org/abs/2506.23743v1)|null|
+|**2025-07-01**|**Positional Bias in Binary Question Answering: How Uncertainty Shapes Model Preferences**|Tiziano Labruna et.al.|[2506.23743v2](http://arxiv.org/abs/2506.23743v2)|null|
 |**2025-06-30**|**AutoEvoEval: An Automated Framework for Evolving Close-Ended LLM Evaluation Data**|JiaRu Wu et.al.|[2506.23735v1](http://arxiv.org/abs/2506.23735v1)|null|
 |**2025-06-30**|**L0: Reinforcement Learning to Become General Agents**|Junjie Zhang et.al.|[2506.23667v1](http://arxiv.org/abs/2506.23667v1)|null|
 |**2025-06-30**|**The Confidence Paradox: Can LLM Know When It's Wrong**|Sahil Tripathi et.al.|[2506.23464v1](http://arxiv.org/abs/2506.23464v1)|null|
-|**2025-06-29**|**Pipelined Decoder for Efficient Context-Aware Text Generation**|Zixian Huang et.al.|[2506.23431v1](http://arxiv.org/abs/2506.23431v1)|null|
+|**2025-07-01**|**Pipelined Decoder for Efficient Context-Aware Text Generation**|Zixian Huang et.al.|[2506.23431v2](http://arxiv.org/abs/2506.23431v2)|null|
 |**2025-06-29**|**RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams**|Gabriel Iturra-Bocaz et.al.|[2506.23192v1](http://arxiv.org/abs/2506.23192v1)|null|
 |**2025-06-29**|**LLM-Assisted Question-Answering on Technical Documents Using Structured Data-Aware Retrieval Augmented Generation**|Shadman Sobhan et.al.|[2506.23136v1](http://arxiv.org/abs/2506.23136v1)|null|
 |**2025-06-28**|**Machine Assistant with Reliable Knowledge: Enhancing Student Learning via RAG-based Retrieval**|Yongsheng Lian et.al.|[2506.23026v1](http://arxiv.org/abs/2506.23026v1)|null|
@@ -9184,7 +9184,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-29**|**Context-Driven Knowledge Graph Completion with Semantic-Aware Relational Message Passing**|Siyuan Li et.al.|[2506.23141v1](http://arxiv.org/abs/2506.23141v1)|null|
-|**2025-06-29**|**Flow-Modulated Scoring for Semantic-Aware Knowledge Graph Completion**|Siyuan Li et.al.|[2506.23137v1](http://arxiv.org/abs/2506.23137v1)|null|
+|**2025-07-01**|**Flow-Modulated Scoring for Semantic-Aware Knowledge Graph Completion**|Siyuan Li et.al.|[2506.23137v2](http://arxiv.org/abs/2506.23137v2)|null|
 |**2025-06-26**|**Weak-to-Strong GraphRAG: Aligning Weak Retrievers with Large Language Models for Graph-based Retrieval Augmented Generation**|Deyu Zou et.al.|[2506.22518v1](http://arxiv.org/abs/2506.22518v1)|null|
 |**2025-06-27**|**Breaking Rank Bottlenecks in Knowledge Graph Completion**|Samy Badreddine et.al.|[2506.22271v1](http://arxiv.org/abs/2506.22271v1)|null|
 |**2025-06-27**|**Towards Operational Data Analytics Chatbots -- Virtual Knowledge Graph is All You Need**|Junaid Ahmed Khan et.al.|[2506.22267v1](http://arxiv.org/abs/2506.22267v1)|null|
@@ -10711,7 +10711,7 @@ layout: default
 |**2025-06-30**|**When GNNs Met a Word Equations Solver: Learning to Rank Equations (Extended Technical Report)**|Parosh Aziz Abdulla et.al.|[2506.23784v1](http://arxiv.org/abs/2506.23784v1)|null|
 |**2025-06-30**|**Calibrating Graph Neural Networks with Wavelet-Aware Temperature Scaling**|Xiaoyang Li et.al.|[2506.23782v1](http://arxiv.org/abs/2506.23782v1)|null|
 |**2025-06-30**|**Graph Neural Networks to Predict Coercivity of Hard Magnetic Microstructures**|Heisam Moustafa et.al.|[2506.23615v1](http://arxiv.org/abs/2506.23615v1)|null|
-|**2025-06-29**|**ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation**|Suning Huang et.al.|[2506.23126v1](http://arxiv.org/abs/2506.23126v1)|null|
+|**2025-07-01**|**ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation**|Suning Huang et.al.|[2506.23126v2](http://arxiv.org/abs/2506.23126v2)|null|
 |**2025-06-29**|**Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction**|Hanlin Dong et.al.|[2506.23053v1](http://arxiv.org/abs/2506.23053v1)|null|
 |**2025-06-28**|**Prediction Gaps as Pathways to Explanation: Rethinking Educational Outcomes through Differences in Model Performance**|Javier Garcia-Bernardo et.al.|[2506.22993v1](http://arxiv.org/abs/2506.22993v1)|null|
 |**2025-06-28**|**Missing-Modality-Aware Graph Neural Network for Cancer Classification**|Sina Tabakhi et.al.|[2506.22901v1](http://arxiv.org/abs/2506.22901v1)|null|
