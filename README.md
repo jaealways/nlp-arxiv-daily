@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858v1](http://arxiv.org/abs/2507.02858v1)|null|
+|**2025-07-03**|**Hey AI, Generate Me a Hardware Code! Agentic AI-based Hardware Design & Verification**|Deepak Narayan Gadde et.al.|[2507.02660v1](http://arxiv.org/abs/2507.02660v1)|null|
+|**2025-07-03**|**VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning**|Siran Chen et.al.|[2507.02626v1](http://arxiv.org/abs/2507.02626v1)|null|
+|**2025-07-03**|**Revisiting Active Learning under (Human) Label Variation**|Cornelia Gruber et.al.|[2507.02593v1](http://arxiv.org/abs/2507.02593v1)|null|
+|**2025-07-03**|**RetrySQL: text-to-SQL training with retry data for self-correcting query generation**|Alicja Rączkowska et.al.|[2507.02529v1](http://arxiv.org/abs/2507.02529v1)|null|
+|**2025-07-03**|**Introducing a New Brexit-Related Uncertainty Index: Its Evolution and Economic Consequences**|Ismet Gocer et.al.|[2507.02439v1](http://arxiv.org/abs/2507.02439v1)|null|
+|**2025-07-03**|**When Attention is Beneficial for Learning Wireless Resource Allocation Efficiently?**|Jia Guo et.al.|[2507.02427v1](http://arxiv.org/abs/2507.02427v1)|null|
+|**2025-07-03**|**Seeing Through Green: Text-Based Classification and the Firm's Returns from Green Patents**|Lapo Santarlasci et.al.|[2507.02287v1](http://arxiv.org/abs/2507.02287v1)|null|
 |**2025-07-02**|**Agent Ideate: A Framework for Product Idea Generation from Patents Using Agentic AI**|Gopichand Kanumolu et.al.|[2507.01717v1](http://arxiv.org/abs/2507.01717v1)|null|
 |**2025-07-02**|**Confidence and Stability of Global and Pairwise Scores in NLP Evaluation**|Georgii Levtsov et.al.|[2507.01633v1](http://arxiv.org/abs/2507.01633v1)|null|
 |**2025-07-02**|**AI Meets Maritime Training: Precision Analytics for Enhanced Safety and Performance**|Vishakha Lall et.al.|[2507.01274v1](http://arxiv.org/abs/2507.01274v1)|null|
@@ -2821,6 +2829,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-29**|**FinAI-BERT: A Transformer-Based Model for Sentence-Level Detection of AI Disclosures in Financial Reports**|Muhammad Bilal Zafar et.al.|[2507.01991v1](http://arxiv.org/abs/2507.01991v1)|null|
 |**2025-06-18**|**Finance Language Model Evaluation (FLaME)**|Glenn Matlin et.al.|[2506.15846v1](http://arxiv.org/abs/2506.15846v1)|null|
 |**2025-06-19**|**MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark for Financial LLM Evaluation**|Xueqing Peng et.al.|[2506.14028v2](http://arxiv.org/abs/2506.14028v2)|null|
 |**2025-05-31**|**FinS-Pilot: A Benchmark for Online Financial System**|Feng Wang et.al.|[2506.02037v1](http://arxiv.org/abs/2506.02037v1)|null|
@@ -2853,6 +2862,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**MPF: Aligning and Debiasing Language Models post Deployment via Multi Perspective Fusion**|Xin Guan et.al.|[2507.02595v1](http://arxiv.org/abs/2507.02595v1)|null|
+|**2025-07-03**|**IndianBailJudgments-1200: A Multi-Attribute Dataset for Legal NLP on Indian Bail Orders**|Sneha Deshmukh et.al.|[2507.02506v1](http://arxiv.org/abs/2507.02506v1)|null|
+|**2025-07-03**|**UVLM: Benchmarking Video Language Model for Underwater World Understanding**|Xizhe Xue et.al.|[2507.02373v1](http://arxiv.org/abs/2507.02373v1)|null|
 |**2025-07-02**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444v1](http://arxiv.org/abs/2507.01444v1)|null|
 |**2025-07-01**|**AI Analyst: Framework and Comprehensive Evaluation of Large Language Models for Financial Time Series Report Generation**|Elizabeth Fons et.al.|[2507.00718v1](http://arxiv.org/abs/2507.00718v1)|null|
 |**2025-07-03**|**Mixture of Reasonings: Teach Large Language Models to Reason with Adaptive Strategies**|Tao Xiong et.al.|[2507.00606v2](http://arxiv.org/abs/2507.00606v2)|null|
@@ -3866,6 +3878,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Coling-UniA at SciVQA 2025: Few-Shot Example Retrieval and Confidence-Informed Ensembling for Multimodal Large Language Models**|Christian Jaumann et.al.|[2507.02357v1](http://arxiv.org/abs/2507.02357v1)|null|
+|**2025-07-01**|**Temporal Chain of Thought: Long-Video Understanding by Thinking in Frames**|Anurag Arnab et.al.|[2507.02001v1](http://arxiv.org/abs/2507.02001v1)|null|
 |**2025-07-02**|**HCNQA: Enhancing 3D VQA with Hierarchical Concentration Narrowing Supervision**|Shengli Zhou et.al.|[2507.01800v1](http://arxiv.org/abs/2507.01800v1)|null|
 |**2025-07-02**|**Chart Question Answering from Real-World Analytical Narratives**|Maeve Hutchinson et.al.|[2507.01627v1](http://arxiv.org/abs/2507.01627v1)|null|
 |**2025-07-02**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444v1](http://arxiv.org/abs/2507.01444v1)|null|
@@ -6617,6 +6631,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory**|Yuqi Wu et.al.|[2507.02863v1](http://arxiv.org/abs/2507.02863v1)|null|
 |**2025-07-02**|**Clinical NLP with Attention-Based Deep Learning for Multi-Disease Prediction**|Ting Xu et.al.|[2507.01437v1](http://arxiv.org/abs/2507.01437v1)|null|
 |**2025-06-30**|**Three-dimensional end-to-end deep learning for brain MRI analysis**|Radhika Juglan et.al.|[2506.23916v1](http://arxiv.org/abs/2506.23916v1)|null|
 |**2025-06-29**|**Layer Decomposition and Morphological Reconstruction for Task-Oriented Infrared Image Enhancement**|Siyuan Chai et.al.|[2506.23353v1](http://arxiv.org/abs/2506.23353v1)|null|
@@ -7392,6 +7407,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning**|Siran Chen et.al.|[2507.02626v1](http://arxiv.org/abs/2507.02626v1)|null|
+|**2025-07-03**|**Content filtering methods for music recommendation: A review**|Terence Zeng et.al.|[2507.02282v1](http://arxiv.org/abs/2507.02282v1)|null|
+|**2025-07-02**|**The Future is Agentic: Definitions, Perspectives, and Open Challenges of Multi-Agent Recommender Systems**|Reza Yousefi Maragheh et.al.|[2507.02097v1](http://arxiv.org/abs/2507.02097v1)|null|
+|**2025-07-02**|**ManifoldMind: Dynamic Hyperbolic Reasoning for Trustworthy Recommendations**|Anoushka Harit et.al.|[2507.02014v1](http://arxiv.org/abs/2507.02014v1)|null|
+|**2025-07-02**|**AIRES: Accelerating Out-of-Core GCNs via Algorithm-System Co-Design**|Shakya Jayakody et.al.|[2507.02006v1](http://arxiv.org/abs/2507.02006v1)|null|
+|**2025-07-01**|**Why Multi-Interest Fairness Matters: Hypergraph Contrastive Multi-Interest Learning for Fair Conversational Recommender System**|Yongsen Zheng et.al.|[2507.02000v1](http://arxiv.org/abs/2507.02000v1)|null|
 |**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285v1](http://arxiv.org/abs/2507.01285v1)|null|
 |**2025-07-01**|**Towards a Signal Detection Based Measure for Assessing Information Quality of Explainable Recommender Systems**|Yeonbin Son et.al.|[2507.01168v1](http://arxiv.org/abs/2507.01168v1)|null|
 |**2025-06-30**|**FAIR-MATCH: A Multi-Objective Framework for Bias Mitigation in Reciprocal Dating Recommendations**|Madhav Kotecha et.al.|[2507.01063v1](http://arxiv.org/abs/2507.01063v1)|null|
@@ -9210,6 +9231,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773v1](http://arxiv.org/abs/2507.02773v1)|null|
+|**2025-07-03**|**Fast variational knowledge graph embedding**|Pulak Ranjan Giri et.al.|[2507.02472v1](http://arxiv.org/abs/2507.02472v1)|null|
+|**2025-07-03**|**Knowledge Graph-Based Explainable and Generalized Zero-Shot Semantic Communications**|Zhaoyu Zhang et.al.|[2507.02291v1](http://arxiv.org/abs/2507.02291v1)|null|
 |**2025-07-02**|**DIY-MKG: An LLM-Based Polyglot Language Learning System**|Kenan Tang et.al.|[2507.01872v1](http://arxiv.org/abs/2507.01872v1)|null|
 |**2025-07-02**|**T3DM: Test-Time Training-Guided Distribution Shift Modelling for Temporal Knowledge Graph Reasoning**|Yuehang Si et.al.|[2507.01597v1](http://arxiv.org/abs/2507.01597v1)|null|
 |**2025-07-01**|**Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning**|Félix Lefebvre et.al.|[2507.00965v1](http://arxiv.org/abs/2507.00965v1)|null|
@@ -10739,6 +10763,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**RLHGNN: Reinforcement Learning-driven Heterogeneous Graph Neural Network for Next Activity Prediction in Business Processes**|Jiaxing Wang et.al.|[2507.02690v1](http://arxiv.org/abs/2507.02690v1)|null|
+|**2025-07-03**|**When Attention is Beneficial for Learning Wireless Resource Allocation Efficiently?**|Jia Guo et.al.|[2507.02427v1](http://arxiv.org/abs/2507.02427v1)|null|
+|**2025-07-03**|**S2FGL: Spatial Spectral Federated Graph Learning**|Zihan Tan et.al.|[2507.02409v1](http://arxiv.org/abs/2507.02409v1)|null|
+|**2025-07-02**|**Generating Large Semi-Synthetic Graphs of Any Size**|Rodrigo Tuna et.al.|[2507.02166v1](http://arxiv.org/abs/2507.02166v1)|null|
+|**2025-07-02**|**Non-exchangeable Conformal Prediction for Temporal Graph Neural Networks**|Tuo Wang et.al.|[2507.02151v1](http://arxiv.org/abs/2507.02151v1)|null|
+|**2025-07-02**|**Enhancing Power Flow Estimation with Topology-Aware Gated Graph Neural Networks**|Shrenik Jadhav et.al.|[2507.02078v1](http://arxiv.org/abs/2507.02078v1)|null|
 |**2025-07-02**|**Joint Power Control and Precoding for Cell-Free Massive MIMO Systems With Sparse Multi-Dimensional Graph Neural Networks**|Yukun Ma et.al.|[2507.01876v1](http://arxiv.org/abs/2507.01876v1)|null|
 |**2025-07-02**|**Direct Vertex Reconstruction of $Λ$ Baryons from Hits in CLAS12 using Graph Neural Networks**|Keegan Menkce et.al.|[2507.01868v1](http://arxiv.org/abs/2507.01868v1)|null|
 |**2025-07-02**|**MILP-SAT-GNN: Yet Another Neural SAT Solver**|Franco Alberto Cardillo et.al.|[2507.01825v1](http://arxiv.org/abs/2507.01825v1)|null|
