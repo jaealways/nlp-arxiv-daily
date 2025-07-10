@@ -22,6 +22,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover**|Matteo Lupinacci et.al.|[2507.06850v1](http://arxiv.org/abs/2507.06850v1)|null|
+|**2025-07-09**|**Text to model via SysML: Automated generation of dynamical system computational models from unstructured natural language text via enhanced System Modeling Language diagrams**|Matthew Anderson Hendricks et.al.|[2507.06803v1](http://arxiv.org/abs/2507.06803v1)|null|
+|**2025-07-09**|**Checklist Engineering Empowers Multilingual LLM Judges**|Mohammad Ghiasvand Mohammadkhani et.al.|[2507.06774v1](http://arxiv.org/abs/2507.06774v1)|null|
+|**2025-07-09**|**Interactive Text-to-SQL via Expected Information Gain for Disambiguation**|Luyu Qiu et.al.|[2507.06467v1](http://arxiv.org/abs/2507.06467v1)|null|
 |**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Modi Shi et.al.|[2507.06219v1](http://arxiv.org/abs/2507.06219v1)|null|
 |**2025-07-07**|**Empowering Healthcare Practitioners with Language Models: Structuring Speech Transcripts in Two Real-World Clinical Applications**|Jean-Philippe Corbeil et.al.|[2507.05517v1](http://arxiv.org/abs/2507.05517v1)|null|
 |**2025-07-07**|**On the Bias of Next-Token Predictors Toward Systematically Inefficient Reasoning: A Shortest-Path Case Study**|Riccardo Alberghi et.al.|[2507.05362v1](http://arxiv.org/abs/2507.05362v1)|null|
@@ -2880,6 +2884,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**5C Prompt Contracts: A Minimalist, Creative-Friendly, Token-Efficient Design Framework for Individual and SME LLM Usage**|Ugur Ari et.al.|[2507.07045v1](http://arxiv.org/abs/2507.07045v1)|null|
+|**2025-07-09**|**Expediting data extraction using a large language model (LLM) and scoping review protocol: a methodological study within a complex scoping review**|James Stewart-Evans et.al.|[2507.06623v1](http://arxiv.org/abs/2507.06623v1)|null|
+|**2025-07-09**|**Concept-TRAK: Understanding how diffusion models learn concepts through concept-level attribution**|Yonghyun Park et.al.|[2507.06547v1](http://arxiv.org/abs/2507.06547v1)|null|
+|**2025-07-08**|**Representing Prompting Patterns with PDL: Compliance Agent Case Study**|Mandana Vaziri et.al.|[2507.06396v1](http://arxiv.org/abs/2507.06396v1)|null|
 |**2025-07-08**|**Multi-Agent Debate Strategies to Enhance Requirements Engineering with Large Language Models**|Marc Oriol et.al.|[2507.05981v1](http://arxiv.org/abs/2507.05981v1)|null|
 |**2025-07-08**|**Affective-ROPTester: Capability and Bias Analysis of LLMs in Predicting Retinopathy of Prematurity**|Shuai Zhao et.al.|[2507.05816v1](http://arxiv.org/abs/2507.05816v1)|null|
 |**2025-07-08**|**AdaptaGen: Domain-Specific Image Generation through Hierarchical Semantic Optimization Framework**|Suoxiang Zhang et.al.|[2507.05621v1](http://arxiv.org/abs/2507.05621v1)|null|
@@ -3910,6 +3918,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106v1](http://arxiv.org/abs/2507.07106v1)|null|
+|**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079v1](http://arxiv.org/abs/2507.07079v1)|null|
+|**2025-07-09**|**Investigating the Robustness of Retrieval-Augmented Generation at the Query Level**|Sezen Perçin et.al.|[2507.06956v1](http://arxiv.org/abs/2507.06956v1)|null|
+|**2025-07-09**|**Shifting from Ranking to Set Selection for Retrieval Augmented Generation**|Dahyun Lee et.al.|[2507.06838v1](http://arxiv.org/abs/2507.06838v1)|null|
+|**2025-07-09**|**Data-Balanced Curriculum Learning for Audio Question Answering**|Gijs Wijngaard et.al.|[2507.06815v1](http://arxiv.org/abs/2507.06815v1)|null|
+|**2025-07-09**|**Enhancing Food-Domain Question Answering with a Multimodal Knowledge Graph: Hybrid QA Generation and Diversity Analysis**|Srihari K B et.al.|[2507.06571v1](http://arxiv.org/abs/2507.06571v1)|null|
+|**2025-07-08**|**A Semantic Parsing Framework for End-to-End Time Normalization**|Xin Su et.al.|[2507.06450v1](http://arxiv.org/abs/2507.06450v1)|null|
 |**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Prahitha Movva et.al.|[2507.06183v1](http://arxiv.org/abs/2507.06183v1)|null|
 |**2025-07-08**|**Beyond Retrieval: Ensembling Cross-Encoders and GPT Rerankers with LLMs for Biomedical QA**|Shashank Verma et.al.|[2507.05577v1](http://arxiv.org/abs/2507.05577v1)|null|
 |**2025-07-07**|**Information Needs and Practices Supported by ChatGPT**|Tim Gorichanaz et.al.|[2507.05537v1](http://arxiv.org/abs/2507.05537v1)|null|
@@ -6679,6 +6694,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Large Language Model for Extracting Complex Contract Information in Industrial Scenes**|Yunyang Cao et.al.|[2507.06539v1](http://arxiv.org/abs/2507.06539v1)|null|
 |**2025-07-08**|**DocIE@XLLM25: In-Context Learning for Information Extraction using Fully Synthetic Demonstrations**|Nicholas Popovič et.al.|[2507.05997v1](http://arxiv.org/abs/2507.05997v1)|null|
 |**2025-07-08**|**Decomposing the Time Series Forecasting Pipeline: A Modular Approach for Time Series Representation, Information Extraction, and Projection**|Robert Leppich et.al.|[2507.05891v1](http://arxiv.org/abs/2507.05891v1)|null|
 |**2025-07-08**|**A New Search Pipeline for Short Gamma Ray Bursts in Fermi/GBM Data -- A 50% Increase in the Number of Detections**|Ariel Perera et.al.|[2507.05739v1](http://arxiv.org/abs/2507.05739v1)|null|
@@ -7464,6 +7480,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Boosting Parameter Efficiency in LLM-Based Recommendation through Sophisticated Pruning**|Shanle Zheng et.al.|[2507.07064v1](http://arxiv.org/abs/2507.07064v1)|null|
+|**2025-07-09**|**SCoRE: Streamlined Corpus-based Relation Extraction using Multi-Label Contrastive Learning and Bayesian kNN**|Luca Mariotti et.al.|[2507.06895v1](http://arxiv.org/abs/2507.06895v1)|null|
+|**2025-07-09**|**Temporal Information Retrieval via Time-Specifier Model Merging**|SeungYoon Han et.al.|[2507.06782v1](http://arxiv.org/abs/2507.06782v1)|null|
+|**2025-07-09**|**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**|Zhen Yang et.al.|[2507.06507v1](http://arxiv.org/abs/2507.06507v1)|null|
 |**2025-07-08**|**Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations**|Yibin Liu et.al.|[2507.06044v1](http://arxiv.org/abs/2507.06044v1)|null|
 |**2025-07-08**|**Kamae: Bridging Spark and Keras for Seamless ML Preprocessing**|George Barrowclough et.al.|[2507.06021v1](http://arxiv.org/abs/2507.06021v1)|null|
 |**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863v1](http://arxiv.org/abs/2507.05863v1)|null|
@@ -9304,6 +9324,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**SCoRE: Streamlined Corpus-based Relation Extraction using Multi-Label Contrastive Learning and Bayesian kNN**|Luca Mariotti et.al.|[2507.06895v1](http://arxiv.org/abs/2507.06895v1)|null|
+|**2025-07-09**|**FuDoBa: Fusing Document and Knowledge Graph-based Representations with Bayesian Optimisation**|Boshko Koloski et.al.|[2507.06622v1](http://arxiv.org/abs/2507.06622v1)|null|
+|**2025-07-09**|**Enhancing Food-Domain Question Answering with a Multimodal Knowledge Graph: Hybrid QA Generation and Diversity Analysis**|Srihari K B et.al.|[2507.06571v1](http://arxiv.org/abs/2507.06571v1)|null|
+|**2025-07-08**|**Bridging Data Gaps of Rare Conditions in ICU: A Multi-Disease Adaptation Approach for Clinical Prediction**|Mingcheng Zhu et.al.|[2507.06432v1](http://arxiv.org/abs/2507.06432v1)|null|
 |**2025-07-08**|**Topic Modeling and Link-Prediction for Material Property Discovery**|Ryan C. Barron et.al.|[2507.06139v1](http://arxiv.org/abs/2507.06139v1)|null|
 |**2025-07-08**|**A Unified Ontology for Scalable Knowledge Graph-Driven Operational Data Analytics in High-Performance Computing Systems**|Junaid Ahmed Khan et.al.|[2507.06107v1](http://arxiv.org/abs/2507.06107v1)|null|
 |**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863v1](http://arxiv.org/abs/2507.05863v1)|null|
@@ -10851,6 +10875,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073v1](http://arxiv.org/abs/2507.07073v1)|null|
+|**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006v1](http://arxiv.org/abs/2507.07006v1)|null|
+|**2025-07-09**|**Heterogeneous Graph Neural Networks for Short-term State Forecasting in Power Systems across Domains and Time Scales: A Hydroelectric Power Plant Case Study**|Raffael Theiler et.al.|[2507.06694v1](http://arxiv.org/abs/2507.06694v1)|null|
+|**2025-07-09**|**Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs**|Shan Shen et.al.|[2507.06549v1](http://arxiv.org/abs/2507.06549v1)|null|
+|**2025-07-08**|**DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction**|Yupu Zhang et.al.|[2507.06366v1](http://arxiv.org/abs/2507.06366v1)|null|
 |**2025-07-08**|**Learning-Augmented Model-Based Multi-Robot Planning for Time-Critical Search and Inspection Under Uncertainty**|Abhish Khanal et.al.|[2507.06129v1](http://arxiv.org/abs/2507.06129v1)|null|
 |**2025-07-08**|**Drag modelling for flows through assemblies of spherical particles with machine learning: A comparison of approaches**|Julia Reuter et.al.|[2507.05983v1](http://arxiv.org/abs/2507.05983v1)|null|
 |**2025-07-08**|**GATMesh: Clock Mesh Timing Analysis using Graph Neural Networks**|Muhammad Hadir Khan et.al.|[2507.05681v1](http://arxiv.org/abs/2507.05681v1)|null|
