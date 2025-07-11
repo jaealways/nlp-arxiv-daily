@@ -1,4 +1,4 @@
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,7 @@
 |**2025-07-09**|**Checklist Engineering Empowers Multilingual LLM Judges**|Mohammad Ghiasvand Mohammadkhani et.al.|[2507.06774v1](http://arxiv.org/abs/2507.06774v1)|null|
 |**2025-07-09**|**Interactive Text-to-SQL via Expected Information Gain for Disambiguation**|Luyu Qiu et.al.|[2507.06467v1](http://arxiv.org/abs/2507.06467v1)|null|
 |**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Modi Shi et.al.|[2507.06219v1](http://arxiv.org/abs/2507.06219v1)|null|
-|**2025-07-07**|**Empowering Healthcare Practitioners with Language Models: Structuring Speech Transcripts in Two Real-World Clinical Applications**|Jean-Philippe Corbeil et.al.|[2507.05517v1](http://arxiv.org/abs/2507.05517v1)|null|
+|**2025-07-09**|**Empowering Healthcare Practitioners with Language Models: Structuring Speech Transcripts in Two Real-World Clinical Applications**|Jean-Philippe Corbeil et.al.|[2507.05517v2](http://arxiv.org/abs/2507.05517v2)|null|
 |**2025-07-07**|**On the Bias of Next-Token Predictors Toward Systematically Inefficient Reasoning: A Shortest-Path Case Study**|Riccardo Alberghi et.al.|[2507.05362v1](http://arxiv.org/abs/2507.05362v1)|null|
 |**2025-07-07**|**PLACE: Prompt Learning for Attributed Community Search**|Shuheng Fang et.al.|[2507.05311v1](http://arxiv.org/abs/2507.05311v1)|null|
 |**2025-07-07**|**An Evaluation of Large Language Models on Text Summarization Tasks Using Prompt Engineering Techniques**|Walid Mohamed Aly et.al.|[2507.05123v1](http://arxiv.org/abs/2507.05123v1)|null|
@@ -2841,7 +2841,7 @@
 |**2023-12-26**|**Dotless Representation of Arabic Text: Analysis and Modeling**|Maged S. Al-Shaibani et.al.|[2312.16104v1](http://arxiv.org/abs/2312.16104v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 
-<p align=right>(<a href='#updated-on-20250710'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250711'>back to top</a>)</p>
 
 ## Financial NLP
 
@@ -2874,7 +2874,7 @@
 |**2020-07-09**|**FinBERT: A Pretrained Language Model for Financial Communications**|Yi Yang et.al.|[2006.08097v2](http://arxiv.org/abs/2006.08097v2)|**[link](https://github.com/yya518/FinBERT)**|
 |**2019-05-04**|**A New Uncertainty Framework for Stochastic Signal Processing**|Rishabh Singh et.al.|[1904.13038v2](http://arxiv.org/abs/1904.13038v2)|null|
 
-<p align=right>(<a href='#updated-on-20250710'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250711'>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -3908,7 +3908,7 @@
 |**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-18**|**LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning**|Yuxuan Huang et.al.|[2312.11282v1](http://arxiv.org/abs/2312.11282v1)|**[link](https://github.com/Aipura/LLM-ARK)**|
 
-<p align=right>(<a href='#updated-on-20250710'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250711'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -3917,7 +3917,7 @@
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106v1](http://arxiv.org/abs/2507.07106v1)|null|
 |**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079v1](http://arxiv.org/abs/2507.07079v1)|null|
 |**2025-07-09**|**Investigating the Robustness of Retrieval-Augmented Generation at the Query Level**|Sezen Perçin et.al.|[2507.06956v1](http://arxiv.org/abs/2507.06956v1)|null|
-|**2025-07-09**|**Shifting from Ranking to Set Selection for Retrieval Augmented Generation**|Dahyun Lee et.al.|[2507.06838v1](http://arxiv.org/abs/2507.06838v1)|null|
+|**2025-07-10**|**Shifting from Ranking to Set Selection for Retrieval Augmented Generation**|Dahyun Lee et.al.|[2507.06838v2](http://arxiv.org/abs/2507.06838v2)|null|
 |**2025-07-09**|**Data-Balanced Curriculum Learning for Audio Question Answering**|Gijs Wijngaard et.al.|[2507.06815v1](http://arxiv.org/abs/2507.06815v1)|null|
 |**2025-07-09**|**Enhancing Food-Domain Question Answering with a Multimodal Knowledge Graph: Hybrid QA Generation and Diversity Analysis**|Srihari K B et.al.|[2507.06571v1](http://arxiv.org/abs/2507.06571v1)|null|
 |**2025-07-08**|**A Semantic Parsing Framework for End-to-End Time Normalization**|Xin Su et.al.|[2507.06450v1](http://arxiv.org/abs/2507.06450v1)|null|
@@ -6684,13 +6684,13 @@
 |**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918v1](http://arxiv.org/abs/2312.15918v1)|**[link](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)**|
 
-<p align=right>(<a href='#updated-on-20250710'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250711'>back to top</a>)</p>
 
 ## Information Extraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-09**|**Large Language Model for Extracting Complex Contract Information in Industrial Scenes**|Yunyang Cao et.al.|[2507.06539v1](http://arxiv.org/abs/2507.06539v1)|null|
+|**2025-07-10**|**Large Language Model for Extracting Complex Contract Information in Industrial Scenes**|Yunyang Cao et.al.|[2507.06539v2](http://arxiv.org/abs/2507.06539v2)|null|
 |**2025-07-08**|**DocIE@XLLM25: In-Context Learning for Information Extraction using Fully Synthetic Demonstrations**|Nicholas Popovič et.al.|[2507.05997v1](http://arxiv.org/abs/2507.05997v1)|null|
 |**2025-07-08**|**Decomposing the Time Series Forecasting Pipeline: A Modular Approach for Time Series Representation, Information Extraction, and Projection**|Robert Leppich et.al.|[2507.05891v1](http://arxiv.org/abs/2507.05891v1)|null|
 |**2025-07-08**|**A New Search Pipeline for Short Gamma Ray Bursts in Fermi/GBM Data -- A 50% Increase in the Number of Detections**|Ariel Perera et.al.|[2507.05739v1](http://arxiv.org/abs/2507.05739v1)|null|
@@ -7470,7 +7470,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694v1](http://arxiv.org/abs/2312.13694v1)|null|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 
-<p align=right>(<a href='#updated-on-20250710'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250711'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -9314,7 +9314,7 @@
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275v1](http://arxiv.org/abs/2312.16275v1)|null|
 |**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|**[link](https://github.com/sichunluo/recranker)**|
 
-<p align=right>(<a href='#updated-on-20250710'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250711'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -10865,7 +10865,7 @@
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|**[link](https://github.com/hkust-knowcomp/abductivekgr)**|
 |**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626v1](http://arxiv.org/abs/2312.15626v1)|**[link](https://github.com/aistairc/kgrc-rdf-star)**|
 
-<p align=right>(<a href='#updated-on-20250710'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250711'>back to top</a>)</p>
 
 ## GNN
 
@@ -13567,5 +13567,5 @@
 |**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|**[link](https://github.com/basiralab/falcon)**|
 |**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|**[link](https://github.com/henrium/molsets)**|
 
-<p align=right>(<a href='#updated-on-20250710'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250711'>back to top</a>)</p>
 
