@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Bridging Robustness and Generalization Against Word Substitution Attacks in NLP via the Growth Bound Matrix Approach**|Mohammed Bouri et.al.|[2507.10330v1](http://arxiv.org/abs/2507.10330v1)|null|
+|**2025-07-14**|**Abusive text transformation using LLMs**|Rohitash Chandra et.al.|[2507.10177v1](http://arxiv.org/abs/2507.10177v1)|null|
+|**2025-07-14**|**Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction**|Shu-wen Yang et.al.|[2507.09834v1](http://arxiv.org/abs/2507.09834v1)|null|
+|**2025-07-13**|**Your Pretrained Model Tells the Difficulty Itself: A Self-Adaptive Curriculum Learning Paradigm for Natural Language Understanding**|Qi Feng et.al.|[2507.09758v1](http://arxiv.org/abs/2507.09758v1)|null|
+|**2025-07-13**|**Enhancing Clinical Text Classification via Fine-Tuned DRAGON Longformer Models**|Mingchuan Yang et.al.|[2507.09470v1](http://arxiv.org/abs/2507.09470v1)|null|
+|**2025-07-12**|**Ambiguity-Aware and High-Order Relation Learning for Multi-Grained Image-Text Matching**|Junyu Chen et.al.|[2507.09256v1](http://arxiv.org/abs/2507.09256v1)|null|
+|**2025-07-12**|**Swa-bhasha Resource Hub: Romanized Sinhala to Sinhala Transliteration Systems and Data Resources**|Deshan Sumanathilaka et.al.|[2507.09245v1](http://arxiv.org/abs/2507.09245v1)|null|
+|**2025-07-12**|**MetaClimage: A novel database of visual metaphors related to Climate Change, with costs and benefits analysis**|Biagio Scalingi et.al.|[2507.09225v1](http://arxiv.org/abs/2507.09225v1)|null|
+|**2025-07-12**|**Explainability as a Compliance Requirement: What Regulated Industries Need from AI Tools for Design Artifact Generation**|Syed Tauhid Ullah Shah et.al.|[2507.09220v1](http://arxiv.org/abs/2507.09220v1)|null|
+|**2025-07-12**|**OPENXRD: A Comprehensive Benchmark and Enhancement Framework for LLM/MLLM XRD Question Answering**|Ali Vosoughi et.al.|[2507.09155v1](http://arxiv.org/abs/2507.09155v1)|null|
 |**2025-07-11**|**Exploring Gender Differences in Chronic Pain Discussions on Reddit**|Ancita Maria Andrade et.al.|[2507.08241v1](http://arxiv.org/abs/2507.08241v1)|null|
 |**2025-07-10**|**From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**|Youngjoon Jang et.al.|[2507.07847v1](http://arxiv.org/abs/2507.07847v1)|null|
 |**2025-07-10**|**Rethinking the Privacy of Text Embeddings: A Reproducibility Study of "Text Embeddings Reveal (Almost) As Much As Text"**|Dominykas Seputis et.al.|[2507.07700v1](http://arxiv.org/abs/2507.07700v1)|null|
@@ -2889,6 +2899,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Grammar-Guided Evolutionary Search for Discrete Prompt Optimisation**|Muzhaffar Hazman et.al.|[2507.10326v1](http://arxiv.org/abs/2507.10326v1)|null|
+|**2025-07-14**|**Could you be wrong: Debiasing LLMs using a metacognitive prompt for improving human decision making**|Thomas T. Hills et.al.|[2507.10124v1](http://arxiv.org/abs/2507.10124v1)|null|
+|**2025-07-14**|**Is Human-Written Data Enough? The Challenge of Teaching Reasoning to LLMs Without RL or Distillation**|Wei Du et.al.|[2507.09850v1](http://arxiv.org/abs/2507.09850v1)|null|
+|**2025-07-14**|**Rethinking Prompt Optimization: Reinforcement, Diversification, and Migration in Blackbox LLMs**|MohammadReza Davari et.al.|[2507.09839v1](http://arxiv.org/abs/2507.09839v1)|null|
+|**2025-07-13**|**Prompt Engineering in Segment Anything Model: Methodologies, Applications, and Emerging Challenges**|Yidong Jiang et.al.|[2507.09562v1](http://arxiv.org/abs/2507.09562v1)|null|
+|**2025-07-12**|**Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models**|Anita Kriz et.al.|[2507.09279v1](http://arxiv.org/abs/2507.09279v1)|null|
 |**2025-07-11**|**Introspection of Thought Helps AI Agents**|Haoran Sun et.al.|[2507.08664v1](http://arxiv.org/abs/2507.08664v1)|null|
 |**2025-07-11**|**NL in the Middle: Code Translation with LLMs and Intermediate Representations**|Chi-en Amy Tai et.al.|[2507.08627v1](http://arxiv.org/abs/2507.08627v1)|null|
 |**2025-07-11**|**Generating Proto-Personas through Prompt Engineering: A Case Study on Efficiency, Effectiveness and Empathy**|Fernando Ayach et.al.|[2507.08594v1](http://arxiv.org/abs/2507.08594v1)|null|
@@ -3933,6 +3949,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**DeepResearch $^{\text{Eco}}$ : A Recursive Agentic Workflow for Complex Scientific Question Answering in Ecology**|Jennifer D'Souza et.al.|[2507.10522v1](http://arxiv.org/abs/2507.10522v1)|null|
+|**2025-07-14**|**CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding**|Hongyong Han et.al.|[2507.10449v1](http://arxiv.org/abs/2507.10449v1)|null|
+|**2025-07-14**|**FaceLLM: A Multimodal Large Language Model for Face Understanding**|Hatef Otroshi Shahreza et.al.|[2507.10300v1](http://arxiv.org/abs/2507.10300v1)|null|
+|**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[2507.09815v1](http://arxiv.org/abs/2507.09815v1)|null|
+|**2025-07-13**|**Can Group Relative Policy Optimization Improve Thai Legal Reasoning and Question Answering?**|Pawitsapak Akarajaradwong et.al.|[2507.09638v1](http://arxiv.org/abs/2507.09638v1)|null|
+|**2025-07-12**|**Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models**|Anita Kriz et.al.|[2507.09279v1](http://arxiv.org/abs/2507.09279v1)|null|
+|**2025-07-12**|**Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models**|Xiao Liang et.al.|[2507.09209v1](http://arxiv.org/abs/2507.09209v1)|null|
+|**2025-07-12**|**Towards Spatial Audio Understanding via Question Answering**|Parthasaarathy Sudarsanam et.al.|[2507.09195v1](http://arxiv.org/abs/2507.09195v1)|null|
+|**2025-07-12**|**OPENXRD: A Comprehensive Benchmark and Enhancement Framework for LLM/MLLM XRD Question Answering**|Ali Vosoughi et.al.|[2507.09155v1](http://arxiv.org/abs/2507.09155v1)|null|
+|**2025-07-11**|**ALIGN: Prompt-based Attribute Alignment for Reliable, Responsible, and Personalized LLM-based Decision-Making**|Bharadwaj Ravichandran et.al.|[2507.09037v1](http://arxiv.org/abs/2507.09037v1)|null|
 |**2025-07-11**|**The AI Language Proficiency Monitor -- Tracking the Progress of LLMs on Multilingual Benchmarks**|David Pomerenke et.al.|[2507.08538v1](http://arxiv.org/abs/2507.08538v1)|null|
 |**2025-07-11**|**From Language to Logic: A Bi-Level Framework for Structured Reasoning**|Keying Yang et.al.|[2507.08501v1](http://arxiv.org/abs/2507.08501v1)|null|
 |**2025-07-11**|**CUE-RAG: Towards Accurate and Cost-Efficient Graph-Based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval**|Yaodong Su et.al.|[2507.08445v1](http://arxiv.org/abs/2507.08445v1)|null|
@@ -6723,6 +6749,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Post-reduction inference for confidence sets of models**|Heather Battey et.al.|[2507.10373v1](http://arxiv.org/abs/2507.10373v1)|null|
+|**2025-07-14**|**FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text**|Bingchao Wang et.al.|[2507.10095v1](http://arxiv.org/abs/2507.10095v1)|null|
+|**2025-07-14**|**A Transfer Learning-Based Method for Water Body Segmentation in Remote Sensing Imagery: A Case Study of the Zhada Tulin Area**|Haonan Chen et.al.|[2507.10084v1](http://arxiv.org/abs/2507.10084v1)|null|
+|**2025-07-14**|**AnalogTester: A Large Language Model-Based Framework for Automatic Testbench Generation in Analog Circuit Design**|Weiyu Chen et.al.|[2507.09965v1](http://arxiv.org/abs/2507.09965v1)|null|
+|**2025-07-13**|**VDInstruct: Zero-Shot Key Information Extraction via Content-Aware Vision Tokenization**|Son Nguyen et.al.|[2507.09531v1](http://arxiv.org/abs/2507.09531v1)|null|
 |**2025-07-11**|**Normalized vs Diplomatic Annotation: A Case Study of Automatic Information Extraction from Handwritten Uruguayan Birth Certificates**|Natalia Bottaioli et.al.|[2507.08636v1](http://arxiv.org/abs/2507.08636v1)|null|
 |**2025-07-11**|**KGRAG-Ex: Explainable Retrieval-Augmented Generation with Knowledge Graph-based Perturbations**|Georgios Balanos et.al.|[2507.08443v1](http://arxiv.org/abs/2507.08443v1)|null|
 |**2025-07-10**|**Extracting ORR Catalyst Information for Fuel Cell from Scientific Literature**|Hein Htet et.al.|[2507.07499v1](http://arxiv.org/abs/2507.07499v1)|null|
@@ -7513,6 +7544,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Devanagari Handwritten Character Recognition using Convolutional Neural Network**|Diksha Mehta et.al.|[2507.10398v1](http://arxiv.org/abs/2507.10398v1)|null|
+|**2025-07-14**|**Experimental Analysis and Evaluation of Cohesive Subgraph Discovery**|Dahee Kim et.al.|[2507.10262v1](http://arxiv.org/abs/2507.10262v1)|null|
+|**2025-07-14**|**Visual Analytics for Explainable and Trustworthy Artificial Intelligence**|Angelos Chatzimparmpas et.al.|[2507.10240v1](http://arxiv.org/abs/2507.10240v1)|null|
+|**2025-07-14**|**Riding the Carousel: The First Extensive Eye Tracking Analysis of Browsing Behavior in Carousel Recommenders**|Santiago de Leon-Martinez et.al.|[2507.10135v1](http://arxiv.org/abs/2507.10135v1)|null|
+|**2025-07-14**|**User Long-Term Multi-Interest Retrieval Model for Recommendation**|Yue Meng et.al.|[2507.10097v1](http://arxiv.org/abs/2507.10097v1)|null|
+|**2025-07-14**|**Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework**|Yang Xiao et.al.|[2507.10070v1](http://arxiv.org/abs/2507.10070v1)|null|
+|**2025-07-14**|**SLIF-MR: Self-loop Iterative Fusion of Heterogeneous Auxiliary Information for Multimodal Recommendation**|Jie Guo et.al.|[2507.09998v1](http://arxiv.org/abs/2507.09998v1)|null|
+|**2025-07-14**|**Non-parametric Graph Convolution for Re-ranking in Recommendation Systems**|Zhongyu Ouyang et.al.|[2507.09969v1](http://arxiv.org/abs/2507.09969v1)|null|
+|**2025-07-14**|**Radial Neighborhood Smoothing Recommender System**|Zerui Zhang et.al.|[2507.09952v1](http://arxiv.org/abs/2507.09952v1)|null|
+|**2025-07-14**|**Hierarchical Job Classification with Similarity Graph Integration**|Md Ahsanul Kabir et.al.|[2507.09949v1](http://arxiv.org/abs/2507.09949v1)|null|
 |**2025-07-11**|**Image Translation with Kernel Prediction Networks for Semantic Segmentation**|Cristina Mata et.al.|[2507.08554v1](http://arxiv.org/abs/2507.08554v1)|null|
 |**2025-07-10**|**Mallows Model with Learned Distance Metrics: Sampling and Maximum Likelihood Estimation**|Yeganeh Alimohammadi et.al.|[2507.08108v1](http://arxiv.org/abs/2507.08108v1)|null|
 |**2025-07-10**|**Plausible Counterfactual Explanations of Recommendations**|Jakub Černý et.al.|[2507.07919v1](http://arxiv.org/abs/2507.07919v1)|null|
@@ -9364,6 +9405,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter**|Bo Jiang et.al.|[2507.10355v1](http://arxiv.org/abs/2507.10355v1)|null|
+|**2025-07-14**|**Introducing the Swiss Food Knowledge Graph: AI for Context-Aware Nutrition Recommendation**|Lubnaa Abdur Rahman et.al.|[2507.10156v1](http://arxiv.org/abs/2507.10156v1)|null|
+|**2025-07-14**|**Automating SPARQL Query Translations between DBpedia and Wikidata**|Malte Christian Bartels et.al.|[2507.10045v1](http://arxiv.org/abs/2507.10045v1)|null|
+|**2025-07-14**|**SLIF-MR: Self-loop Iterative Fusion of Heterogeneous Auxiliary Information for Multimodal Recommendation**|Jie Guo et.al.|[2507.09998v1](http://arxiv.org/abs/2507.09998v1)|null|
+|**2025-07-13**|**Bridging Bots: from Perception to Action via Multimodal-LMs and Knowledge Graphs**|Margherita Martorana et.al.|[2507.09617v1](http://arxiv.org/abs/2507.09617v1)|null|
+|**2025-07-12**|**Towards Interpretable Drug-Drug Interaction Prediction: A Graph-Based Approach with Molecular and Network-Level Explanations**|Mengjie Chen et.al.|[2507.09173v1](http://arxiv.org/abs/2507.09173v1)|null|
+|**2025-07-11**|**GraphRunner: A Multi-Stage Framework for Efficient and Accurate Graph-Based Retrieval**|Savini Kashmira et.al.|[2507.08945v1](http://arxiv.org/abs/2507.08945v1)|null|
 |**2025-07-11**|**Knowledge Graph-Based approach for Sustainable 6G End-to-End System Design**|Akshay Jain et.al.|[2507.08717v1](http://arxiv.org/abs/2507.08717v1)|null|
 |**2025-07-11**|**KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation**|Songlin Zhai et.al.|[2507.08704v1](http://arxiv.org/abs/2507.08704v1)|null|
 |**2025-07-11**|**A Multi-granularity Concept Sparse Activation and Hierarchical Knowledge Graph Fusion Framework for Rare Disease Diagnosis**|Mingda Zhang et.al.|[2507.08529v1](http://arxiv.org/abs/2507.08529v1)|null|
@@ -10926,6 +10974,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Beyond-mean-field fluctuations for the solution of constraint satisfaction problems**|Niklas Foos et.al.|[2507.10360v1](http://arxiv.org/abs/2507.10360v1)|null|
+|**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Alireza Dizaji et.al.|[2507.10183v1](http://arxiv.org/abs/2507.10183v1)|null|
+|**2025-07-14**|**Forecasting Coccidioidomycosis (Valley Fever) in Arizona: A Graph Neural Network Approach**|Ali Sarabi et.al.|[2507.10014v1](http://arxiv.org/abs/2507.10014v1)|null|
+|**2025-07-14**|**Effects of structural properties of neural networks on machine learning performance**|Yash Arya et.al.|[2507.10005v1](http://arxiv.org/abs/2507.10005v1)|null|
+|**2025-07-14**|**Soft Graph Clustering for single-cell RNA Sequencing Data**|Ping Xu et.al.|[2507.09890v1](http://arxiv.org/abs/2507.09890v1)|null|
+|**2025-07-13**|**A Scalable and Efficient Signal Integration System for Job Matching**|Ping Liu et.al.|[2507.09797v1](http://arxiv.org/abs/2507.09797v1)|null|
+|**2025-07-13**|**Do we need equivariant models for molecule generation?**|Ewa M. Nowara et.al.|[2507.09753v1](http://arxiv.org/abs/2507.09753v1)|null|
+|**2025-07-12**|**Joint Access Point Activation and Power Allocation for Cell-Free Massive MIMO Aided ISAC Systems**|Nguyen Xuan Tung et.al.|[2507.09425v1](http://arxiv.org/abs/2507.09425v1)|null|
+|**2025-07-12**|**Lightweight Graph Neural Networks for Enhanced 5G NR Channel Estimation**|Sajedeh Norouzi et.al.|[2507.09408v1](http://arxiv.org/abs/2507.09408v1)|null|
+|**2025-07-12**|**Geometric Generative Modeling with Noise-Conditioned Graph Networks**|Peter Pao-Huang et.al.|[2507.09391v1](http://arxiv.org/abs/2507.09391v1)|null|
 |**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779v1](http://arxiv.org/abs/2507.08779v1)|null|
 |**2025-07-11**|**Unified People Tracking with Graph Neural Networks**|Martin Engilberge et.al.|[2507.08494v1](http://arxiv.org/abs/2507.08494v1)|null|
 |**2025-07-10**|**EvA: Evolutionary Attacks on Graphs**|Mohammad Sadegh Akhondzadeh et.al.|[2507.08212v1](http://arxiv.org/abs/2507.08212v1)|null|
