@@ -22,6 +22,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Nonlinear Concept Erasure: a Density Matching Approach**|Antoine Saillenfest et.al.|[2507.12341v1](http://arxiv.org/abs/2507.12341v1)|null|
+|**2025-07-16**|**Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding**|Feng Xiao et.al.|[2507.12295v1](http://arxiv.org/abs/2507.12295v1)|null|
+|**2025-07-16**|**Iterative Augmentation with Summarization Refinement (IASR) Evaluation for Unstructured Survey data Modeling and Analysis**|Payal Bhattad et.al.|[2507.12126v1](http://arxiv.org/abs/2507.12126v1)|null|
+|**2025-07-16**|**DSSD: Efficient Edge-Device Deployment and Collaborative Inference via Distributed Split Speculative Decoding**|Jiahong Ning et.al.|[2507.12000v1](http://arxiv.org/abs/2507.12000v1)|null|
+|**2025-07-16**|**PoTPTQ: A Two-step Power-of-Two Post-training for LLMs**|Xinyu Wang et.al.|[2507.11959v1](http://arxiv.org/abs/2507.11959v1)|null|
+|**2025-07-16**|**COLA-GEC: A Bidirectional Framework for Enhancing Grammatical Acceptability and Error Correction**|Xiangyu Yang et.al.|[2507.11867v1](http://arxiv.org/abs/2507.11867v1)|null|
 |**2025-07-15**|**From Chaos to Automation: Enabling the Use of Unstructured Data for Robotic Process Automation**|Kelly Kurowski et.al.|[2507.11364v1](http://arxiv.org/abs/2507.11364v1)|null|
 |**2025-07-14**|**Past, Present and Future: Exploring Adaptive AI in Software Development Bots**|Omar Elsisi et.al.|[2507.10822v1](http://arxiv.org/abs/2507.10822v1)|null|
 |**2025-07-14**|**Automated Thematic Analyses Using LLMs: Xylazine Wound Management Social Media Chatter Use Case**|JaMor Hairston et.al.|[2507.10803v1](http://arxiv.org/abs/2507.10803v1)|null|
@@ -2907,6 +2913,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Toxicity-Aware Few-Shot Prompting for Low-Resource Singlish Translation**|Ziyu Ge et.al.|[2507.11966v1](http://arxiv.org/abs/2507.11966v1)|null|
 |**2025-07-15**|**LLM-Augmented Symptom Analysis for Cardiovascular Disease Risk Prediction: A Clinical NLP**|Haowei Yang et.al.|[2507.11052v1](http://arxiv.org/abs/2507.11052v1)|null|
 |**2025-07-15**|**DS@GT at eRisk 2025: From prompts to predictions, benchmarking early depression detection with conversational agent based assessments and temporal attention models**|Anthony Miyaguchi et.al.|[2507.10958v1](http://arxiv.org/abs/2507.10958v1)|null|
 |**2025-07-14**|**Automated Thematic Analyses Using LLMs: Xylazine Wound Management Social Media Chatter Use Case**|JaMor Hairston et.al.|[2507.10803v1](http://arxiv.org/abs/2507.10803v1)|null|
@@ -3960,6 +3967,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463v1](http://arxiv.org/abs/2507.12463v1)|null|
+|**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441v1](http://arxiv.org/abs/2507.12441v1)|null|
+|**2025-07-16**|**Overview of the Sensemaking Task at the ELOQUENT 2025 Lab: LLMs as Teachers, Students and Evaluators**|Pavel Šindelář et.al.|[2507.12143v1](http://arxiv.org/abs/2507.12143v1)|null|
+|**2025-07-16**|**3D-MoRe: Unified Modal-Contextual Reasoning for Embodied Question Answering**|Rongtao Xu et.al.|[2507.12026v1](http://arxiv.org/abs/2507.12026v1)|null|
+|**2025-07-16**|**The benefits of query-based KGQA systems for complex and temporal questions in LLM era**|Artem Alekseev et.al.|[2507.11954v1](http://arxiv.org/abs/2507.11954v1)|null|
+|**2025-07-16**|**POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering**|Yichen Xu et.al.|[2507.11939v1](http://arxiv.org/abs/2507.11939v1)|null|
+|**2025-07-15**|**ExpliCIT-QA: Explainable Code-Based Image Table Question Answering**|Maximiliano Hormazábal Lagos et.al.|[2507.11694v1](http://arxiv.org/abs/2507.11694v1)|null|
+|**2025-07-15**|**MapIQ: Benchmarking Multimodal Large Language Models for Map Question Answering**|Varun Srivastava et.al.|[2507.11625v1](http://arxiv.org/abs/2507.11625v1)|null|
 |**2025-07-15**|**EsBBQ and CaBBQ: The Spanish and Catalan Bias Benchmarks for Question Answering**|Valle Ruiz-Fernández et.al.|[2507.11216v1](http://arxiv.org/abs/2507.11216v1)|null|
 |**2025-07-15**|**Aligned Query Expansion: Efficient Query Expansion for Information Retrieval through LLM Alignment**|Adam Yang et.al.|[2507.11042v1](http://arxiv.org/abs/2507.11042v1)|null|
 |**2025-07-14**|**Warehouse Spatial Question Answering with LLM Agent**|Hsiang-Wei Huang et.al.|[2507.10778v1](http://arxiv.org/abs/2507.10778v1)|null|
@@ -6764,6 +6779,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378v1](http://arxiv.org/abs/2507.12378v1)|null|
+|**2025-07-15**|**SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics**|Suyuan Zhao et.al.|[2507.11588v1](http://arxiv.org/abs/2507.11588v1)|null|
+|**2025-07-13**|**Landmark Detection for Medical Images using a General-purpose Segmentation Model**|Ekaterina Stansfield et.al.|[2507.11551v1](http://arxiv.org/abs/2507.11551v1)|null|
 |**2025-07-15**|**Unraveling the Biomarker Prospects of High-Altitude Diseases: Insights from Biomolecular Event Network Constructed using Text Mining**|Balu Bhasuran et.al.|[2507.10953v1](http://arxiv.org/abs/2507.10953v1)|null|
 |**2025-07-14**|**Post-reduction inference for confidence sets of models**|Heather Battey et.al.|[2507.10373v1](http://arxiv.org/abs/2507.10373v1)|null|
 |**2025-07-14**|**FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text**|Bingchao Wang et.al.|[2507.10095v1](http://arxiv.org/abs/2507.10095v1)|null|
@@ -7560,8 +7578,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Looking for Fairness in Recommender Systems**|Cécile Logé et.al.|[2507.12242v1](http://arxiv.org/abs/2507.12242v1)|null|
+|**2025-07-16**|**Granular feedback merits sophisticated aggregation**|Anmol Kagrecha et.al.|[2507.12041v1](http://arxiv.org/abs/2507.12041v1)|null|
+|**2025-07-16**|**ARRC: Explainable, Workflow-Integrated Recommender for Sustainable Resource Optimization Across the Edge-Cloud Continuum**|Brian-Frederik Jahnke et.al.|[2507.12032v1](http://arxiv.org/abs/2507.12032v1)|null|
+|**2025-07-16**|**Predictable Drifts in Collective Cultural Attention: Evidence from Nation-Level Library Takeout Data**|Anders Weile Larsen et.al.|[2507.12007v1](http://arxiv.org/abs/2507.12007v1)|null|
+|**2025-07-16**|**Similarity-Guided Diffusion for Contrastive Sequential Recommendation**|Jinkyeong Choi et.al.|[2507.11866v1](http://arxiv.org/abs/2507.11866v1)|null|
 |**2025-07-15**|**Contestability in Quantitative Argumentation**|Xiang Yin et.al.|[2507.11323v1](http://arxiv.org/abs/2507.11323v1)|null|
-|**2025-07-15**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049v1](http://arxiv.org/abs/2507.11049v1)|null|
+|**2025-07-16**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049v2](http://arxiv.org/abs/2507.11049v2)|null|
 |**2025-07-15**|**LLMATCH: A Unified Schema Matching Framework with Large Language Models**|Sha Wang et.al.|[2507.10897v1](http://arxiv.org/abs/2507.10897v1)|null|
 |**2025-07-14**|**Devanagari Handwritten Character Recognition using Convolutional Neural Network**|Diksha Mehta et.al.|[2507.10398v1](http://arxiv.org/abs/2507.10398v1)|null|
 |**2025-07-14**|**Experimental Analysis and Evaluation of Cohesive Subgraph Discovery**|Dahee Kim et.al.|[2507.10262v1](http://arxiv.org/abs/2507.10262v1)|null|
@@ -9424,6 +9447,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**An Ecosystem for Ontology Interoperability**|Zhangcheng Qiang et.al.|[2507.12311v1](http://arxiv.org/abs/2507.12311v1)|null|
+|**2025-07-16**|**The benefits of query-based KGQA systems for complex and temporal questions in LLM era**|Artem Alekseev et.al.|[2507.11954v1](http://arxiv.org/abs/2507.11954v1)|null|
+|**2025-07-15**|**Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies**|Giang Nguyen et.al.|[2507.11770v1](http://arxiv.org/abs/2507.11770v1)|null|
 |**2025-07-15**|**DuetGraph: Coarse-to-Fine Knowledge Graph Reasoning with Dual-Pathway Global-Local Fusion**|Jin Li et.al.|[2507.11229v1](http://arxiv.org/abs/2507.11229v1)|null|
 |**2025-07-15**|**An Interpretable AI framework Quantifying Traditional Chinese Medicine Principles Towards Enhancing and Integrating with Modern Biomedicine**|Haoran Li et.al.|[2507.11176v1](http://arxiv.org/abs/2507.11176v1)|null|
 |**2025-07-15**|**Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization**|Yuhao Wang et.al.|[2507.10923v1](http://arxiv.org/abs/2507.10923v1)|null|
@@ -10998,6 +11024,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380v1](http://arxiv.org/abs/2507.12380v1)|null|
+|**2025-07-16**|**Catching Bid-rigging Cartels with Graph Attention Neural Networks**|David Imhof et.al.|[2507.12369v1](http://arxiv.org/abs/2507.12369v1)|null|
+|**2025-07-16**|**Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**|Tairan Huang et.al.|[2507.11997v1](http://arxiv.org/abs/2507.11997v1)|null|
+|**2025-07-15**|**Enhancements to the IceCube Extremely High Energy Neutrino Selection using Graph & Transformer Based Neural Networks**|Maxwell Nakos et.al.|[2507.11774v1](http://arxiv.org/abs/2507.11774v1)|null|
+|**2025-07-15**|**A Graph-in-Graph Learning Framework for Drug-Target Interaction Prediction**|Yuehua Song et.al.|[2507.11757v1](http://arxiv.org/abs/2507.11757v1)|null|
+|**2025-07-15**|**Graph Neural Networks Powered by Encoder Embedding for Improved Node Learning**|Shiyu Chen et.al.|[2507.11732v1](http://arxiv.org/abs/2507.11732v1)|null|
+|**2025-07-15**|**Subgraph Generation for Generalizing on Out-of-Distribution Links**|Jay Revolinsky et.al.|[2507.11710v1](http://arxiv.org/abs/2507.11710v1)|null|
+|**2025-07-15**|**PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training**|Seth Ockerman et.al.|[2507.11683v1](http://arxiv.org/abs/2507.11683v1)|null|
 |**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467v1](http://arxiv.org/abs/2507.11467v1)|null|
 |**2025-07-15**|**Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities**|Devashish Khulbe et.al.|[2507.11057v1](http://arxiv.org/abs/2507.11057v1)|null|
 |**2025-07-15**|**GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices**|Danish Gufran et.al.|[2507.11053v1](http://arxiv.org/abs/2507.11053v1)|null|
