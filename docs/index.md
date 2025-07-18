@@ -22,6 +22,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Overview of the TalentCLEF 2025: Skill and Job Title Intelligence for Human Capital Management**|Luis Gasco et.al.|[2507.13275v1](http://arxiv.org/abs/2507.13275v1)|null|
+|**2025-07-17**|**NGTM: Substructure-based Neural Graph Topic Model for Interpretable Graph Generation**|Yuanxin Zhuang et.al.|[2507.13133v1](http://arxiv.org/abs/2507.13133v1)|null|
+|**2025-07-17**|**A Computational Framework to Identify Self-Aspects in Text**|Jaya Caporusso et.al.|[2507.13115v1](http://arxiv.org/abs/2507.13115v1)|null|
+|**2025-07-17**|**An ultra-low-power CGRA for accelerating Transformers at the edge**|Rohit Prasad et.al.|[2507.12904v1](http://arxiv.org/abs/2507.12904v1)|null|
+|**2025-07-17**|**SEMT: Static-Expansion-Mesh Transformer Network Architecture for Remote Sensing Image Captioning**|Khang Truong et.al.|[2507.12845v1](http://arxiv.org/abs/2507.12845v1)|null|
+|**2025-07-16**|**Improving Drug Identification in Overdose Death Surveillance using Large Language Models**|Arthur J. Funnell et.al.|[2507.12679v1](http://arxiv.org/abs/2507.12679v1)|null|
+|**2025-07-16**|**BootSeer: Analyzing and Mitigating Initialization Bottlenecks in Large-Scale LLM Training**|Rui Li et.al.|[2507.12619v1](http://arxiv.org/abs/2507.12619v1)|null|
 |**2025-07-16**|**Nonlinear Concept Erasure: a Density Matching Approach**|Antoine Saillenfest et.al.|[2507.12341v1](http://arxiv.org/abs/2507.12341v1)|null|
 |**2025-07-16**|**Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding**|Feng Xiao et.al.|[2507.12295v1](http://arxiv.org/abs/2507.12295v1)|null|
 |**2025-07-16**|**Iterative Augmentation with Summarization Refinement (IASR) Evaluation for Unstructured Survey data Modeling and Analysis**|Payal Bhattad et.al.|[2507.12126v1](http://arxiv.org/abs/2507.12126v1)|null|
@@ -2913,6 +2920,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[2507.13113v1](http://arxiv.org/abs/2507.13113v1)|null|
+|**2025-07-17**|**Emotional Support with LLM-based Empathetic Dialogue Generation**|Shiquan Wang et.al.|[2507.12820v1](http://arxiv.org/abs/2507.12820v1)|null|
+|**2025-07-17**|**Domain-Enhanced Dual-Branch Model for Efficient and Interpretable Accident Anticipation**|Yanchen Guan et.al.|[2507.12755v1](http://arxiv.org/abs/2507.12755v1)|null|
+|**2025-07-17**|**Strategy Adaptation in Large Language Model Werewolf Agents**|Fuya Nakamori et.al.|[2507.12732v1](http://arxiv.org/abs/2507.12732v1)|null|
+|**2025-07-17**|**AudioJudge: Understanding What Works in Large Audio Model Based Speech Evaluation**|Potsawee Manakul et.al.|[2507.12705v1](http://arxiv.org/abs/2507.12705v1)|null|
 |**2025-07-16**|**Toxicity-Aware Few-Shot Prompting for Low-Resource Singlish Translation**|Ziyu Ge et.al.|[2507.11966v1](http://arxiv.org/abs/2507.11966v1)|null|
 |**2025-07-15**|**LLM-Augmented Symptom Analysis for Cardiovascular Disease Risk Prediction: A Clinical NLP**|Haowei Yang et.al.|[2507.11052v1](http://arxiv.org/abs/2507.11052v1)|null|
 |**2025-07-15**|**DS@GT at eRisk 2025: From prompts to predictions, benchmarking early depression detection with conversational agent based assessments and temporal attention models**|Anthony Miyaguchi et.al.|[2507.10958v1](http://arxiv.org/abs/2507.10958v1)|null|
@@ -3967,6 +3979,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It**|Yulu Qin et.al.|[2507.13328v1](http://arxiv.org/abs/2507.13328v1)|null|
+|**2025-07-17**|**From Roots to Rewards: Dynamic Tree Reasoning with RL**|Ahmed Bahloul et.al.|[2507.13142v1](http://arxiv.org/abs/2507.13142v1)|null|
+|**2025-07-17**|**Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering**|Muhammad Fadhil Ginting et.al.|[2507.12846v1](http://arxiv.org/abs/2507.12846v1)|null|
+|**2025-07-17**|**FIQ: Fundamental Question Generation with the Integration of Question Embeddings for Video Question Answering**|Ju-Young Oh et.al.|[2507.12816v1](http://arxiv.org/abs/2507.12816v1)|null|
+|**2025-07-17**|**City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning**|Penglei Sun et.al.|[2507.12795v1](http://arxiv.org/abs/2507.12795v1)|null|
+|**2025-07-16**|**Is This Just Fantasy? Language Model Representations Reflect Human Judgments of Event Plausibility**|Michael A. Lepori et.al.|[2507.12553v1](http://arxiv.org/abs/2507.12553v1)|null|
 |**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463v1](http://arxiv.org/abs/2507.12463v1)|null|
 |**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441v1](http://arxiv.org/abs/2507.12441v1)|null|
 |**2025-07-16**|**Overview of the Sensemaking Task at the ELOQUENT 2025 Lab: LLMs as Teachers, Students and Evaluators**|Pavel Šindelář et.al.|[2507.12143v1](http://arxiv.org/abs/2507.12143v1)|null|
@@ -6779,6 +6797,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Managing Comprehensive Research Instrument Descriptions within a Scholarly Knowledge Graph**|Muhammad Haris et.al.|[2507.13143v1](http://arxiv.org/abs/2507.13143v1)|null|
 |**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378v1](http://arxiv.org/abs/2507.12378v1)|null|
 |**2025-07-15**|**SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics**|Suyuan Zhao et.al.|[2507.11588v1](http://arxiv.org/abs/2507.11588v1)|null|
 |**2025-07-13**|**Landmark Detection for Medical Images using a General-purpose Segmentation Model**|Ekaterina Stansfield et.al.|[2507.11551v1](http://arxiv.org/abs/2507.11551v1)|null|
@@ -7578,6 +7597,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation**|Weizhi Zhang et.al.|[2507.13336v1](http://arxiv.org/abs/2507.13336v1)|null|
+|**2025-07-17**|**PinFM: Foundation Model for User Activity Sequences at a Billion-scale Visual Discovery Platform**|Xiangyi Chen et.al.|[2507.12704v1](http://arxiv.org/abs/2507.12704v1)|null|
+|**2025-07-16**|**ROSE: Transformer-Based Refactoring Recommendation for Architectural Smells**|Samal Nursapa et.al.|[2507.12561v1](http://arxiv.org/abs/2507.12561v1)|null|
 |**2025-07-16**|**Looking for Fairness in Recommender Systems**|Cécile Logé et.al.|[2507.12242v1](http://arxiv.org/abs/2507.12242v1)|null|
 |**2025-07-16**|**Granular feedback merits sophisticated aggregation**|Anmol Kagrecha et.al.|[2507.12041v1](http://arxiv.org/abs/2507.12041v1)|null|
 |**2025-07-16**|**ARRC: Explainable, Workflow-Integrated Recommender for Sustainable Resource Optimization Across the Edge-Cloud Continuum**|Brian-Frederik Jahnke et.al.|[2507.12032v1](http://arxiv.org/abs/2507.12032v1)|null|
@@ -9447,6 +9469,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Managing Comprehensive Research Instrument Descriptions within a Scholarly Knowledge Graph**|Muhammad Haris et.al.|[2507.13143v1](http://arxiv.org/abs/2507.13143v1)|null|
+|**2025-07-17**|**NGTM: Substructure-based Neural Graph Topic Model for Interpretable Graph Generation**|Yuanxin Zhuang et.al.|[2507.13133v1](http://arxiv.org/abs/2507.13133v1)|null|
+|**2025-07-17**|**SMART: Relation-Aware Learning of Geometric Representations for Knowledge Graphs**|Kossi Amouzouvi et.al.|[2507.13001v1](http://arxiv.org/abs/2507.13001v1)|null|
 |**2025-07-16**|**An Ecosystem for Ontology Interoperability**|Zhangcheng Qiang et.al.|[2507.12311v1](http://arxiv.org/abs/2507.12311v1)|null|
 |**2025-07-16**|**The benefits of query-based KGQA systems for complex and temporal questions in LLM era**|Artem Alekseev et.al.|[2507.11954v1](http://arxiv.org/abs/2507.11954v1)|null|
 |**2025-07-15**|**Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies**|Giang Nguyen et.al.|[2507.11770v1](http://arxiv.org/abs/2507.11770v1)|null|
@@ -11024,8 +11049,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**A Spectral Interpretation of Redundancy in a Graph Reservoir**|Anna Bison et.al.|[2507.12963v1](http://arxiv.org/abs/2507.12963v1)|null|
+|**2025-07-17**|**Multi-Channel Graph Neural Network for Financial Risk Prediction of NEEQ Enterprises**|Jianyu Zhu et.al.|[2507.12787v1](http://arxiv.org/abs/2507.12787v1)|null|
+|**2025-07-16**|**MS-DGCNN++: A Multi-Scale Fusion Dynamic Graph Neural Network with Biological Knowledge Integration for LiDAR Tree Species Classification**|Said Ohamouddou et.al.|[2507.12602v1](http://arxiv.org/abs/2507.12602v1)|null|
+|**2025-07-16**|**Rel-HNN: Split Parallel Hypergraph Neural Network for Learning on Relational Databases**|Md. Tanvir Alam et.al.|[2507.12562v1](http://arxiv.org/abs/2507.12562v1)|null|
 |**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380v1](http://arxiv.org/abs/2507.12380v1)|null|
-|**2025-07-16**|**Catching Bid-rigging Cartels with Graph Attention Neural Networks**|David Imhof et.al.|[2507.12369v1](http://arxiv.org/abs/2507.12369v1)|null|
+|**2025-07-17**|**Catching Bid-rigging Cartels with Graph Attention Neural Networks**|David Imhof et.al.|[2507.12369v2](http://arxiv.org/abs/2507.12369v2)|null|
 |**2025-07-16**|**Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**|Tairan Huang et.al.|[2507.11997v1](http://arxiv.org/abs/2507.11997v1)|null|
 |**2025-07-15**|**Enhancements to the IceCube Extremely High Energy Neutrino Selection using Graph & Transformer Based Neural Networks**|Maxwell Nakos et.al.|[2507.11774v1](http://arxiv.org/abs/2507.11774v1)|null|
 |**2025-07-15**|**A Graph-in-Graph Learning Framework for Drug-Target Interaction Prediction**|Yuehua Song et.al.|[2507.11757v1](http://arxiv.org/abs/2507.11757v1)|null|
