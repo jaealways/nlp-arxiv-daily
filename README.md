@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**ParallelTime: Dynamically Weighting the Balance of Short- and Long-Term Temporal Dependencies**|Itay Katav et.al.|[2507.13998v1](http://arxiv.org/abs/2507.13998v1)|null|
+|**2025-07-18**|**Exploiting Primacy Effect To Improve Large Language Models**|Bianca Raimondi et.al.|[2507.13949v1](http://arxiv.org/abs/2507.13949v1)|null|
+|**2025-07-18**|**KiC: Keyword-inspired Cascade for Cost-Efficient Text Generation with LLMs**|Woo-Chan Kim et.al.|[2507.13666v1](http://arxiv.org/abs/2507.13666v1)|null|
+|**2025-07-18**|**A Comprehensive Review of Transformer-based language models for Protein Sequence Analysis and Design**|Nimisha Ghosh et.al.|[2507.13646v1](http://arxiv.org/abs/2507.13646v1)|null|
+|**2025-07-17**|**Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation**|Genki Kusano et.al.|[2507.13525v1](http://arxiv.org/abs/2507.13525v1)|null|
+|**2025-07-17**|**Aligning Knowledge Graphs and Language Models for Factual Accuracy**|Nur A Zarin Nishat et.al.|[2507.13411v1](http://arxiv.org/abs/2507.13411v1)|null|
 |**2025-07-17**|**Overview of the TalentCLEF 2025: Skill and Job Title Intelligence for Human Capital Management**|Luis Gasco et.al.|[2507.13275v1](http://arxiv.org/abs/2507.13275v1)|null|
 |**2025-07-17**|**NGTM: Substructure-based Neural Graph Topic Model for Interpretable Graph Generation**|Yuanxin Zhuang et.al.|[2507.13133v1](http://arxiv.org/abs/2507.13133v1)|null|
 |**2025-07-17**|**A Computational Framework to Identify Self-Aspects in Text**|Jaya Caporusso et.al.|[2507.13115v1](http://arxiv.org/abs/2507.13115v1)|null|
@@ -2916,6 +2922,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Large Language Models as Innovators: A Framework to Leverage Latent Space Exploration for Novelty Discovery**|Mateusz Bystroński et.al.|[2507.13874v1](http://arxiv.org/abs/2507.13874v1)|null|
+|**2025-07-17**|**Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation**|Genki Kusano et.al.|[2507.13525v1](http://arxiv.org/abs/2507.13525v1)|null|
 |**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[2507.13113v1](http://arxiv.org/abs/2507.13113v1)|null|
 |**2025-07-17**|**Emotional Support with LLM-based Empathetic Dialogue Generation**|Shiquan Wang et.al.|[2507.12820v1](http://arxiv.org/abs/2507.12820v1)|null|
 |**2025-07-17**|**Domain-Enhanced Dual-Branch Model for Efficient and Interpretable Accident Anticipation**|Yanchen Guan et.al.|[2507.12755v1](http://arxiv.org/abs/2507.12755v1)|null|
@@ -3975,6 +3983,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**OpenBEATs: A Fully Open-Source General-Purpose Audio Encoder**|Shikhar Bharadwaj et.al.|[2507.14129v1](http://arxiv.org/abs/2507.14129v1)|null|
+|**2025-07-18**|**Evaluating the Effectiveness of Cost-Efficient Large Language Models in Benchmark Biomedical Tasks**|Israt Jahan et.al.|[2507.14045v1](http://arxiv.org/abs/2507.14045v1)|null|
+|**2025-07-18**|**Bottom-up Domain-specific Superintelligence: A Reliable Knowledge Graph is What We Need**|Bhishma Dedhia et.al.|[2507.13966v1](http://arxiv.org/abs/2507.13966v1)|null|
+|**2025-07-18**|**Exploiting Primacy Effect To Improve Large Language Models**|Bianca Raimondi et.al.|[2507.13949v1](http://arxiv.org/abs/2507.13949v1)|null|
+|**2025-07-18**|**SPARQL Query Generation with LLMs: Measuring the Impact of Training Data Memorization and Knowledge Injection**|Aleksandr Gashkov et.al.|[2507.13859v1](http://arxiv.org/abs/2507.13859v1)|null|
+|**2025-07-18**|**Question-Answer Extraction from Scientific Articles Using Knowledge Graphs and Large Language Models**|Hosein Azarbonyad et.al.|[2507.13827v1](http://arxiv.org/abs/2507.13827v1)|null|
+|**2025-07-18**|**Team of One: Cracking Complex Video QA with Model Synergy**|Jun Xie et.al.|[2507.13820v1](http://arxiv.org/abs/2507.13820v1)|null|
+|**2025-07-18**|**Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions**|Pu Jian et.al.|[2507.13773v1](http://arxiv.org/abs/2507.13773v1)|null|
+|**2025-07-18**|**BifrostRAG: Bridging Dual Knowledge Graphs for Multi-Hop Question Answering in Construction Safety**|Yuxin Zhang et.al.|[2507.13625v1](http://arxiv.org/abs/2507.13625v1)|null|
 |**2025-07-17**|**Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It**|Yulu Qin et.al.|[2507.13328v1](http://arxiv.org/abs/2507.13328v1)|null|
 |**2025-07-17**|**From Roots to Rewards: Dynamic Tree Reasoning with RL**|Ahmed Bahloul et.al.|[2507.13142v1](http://arxiv.org/abs/2507.13142v1)|null|
 |**2025-07-17**|**Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering**|Muhammad Fadhil Ginting et.al.|[2507.12846v1](http://arxiv.org/abs/2507.12846v1)|null|
@@ -7593,6 +7610,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li et.al.|[2507.13957v1](http://arxiv.org/abs/2507.13957v1)|null|
+|**2025-07-18**|**PARK: Personalized academic retrieval with knowledge-graphs**|Pranav Kasela et.al.|[2507.13910v1](http://arxiv.org/abs/2507.13910v1)|null|
+|**2025-07-18**|**When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**|Haoyang Li et.al.|[2507.13825v1](http://arxiv.org/abs/2507.13825v1)|null|
+|**2025-07-18**|**Consistent Explainers or Unreliable Narrators? Understanding LLM-generated Group Recommendations**|Cedric Waterschoot et.al.|[2507.13705v1](http://arxiv.org/abs/2507.13705v1)|null|
+|**2025-07-18**|**IP2: Entity-Guided Interest Probing for Personalized News Recommendation**|Youlin Wu et.al.|[2507.13622v1](http://arxiv.org/abs/2507.13622v1)|null|
+|**2025-07-18**|**Off-Policy Evaluation and Learning for Matching Markets**|Yudai Hayashi et.al.|[2507.13608v1](http://arxiv.org/abs/2507.13608v1)|null|
 |**2025-07-17**|**SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation**|Weizhi Zhang et.al.|[2507.13336v1](http://arxiv.org/abs/2507.13336v1)|null|
 |**2025-07-17**|**PinFM: Foundation Model for User Activity Sequences at a Billion-scale Visual Discovery Platform**|Xiangyi Chen et.al.|[2507.12704v1](http://arxiv.org/abs/2507.12704v1)|null|
 |**2025-07-16**|**ROSE: Transformer-Based Refactoring Recommendation for Architectural Smells**|Samal Nursapa et.al.|[2507.12561v1](http://arxiv.org/abs/2507.12561v1)|null|
@@ -9465,6 +9488,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**OrthoInsight: Rib Fracture Diagnosis and Report Generation Based on Multi-Modal Large Models**|Ningyong Wu et.al.|[2507.13993v1](http://arxiv.org/abs/2507.13993v1)|null|
+|**2025-07-18**|**Bottom-up Domain-specific Superintelligence: A Reliable Knowledge Graph is What We Need**|Bhishma Dedhia et.al.|[2507.13966v1](http://arxiv.org/abs/2507.13966v1)|null|
+|**2025-07-18**|**PARK: Personalized academic retrieval with knowledge-graphs**|Pranav Kasela et.al.|[2507.13910v1](http://arxiv.org/abs/2507.13910v1)|null|
+|**2025-07-18**|**Software architecture and manual for novel versatile CT image analysis toolbox -- AnatomyArchive**|Lei Xu et.al.|[2507.13901v1](http://arxiv.org/abs/2507.13901v1)|null|
+|**2025-07-18**|**SPARQL Query Generation with LLMs: Measuring the Impact of Training Data Memorization and Knowledge Injection**|Aleksandr Gashkov et.al.|[2507.13859v1](http://arxiv.org/abs/2507.13859v1)|null|
+|**2025-07-18**|**Question-Answer Extraction from Scientific Articles Using Knowledge Graphs and Large Language Models**|Hosein Azarbonyad et.al.|[2507.13827v1](http://arxiv.org/abs/2507.13827v1)|null|
+|**2025-07-18**|**BifrostRAG: Bridging Dual Knowledge Graphs for Multi-Hop Question Answering in Construction Safety**|Yuxin Zhang et.al.|[2507.13625v1](http://arxiv.org/abs/2507.13625v1)|null|
 |**2025-07-17**|**Managing Comprehensive Research Instrument Descriptions within a Scholarly Knowledge Graph**|Muhammad Haris et.al.|[2507.13143v1](http://arxiv.org/abs/2507.13143v1)|null|
 |**2025-07-17**|**NGTM: Substructure-based Neural Graph Topic Model for Interpretable Graph Generation**|Yuanxin Zhuang et.al.|[2507.13133v1](http://arxiv.org/abs/2507.13133v1)|null|
 |**2025-07-17**|**SMART: Relation-Aware Learning of Geometric Representations for Knowledge Graphs**|Kossi Amouzouvi et.al.|[2507.13001v1](http://arxiv.org/abs/2507.13001v1)|null|
@@ -11045,6 +11075,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Toward Practical Fluid Antenna Systems: Co-Optimizing Hardware and Software for Port Selection and Beamforming**|Sai Xu et.al.|[2507.14035v1](http://arxiv.org/abs/2507.14035v1)|null|
+|**2025-07-18**|**Structural Connectome Harmonization Using Deep Learning: The Strength of Graph Neural Networks**|Jagruti Patel et.al.|[2507.13992v1](http://arxiv.org/abs/2507.13992v1)|null|
+|**2025-07-18**|**Robust Anomaly Detection with Graph Neural Networks using Controllability**|Yifan Wei et.al.|[2507.13954v1](http://arxiv.org/abs/2507.13954v1)|null|
+|**2025-07-18**|**When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**|Haoyang Li et.al.|[2507.13825v1](http://arxiv.org/abs/2507.13825v1)|null|
+|**2025-07-18**|**Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery**|Joydeep Chandra et.al.|[2507.13757v1](http://arxiv.org/abs/2507.13757v1)|null|
+|**2025-07-18**|**SamGoG: A Sampling-Based Graph-of-Graphs Framework for Imbalanced Graph Classification**|Shangyou Wang et.al.|[2507.13741v1](http://arxiv.org/abs/2507.13741v1)|null|
+|**2025-07-18**|**Learning Deformable Body Interactions With Adaptive Spatial Tokenization**|Hao Wang et.al.|[2507.13707v1](http://arxiv.org/abs/2507.13707v1)|null|
+|**2025-07-18**|**Binarizing Physics-Inspired GNNs for Combinatorial Optimization**|Martin Krutský et.al.|[2507.13703v1](http://arxiv.org/abs/2507.13703v1)|null|
+|**2025-07-17**|**Graph Neural Network Surrogates for Contacting Deformable Bodies with Necessary and Sufficient Contact Detection**|Vijay K. Dubey et.al.|[2507.13459v1](http://arxiv.org/abs/2507.13459v1)|null|
+|**2025-07-17**|**Air Traffic Controller Task Demand via Graph Neural Networks: An Interpretable Approach to Airspace Complexity**|Edward Henderson et.al.|[2507.13423v1](http://arxiv.org/abs/2507.13423v1)|null|
 |**2025-07-17**|**A Spectral Interpretation of Redundancy in a Graph Reservoir**|Anna Bison et.al.|[2507.12963v1](http://arxiv.org/abs/2507.12963v1)|null|
 |**2025-07-17**|**Multi-Channel Graph Neural Network for Financial Risk Prediction of NEEQ Enterprises**|Jianyu Zhu et.al.|[2507.12787v1](http://arxiv.org/abs/2507.12787v1)|null|
 |**2025-07-16**|**MS-DGCNN++: A Multi-Scale Fusion Dynamic Graph Neural Network with Biological Knowledge Integration for LiDAR Tree Species Classification**|Said Ohamouddou et.al.|[2507.12602v1](http://arxiv.org/abs/2507.12602v1)|null|
