@@ -22,6 +22,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**DistrAttention: An Efficient and Flexible Self-Attention Mechanism on Modern GPUs**|Haolin Jin et.al.|[2507.17245v1](http://arxiv.org/abs/2507.17245v1)|null|
+|**2025-07-23**|**PathWeaver: A High-Throughput Multi-GPU System for Graph-Based Approximate Nearest Neighbor Search**|Sukjin Kim et.al.|[2507.17094v1](http://arxiv.org/abs/2507.17094v1)|null|
+|**2025-07-22**|**Evolutionary Feature-wise Thresholding for Binary Representation of NLP Embeddings**|Soumen Sinha et.al.|[2507.17025v1](http://arxiv.org/abs/2507.17025v1)|null|
 |**2025-07-22**|**A2Mamba: Attention-augmented State Space Models for Visual Recognition**|Meng Lou et.al.|[2507.16624v1](http://arxiv.org/abs/2507.16624v1)|null|
 |**2025-07-22**|**On the Effectiveness of LLM-as-a-judge for Code Generation and Summarization**|Giuseppe Crupi et.al.|[2507.16587v1](http://arxiv.org/abs/2507.16587v1)|null|
 |**2025-07-22**|**Exploring Gender Bias in Large Language Models: An In-depth Dive into the German Language**|Kristin Gnadt et.al.|[2507.16557v1](http://arxiv.org/abs/2507.16557v1)|null|
@@ -2944,6 +2947,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Designing for Learning with Generative AI is a Wicked Problem: An Illustrative Longitudinal Qualitative Case Series**|Clara Scalzer et.al.|[2507.17230v1](http://arxiv.org/abs/2507.17230v1)|null|
+|**2025-07-23**|**CogDual: Enhancing Dual Cognition of LLMs via Reinforcement Learning with Implicit Rule-Based Rewards**|Cheng Liu et.al.|[2507.17147v1](http://arxiv.org/abs/2507.17147v1)|null|
+|**2025-07-22**|**Revisiting Pre-trained Language Models for Vulnerability Detection**|Youpeng Li et.al.|[2507.16887v1](http://arxiv.org/abs/2507.16887v1)|null|
+|**2025-07-21**|**SIA: Enhancing Safety via Intent Awareness for Vision-Language Models**|Youngjin Na et.al.|[2507.16856v1](http://arxiv.org/abs/2507.16856v1)|null|
+|**2025-07-21**|**EVOLVE-X: Embedding Fusion and Language Prompting for User Evolution Forecasting on Social Media**|Ismail Hossain et.al.|[2507.16847v1](http://arxiv.org/abs/2507.16847v1)|null|
 |**2025-07-22**|**Talking Like a Phisher: LLM-Based Attacks on Voice Phishing Classifiers**|Wenhao Li et.al.|[2507.16291v1](http://arxiv.org/abs/2507.16291v1)|null|
 |**2025-07-22**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855v2](http://arxiv.org/abs/2507.15855v2)|null|
 |**2025-07-20**|**A Penalty Goes a Long Way: Measuring Lexical Diversity in Synthetic Texts Under Prompt-Influenced Length Variations**|Vijeta Deshpande et.al.|[2507.15092v1](http://arxiv.org/abs/2507.15092v1)|null|
@@ -4012,6 +4020,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**TyDi QA-WANA: A Benchmark for Information-Seeking Question Answering in Languages of West Asia and North Africa**|Parker Riley et.al.|[2507.17709v1](http://arxiv.org/abs/2507.17709v1)|null|
+|**2025-07-23**|**See the Forest and the Trees: A Synergistic Reasoning Framework for Knowledge-Based Visual Question Answering**|Junjie Wang et.al.|[2507.17659v1](http://arxiv.org/abs/2507.17659v1)|null|
+|**2025-07-23**|**Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning**|Xinyao Liu et.al.|[2507.17539v1](http://arxiv.org/abs/2507.17539v1)|null|
+|**2025-07-23**|**Millions of $\text{GeAR}$ -s: Extending GraphRAG to Millions of Documents**|Zhili Shen et.al.|[2507.17399v1](http://arxiv.org/abs/2507.17399v1)|null|
+|**2025-07-23**|**DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi-Reward Reinforcement Learning**|Chuzhan Hao et.al.|[2507.17365v1](http://arxiv.org/abs/2507.17365v1)|null|
+|**2025-07-23**|**A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model**|Zhe Xu et.al.|[2507.17303v1](http://arxiv.org/abs/2507.17303v1)|null|
+|**2025-07-23**|**VisionTrap: Unanswerable Questions On Visual Data**|Asir Saadat et.al.|[2507.17262v1](http://arxiv.org/abs/2507.17262v1)|null|
+|**2025-07-22**|**Toward Scalable Video Narration: A Training-free Approach Using Multimodal Large Language Models**|Tz-Ying Wu et.al.|[2507.17050v1](http://arxiv.org/abs/2507.17050v1)|null|
+|**2025-07-22**|**Leveraging Synthetic Data for Question Answering with Multilingual LLMs in the Agricultural Domain**|Rishemjit Kaur et.al.|[2507.16974v1](http://arxiv.org/abs/2507.16974v1)|null|
+|**2025-07-22**|**Text-to-SPARQL Goes Beyond English: Multilingual Question Answering Over Knowledge Graphs through Human-Inspired Reasoning**|Aleksandr Perevalov et.al.|[2507.16971v1](http://arxiv.org/abs/2507.16971v1)|null|
 |**2025-07-22**|**Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty**|Mehul Damani et.al.|[2507.16806v1](http://arxiv.org/abs/2507.16806v1)|null|
 |**2025-07-22**|**Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints**|Zhenyun Yin et.al.|[2507.16727v1](http://arxiv.org/abs/2507.16727v1)|null|
 |**2025-07-22**|**The Ever-Evolving Science Exam**|Junying Wang et.al.|[2507.16514v1](http://arxiv.org/abs/2507.16514v1)|null|
@@ -6863,7 +6881,7 @@ layout: default
 |**2025-07-20**|**Enhancing Repository-Level Code Generation with Call Chain-Aware Multi-View Context**|Yang Liu et.al.|[2507.14791v1](http://arxiv.org/abs/2507.14791v1)|null|
 |**2025-07-17**|**Managing Comprehensive Research Instrument Descriptions within a Scholarly Knowledge Graph**|Muhammad Haris et.al.|[2507.13143v1](http://arxiv.org/abs/2507.13143v1)|null|
 |**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378v1](http://arxiv.org/abs/2507.12378v1)|null|
-|**2025-07-15**|**SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics**|Suyuan Zhao et.al.|[2507.11588v1](http://arxiv.org/abs/2507.11588v1)|null|
+|**2025-07-23**|**SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics**|Suyuan Zhao et.al.|[2507.11588v2](http://arxiv.org/abs/2507.11588v2)|null|
 |**2025-07-13**|**Landmark Detection for Medical Images using a General-purpose Segmentation Model**|Ekaterina Stansfield et.al.|[2507.11551v1](http://arxiv.org/abs/2507.11551v1)|null|
 |**2025-07-15**|**Unraveling the Biomarker Prospects of High-Altitude Diseases: Insights from Biomolecular Event Network Constructed using Text Mining**|Balu Bhasuran et.al.|[2507.10953v1](http://arxiv.org/abs/2507.10953v1)|null|
 |**2025-07-14**|**Post-reduction inference for confidence sets of models**|Heather Battey et.al.|[2507.10373v1](http://arxiv.org/abs/2507.10373v1)|null|
@@ -7661,6 +7679,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for Non-Overlapping Users**|Weixin Chen et.al.|[2507.17749v1](http://arxiv.org/abs/2507.17749v1)|null|
+|**2025-07-23**|**Generalized Low-Rank Matrix Contextual Bandits with Graph Information**|Yao Wang et.al.|[2507.17528v1](http://arxiv.org/abs/2507.17528v1)|null|
+|**2025-07-23**|**"Beyond the past": Leveraging Audio and Human Memory for Sequential Music Recommendation**|Viet-Tran Anh et.al.|[2507.17356v1](http://arxiv.org/abs/2507.17356v1)|null|
+|**2025-07-23**|**Exploring the Potential of LLMs for Serendipity Evaluation in Recommender Systems**|Li Kang et.al.|[2507.17290v1](http://arxiv.org/abs/2507.17290v1)|null|
+|**2025-07-23**|**R4ec: A Reasoning, Reflection, and Refinement Framework for Recommendation Systems**|Hao Gu et.al.|[2507.17249v1](http://arxiv.org/abs/2507.17249v1)|null|
+|**2025-07-23**|**Eco-Friendly AI: Unleashing Data Power for Green Federated Learning**|Mattia Sabella et.al.|[2507.17241v1](http://arxiv.org/abs/2507.17241v1)|null|
+|**2025-07-23**|**PathWeaver: A High-Throughput Multi-GPU System for Graph-Based Approximate Nearest Neighbor Search**|Sukjin Kim et.al.|[2507.17094v1](http://arxiv.org/abs/2507.17094v1)|null|
+|**2025-07-22**|**VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings**|Ramin Giahi et.al.|[2507.17080v1](http://arxiv.org/abs/2507.17080v1)|null|
+|**2025-07-22**|**LLM4MEA: Data-free Model Extraction Attacks on Sequential Recommenders via Large Language Models**|Shilong Zhao et.al.|[2507.16969v1](http://arxiv.org/abs/2507.16969v1)|null|
 |**2025-07-22**|**Meta-Learning for Cold-Start Personalization in Prompt-Tuned LLMs**|Yushang Zhao et.al.|[2507.16672v1](http://arxiv.org/abs/2507.16672v1)|null|
 |**2025-07-22**|**AI for Better UX in Computer-Aided Engineering: Is Academia Catching Up with Industry Demands? A Multivocal Literature Review**|Choro Ulan Uulu et.al.|[2507.16586v1](http://arxiv.org/abs/2507.16586v1)|null|
 |**2025-07-22**|**Beyond Algorethics: Addressing the Ethical and Anthropological Challenges of AI Recommender Systems**|Octavian M. Machidon et.al.|[2507.16430v1](http://arxiv.org/abs/2507.16430v1)|null|
@@ -9552,10 +9579,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi-Reward Reinforcement Learning**|Chuzhan Hao et.al.|[2507.17365v1](http://arxiv.org/abs/2507.17365v1)|null|
+|**2025-07-23**|**Leveraging Knowledge Graphs and LLM Reasoning to Identify Operational Bottlenecks for Warehouse Planning Assistance**|Rishi Parekh et.al.|[2507.17273v1](http://arxiv.org/abs/2507.17273v1)|null|
+|**2025-07-23**|**HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery**|Haoran Jiang et.al.|[2507.17209v1](http://arxiv.org/abs/2507.17209v1)|null|
+|**2025-07-22**|**Text-to-SPARQL Goes Beyond English: Multilingual Question Answering Over Knowledge Graphs through Human-Inspired Reasoning**|Aleksandr Perevalov et.al.|[2507.16971v1](http://arxiv.org/abs/2507.16971v1)|null|
 |**2025-07-22**|**Agentic RAG with Knowledge Graphs for Complex Multi-Hop Reasoning in Real-World Applications**|Jean Lelong et.al.|[2507.16507v1](http://arxiv.org/abs/2507.16507v1)|null|
 |**2025-07-22**|**Knowledge-aware Diffusion-Enhanced Multimedia Recommendation**|Xian Mo et.al.|[2507.16396v1](http://arxiv.org/abs/2507.16396v1)|null|
 |**2025-07-21**|**mRAKL: Multilingual Retrieval-Augmented Knowledge Graph Construction for Low-Resourced Languages**|Hellina Hailu Nigatu et.al.|[2507.16011v1](http://arxiv.org/abs/2507.16011v1)|null|
-|**2025-07-21**|**HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs**|Adrian Kaiser et.al.|[2507.15917v1](http://arxiv.org/abs/2507.15917v1)|null|
+|**2025-07-23**|**HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs**|Adrian Kaiser et.al.|[2507.15917v2](http://arxiv.org/abs/2507.15917v2)|null|
 |**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826v1](http://arxiv.org/abs/2507.15826v1)|null|
 |**2025-07-22**|**A SHACL-based Data Consistency Solution for Contract Compliance Verification**|Robert David et.al.|[2507.15420v2](http://arxiv.org/abs/2507.15420v2)|null|
 |**2025-07-20**|**Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs**|Erfan Pirmorad et.al.|[2507.14785v1](http://arxiv.org/abs/2507.14785v1)|null|
@@ -11151,6 +11182,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**From Atoms to Dynamics: Learning the Committor Without Collective Variables**|Sergio Contreras Arredondo et.al.|[2507.17700v1](http://arxiv.org/abs/2507.17700v1)|null|
+|**2025-07-23**|**Towards Effective Open-set Graph Class-incremental Learning**|Jiazhen Chen et.al.|[2507.17687v1](http://arxiv.org/abs/2507.17687v1)|null|
+|**2025-07-23**|**Graph Neural Network Approach to Predicting Magnetization in Quasi-One-Dimensional Ising Systems**|V. Slavin et.al.|[2507.17509v1](http://arxiv.org/abs/2507.17509v1)|null|
+|**2025-07-23**|**HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery**|Haoran Jiang et.al.|[2507.17209v1](http://arxiv.org/abs/2507.17209v1)|null|
+|**2025-07-22**|**PyG 2.0: Scalable Learning on Real World Graphs**|Matthias Fey et.al.|[2507.16991v1](http://arxiv.org/abs/2507.16991v1)|null|
 |**2025-07-22**|**Deep Unfolding Network for Nonlinear Multi-Frequency Electrical Impedance Tomography**|Giovanni S. Alberti et.al.|[2507.16678v1](http://arxiv.org/abs/2507.16678v1)|null|
 |**2025-07-22**|**Knowledge-aware Diffusion-Enhanced Multimedia Recommendation**|Xian Mo et.al.|[2507.16396v1](http://arxiv.org/abs/2507.16396v1)|null|
 |**2025-07-22**|**ApproxGNN: A Pretrained GNN for Parameter Prediction in Design Space Exploration for Approximate Computing**|Ondrej Vlcek et.al.|[2507.16379v1](http://arxiv.org/abs/2507.16379v1)|null|
